@@ -1,0 +1,374 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% block content %}
+<style>
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+</style>
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <div class="container pt-5">
+        <div class="row">
+            <div class="col-md-4">
+                <p class="our">{% trans "Our" %}</p>
+                <p class="process">{% trans "Process" %}</p>
+            </div>
+            <div class="col-md-8">
+                <p class="process-desc">
+                    {% blocktrans %}We prioritize efficient and seamless operations that cushion our clients from the hustle 
+                    and bustle of international regulatory requirements, cultural pressures and international 
+                    logistics. We transfer these responsibilities from you to us given our deep understanding 
+                    of the cultural contexts, legal requirements and local dynamics. We want to make sure everything 
+                    is fast, simple, under control, pleasant, experiential, memorable and impactful.{% endblocktrans %}
+                </p>
+            </div>
+        </div>
+        <br><br>
+        <!-- <div class="row" style="padding-top: 100px;">
+            <div class="col-4">
+                <div class="service-box" style="background: #FFF0ED;">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">01.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-1.svg' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color: #E9652E;">
+                        Pre-engagement
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="service-box" style="background:#E9FAF9">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">02.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-2.svg' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color: #1F7B8F">
+                        Partnerships
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="service-box" style="background: #FFE8F4">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">03.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-3.png' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color: #CF3881">
+                        Engagements
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row pt-3">
+            <div class="col-4">
+                <div class="service-box" style="background: #EAE6FD;">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">04.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-4.png' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color:#5248B5">
+                        Consulting
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="service-box" style="background:#FFF1E0">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">05.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-5.svg' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color:#CC7A22">
+                        Post-engagements
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="service-box" style="background:#FEF2B8">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">06.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-6.svg' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color:#923330">
+                        Monitoring
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row pt-3">
+            <div class="col-4">
+                <div class="service-box" style="background: #FBCA6B;">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">04.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-7.svg' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color:#243B67">
+                        Support Service
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="service-box" style="background:#FFF0ED">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">05.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-8.svg' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color:#243B67">
+                        Impact Reporting
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="service-box" style="background:#AED36C">
+                    <div class="d-flex justify-content-between align-items-center" style="padding-top:25px;padding-right:26px;">
+                        <div class="service-box-number">06.</div>
+                        <div class="service-box-img-eclipse d-flex justify-content-center align-items-center">
+                            <img src="{% static 'images/service-process-6.svg' %}" class="service-box-img img-fluid">
+                        </div>
+                    </div>
+                    <p class="service-box-title" style="color:#243B67">
+                        Client Engagement
+                    </p>
+                    <p class="service-box-text">
+                        Some pre-engagement statement that will go here and inform people about it.
+                    </p>
+                </div>
+            </div>
+        </div> -->
+        <div class="col-md-10 mx-auto"><center><img src="{% static 'images/process-cycle2.svg' %}" class="img-fluid"/></center></div>
+        
+        <p class="service-title pb-3 text-center missionvisiontext" style="padding-top:80px;">{% trans "What We Do" %}</p>
+        <p class="service-title-2  text-center"><span style="color: #CC3E18;font-weight: bold;">{% trans "Project focussed." %}</span>   <span style="color: #01453A;font-weight: bold;">{% trans "People centred." %}</span>   <span style="color: #CC3E18;font-weight: bold;">{% trans "Results driven." %}</span></p>    
+        <div class="row g-4 pt-3 row-cols-1 row-cols-lg-3">
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                    <img src="{% static 'images/aboutcheck2.png' %}">
+                </div>
+                <div>
+                    <p>{% blocktrans %}Interlink international students, individual social/organizational groups, universities
+                        and boarding schools to prospective community programs, initiatives, organizations and projects.{% endblocktrans %}
+                    </p>
+                </div>
+            </div>
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                    <img src="{% static 'images/aboutcheck2.png' %}">
+                </div>
+                <div>
+                    <p>{% blocktrans %}Provide individuals with an experiential and international learning exposure service that is second
+                        to none in terms of immersion into societal contexts that are unique and rich.{% endblocktrans %}
+                    </p>
+                </div>
+            </div>
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                    <img src="{% static 'images/aboutcheck2.png' %}">
+                </div>
+                <div>
+                    <p>{% blocktrans %}Offer project management services to in all aspects (community based organizations, corporate facing and
+                        event oriented){% endblocktrans %}
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row g-4 pt-3 row-cols-1 row-cols-lg-3">
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                    <img src="{% static 'images/aboutcheck2.png' %}">
+                </div>
+                <div>
+                    <p>{% blocktrans %}Organize exceptional adventurous activities for volunteers across Africa- networking, thrill, food &
+                        culture etc.{% endblocktrans %}
+                    </p>
+                </div>
+            </div>
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                    <img src="{% static 'images/aboutcheck2.png' %}">
+                </div>
+                <div>
+                    <p>{% blocktrans %}Provide 360° placement services to assist interested individuals in all facets of enrolling in
+                        international internship and exchange programs.{% endblocktrans %}
+                    </p>
+                </div>
+            </div>
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                    <img src="{% static 'images/aboutcheck2.png' %}">
+                </div>
+                <div>
+                    <p>{% blocktrans %}Provide organizational programming through the creation of functional organization designs,
+                        implementation, evaluation and support{% endblocktrans %}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="py-3" style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <p class="service-title pb-5 text-center" style="padding-top:80px;">{% trans "Our Portfolio" %}</p>
+    <!-- <div class="row pb-5">
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div" style="background-color: #fff;">
+                    <img src="{% static 'images/pexels-anna-shvets-50298591.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Volunteers Orientation</p>
+                    <p class="single-portfolio-div-text">We give our volunteers a detailed overview of your ELAN Domes' volunteer mission and expectations...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div" style="background-color: #fff;">
+                    <img src="{% static 'images/pexels-matheus-bertelli-26085171.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Networking Events</p>
+                    <p class="single-portfolio-div-text">Elan Dome holds a number of networking events in order to align with stakeholders from relevant...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div" style="background-color: #fff;">
+                    <img src="{% static 'images/pexels-lagos-food-bank-initiative-90908991.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Community Visits</p>
+                    <p class="single-portfolio-div-text">We carry  out a number of visits within our target communities that gives an avenue for us to discuss...</p>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="{% static 'images/home-volunteers.webp' %}" alt="portfolio image" class="img-fluid">
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">Volunteer Services</p>
+                <p class="pt-3 text-justify">
+                    {% blocktrans %}The OBC volunteer program was created in honor of the Late Engineer Okore Booker Charles. This program has been carefully curated to 
+                    reflect and inculcate the values that he lived by throughout his life in community service and social impact.{% endblocktrans %} 
+                </p>
+                <p>
+                    {% blocktrans %}The OBC volunteer program will help you render assistance to underprivileged and underserved communities where you will experience 
+                    traditional cultures and even get a chance to interact with rich wildlife all while supporting a good cause and creating a positive impact in the society.{% endblocktrans %}
+                </p>
+            </div>
+        </div>
+        <!-- Desktop View -->
+        <div class="d-none d-sm-block">
+            <div class="row pt-3">
+                <div class="col-md-7">
+                    <p class="text-center programs-text pt-4">Project Management</p>
+                    <p class="pt-3">
+                        {% blocktrans %}We are the  first choice custodians of your projects and resources on ground. We source for quality and competitive resource plans, quotations, unique development 
+                        plans and bespoke designs that are fairly priced and work with reputable excerpts to execute your vision and deliver beyond the expected outcomes.{% endblocktrans %}
+                    </p>
+                    <p>
+                        {% blocktrans %}Our areas of focus include: research, digitization, real estate & construction, corporate events (workshops and employee development programs), 
+                        budgeting exercises and project fundraising initiatives.{% endblocktrans %}
+                    </p>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-4">
+                    <img src="{% static 'images/home-project-management.png' %}" alt="portfolio image" class="img-fluid">
+                </div>
+            </div>
+        </div>
+        <!-- End of Desktop View -->
+
+        <!-- Mobile View -->
+        <div class="d-block d-sm-none">
+            <div class="row pt-3">
+                <div class="col-md-4">
+                    <img src="{% static 'images/home-project-management.webp' %}" alt="portfolio image" class="img-fluid">
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-7">
+                    <p class="text-center programs-text pt-4">Project Management</p>
+                    <p class="pt-3">
+                        {% blocktrans %}We are the  first choice custodians of your projects and resources on ground. We source for quality and competitive resource plans, quotations, unique development 
+                        plans and bespoke designs that are fairly priced and work with reputable excerpts to execute your vision and deliver beyond the expected outcomes.{% endblocktrans %}
+                    </p>
+                    <p>
+                        {% blocktrans %}Our areas of focus include: research, digitization, real estate & construction, corporate events (workshops and employee development programs), 
+                        budgeting exercises and project fundraising initiatives.{% endblocktrans %}
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!-- End of Mobile View -->
+
+        <div class="row pt-3">
+            <div class="col-md-4">
+                <img src="{% static 'images/home-career-counselling.webp' %}" alt="portfolio image" class="img-fluid">
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">Career Counselling</p>
+                <p class="pt-3">
+                    {% trans "We walk with you the journey to discovering what sets your soul on fire professionally." %} 
+                </p>
+                <p>
+                    {% blocktrans %}We help you develop skills that support your professional vision and ad-ons aimed at 
+                    realizing your professional goals such as communication, ethics, personal presentation & profiling, 
+                    international opportunities search criteria, preparation for the next level, value brnding per work outcome, 
+                    knowing when to leave and winning negotiation skills for contracts.{% endblocktrans %}
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="pt-4 pb-5 d-flex justify-content-center">
+        <a href="{% url 'mainapp:programs' %}">
+            <button class="contact-us-form-div-button">
+                <span class="contact-us-form-div-button-text" style="font-weight:bold">Find Out More</span>
+            </button>
+        </a>
+    </div><br><br>
+</div>
+{% include "mainapp/footer.html" %}
+{% endblock content %}

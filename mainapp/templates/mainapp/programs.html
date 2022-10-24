@@ -1,0 +1,330 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% block content %}
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+<p class="programs-page-title">{% trans "Our Programs" %}</p>
+<div class="container pb-5 pt-5">
+    <div class="row d-flex align-items-center" id="volunteer">
+        <div class="col-md-5">
+            <div class="d-flex justify-content-center">
+                <img src="{% static 'images/programs-volunteer.webp' %}" class="img-fluid" alt="programs image">
+            </div>
+            
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-6">
+            <p class="text-center programs-text pt-2">{% trans "Volunteer Services" %}</p>
+            <p>
+                {% blocktrans %}
+                The OBC Volunteer program is ideal for students and practitioners and aims to place
+                enthusiastic volunteers in the right spaces to make a positive impact on the lives of
+                underserved people within local African Communities. The OBC volunteers get to interact with
+                the local communities and immerse themselves in rich African culture. Not only do they
+                experience the fulfillment of making positive changes to these underprivileged communities,
+                they also develop skills through a multicultural lens and a global spectrum.  
+                {% endblocktrans %}
+            </p>
+            <p>The OBC Volunteer program is open to individuals across the board from different backgrounds such as:</p>
+            <ol class="list-group-numbered">
+                <li class="list-group-item">General Health Care</li>
+                <li class="list-group-item">Urban Planning and Development</li>
+                <li class="list-group-item">Economic Empowerment</li>
+                <li class="list-group-item">Water and Sanitation</li>
+                <li class="list-group-item">Eco Farming</li>
+                <li class="list-group-item">Mental Health</li>
+                <li class="list-group-item">Youth</li>
+                <li class="list-group-item">Education</li>
+                <li class="list-group-item">Child Care</li>
+                <li class="list-group-item">Elderly Care</li>
+            </ol>
+            
+            <!-- <p>
+                {% blocktrans %}
+                The OBC Volunteer program is ideal for students and practitioners and aims to place
+                enthusiastic volunteers in the right spaces to make a positive impact on the lives of the
+                underserved people in the region. These volunteers get to help out in local medical clinics,
+                dispensaries, and hospitals and assist in clinical work.
+                {% endblocktrans %}
+            </p>
+            <p>
+                {% blocktrans %}
+                We also offer placement for volunteers who are interested in working with children in different
+                capacities. Some of the ways to do this is through participating in School Development
+                Assistance through teaching, child care and companionship and classroom construction.
+                Volunteers work with parents, local teachers and caregivers to improve the existing educational
+                style by creating a rich and indigenous curriculum.
+                {% endblocktrans %}
+            </p> -->
+        </div>
+    </div>
+    <div class="row pt-1">
+        <p>
+            {% blocktrans %}
+            We give our volunteers a detailed overview of ELAN Dome's volunteer missions and
+            expectations to enable them to be confident and knowledgeable about the causes they are
+            undertaking and to cultivate the motivation and enthusiasm that encouraged them to volunteer
+            in the first place.  
+            {% endblocktrans %}
+        </p>
+        <p>
+            {% blocktrans %}
+            Due to the rich farming community in Kenya, eco farming volunteering is highly encouraged for
+            individuals who are concerned about sustainability, climate change and community farming.
+            They get to connect with the local farming communities and share their skills to enhance the
+            farming standards and contribute to food security. We give our volunteers a detailed overview of
+            ELAN Domes' volunteer mission and expectations to enable them to be confident and
+            knowledgeable about the causes they are undertaking and to cultivate the motivation and
+            enthusiasm that encouraged them to volunteer in the first place.
+            {% endblocktrans %}
+        </p>
+        <br>
+        <center>
+            <a href="{% url 'mainapp:application-form' %}" style="text-decoration: none;">
+                <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                    <span class="signin-text">{% trans "Apply to be a volunteer" %}</span>
+                </button>
+            </a>
+        </center>
+        <br>
+    </div>
+    <!-- Mobile View -->
+    <div class="d-block d-sm-none">
+        <div class="row d-flex align-items-center pt-5" id="investment">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-center">
+                    <img src="{% static 'images/programs-supervision.webp' %}" class="img-fluid" alt="programs image">
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-6">
+                <p class="text-center programs-text pt-2">{% trans "Investment supervision, coordination and implementation" %}</p>
+                <p>
+                    {% blocktrans %}We support local citizens in the diaspora and international development organizations with all their investment
+                    needs. Using our knowledge about the local market we prioritize efficient and seamless operations that protect 
+                    them from negative eventualities. Through our investment supervision services, we offer our local and 
+                    international investor's representative service and supervision of their investment projects thereby enhancing 
+                    accountability.{% endblocktrans %} 
+                </p>
+                <p>These services range from:</p>
+                <ol class="list-group-numbered">
+                    <li class="list-group-item">Supporting managing the entire investment process.</li>
+                    <li class="list-group-item">Regularly inspecting investments sites in order to control the progress.</li>
+                    <li class="list-group-item">Verifying work carried out contractors.</li>
+                    <li class="list-group-item">Generating post-completion documentation.</li>
+                    <li class="list-group-item">Taking part in coordination meetings.</li>
+                    <li class="list-group-item">Preparing and taking part in the final handover of the investment to the investor.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- End of Mobile View -->
+
+    <!-- Desktop View -->
+    <div class="d-none d-sm-block">
+        <div class="row d-flex align-items-center pt-5" id="investment">
+            <div class="col-md-6">
+                <p class="text-center programs-text pt-2">{% trans "Investment supervision, coordination and implementation" %}</p>
+                <p>
+                    {% blocktrans %}We support local citizens in the diaspora and international development organizations with all their investment
+                    needs. Using our knowledge about the local market we prioritize efficient and seamless operations that protect 
+                    them from negative eventualities. Through our investment supervision services, we offer our local and 
+                    international investor's representative service and supervision of their investment projects thereby enhancing 
+                    accountability.{% endblocktrans %} 
+                </p>
+                <p>These services range from:</p>
+                <ol class="list-group-numbered">
+                    <li class="list-group-item">Supporting managing the entire investment process.</li>
+                    <li class="list-group-item">Regularly inspecting investments sites in order to control the progress.</li>
+                    <li class="list-group-item">Verifying work carried out contractors.</li>
+                    <li class="list-group-item">Generating post-completion documentation.</li>
+                    <li class="list-group-item">Taking part in coordination meetings.</li>
+                    <li class="list-group-item">Preparing and taking part in the final handover of the investment to the investor.</li>
+                </ol>
+                <p>We make our clients part of the journey even while they are away by completely involving them in every juncture of our processes</p>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <div class="d-flex justify-content-center">
+                    <img src="{% static 'images/programs-supervision.webp' %}" class="img-fluid" alt="programs image">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End of Desktop View -->
+    <div class="row d-flex align-items-center pt-5" id="project-management">
+        <div class="col-md-5">
+            <div class="d-flex justify-content-center">
+                <img src="{% static 'images/programs-project-management.webp' %}" class="img-fluid" alt="programs image">
+            </div>
+            
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-6">
+            <p class="text-center programs-text pt-2">{% trans "Project Management" %}</p>
+            <p>
+                {% blocktrans %}
+                We handle all aspects pertaining to the planning and execution of projects. We monitor projects
+                through the stages of project initiation, planning, execution, and closure to make sure that the
+                objectives of the project are fulfilled. We manage projects effectively so that they are completed on
+                time, to the set specification and within the stipulated budgets. With our strong grasp of various
+                modes of project delivery we can identify and recommend the most appropriate project delivery
+                approach for projects.
+                {% endblocktrans %}
+            </p>
+            <p>Some of our project management services include:</p>
+            <ol class="list-group-numbered">
+                <li class="list-group-item">Define program goals and project scope</li>
+                <li class="list-group-item">Identify project delivery methods</li>
+                <li class="list-group-item">Outline project schedules</li>
+                <li class="list-group-item">Cost management</li>
+                <li class="list-group-item">Develop and Evaluate proposals</li>
+                <li class="list-group-item">Manage Consulting Services</li>
+                <li class="list-group-item">Develop Contract Documentation</li>
+                <li class="list-group-item">Draft and generate project reports</li>
+            </ol>
+            <!-- <p>
+                {% blocktrans %}We are the  first choice custodians of your projects and resources on ground. We source for quality and 
+                competitive resource plans, quotations, unique development plans and bespoke designs that are fairly priced 
+                and work with reputable excerpts to execute your vision and deliver beyond the expected outcomes. <br><br>Our areas 
+                of focus include: research, digitization, real estate & construction, corporate events (workshops and employee 
+                development programs), budgeting exercises and project fundraising initiatives.{% endblocktrans %}
+            </p> -->
+        </div>
+    </div>
+    <!-- Mobile View -->
+    <div class=" d-block d-sm-none">
+        <div class="row d-flex align-items-center pt-5" id="workshops">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-center">
+                    <img src="{% static 'images/programs-workshops-training.webp' %}" class="img-fluid" alt="programs image">
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-6">
+                <p class="text-center programs-text pt-2">{% trans "Workshops & Training" %}</p>
+                <p>
+                    {% blocktrans %}
+                    Workshops provide an avenue to explore current topics, hands-on training, and practical application.
+                    ELAN Dome Consultants offers a wide array of interactive and dynamic workshops and training sessions that
+                    can be easily customized to suit different individuals, groups and organizations. (Corporate
+                    Organizations, Educational Institutions, NGOs, CBOs etc)
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}
+                    These workshops and training sessions focus on respective areas as requested by our clients.
+                    They range from personal development areas to professional improvement areas like
+                    leadership training and change management. They are particularly very beneficial to
+                    organizations that would like to optimize their manpower and create unison within different
+                    departments.
+                    {% endblocktrans %}
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- End of Mobile View -->
+
+    <!-- Desktop View -->
+    <div class="d-none d-sm-block">
+        <div class="row d-flex align-items-center pt-5" id="workshops">
+            <div class="col-md-6">
+                <p class="text-center programs-text pt-2">{% trans "Workshops & Training" %}</p>
+                <p>
+                    {% blocktrans %}
+                    Workshops provide an avenue to explore current topics, hands-on training, and practical application.
+                    ELAN Dome Consultants offers a wide array of interactive and dynamic workshops and training sessions that
+                    can be easily customized to suit different individuals, groups and organizations. (Corporate
+                    Organizations, Educational Institutions, NGOs, CBOs etc)
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}
+                    These workshops and training sessions focus on respective areas as requested by our clients.
+                    They range from personal development areas to professional improvement areas like
+                    leadership training and change management. They are particularly very beneficial to
+                    organizations that would like to optimize their manpower and create unison within different
+                    departments.
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <div class="d-flex justify-content-center">
+                    <img src="{% static 'images/programs-workshops-training.webp' %}" class="img-fluid" alt="programs image">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- End of Desktop View -->
+    <div class="row d-flex align-items-center pt-5" id="career">
+        <div class="col-md-5">
+            <div class="d-flex justify-content-center">
+                <img src="{% static 'images/programs-career-counselling.webp' %}" class="img-fluid" alt="programs image">
+            </div>
+            
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-6">
+            <p class="text-center programs-text pt-2">{% trans "Career Counselling" %}</p>
+            <p>
+                {% blocktrans %}
+                We work with individuals to help them identify what's most important to them and what they
+                want from their future and then support them to achieve these goals. Our Career Counseling
+                program is beneficial in numerous ways.
+                {% endblocktrans %}
+            </p>
+            <p style="font-weight:bold;">We help you fully explore your interests</p>
+            <p>
+                {% blocktrans %}
+                Through career counseling our participants are able to sift through factors that actually make
+                them want a certain career and angle plus common influential factors. Our career counselors
+                also question and support choices with all factors considered.
+                {% endblocktrans %}
+            </p>
+            <!-- <p>
+                {% trans "We walk with you the journey to discovering what sets your soul on fire professionally." %} <br><br>{% blocktrans %}We help you develop skills that support your professional 
+                vision and ad-ons aimed at realizing your professional goals such as communication, ethics, personal presentation & profiling, international 
+                opportunities search criteria, preparation for the next level, value brnding per work outcome, knowing when to leave and winning negotiation skills for contracts.{% endblocktrans %}
+            </p> -->
+        </div>
+    </div>
+    <div class="row pt-4">
+        <div class="col-md-6">
+            <p style="font-weight:bold">We clarify your professional objectives</p>
+            <p>
+                {% blocktrans %}
+                In order to break barriers and achieve success within your chosen field it is paramount to have
+                set objectives that guide your journey. Through career we help you create a roadmap by helping
+                you set these objectives and providing extensive insight on the advantages and disadvantages
+                of each action.
+                {% endblocktrans %}
+            </p>
+        </div>
+
+        <div class="col-md-6">
+            <p style="font-weight:bold;">We help you expand your horizons</p>
+            <p>
+                {% blocktrans %}
+                Through our career counseling program you will gain a wider perspective of the career options
+                and choices they have. You will be able to explore more career options, review the opportunities
+                that present themselves and settle on the best fit.
+                {% endblocktrans %}
+            </p>
+        </div>
+    </div>
+    <br><br>
+    <center>
+        <a href="{% url 'mainapp:contact' %}" style="text-decoration: none;">
+            <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                <span class="signin-text">{% trans "Still want to know more? Let's Talk" %}</span>
+            </button>
+        </a>
+    </center>
+</div>
+</div>
+
+{% include "mainapp/footer-alt.html" %}
+{% endblock content %}

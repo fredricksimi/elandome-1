@@ -1,0 +1,144 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% block content %}
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+<p class="portfolio-page-title">Our Portfolio</p>
+<div class="container pb-5">
+    <div class="row">
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/pexels-anna-shvets-50298591.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Volunteers Orientation</p>
+                    <p class="single-portfolio-div-text">We give our volunteers a detailed overview of your ELAN Domes' volunteer mission and expectations...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/pexels-matheus-bertelli-26085171.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Networking Events</p>
+                    <p class="single-portfolio-div-text">Elan Dome holds a number of networking events in order to align with stakeholders from relevant...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/pexels-lagos-food-bank-initiative-90908991.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Community Visits</p>
+                    <p class="single-portfolio-div-text">We carry  out a number of visits within our target communities that gives an avenue for us to discuss...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row pt-5">
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/pexels-fauxels-31844161.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Community Organizations Allocations</p>
+                    <p class="single-portfolio-div-text">Some statement here. Some statement here. Some statement here.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/pexels-pixabay-4164051.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Organizational Programming</p>
+                    <p class="single-portfolio-div-text">For institutions and organisations, we oversee groups of individual organisational projects linked ...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/pexels-canva-studio-31532011.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Project Supervision and Monitoring</p>
+                    <p class="single-portfolio-div-text">We handle all aspects pertaining to the planning and execution of an organisation’s  projects. We ...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row pt-5">
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/pexels-fauxels-31831531.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Strategic Advisory</p>
+                    <p class="single-portfolio-div-text text-truncate">We provide guidance and advice to institutions and organisations to achieve their...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/pexels-nappy-9359491.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Career Mentoring & Counselling</p>
+                    <p class="single-portfolio-div-text">We work with individuals to help them identify what’s most important to them and what they want from...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <div class="single-portfolio-div">
+                    <img src="{% static 'images/john-schnobrich-FlPc9_VocJ4-unsplash1.png' %}" alt="portfolio image" class="img-fluid">
+                    <p class="single-portfolio-div-title">Quality Assurance & Exercises</p>
+                    <p class="single-portfolio-div-text">Some statement here. Some statement here. Some statement here.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <p class="portfolio-page-title">Our Programs</p>
+    <div class="row">
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <img src="{% static 'images/programs-volunteer.png' %}" class="img-fluid" alt="programs image">
+            </div>
+            <p class="text-center programs-text">Volunteer Services</p>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <img src="{% static 'images/programs-planning.png' %}" class="img-fluid" alt="programs image">
+            </div>
+            <p class="text-center programs-text">Investment supervision, <br>coordination and implementation</p>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <img src="{% static 'images/programs-project-management.png' %}" class="img-fluid" alt="programs image">
+            </div>
+            <p class="text-center programs-text">Project <br>Management</p>
+        </div>
+    </div>
+    <div class="row pt-5">
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <img src="{% static 'images/programs-workshop.png' %}" class="img-fluid" alt="programs image">
+            </div>
+            <p class="text-center programs-text">Workshops & Training</p>
+        </div>
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <img src="{% static 'images/programs-career-counselling.png' %}" class="img-fluid" alt="programs image">
+            </div>
+            <p class="text-center programs-text">Career Counselling</p>
+        </div>
+    </div>
+    <br><br>
+    <div class="pt-4 pb-3 d-flex justify-content-center">
+        <a href="{% url 'mainapp:programs' %}">
+            <button class="contact-us-form-div-button" style="background-color: #014F42;">
+                <span class="contact-us-form-div-button-text">Find Out More</span>
+            </button>
+        </a>
+    </div>
+</div><br><br>
+</div>
+
+
+{% include "mainapp/footer-alt.html" %}
+{% endblock content %}

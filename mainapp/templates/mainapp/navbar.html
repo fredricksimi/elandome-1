@@ -1,0 +1,77 @@
+{% load static %}
+{% load i18n %}
+
+<nav class="navbar navbar-expand-lg bg-white fixed-top py-2">
+    <div class="container">
+        <a class="navbar-brand" href="#">
+            <img src="{% static 'images/elandomelogo.png' %}" alt="elandome logo" style="height:50px;width:auto"/>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
+                <li class="nav-item">
+                    <a class="nav-link px-2 navlinkbold {{active}}" aria-current="page" href="{% url 'mainapp:home' %}">{% trans "Home" %}</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link px-2 navlinkbold dropdown-toggle {{active}}" href="#" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        {% trans "Who We Are" %}
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="{% url 'mainapp:about' %}">{% trans "About Us" %}</a></li>
+                        <li><a class="dropdown-item" href="{% url 'mainapp:history' %}">{% trans "Our History" %}</a></li>
+                        <li><a class="dropdown-item" href="{% url 'mainapp:edc-community' %}">{% trans "EDC Community" %}</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:services' %}">{% trans "Services" %}</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:portfolio' %}">{% trans "Portfolio" %}</a>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:programs' %}">{% trans "Programs" %}</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:news' %}">News</a>
+                </li>
+                <li class="nav-item">
+                    <a class="d-grid d-md-block " href="{% url 'mainapp:application-form' %}" style="text-decoration: none;color:#fff;">
+                        <button class="btn btn-primary" style="background-color: #cc3e18;border:none;" type="button">
+                            <span style="font-size:14px;line-height: 20px;font-weight:bold">{% trans "Join Us" %}</span>
+                        </button>
+                    </a>
+                </li>
+                <span class="d-block d-sm-none"><div class="pb-2"></div></span>
+                <span class="d-none d-sm-block"><span class="">&nbsp;&nbsp;</span></span>
+                <li class="nav-item">
+                    <a class="d-grid d-md-block " href="{% url 'mainapp:contact' %}" style="text-decoration: none;color:#fff;">
+                        <button class="btn btn-primary" style="background-color: #014f42;border:none;" type="button">
+                            <span style="font-size:14px;line-height: 20px;font-weight: bold;">{% trans "Get in touch - it's free" %}</span>
+                        </button>
+                    </a>
+                </li>
+            </ul>
+            
+            <!-- <li class="nav-item">
+                {% get_current_language as LANGUAGE_CODE %}
+                <form class="d-flex" action="{% url 'set_language' %}" method="post">
+                    {% csrf_token %}
+                    <input type="hidden" class="form-control me-2" name="next" value="{{ redirect_to }}" style="font-size: 13px;padding: 7px 15px !important;">
+                    <select name="language" id="" class="form-control" style="font-size: 13px;">
+                        {% get_available_languages as LANGUAGES %}
+                        {% get_language_info_list for LANGUAGES as languages %}
+                        {% for language in languages %}
+                        <option value="{{ language.code }}" {% if language.code == LANGUAGE_CODE %}selected{% endif %}
+                            style="font-size:13px;">{{ language.name_local }} ({{ language.code }})</option>
+                        {% endfor %}
+                    </select>&nbsp;<br>
+                    <button class="btn " type="submit" style="font-size: 13px;padding: 5px 12px !important;background-color: #0d6efd;border-color: #0d6efd;color:white"><b>Go</b></button>
+                </form>
+            </li> -->
+        </div>
+    </div>
+</nav>

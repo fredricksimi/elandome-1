@@ -1,0 +1,609 @@
+body {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size:16px;
+    line-height: 24px;
+}
+
+.px-2{
+    padding-left: 0.7rem !important;
+    padding-left: 0.7rem !important;
+}
+
+/* ---- Navbar ---- */
+.navlinkbold {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.signin-button {
+    padding: 8px 16px;
+    gap: 10px;
+    position: relative;
+    justify-content: center;
+    /* width: 76px; */
+    height: 44px;
+    background-color: #CC3E18;
+    border: none;
+    border-radius: 6px;
+}
+.signin-text {
+    font-family: 'Montserrat', sans-serif !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FAFAFA;
+}
+.getintouch-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 30px;
+    gap: 10px;
+    position: relative;
+    border: none;
+    height: 44px;
+    background: #014F42;
+    border-radius: 6px;
+}
+.getintouch-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+/* ---- End of Navbar ---- */
+
+
+header {
+    position: relative;
+    background-color: black;
+    height: 100vh;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+    position: relative;
+    z-index: 2;
+}
+.popo {
+    position: relative;
+    background-color: black;
+    height: 60vh;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+.popo .overlay2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+.wewithyou {
+    font-size:100px;
+    line-height:120px;
+    font-weight: 500;
+    color:white;
+}
+.wewithyoutext{
+    font-size: 24px;
+    line-height:36px;
+    font-weight: 500;
+    color:white;
+}
+.withyourow{
+    padding-top:56px;
+}
+
+.accountabilitytext{
+    font-size:60px;
+    line-height:80px;
+    font-weight: 500;
+}
+
+.missionvisiontext{
+    color:#000;
+    font-weight:bold;
+    font-size:40px;
+    line-height:48px;
+}
+
+
+/* About Page */
+
+.about-banner-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color:#fff;
+    padding-top:150px;
+}
+
+.about-banner-text2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color:#fff;
+    padding-top:124px;
+}
+.about-us-bottom-button{
+    /* display: flex;
+flex-direction: row; */
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 10px;
+border:none;
+/* width: 107px; */
+height: 44px;
+
+background: #FFFFFF;
+border-radius: 24px;
+}
+
+.about-us-bottom-button-text{
+    /* width: 69px; */
+height: 20px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #014F42;
+
+}
+/* End of About page */
+
+/* ---- Services Page ---- */
+.our{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 57px;
+    line-height: 36px;
+    color: #01463B;
+    padding-top:100px;
+}
+.process{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 94px;
+    line-height: 94px;
+    color: #CC3E18;
+}
+.process-desc {
+    padding-top: 100px;
+}
+.service-box{
+    /* position: absolute; */
+    width: 388px;
+    /* height: 225.06px; */
+    
+    border-radius: 24px;
+}
+.service-box-number{
+    padding-left: 33px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    color:#0A243F
+}
+.service-box-img-eclipse{
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    float:right;
+    background: #FFFEFE;
+}
+.service-box-img{
+    width: 30px;
+    height: 30px;
+    left: 405px;
+    top: 455px;
+}
+.service-box-title{
+    padding-left:28px;
+    padding-top:10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 35px;
+    
+}
+.service-box-text{
+    padding: 5px 28px 30px 33px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.service-title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #0A243F;
+}
+.service-title2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 35px;
+}
+/* ---- End of Services Page ---- */
+
+
+/* ---- Portfolio Page ---- */
+.portfolio-page-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #000000;
+    padding-top: 124px;
+    padding-bottom: 74px;
+}
+.single-portfolio-div{
+    width: 316px;
+    height: 393px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 15px 12px rgba(0, 0, 0, 0.2);
+}
+.single-portfolio-div-image{
+    width: 316px;
+    height: 210.58px;
+    border-radius: 20px 20px 0px 0px;
+}
+.single-portfolio-div-title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    color: #014F42;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.single-portfolio-div-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.programs-text{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+    color: #014F42;
+}
+/* ---- End of Portfolio Page ---- */
+
+
+/* ---- Programs Page ---- */
+
+.programs-page-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #000000;
+    padding-top: 124px;
+    /* padding-bottom: 4px; */
+}
+
+/* ---- End of Programs Page ---- */
+
+
+
+/* ---- Volunteer application form ---- */
+
+.form-label {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #CC3E18;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.volunteer-application-form-div-button {
+    width: 343px;
+    height: 44px;
+    align-items: center;
+    padding: 12px 14px;
+    position: relative;
+    justify-content: center;
+    gap: 10px;
+    background-color: #CC3E18;
+    border-radius: 6px;
+    border: none;
+}
+.volunteer-application-form-div-button-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* ---- End of Volunteer application form ---- */
+
+/* ---- Footer ----- */
+.footer-title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 20px;
+    padding-top: 30px;
+    padding-bottom:27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.footer-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.footer-bottom-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.footer-alt-text {
+    left: 46px;
+    top: 53px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+/* ---- End of Footer ---- */
+
+
+/* ------- Contact Page ------ */
+.contact-us-title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 20px;
+    color: #000000;
+    padding-top: 124px;
+    padding-bottom: 94px;
+}
+.contact-us-title2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 20px;
+    color: #000000;
+    padding-top: 55px;
+    padding-bottom: 54px;
+}
+.contact-us-form-div {
+    /* position: absolute; */
+    background: #014f42;
+    border-radius: 25px;
+}
+.contact-us-form-div input {
+    background: #fff;
+}
+.contact-us-form-div label {
+    color: #fff;
+}
+.contact-us-form-div textarea {
+    background: #fff;
+}
+.contact-us-form-div-button {
+    width: 166px;
+    height: 44px;
+    align-items: center;
+    padding: 12px 14px;
+    position: relative;
+    justify-content: center;
+    gap: 10px;
+    background-color: #CC3E18;
+    border-radius: 6px;
+    border: none;
+}
+.contact-us-form-div-button-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.contact-us-icon-div {
+    width: 112px; 
+    height:110px; 
+    background-color:#014F42;
+    border-radius:50%
+}
+.contact-us-icon{
+    width:44px; height:44px;
+}
+.contact-us-icon-text {
+    font-weight: 600;
+    font-size:16px; 
+    line-height:24px;
+}
+/* ----- End of Contact Page ---- */
+
+/* Extra small viewport or screen */
+@media (min-width: 280px) and (max-width: 480px) {
+    .wewithyou {
+        font-size:50px;
+        line-height:70px;
+        font-weight: 500;
+        color:white;
+    }
+    .wewithyouimg {
+        width:70px;
+        height:70px;
+    }
+    .withyourow{
+        padding-top:20px;
+    }
+    .accountabilitytext{
+        text-align: center;
+        font-size:40px;
+        line-height:50px;
+        font-weight: 500;
+    }
+    .about-banner-text2{
+        padding-top:40px;
+        padding-bottom: 25px;
+    }
+    .aboutelandome{
+        font-size:calc(1.375rem + 1.5vw);
+        line-height: 1.2;
+    }
+    .missionvisiontext{
+        font-size:calc(1.375rem + 1.5vw);
+        line-height: 1.2;
+        text-align: center;
+    }
+    .missionvisiondescription{
+        text-align: center;
+    }
+    .our{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 48px;
+        color: #01463B;
+        padding-top:40px;
+    }
+    .process{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 70px;
+        line-height: 78px;
+        color: #CC3E18;
+    }
+    .process-desc {
+        padding-top: 20px;
+    }
+    .wewithyoutext{
+        font-size: 20px;
+        line-height:3opx;
+        font-weight: 500;
+        color:white;
+    }
+}
+@media only screen and (min-width : 480px) {
+
+}
+/* Small viewport or screen */
+@media only screen and (min-width : 768px) {
+
+}
+/* Medium viewport or screen */
+@media only screen and (min-width : 992px) {
+
+}

@@ -1,0 +1,2289 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-19 17:11+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: mainapp/templates/mainapp/about.html:12
+msgid "Get to know about us and our journey."
+msgstr "Apprenez à nous connaître et à connaître notre parcours."
+
+#: mainapp/templates/mainapp/about.html:14
+msgid ""
+"Get acquainted with our team and understand how we work and proceed towards "
+"success."
+msgstr ""
+"Familiarisez-vous avec notre équipe et comprenez comment nous travaillons et progressons vers le"
+"succès."
+
+#: mainapp/templates/mainapp/about.html:24
+msgid ""
+"ELAN Dome Consultants is an Africa based, bred and led educational, social "
+"& \n"
+"            corporate outsourcing consultancy firm that strives to reshape "
+"the path of \n"
+"            global education and international business engagements for "
+"students, individuals \n"
+"            and institutions interested in integrating international "
+"experience and community \n"
+"            service by offering high-quality international volunteer and "
+"service-learning engagements."
+msgstr ""
+"ELAN Dome Consultants est une société éducative, sociale, créée et dirigée en Afrique "
+"et \n"
+"            société de conseil en externalisation d'entreprise qui s'efforce de remodeler "
+"le chemin de \n"
+"            l'éducation mondiale et les engagements commerciaux internationaux pour"
+"étudiants, particuliers \n"
+"            et les institutions intéressées par l'intégration internationale "
+"expérience et communauté \n"
+"            service en offrant un volontariat international de haute qualité et "
+"engagements d'apprentissage par le service."
+
+#: mainapp/templates/mainapp/about.html:31
+msgid ""
+"Additionally, ELAN Dome Consultants offers strategic advisory services, "
+"organizational \n"
+"            programming, project management, external quality assurance "
+"checks, curriculum research \n"
+"            and development and international students collaboration "
+"projects. Our aim is to increase \n"
+"            quality education accessibility and enhance the success rate for "
+"Africa based interventions \n"
+"            by promoting cultural exchange and holistic learning."
+msgstr ""
+"De plus, ELAN Dome Consultants propose des services de conseil stratégique, "
+"organisationnel \n"
+"            programmation, gestion de projet, assurance qualité externe "
+"vérifications, recherche de programmes \n"
+"            et le développement et la collaboration des étudiants internationaux "
+"projects. Our aim is to increase \n"
+"            l'accessibilité à une éducation de qualité et améliorer le taux de réussite"
+"Interventions basées en Afrique \n"
+"            en favorisant les échanges culturels et l'apprentissage holistique."
+
+
+#: mainapp/templates/mainapp/about.html:46
+msgid "Our Mission"
+msgstr "Notre Mission"
+
+#: mainapp/templates/mainapp/about.html:49
+msgid ""
+"To match prospective individuals and institutions with communities and "
+"organizations through global networking and partnerships."
+msgstr ""
+"Mettre en relation des personnes et des institutions potentielles avec des communautés et "
+"organisations par le biais de réseaux et de partenariats mondiaux."
+
+#: mainapp/templates/mainapp/about.html:51
+msgid "Our Vision"
+msgstr "Notre vision"
+
+#: mainapp/templates/mainapp/about.html:52
+msgid "Experiential learning beyond borders"
+msgstr "Apprentissage expérientiel au-delà des frontières"
+
+#: mainapp/templates/mainapp/about.html:58
+msgid "Client Focus Goal"
+msgstr "Objectif Axé sur le Client"
+
+#: mainapp/templates/mainapp/about.html:61
+msgid ""
+"Optimized logistical support, cultural experiences and fulfillment to the "
+"stakeholders."
+msgstr "Soutien logistique optimisé, expériences culturelles et épanouissement des "
+"parties prenantes."
+
+#: mainapp/templates/mainapp/about.html:64
+msgid ""
+"To facilitate a seamless and targeted positioning of individuals, families, "
+"groups and institutions in local but impactful initiatives in Africa."
+msgstr ""
+"Pour faciliter un positionnement homogène et ciblé des individus, familles, "
+"groupes et institutions dans des initiatives locales mais percutantes en Afrique."
+
+#: mainapp/templates/mainapp/about.html:92
+msgid "Why Choose ELAN Dome Consultants"
+msgstr "Pourquoi choisir les consultants ELAN Dome"
+
+#: mainapp/templates/mainapp/about.html:100
+msgid ""
+"Our efficient and experienced team members ensure that the journey of each "
+"participant turns out to be an incredible adventure."
+msgstr ""
+"Les membres de notre équipe, efficaces et expérimentés, s'assurent que le parcours de chacun "
+"participant s'avère être une aventure incroyable."
+
+#: mainapp/templates/mainapp/about.html:111
+msgid ""
+"We offer a variety of programs tailored for diverse groups. The aim is to "
+"make a positive impact on the society and the participating \n"
+"                                individuals by instilling relevant skills "
+"and values."
+msgstr ""
+"Nous offrons une variété de programmes adaptés à divers groupes. Le but est de "
+"avoir un impact positif sur la société et les participants \n"
+"                                individus en leur inculquant des compétences pertinentes \n"
+"et valeurs."
+
+#: mainapp/templates/mainapp/about.html:124
+msgid ""
+"We have rolled out a localized integrated and dynamic international "
+"volunteer program for those seeking to experience Africa through service."
+msgstr ""
+"Nous avons déployé un réseau international localisé, intégré et dynamique "
+"programme de volontariat pour ceux qui cherchent à découvrir l'Afrique à travers le service."
+
+#: mainapp/templates/mainapp/about.html:135
+msgid ""
+"We transform communities through impactful volunteer engagements and "
+"resource mobilizations."
+msgstr ""
+"Nous transformons les communautés grâce à des engagements bénévoles percutants et "
+"mobilisations de ressources."
+
+#: mainapp/templates/mainapp/about.html:154
+msgid ""
+"Managing Director and Principal Consultant Partnerships and Corporate Affairs"
+msgstr ""
+"Directeur général et consultant principal Partenariats et affaires corporatives"
+
+#: mainapp/templates/mainapp/about.html:160
+msgid ""
+"Lavender is a seasoned Operations Lead with over five (5) years' experience "
+"in fast-paced \n"
+"                    multi-sectoral organisations across multiple countries. "
+"She has excelled in providing strategic, \n"
+"                    quality assurance, administrative, logistical, "
+"coordination and implementation support to high-level \n"
+"                    executives and project teams with multiple tasks. She "
+"facilitates human centred design thinking and \n"
+"                    challenge driven education workshops for faculty, "
+"corporate staff and university students."
+msgstr ""
+"Lavender est une responsable des opérations chevronnée avec plus de cinq (5) ans d'expérience "
+"au rythme effréné \n"
+"                    organisations multisectorielles dans plusieurs pays."
+"Elle a excellé dans la prestation de services stratégiques, \n"
+"                    assurance qualité, administratif, logistique,"
+"soutien à la coordination et à la mise en œuvre \n"
+"                    cadres et équipes de projet aux tâches multiples. Elle"
+"facilite la pensée de conception centrée sur l'humain et \n"
+"                    des ateliers d'éducation axés sur les défis pour les professeurs,"
+"personnel d'entreprise et étudiants universitaires."
+
+
+#: mainapp/templates/mainapp/about.html:167
+msgid ""
+"She has also  negotiated for partnerships, developed proposals and "
+"instituted partner stewardship programs \n"
+"                    and has also been involved in data collection, "
+"classification, clean-up, knowledge management and governance \n"
+"                    for various organizations. Some of the organizations she "
+"has worked in include: the Judiciary, Strathmore \n"
+"                    University, Coalition of Blood for Africa, Pamoja CBO "
+"and ABE UK as an external quality assurer."
+msgstr ""
+"Elle a également négocié des partenariats, élaboré des propositions et "
+"mis en place des programmes d'intendance des partenaires \n"
+"                    et a également participé à la collecte de données, "
+"classification, nettoyage, gestion des connaissances et gouvernance \n"
+"                    pour divers organismes. Certaines des organisations qu'elle "
+"a travaillé dans : la magistrature, Strathmore \n"
+"                    Université, Coalition of Blood for Africa, Pamoja CBO "
+"et ABE UK en tant qu'assureur qualité externe."
+
+
+#: mainapp/templates/mainapp/about.html:182
+msgid ""
+"Akinyi is a design savvy and goal oriented professional with over three (3) "
+"years experience working in the BPO \n"
+"                industry in different capacities within communications "
+"departments. She is driven and motivated to enhance business \n"
+"                growth and develop beneficial networks. She is highly "
+"creative and has an eye for aesthetics and visual presentation. "
+msgstr ""
+"Akinyi est un professionnel du design et orienté vers les objectifs avec plus de trois (3) "
+"ans d'expérience dans le BPO \n"
+"                l'industrie à différents titres au sein des communications "
+"départements. Elle est motivée et motivée pour améliorer les affaires \n"
+"                croissance et développer des réseaux bénéfiques. Elle est hautement "
+"créatif et a le sens de l'esthétique et de la présentation visuelle. "
+
+#: mainapp/templates/mainapp/about.html:187
+msgid ""
+"She is passionate about streamlining processes through proper planning and "
+"execution and utilises her  diverse design \n"
+"                background and strong organisational skills to increase "
+"efficiency, profitability and make an impact in all her engagements. \n"
+"                Akinyi graduated with a Bachelor's Degree in Design from the "
+"University of Nairobi and is also an honorary member of the Public \n"
+"                Relations Society of Kenya whose mandate is to advance "
+"excellence in Public Relations and Communication Management in Kenya."
+msgstr ""
+"Elle est passionnée par la rationalisation des processus grâce à une bonne planification et "
+"exécution et utilise sa conception diversifiée \n"
+"                expérience et de solides compétences organisationnelles pour augmenter "
+"efficacité, rentabilité et avoir un impact dans tous ses engagements. \n"
+"                Akinyi est titulaire d'un baccalauréat en design de la "
+"Université de Nairobi et est également membre honoraire du Public \n"
+"                Relations Society of Kenya dont le mandat est de faire progresser "
+"excellence en relations publiques et gestion de la communication au Kenya."
+
+
+
+#: mainapp/templates/mainapp/about.html:198
+msgid ""
+"Director & Lead Consultant: Business Development, PR, Marketing & "
+"Communications"
+msgstr ""
+"Directeur et consultant principal: développement des affaires, relations publiques, marketing et "
+"Communication"
+
+#: mainapp/templates/mainapp/about.html:211
+msgid ""
+"Director & Lead Consultant: Operational Management, Finance and "
+"Administration"
+msgstr ""
+"Directeur & Consultant principal : Gestion opérationnelle, Finance et "
+"Administration"
+
+#: mainapp/templates/mainapp/about.html:217
+msgid ""
+"Judith is a finance and administration expert who is passionate about social "
+"impact. She has over 5 years \n"
+"                    experience in working with adolescent Girls and young "
+"women including youths and 3 years experience in \n"
+"                    leadership and management of community health programs. "
+"She has experience leading donor funded projects \n"
+"                    and is accountable for making decisions, managing "
+"resources efficiently, achieving and sustaining high \n"
+"                    performing teams while maintaining high ethical "
+"standards."
+msgstr ""
+"Judith est une experte en finance et en administration passionnée par le social "
+"impact. Elle a plus de 5 ans \n"
+"                    expérience de travail avec des adolescentes et des jeunes "
+"femmes y compris les jeunes et 3 ans d'expérience dans \n"
+"                    direction et gestion des programmes de santé communautaire. "
+"Elle a de l'expérience dans la direction de projets financés par des donateurs \n"
+"                    et est responsable de la prise de décisions, de la gestion "
+"efficacement les ressources, en atteignant et en maintenant des niveaux élevés \n"
+"                    des équipes performantes tout en gardant un haut niveau éthique"
+"normes."
+
+#: mainapp/templates/mainapp/about.html:230
+msgid "External Experts"
+msgstr "Experts externes"
+
+#: mainapp/templates/mainapp/about.html:234
+msgid ""
+"Faith is a confident and highly meticulous advocate of the High Court of "
+"Kenya with professional \n"
+"                    experience in busy organisations such as the Kenya "
+"National Police Sacco and Equity Bank Kenya. \n"
+"                    She has also worked in reputable law firms like Mwandwa "
+"Macharia & Mwangi Co Advocates and Macahria \n"
+"                    Wa Muturi Co Advocates."
+msgstr ""
+
+#: mainapp/templates/mainapp/about.html:240
+msgid ""
+"Faith is a mediator practising with The Judiciary of Kenya, an arbitrator "
+"and a member of the Chartered \n"
+"                    Institute of Arbitrator UK and Kenya. She strives to be "
+"a well-rounded advocate who can effectively handle \n"
+"                    diverse areas in the law, to develop a successful legal "
+"career founded on a good reputation, to be an \n"
+"                    exceptionally sensitive and dedicated advocate and to "
+"ensure that justice is served to each member of the society."
+msgstr ""
+"Faith est médiatrice exerçant auprès de la magistrature du Kenya, arbitre "
+"et membre de la Charte \n"
+"                    Institute of Arbitrator Royaume-Uni et Kenya. Elle s'efforce d'être "
+"un avocat bien équilibré qui peut gérer efficacement \n"
+"                    divers domaines du droit, pour développer un système juridique efficace "
+"carrière fondée sur une bonne réputation, être un \n"
+"                    avocat exceptionnellement sensible et dévoué et à "
+"veiller à ce que justice soit rendue à chaque membre de la société."
+
+#: mainapp/templates/mainapp/about.html:251
+msgid "Legal Advisory Consultant"
+msgstr "Conseiller Juridique"
+
+#: mainapp/templates/mainapp/about.html:264
+#: mainapp/templates/mainapp/history.html:83
+msgid "Want to know more?"
+msgstr "Vouloir en savoir davantage?"
+
+#: mainapp/templates/mainapp/about.html:266
+msgid "Get in touch with us. Our team is happy to help you to"
+msgstr "Prenez contact avec nous. Notre équipe est heureuse de vous aider à"
+
+#: mainapp/templates/mainapp/about.html:266
+msgid "answer any questions you may have."
+msgstr "répondre à toutes les questions que vous pourriez avoir."
+
+#: mainapp/templates/mainapp/about.html:270
+#: mainapp/templates/mainapp/history.html:91
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+#: mainapp/templates/mainapp/about.html:290
+#: mainapp/templates/mainapp/history.html:109
+msgid "Subscribe to our Newsletter"
+msgstr "Abonnez-vous à notre newsletter"
+
+#: mainapp/templates/mainapp/about.html:294
+#: mainapp/templates/mainapp/history.html:113
+msgid "Subscribe to get more updates from us."
+msgstr "Abonnez-vous pour recevoir plus de mises à jour de notre part."
+
+#: mainapp/templates/mainapp/about.html:306
+#: mainapp/templates/mainapp/history.html:125
+msgid "Subscribe"
+msgstr "S'abonner"
+
+#: mainapp/templates/mainapp/contact.html:16
+msgid "FULL NAME"
+msgstr "NOM ET PRÉNOM"
+
+#: mainapp/templates/mainapp/contact.html:20
+msgid "EMAIL"
+msgstr "E-MAIL"
+
+#: mainapp/templates/mainapp/contact.html:26
+msgid "SUBJECT"
+msgstr "MATIÈRE"
+
+#: mainapp/templates/mainapp/contact.html:32
+msgid "MESSAGE"
+msgstr "MESSAGE"
+
+#: mainapp/templates/mainapp/contact.html:38
+msgid "Submit"
+msgstr "Soumettre"
+
+#: mainapp/templates/mainapp/contact.html:65
+msgid "Phone"
+msgstr "Téléphoner"
+
+#: mainapp/templates/mainapp/contact.html:74
+msgid "Email"
+msgstr "E-mail"
+
+#: mainapp/templates/mainapp/contact.html:82
+msgid "Website"
+msgstr "Site Internet"
+
+#: mainapp/templates/mainapp/contact.html:86
+msgid "Pay Us a Visit"
+msgstr "Rendez-nous visite"
+
+#: mainapp/templates/mainapp/contact.html:92
+msgid "All Rights Reserved."
+msgstr "Tous les droits sont réservés."
+
+#: mainapp/templates/mainapp/edc-community.html:6
+#: mainapp/templates/mainapp/navbar.html:26
+msgid "EDC Community"
+msgstr "EDC Communauté"
+
+#: mainapp/templates/mainapp/edc-community.html:15
+msgid "Family"
+msgstr "Famille"
+
+#: mainapp/templates/mainapp/edc-community.html:18
+msgid ""
+"Our family packages create an avenue for bonding with your loved ones, "
+"immersing \n"
+"                your family in a different culture and giving back to "
+"communities."
+msgstr ""
+"Nos forfaits familiaux créent une avenue pour créer des liens avec vos proches, "
+"immerger \n"
+"                votre famille dans une culture différente et redonner à "
+"communautés."
+
+#: mainapp/templates/mainapp/edc-community.html:28
+msgid "Friends"
+msgstr "Amis"
+
+#: mainapp/templates/mainapp/edc-community.html:31
+msgid ""
+"Our friends package takes buddies through an experience that strengthens "
+"friendships and transforms social lives for the better."
+msgstr ""
+"Notre forfait amis emmène les copains à travers une expérience qui renforce"
+"amitiés et transforme la vie sociale pour le mieux."
+
+#: mainapp/templates/mainapp/edc-community.html:40
+msgid "Students"
+msgstr "Étudiants"
+
+#: mainapp/templates/mainapp/edc-community.html:43
+msgid ""
+"This package takes students through an experiential journey of personal "
+"growth that enables them to develop new \n"
+"                skills, meet new people and even improve their career "
+"prospects"
+msgstr ""
+"Ce forfait emmène les étudiants à travers un voyage expérientiel de "
+"croissance qui leur permet de développer de nouveaux \n"
+"                compétences, rencontrer de nouvelles personnes et même améliorer leur carrière "
+"perspectives"
+
+#: mainapp/templates/mainapp/edc-community.html:56
+msgid "Employees"
+msgstr "Des employés"
+
+#: mainapp/templates/mainapp/edc-community.html:59
+msgid ""
+"Our employee program is a planned and managed initiative that seeks to "
+"motivate and enable employees to effectively meet organizational needs, \n"
+"                boost productivity, increase employee engagement and enhance "
+"employee retention through the leadership of the employer."
+msgstr ""
+"Notre programme pour les employés est une initiative planifiée et gérée qui vise à "
+"motiver et permettre aux employés de répondre efficacement aux besoins organisationnels, \n"
+"                stimuler la productivité, accroître l'engagement des employés et améliorer "
+"la rétention des employés grâce au leadership de l'employeur."
+
+#: mainapp/templates/mainapp/edc-community.html:69
+msgid "Individuals"
+msgstr "Personnes"
+
+#: mainapp/templates/mainapp/edc-community.html:72
+msgid ""
+"This package is designed for individuals looking to immerse themselves in a "
+"journey of self actualization and allows individuals to develop a deep \n"
+"                understanding of the culture, community and country where "
+"they are volunteering, and they are highly rewarding."
+msgstr ""
+"Ce forfait est conçu pour les personnes qui cherchent à s'immerger dans un "
+"voyage de réalisation de soi et permet aux individus de développer une profonde \n"
+"                compréhension de la culture, de la communauté et du pays où "
+"ils font du bénévolat et ils sont très gratifiants."
+
+#: mainapp/templates/mainapp/edc-community.html:82
+msgid "Teachers"
+msgstr "Enseignants"
+
+#: mainapp/templates/mainapp/edc-community.html:85
+msgid ""
+"The teachers' package allows teachers to bring their knowledge and skills to "
+"eager but underserved children. to help improve educational practices and "
+"processes."
+msgstr ""
+"Le kit enseignants permet aux enseignants d'apporter leurs connaissances et leurs compétences à "
+"eager but underserved children. to help improve educational practices and "
+"processus."
+
+#: mainapp/templates/mainapp/history.html:15
+msgid ""
+"Okore Booker Charles as a student at the Starehe Boys Center where all the "
+"values of impact creation and community service were inculcated"
+msgstr ""
+"Okore Booker Charles en tant qu'étudiant au Starehe Boys Center où tous les "
+"les valeurs de création d'impact et de service communautaire ont été inculquées"
+
+#: mainapp/templates/mainapp/history.html:19
+msgid ""
+"ELAN (Education, Learning and Networking) Dome Consultants was incorporated "
+"under the efforts of three \n"
+"                young, ambitious and human centred design driven ladies who "
+"were seeking to make empathy the key informant \n"
+"                of design, decisions and solutions for people and businesses "
+"aimed at the progress of Africa."
+msgstr ""
+"ELAN (Education, Learning and Networking) Dome Consultants a été incorporé "
+"sous les efforts de trois \n"
+"                jeunes femmes ambitieuses et centrées sur l'humain et axées sur le design "
+"cherchaient à faire de l'empathie l'informateur clé \n"
+"                de conception, de décisions et de solutions pour les particuliers et les entreprises "
+"visant au progrès de l'Afrique."
+
+#: mainapp/templates/mainapp/history.html:28
+msgid ""
+"The founding partner of ELAN Dome draws deep inspiration from the "
+"intelligence, problem solving capability, \n"
+"                mobilizing acumen and deep community service acts of her "
+"late father, Engineer Okore Booker Charles, OBC. He \n"
+"                dedicated his life to fixing challenges, using his personal "
+"resources to support family, neighbours, friends, \n"
+"                the community and strangers whenever he got the opportunity. "
+"He valued education, politics, farming, environmental \n"
+"                preservation and human rights."
+msgstr ""
+"Le partenaire fondateur d'ELAN Dome s'inspire profondément de la "
+"intelligence, capacité de résolution de problèmes, \n"
+"                mobilisant sa perspicacité et ses actes de service communautaire profonds "
+"feu père, ingénieur Okore Booker Charles, OBC. Il \n"
+"                a consacré sa vie à relever des défis, en utilisant son "
+"ressources pour soutenir la famille, les voisins, les amis,"
+"                la communauté et les étrangers chaque fois qu'il en avait l'occasion. "
+"Il valorisait l'éducation, la politique, l'agriculture, l'environnement \n"
+"la préservation et les droits de l'homme."
+
+#: mainapp/templates/mainapp/history.html:35
+msgid ""
+"His main target groups were the elderly, the poor, orphans, girls of school "
+"going age and the oppressed in the society. \n"
+"                He was an ardent believer in the law as an instrument of "
+"seeking justice and achieving balance in the society. \n"
+"                He constantly stepped in to oversee his friends' projects "
+"and manage teams on their behalf whenever they were away \n"
+"                on international engagements, having resigned on a voluntary "
+"basis to dedicate his life to service."
+msgstr ""
+"Ses principaux groupes cibles étaient les personnes âgées, les pauvres, les orphelins, les filles de l'école "
+"l'âge et les opprimés dans la société. \n"
+"                Il était un ardent partisan de la loi en tant qu'instrument de "
+"rechercher la justice et parvenir à un équilibre dans la société. \n"
+"                Il intervenait constamment pour superviser les projets de ses amis "
+"et gérer les équipes en leur nom chaque fois qu'ils sont absents \n"
+"                sur des engagements internationaux, ayant démissionné volontairement "
+"base pour consacrer sa vie au service."
+
+#: mainapp/templates/mainapp/history.html:59
+msgid ""
+"This organization is deeply rooted in his values of sincerity, service, "
+"smart work, advocacy, diligence, strategy, \n"
+"                impact achievement and celebration. The dome signifies a "
+"sense of coming together in a community set up like \n"
+"                traditional African families did. They would gather in "
+"groups to talk about their issues, find solutions, share meals, \n"
+"                support each other and build relationships."
+msgstr ""
+"Cette organisation est profondément ancrée dans ses valeurs de sincérité, de service, "
+"travail intelligent, plaidoyer, diligence, stratégie, \n"
+"                avoir un impact sur la réalisation et la célébration. Le dôme signifie un "
+"sentiment de se retrouver dans une communauté constituée comme \n"
+"                les familles africaines traditionnelles l'ont fait. Ils se rassembleraient dans "
+"groupes pour parler de leurs problèmes, trouver des solutions, partager des repas, \n"
+"                s'entraider et nouer des relations."
+
+#: mainapp/templates/mainapp/history.html:65
+msgid ""
+"Engineer OBC had extensive networks and was able to strike new but "
+"formidable friendships by the first meeting, an attribute \n"
+"                that resulted in his family receiving valuable support "
+"throughout his sickness, final demise and graceful send off. From this, \n"
+"                the organization draws the value of networking, "
+"collaboration and cooperation in building functional ecosystems for "
+"individuals, \n"
+"                groups and organizations."
+msgstr ""
+"L'ingénieur OBC disposait de réseaux étendus et était capable de trouver de nouveaux mais "
+"formidable friendships by the first meeting, an attribute \n"
+"                qui a permis à sa famille de recevoir un soutien précieux "
+"tout au long de sa maladie, de sa disparition définitive et de son envoi gracieux. De cela, "
+"                l'organisation tire la valeur du réseautage, "
+"collaboration et coopération dans la construction d'écosystèmes fonctionnels pour "
+"personnes, \n"
+"                groupes et organisations."
+
+#: mainapp/templates/mainapp/index.html:19
+msgid "Experiential Learning"
+msgstr "Apprentissage expérimentale"
+
+#: mainapp/templates/mainapp/index.html:19
+msgid "Beyond Borders."
+msgstr "Au delà des frontières."
+
+#: mainapp/templates/mainapp/index.html:20
+msgid "Create a stellar experience and enjoy what we have to offer."
+msgstr "Créez une expérience stellaire et profitez de ce que nous avons à offrir."
+
+#: mainapp/templates/mainapp/index.html:24
+#: mainapp/templates/mainapp/navbar.html:49
+msgid "Get in touch - it's free"
+msgstr "Contactez-nous - c'est gratuit"
+
+#: mainapp/templates/mainapp/index.html:33
+msgid "WE ARE PIVOTAL"
+msgstr "NOUS SOMMES ESSENTIELS"
+
+#: mainapp/templates/mainapp/index.html:34
+msgid ""
+"Optimizing collaborative partnerships while providing tailored programs "
+"while staying results oriented"
+msgstr ""
+"Optimiser les partenariats collaboratifs tout en proposant des programmes sur mesure "
+"tout en restant orienté résultats"
+
+#: mainapp/templates/mainapp/index.html:45
+msgid "We're with you."
+msgstr "Nous sommes avec vous."
+
+#: mainapp/templates/mainapp/index.html:61
+msgid "Focus Areas"
+msgstr "Domaines d'intervention"
+
+#: mainapp/templates/mainapp/index.html:73
+msgid ""
+"The OBC volunteer program was created in honor of the Late Engineer Okore "
+"Booker Charles . This program has been carefully curated to \n"
+"                    reflect and inculcate the values that he lived by "
+"throughout his life in community service and social impact."
+msgstr ""
+"Le programme de bénévolat OBC a été créé en l'honneur du regretté ingénieur Okore "
+"Booker Charles. Ce programme a été soigneusement conçu pour \n"
+"                    refléter et inculquer les valeurs qu'il a vécues "
+"tout au long de sa vie dans le service communautaire et l'impact social."
+
+#: mainapp/templates/mainapp/index.html:77
+msgid ""
+"The OBC volunteer program will help you render assistance to underprivileged "
+"and underserved communities where you will experience \n"
+"                    traditional cultures and even get a chance to interact "
+"with rich wildlife all while supporting a good cause and creating a positive "
+"impact in the society."
+msgstr ""
+"Le programme de volontariat OBC vous aidera à venir en aide aux personnes défavorisées "
+"et les communautés mal desservies où vous ferez l'expérience \n"
+"                    cultures traditionnelles et même avoir la chance d'interagir "
+"avec une faune riche tout en soutenant une bonne cause et en créant un climat positif "
+"impact dans la société."
+
+#: mainapp/templates/mainapp/index.html:82
+#: mainapp/templates/mainapp/index.html:100
+#: mainapp/templates/mainapp/index.html:131
+msgid "Learn More"
+msgstr "Apprendre encore plus"
+
+#: mainapp/templates/mainapp/index.html:90
+#: mainapp/templates/mainapp/programs.html:46
+msgid "Strategic Planning, Coordination & Monitoring"
+msgstr "Planification stratégique, coordination et suivi"
+
+#: mainapp/templates/mainapp/index.html:92
+msgid ""
+"We help you to build action oriented strategic plans, communication, "
+"business development, marketing and partnership strategies, internal "
+"policies and \n"
+"                    customer experience needs in the following industry "
+"categories and sectors:"
+msgstr ""
+"Nous vous aidons à construire des plans stratégiques orientés vers l'action, la communication, "
+"développement des affaires, stratégies de marketing et de partenariat, interne "
+"politiques et \n"
+"                    besoins d'expérience client dans l'industrie suivante "
+"catégories et secteurs :"
+
+#: mainapp/templates/mainapp/index.html:96
+msgid ""
+"SMEs, FMCG, Consulting firms, INGOs, not for profit organizations including "
+"CBOs, CSOs, FBOs, civil societies, government, academic institutions and "
+"individuals."
+msgstr ""
+"PME, FMCG, cabinets de conseil, ONGI, organisations à but non lucratif, y compris "
+"Organisations communautaires, OSC, organisations confessionnelles, sociétés civiles, gouvernement, institutions universitaires et "
+"personnes."
+
+#: mainapp/templates/mainapp/index.html:120
+#: mainapp/templates/mainapp/programs.html:54
+msgid "Project Management"
+msgstr "Gestion de projet"
+
+#: mainapp/templates/mainapp/index.html:122
+msgid ""
+"We are the  first choice custodians of your projects and resources on "
+"ground. We source for quality and competitive resource plans, quotations, "
+"unique development \n"
+"                    plans and bespoke designs that are fairly priced and "
+"work with reputable excerpts to execute your vision and deliver beyond the "
+"expected outcomes."
+msgstr ""
+"Nous sommes les dépositaires de premier choix de vos projets et ressources sur "
+"terrain. Nous recherchons des plans de ressources de qualité et compétitifs, des devis, "
+"développement unique \n"
+"                    des plans et des conceptions sur mesure à un prix raisonnable et "
+"travaillez avec des extraits réputés pour exécuter votre vision et livrer au-delà du "
+"résultats attendus."
+
+#: mainapp/templates/mainapp/index.html:126
+msgid ""
+"Our areas of focus include: research, digitization, real estate & "
+"construction, corporate events (workshops and employee development "
+"programs), \n"
+"                    budgeting exercises and project fundraising initiatives."
+msgstr ""
+"Nos domaines d'intervention comprennent: la recherche, la numérisation, l'immobilier et "
+"construction, événements corporatifs (ateliers et développement des employés "
+"programmes), \n"
+"                    des exercices de budgétisation et des initiatives de financement de projets."
+
+#: mainapp/templates/mainapp/index.html:139
+#: mainapp/templates/mainapp/programs.html:81
+msgid "Workshops & Training"
+msgstr "Ateliers & Formation"
+
+#: mainapp/templates/mainapp/index.html:141
+msgid ""
+"We design, recruit, facilitate, assess, tailormake and report on extra "
+"ordinary workshops, team building  and training initiatives for \n"
+"                    teams and organizations. Our primary focus is on:"
+msgstr ""
+"Nous concevons, recrutons, facilitons, évaluons, personnalisons et signalons des "
+"ateliers ordinaires, team building et initiatives de formation pour \n"
+"                    équipes et organisations. Notre objectif principal est de:"
+
+#: mainapp/templates/mainapp/index.html:145
+#: mainapp/templates/mainapp/programs.html:72
+msgid ""
+"Management i.e crisis management, change management, conflict management and "
+"overall team management."
+msgstr ""
+"Gestion, c'est-à-dire gestion de crise, gestion du changement, gestion des conflits et "
+"gestion globale de l'équipe."
+
+#: mainapp/templates/mainapp/index.html:148
+msgid ""
+"Leadership i.e adaptable leadership, progressive organization culture, next "
+"level leadership, performance \n"
+"                    (financial & operational) and decision making analysis & "
+"design)"
+msgstr ""
+"Leadership, c'est-à-dire leadership adaptable, culture organisationnelle progressive, prochaine "
+"leadership de niveau, performance \n"
+"                    (financière & opérationnelle) et analyse décisionnelle & "
+"motif)"
+
+#: mainapp/templates/mainapp/index.html:173
+#: mainapp/templates/mainapp/programs.html:89
+msgid "Career Counselling"
+msgstr "Orientation professionnelle"
+
+#: mainapp/templates/mainapp/index.html:175
+#: mainapp/templates/mainapp/programs.html:93
+msgid ""
+"We walk with you the journey to discovering what sets your soul on fire "
+"professionally."
+msgstr ""
+"Nous parcourons avec vous le voyage pour découvrir ce qui met le feu à votre âme "
+"professionnellement."
+
+#: mainapp/templates/mainapp/index.html:178
+msgid ""
+"We help you develop skills that support your professional vision and ad-ons "
+"aimed at \n"
+"                    realizing your professional goals such as communication, "
+"ethics, personal presentation & profiling, \n"
+"                    international opportunities search criteria, preparation "
+"for the next level, value brnding per work outcome, \n"
+"                    knowing when to leave and winning negotiation skills for "
+"contracts."
+msgstr ""
+"Nous vous aidons à développer des compétences qui soutiennent votre vision professionnelle et vos compléments "
+"visant à \n"
+"                    réaliser vos objectifs professionnels tels que la communication,"
+"éthique, présentation et profilage personnels, \n"
+"                    critères de recherche d'opportunités internationales, préparation "
+"pour le niveau suivant, valeur brnding par résultat de travail, \n"
+"                    savoir quand partir et acquérir des compétences de négociation pour "
+"contrats."
+
+#: mainapp/templates/mainapp/navbar.html:16
+msgid "Home"
+msgstr "Maison"
+
+#: mainapp/templates/mainapp/navbar.html:21
+msgid "Who We Are"
+msgstr "Qui nous sommes"
+
+#: mainapp/templates/mainapp/navbar.html:24
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: mainapp/templates/mainapp/navbar.html:25
+msgid "Our History"
+msgstr "Notre histoire"
+
+#: mainapp/templates/mainapp/navbar.html:30
+msgid "Services"
+msgstr "Prestations de service"
+
+#: mainapp/templates/mainapp/navbar.html:33
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: mainapp/templates/mainapp/navbar.html:36
+msgid "Programs"
+msgstr "Programmes"
+
+#: mainapp/templates/mainapp/navbar.html:39
+msgid "Contact"
+msgstr "Contact"
+
+#: mainapp/templates/mainapp/programs.html:6
+msgid "Our Programs"
+msgstr "Nos programmes"
+
+#: mainapp/templates/mainapp/programs.html:13
+msgid "Volunteer Services"
+msgstr "Services bénévoles"
+
+#: mainapp/templates/mainapp/programs.html:17
+msgid ""
+"The OBC volunteer program was created in honor of the Late Engineer Okore "
+"Booker Charles. \n"
+"                This program has been carefully curated to reflect and "
+"inculcate the values that he lived by \n"
+"                throughout his life in community service and social impact. "
+"<br><br>The OBC volunteer program will help \n"
+"                you render assistance to underprivileged and underserved "
+"communities where you will experience \n"
+"                traditional cultures and even get a chance to interact with "
+"rich wildlife all while supporting \n"
+"                a good cause and creating a positive impact in the society."
+msgstr ""
+"Le programme de bénévolat OBC a été créé en l'honneur du regretté ingénieur Okore "
+"Booker Charles. \n"
+"                Ce programme a été soigneusement organisé pour refléter et "
+"inculquer les valeurs qu'il a vécues \n"
+"                tout au long de sa vie dans le service communautaire et l'impact social."
+"<br><br>Le programme de bénévolat de l'OBC aidera \n"
+"                vous aidez les personnes défavorisées et mal desservies "
+"communautés où vous ferez l'expérience \n"
+"                cultures traditionnelles et même avoir la chance d'interagir avec "
+"une faune riche tout en soutenant \n"
+"                une bonne cause et créer un impact positif dans la société."
+
+#: mainapp/templates/mainapp/programs.html:27
+msgid "Apply to be a volunteer"
+msgstr "Postuler pour devenir bénévole"
+
+#: mainapp/templates/mainapp/programs.html:36
+msgid ""
+"We help you to build action oriented strategic plans, communication, "
+"business development, marketing \n"
+"                and partnership strategies, internal policies and customer "
+"experience needs in the following industry \n"
+"                categories and sectors : SMEs, FMCG, Consulting firms, "
+"INGOs, not for profit organizations including \n"
+"                CBOs, CSOs, FBOs, civil societies, government, academic "
+"institutions and individuals."
+msgstr ""
+"Nous vous aidons à construire des plans stratégiques orientés vers l'action, la communication, "
+"développement commercial, commercialisation \n"
+"                et les stratégies de partenariat, les politiques internes et la clientèle "
+"besoins d'expérience dans l'industrie suivante \n"
+"                catégories et secteurs : PME, FMCG, Cabinets de conseil, "
+"ONGI, organisations à but non lucratif, y compris \n"
+"                Organisations communautaires, OSC, organisations confessionnelles, sociétés civiles, gouvernement, universitaires "
+"institutionnels et particuliers."
+
+#: mainapp/templates/mainapp/programs.html:58
+msgid ""
+"We are the  first choice custodians of your projects and resources on "
+"ground. We source for quality and \n"
+"                competitive resource plans, quotations, unique development "
+"plans and bespoke designs that are fairly priced \n"
+"                and work with reputable excerpts to execute your vision and "
+"deliver beyond the expected outcomes. <br><br>Our areas \n"
+"                of focus include: research, digitization, real estate & "
+"construction, corporate events (workshops and employee \n"
+"                development programs), budgeting exercises and project "
+"fundraising initiatives."
+msgstr ""
+"Nous sommes les dépositaires de premier choix de vos projets et ressources sur "
+"terrain. Nous nous approvisionnons en qualité et \n"
+"                plans de ressources compétitifs, devis, développement unique "
+"des plans et des conceptions sur mesure à un prix raisonnable \n"
+"                et travaillez avec des extraits réputés pour exécuter votre vision et "
+"produire au-delà des résultats attendus. <br><br>Nos domaines \n"
+"                d'intérêt comprennent: la recherche, la numérisation, l'immobilier et "
+"construction, événements corporatifs (ateliers et employés \n"
+"                programmes de développement), exercices de budgétisation et projet "
+"initiatives de collecte de fonds."
+
+#: mainapp/templates/mainapp/programs.html:69
+msgid ""
+"We design, recruit, facilitate, assess, tailormake and report on extra "
+"ordinary workshops, team building  \n"
+"                and training initiatives for teams and organizations. Our "
+"primary focus is on"
+msgstr ""
+"Nous concevons, recrutons, facilitons, évaluons, personnalisons et signalons des "
+"ateliers ordinaires, team building \n"
+"                et des initiatives de formation pour les équipes et les organisations. Notre "
+"l'accent est mis sur"
+
+#: mainapp/templates/mainapp/programs.html:73
+msgid ""
+"Leadership i.e adaptable leadership, progressive organization culture, next "
+"level leadership, performance \n"
+"                (financial & operational) and decision making analysis & "
+"design)"
+msgstr ""
+"Leadership, c'est-à-dire leadership adaptable, culture organisationnelle progressive, prochaine "
+"leadership de niveau, performance \n"
+"                (financière & opérationnelle) et analyse décisionnelle & "
+"motif)"
+
+#: mainapp/templates/mainapp/programs.html:93
+msgid ""
+"We help you develop skills that support your professional \n"
+"                vision and ad-ons aimed at realizing your professional goals "
+"such as communication, ethics, personal presentation & profiling, "
+"international \n"
+"                opportunities search criteria, preparation for the next "
+"level, value brnding per work outcome, knowing when to leave and winning "
+"negotiation skills for contracts."
+msgstr ""
+"Nous vous aidons à développer des compétences qui soutiennent votre carrière professionnelle \n"
+"                vision et compléments visant à réaliser vos objectifs professionnels "
+"tels que la communication, l'éthique, la présentation personnelle et le profilage, "
+"international \n"
+"                critères de recherche d'opportunités, préparation de la prochaine "
+"niveau, création de valeur par résultat de travail, savoir quand partir et gagner "
+"compétences en négociation de contrats."
+
+#: mainapp/templates/mainapp/programs.html:102
+msgid "Still want to know more? Let's Talk"
+msgstr "Vous voulez encore en savoir plus ? Parlons"
+
+#: mainapp/templates/mainapp/services.html:19
+msgid "Our"
+msgstr "Notre"
+
+#: mainapp/templates/mainapp/services.html:20
+msgid "Process"
+msgstr "Traiter"
+
+#: mainapp/templates/mainapp/services.html:24
+msgid ""
+"We prioritize efficient and seamless operations that cushion our clients "
+"from the hustle \n"
+"                and bustle of international regulatory requirements, "
+"cultural pressures and international \n"
+"                logistics. We transfer these responsibilities from you to us "
+"given our deep understanding \n"
+"                of the cultural contexts, legal requirements and local "
+"dynamics. We want to make sure everything \n"
+"                is fast, simple, under control, pleasant, experiential, "
+"memorable and impactful."
+msgstr ""
+"Nous accordons la priorité à des opérations efficaces et transparentes qui protègent nos clients "
+"de l'agitation \n"
+"                et l'agitation des exigences réglementaires internationales, "
+"pressions culturelles et internationales \n"
+"                logistique. Nous transférons ces responsabilités de vous à nous "
+"compte tenu de notre profonde compréhension \n"
+"                des contextes culturels, des exigences légales et des "
+"dynamique. Nous voulons nous assurer que tout \n"
+"                est rapide, simple, maîtrisé, agréable, expérientiel, "
+"mémorable et percutant."
+
+#: mainapp/templates/mainapp/services.html:184
+msgid "What We Do"
+msgstr "Ce que nous faisons"
+
+#: mainapp/templates/mainapp/services.html:185
+msgid "Project focussed."
+msgstr "Axé sur le projet."
+
+#: mainapp/templates/mainapp/services.html:185
+msgid "People centred."
+msgstr "Centré sur les personnes."
+
+#: mainapp/templates/mainapp/services.html:185
+msgid "Results driven."
+msgstr "Axé sur les résultats."
+
+#: mainapp/templates/mainapp/services.html:192
+msgid ""
+"Interlink international students, individual social/organizational groups, "
+"universities\n"
+"                    and boarding schools to prospective community programs, "
+"initiatives, organizations and projects."
+msgstr ""
+"Relier les étudiants internationaux, les groupes sociaux / organisationnels individuels, "
+"les universités\n"
+"                    et internats aux programmes communautaires potentiels, "
+"initiatives, organisations et projets."
+
+#: mainapp/templates/mainapp/services.html:202
+msgid ""
+"Provide individuals with an experiential and international learning exposure "
+"service that is second\n"
+"                    to none in terms of immersion into societal contexts "
+"that are unique and rich."
+msgstr ""
+"Offrir aux individus une expérience d'apprentissage expérientiel et international "
+"service qui est deuxième\n"
+"                    à rien en termes d'immersion dans des contextes sociétaux "
+"uniques et riches."
+
+#: mainapp/templates/mainapp/services.html:212
+msgid ""
+"Offer project management services to in all aspects (community based "
+"organizations, corporate facing and\n"
+"                    event oriented)"
+msgstr ""
+"Offrir des services de gestion de projet à tous les aspects (basés sur la communauté "
+"organisations, face aux entreprises et\n"
+"                    événementiel)"
+
+#: mainapp/templates/mainapp/services.html:224
+msgid ""
+"Organize exceptional adventurous activities for volunteers across Africa- "
+"networking, thrill, food &\n"
+"                    culture etc."
+msgstr ""
+"Organisez des activités d'aventure exceptionnelles pour les volontaires à travers l'Afrique- "
+"networking, sensations fortes, food &\n"
+"                    culturelle etc."
+
+#: mainapp/templates/mainapp/services.html:234
+msgid ""
+"Provide 360° placement services to assist interested individuals in all "
+"facets of enrolling in\n"
+"                    international internship and exchange programs."
+msgstr ""
+"Fournir des services de placement à 360° pour aider les personnes intéressées dans tous "
+"facettes de l'inscription à\n"
+"                    programmes de stages et d'échanges internationaux."
+
+#: mainapp/templates/mainapp/services.html:244
+msgid ""
+"Provide organizational programming through the creation of functional "
+"organization designs,\n"
+"                    implementation, evaluation and support"
+msgstr ""
+"Fournir une programmation organisationnelle par la création de "
+"conceptions d'organisation,\n"
+"                    mise en œuvre, évaluation et accompagnement"
+
+#: mainapp/templates/mainapp/services.html:252
+msgid "Our Portfolio"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:130
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:140
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:91
+msgid "This field is required."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout.py:392
+msgid "i18n text"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout.py:394
+msgid "i18n legend"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout_objects.py:143
+#: venv/lib/python3.10/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/contrib/messages/apps.py:15
+msgid "Messages"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr ""
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.10/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/paginator.py:50
+msgid "That page number is not an integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/paginator.py:52
+msgid "That page number is less than 1"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/paginator.py:57
+msgid "That page contains no results"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:104
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:751
+msgid "Enter a valid URL."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:164
+msgid "Enter a valid integer."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:175
+msgid "Enter a valid email address."
+msgstr ""
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.10/site-packages/django/core/validators.py:256
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:264
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
+"hyphens."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:276
+#: venv/lib/python3.10/site-packages/django/core/validators.py:284
+#: venv/lib/python3.10/site-packages/django/core/validators.py:313
+msgid "Enter a valid IPv4 address."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:293
+#: venv/lib/python3.10/site-packages/django/core/validators.py:314
+msgid "Enter a valid IPv6 address."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:305
+#: venv/lib/python3.10/site-packages/django/core/validators.py:312
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:348
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:354
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:389
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:398
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:407
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:417
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:435
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:458
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:347
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:386
+msgid "Enter a number."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:460
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:465
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:470
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:539
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:600
+msgid "Null characters are not allowed."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/base.py:1401
+#: venv/lib/python3.10/site-packages/django/forms/models.py:899
+msgid "and"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/base.py:1403
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/constraints.py:17
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:129
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:130
+msgid "This field cannot be null."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:131
+msgid "This field cannot be blank."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:132
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:136
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:174
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1065
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1066
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1068
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1118
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1222
+msgid "Comma-separated integers"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1323
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1327
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1462
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1331
+msgid "Date (without time)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1458
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
+"uuuuuu]][TZ] format."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1466
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
+"[TZ]) but it is an invalid date/time."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1471
+msgid "Date (with time)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1595
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1597
+msgid "Decimal number"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1754
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
+"uuuuuu] format."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1758
+msgid "Duration"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1810
+msgid "Email address"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1835
+msgid "File path"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1913
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1915
+msgid "Floating point number"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1955
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1957
+msgid "Integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2049
+msgid "Big (8 byte) integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2066
+msgid "Small integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2074
+msgid "IPv4 address"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2105
+msgid "IP address"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2198
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2199
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2201
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2252
+msgid "Positive big integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2267
+msgid "Positive integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2282
+msgid "Positive small integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2298
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2334
+msgid "Text"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2409
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2413
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2417
+msgid "Time"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2525
+msgid "URL"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2549
+msgid "Raw binary data"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2614
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2616
+msgid "Universally unique identifier"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/files.py:232
+msgid "File"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/files.py:392
+msgid "Image"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/json.py:18
+msgid "A JSON object"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/json.py:20
+msgid "Value must be valid JSON."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:920
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:922
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1229
+msgid "One-to-one relationship"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1286
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1288
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1336
+msgid "Many-to-many relationship"
+msgstr ""
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the label
+#: venv/lib/python3.10/site-packages/django/forms/boundfield.py:176
+msgid ":?.!"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:298
+msgid "Enter a whole number."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:467
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1240
+msgid "Enter a valid date."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:490
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1241
+msgid "Enter a valid time."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:517
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:551
+msgid "Enter a valid duration."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:552
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:618
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:619
+msgid "No file was submitted."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:620
+msgid "The submitted file is empty."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:622
+#, python-format
+msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:627
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:693
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:856
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:948
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1572
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:950
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1069
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1570
+msgid "Enter a list of values."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1070
+msgid "Enter a complete value."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1309
+msgid "Enter a valid UUID."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1339
+msgid "Enter a valid JSON."
+msgstr ""
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.10/site-packages/django/forms/forms.py:98
+msgid ":"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/forms.py:248
+#: venv/lib/python3.10/site-packages/django/forms/forms.py:332
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:63
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:67
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:72
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:483
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:490
+msgid "Order"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:496
+msgid "Delete"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:892
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:897
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:904
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:913
+msgid "Please correct the duplicate values below."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1344
+msgid "The inline value did not match the parent instance."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1435
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1574
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/utils.py:226
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:439
+msgid "Clear"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:440
+msgid "Currently"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:441
+msgid "Change"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:770
+msgid "Unknown"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:771
+msgid "Yes"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:772
+msgid "No"
+msgstr ""
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:853
+msgid "yes,no,maybe"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:883
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:900
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:902
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:904
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:906
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:908
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:910
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:77
+msgid "p.m."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:78
+msgid "a.m."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:83
+msgid "PM"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:84
+msgid "AM"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:155
+msgid "midnight"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:157
+msgid "noon"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:7
+msgid "Monday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:8
+msgid "Tuesday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:9
+msgid "Wednesday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:10
+msgid "Thursday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:11
+msgid "Friday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:12
+msgid "Saturday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:13
+msgid "Sunday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:16
+msgid "Mon"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:17
+msgid "Tue"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:18
+msgid "Wed"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:19
+msgid "Thu"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:20
+msgid "Fri"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:21
+msgid "Sat"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:22
+msgid "Sun"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:25
+msgid "January"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:26
+msgid "February"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:27
+msgid "March"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:28
+msgid "April"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:29
+msgid "May"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:30
+msgid "June"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:31
+msgid "July"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:32
+msgid "August"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:33
+msgid "September"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:34
+msgid "October"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:35
+msgid "November"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:36
+msgid "December"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:39
+msgid "jan"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:40
+msgid "feb"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:41
+msgid "mar"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:42
+msgid "apr"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:43
+msgid "may"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:44
+msgid "jun"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:45
+msgid "jul"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:46
+msgid "aug"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:47
+msgid "sep"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:48
+msgid "oct"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:49
+msgid "nov"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:50
+msgid "dec"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/text.py:76
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/text.py:252
+msgid "or"
+msgstr ""
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.10/site-packages/django/utils/text.py:271
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:94
+msgid ", "
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:14
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:111
+msgid "Forbidden"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:112
+msgid "CSRF verification failed. Request aborted."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:116
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:122
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:127
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
+"including the “Referrer-Policy: no-referrer” header, please remove them. The "
+"CSRF protection requires the “Referer” header to do strict referer checking. "
+"If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:136
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:142
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:148
+msgid "More information is available with DEBUG=True."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:44
+msgid "No year specified"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:64
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:115
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:214
+msgid "Date out of range"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:94
+msgid "No month specified"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:147
+msgid "No day specified"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:194
+msgid "No week specified"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:349
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:380
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:652
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because %(class_name)s."
+"allow_future is False."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:692
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/list.py:169
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/static.py:38
+msgid "Directory indexes are not allowed here."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/static.py:40
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/static.py:79
+#, python-format
+msgid "Index of %(directory)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
+"configured any URLs."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr ""

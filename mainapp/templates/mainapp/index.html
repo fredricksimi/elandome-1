@@ -1,0 +1,397 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% block content %}
+<header>
+    <!-- This div is  intentionally blank. It creates the transparent black overlay over the video which you can modify in the CSS -->
+    <div class="overlay"></div>
+
+    <!-- The HTML5 video element that will create the background video on the header -->
+    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+        <source src="../../static/images/newelanlandingvideo.mp4" type="video/mp4">
+    </video>
+
+    <!-- The header content -->
+
+    <div class="container h-100">
+        <div class="d-flex h-100 text-left align-items-center d-block d-sm-none">
+            <div class="w-100 text-white">
+                <h1 class="display-6 text-center" style="font-weight: bold;/*font-size:40px;line-height: 48px;*/">{% trans "Experiential Learning" %} <br>{% trans "Beyond Borders." %}</h1>
+                <p class="lead mb-0 text-center" style="font-size:22px;line-height:30px;">{% trans "Experience adventure and learning concurrently through our personalized packages." %}</p>
+                <div style="height:40px;"></div>
+                <center>
+                    <a href="{% url 'mainapp:contact' %}" style="text-decoration:none;">
+                        <button class="getintouch-button" style="background-color:#CC3E18;">
+                            <span class="getintouch-text">{% trans "Get in touch - it's free" %}</span>
+                        </button>
+                    </a>
+                </center>
+            </div>
+        </div>
+        <div class="d-flex h-100 text-left align-items-center">
+            <div class="w-75 text-white">
+                <h1 class="display-6" style="font-weight: bold;/*font-size:40px;line-height: 48px;*/">{% trans "Experiential Learning" %} <br>{% trans "Beyond Borders." %}</h1>
+                <p class="lead mb-0" style="font-size:22px;line-height:30px;">{% trans "Experience adventure and learning concurrently through our elaborate packages." %}</p>
+                <div style="height:40px;"></div>
+                <a href="{% url 'mainapp:contact' %}" style="text-decoration:none;">
+                    <button class="getintouch-button" style="background-color:#CC3E18;">
+                        <span class="getintouch-text">{% trans "Get in touch - it's free" %}</span>
+                    </button>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+<div style="background-color: #014f42;">
+<div class="container py-5">
+    <div class="row d-flex align-items-center withyourow">
+        <div class="col-md-5">
+            <img class="wewithyouimg" src="{% static 'images/orange-burst.png' %}" class="img-fluid">
+            <div class="d-flex justify-content-center">
+                <p class="wewithyou">{% trans "We're with you." %}</p>
+            </div>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-6">
+            <p class="wewithyoutext">
+                We are a goal oriented outsourcing consultancy firm that strives to optimize collaborative partnerships and provide carefully curated programs while stating result oriented.
+            </p>
+            <p class="wewithyoutext">
+                Our team is driven to do what's right and help you realize your vision. We believe in generating success collaboratively, delivering great results after every engagement, and building trust for the next big challenge.
+            </p>
+        </div>
+    </div>
+</div>
+</div>
+<div class="focusarea" style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <h3 class="text-center about-banner-text2" style="color:#000;">{% trans "Focus Areas" %}</h3>
+    <div class="container py-5 d-none d-sm-block">
+        <div class="row d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-start">
+                    <img src="{% static 'images/home-volunteers.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">Volunteer Services</p>
+                <p class="pt-3">
+                    {% blocktrans %}The OBC volunteer program was created in honor of the Late Engineer Okore Booker Charles. This program has been carefully curated to 
+                    reflect and inculcate the values that he lived by throughout his life in community service and social impact.{% endblocktrans %} 
+                </p>
+                <p>
+                    {% blocktrans %}The OBC volunteer program will help you render assistance to underprivileged and underserved communities where you will experience 
+                    traditional cultures and even get a chance to interact with rich wildlife all while supporting a good cause and creating a positive impact in the society.{% endblocktrans %}
+                </p>
+                <a href="{% url 'mainapp:programs' %}#volunteer">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">{% trans "Learn More" %}</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+        </div>
+        
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">{% trans "Investment supervision, coordination and implementation" %}</p>
+                <p>
+                    {% blocktrans %}We provide guidance and advice to individuals, groups and institutions about their investments and how to 
+                    safeguard their interests and attain positive results. We further monitor the activities of these investments 
+                    to ensure that there's full accountability and clarity on the utilisation of resources.{% endblocktrans %} 
+                </p>
+                <p>
+                    {% blocktrans %}
+                    Additionally, we advise organisations on key strategic issues by leveraging on our industry knowledge and 
+                    analytical prowess, to enable  them make informed decisions. This service enables them to achieve their 
+                    business objectives by capitalising on opportunities and being prepared to mitigate potential risks.
+                    {% endblocktrans %}
+                </p>
+                <!-- <p>
+                    {% trans "SMEs, FMCG, Consulting firms, INGOs, not for profit organizations including CBOs, CSOs, FBOs, civil societies, government, academic institutions and individuals." %}
+                </p> -->
+                <a href="{% url 'mainapp:programs' %}#investment">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">{% trans "Learn More" %}</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+            <div class="col-md-5">
+                <div class="d-flex justify-content-end">
+                    <img src="{% static 'images/home-strategic-planning.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+        </div>
+        
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-start">
+                    <img src="{% static 'images/home-project-management.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">{% trans "Project Management" %}</p>
+                <p class="pt-3">
+                    {% blocktrans %}We are the  first choice custodians of your projects and resources on ground. We source for quality and competitive resource plans, quotations, unique development 
+                    plans and bespoke designs that are fairly priced and work with reputable excerpts to execute your vision and deliver beyond the expected outcomes.{% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}Our areas of focus include: research, digitization, real estate & construction, corporate events (workshops and employee development programs), 
+                    budgeting exercises and project fundraising initiatives.{% endblocktrans %}
+                </p>
+                <a href="{% url 'mainapp:programs' %}#project-management">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">{% trans "Learn More" %}</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+        </div>
+        
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">{% trans "Workshops & Training" %}</p>
+                <p class="pt-3">
+                    {% blocktrans %}We design, recruit, facilitate, assess, tailormake and report on extra ordinary workshops, team building  and training initiatives for 
+                    teams and organizations. Our primary focus is on:{% endblocktrans %}
+                </p>
+                <p>
+                    a) {% trans "Management i.e crisis management, change management, conflict management and overall team management." %}
+                </p>
+                <p>
+                    b)  {% blocktrans %}Leadership i.e adaptable leadership, progressive organization culture, next level leadership, performance 
+                    (financial & operational) and decision making analysis & design){% endblocktrans %}
+                </p>
+                <a href="{% url 'mainapp:programs' %}#workshops">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">Learn More</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+            <div class="col-md-5">
+                <div class="d-flex justify-content-end">
+                    <img src="{% static 'images/home-workshops.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+        </div>
+        
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-start">
+                    <img src="{% static 'images/home-career-counselling.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">{% trans "Career Counselling" %}</p>
+                <p class="pt-3">
+                    {% trans "We walk with you in the journey to discovering what sets your soul on fire professionally." %} 
+                </p>
+                <p>
+                    {% blocktrans %}We help you develop skills that support your professional vision and ad-ons aimed at 
+                    realizing your professional goals such as communication, ethics, personal presentation & profiling, 
+                    international opportunities search criteria, preparation for the next level, value brnding per work outcome, 
+                    knowing when to leave and winning negotiation skills for contracts.{% endblocktrans %}
+                </p>
+                <a href="{% url 'mainapp:programs' %}#career">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">Learn More</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile View Here -->
+    <div class="container py-2 d-block d-sm-none">
+        <div class="row d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-start">
+                    <img src="{% static 'images/home-volunteers.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">Volunteer Services</p>
+                <p class="pt-3">
+                    {% blocktrans %}The OBC volunteer program was created in honor of the Late Engineer Okore Booker Charles. This program has been carefully curated to 
+                    reflect and inculcate the values that he lived by throughout his life in community service and social impact.{% endblocktrans %} 
+                </p>
+                <p>
+                    {% blocktrans %}The OBC volunteer program will help you render assistance to underprivileged and underserved communities where you will experience 
+                    traditional cultures and even get a chance to interact with rich wildlife all while supporting a good cause and creating a positive impact in the society.{% endblocktrans %}
+                </p>
+                <a href="{% url 'mainapp:programs' %}#volunteer">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">Learn More</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+        </div>
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-end">
+                    <img src="{% static 'images/home-strategic-planning.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">{% trans "Investment supervision, coordination and implementation" %}</p>
+                <p>
+                    {% blocktrans %}We provide guidance and advice to individuals, groups and institutions about their investments and how to 
+                    safeguard their interests and attain positive results. We further monitor the activities of these investments 
+                    to ensure that there's full accountability and clarity on the utilisation of resources.{% endblocktrans %} 
+                </p>
+                <p>
+                    {% blocktrans %}
+                    Additionally, we advise organisations on key strategic issues by leveraging on our industry knowledge and 
+                    analytical prowess, to enable  them make informed decisions. This service enables them to achieve their 
+                    business objectives by capitalising on opportunities and being prepared to mitigate potential risks.
+                    {% endblocktrans %}
+                </p>
+                <!-- <p>
+                    {% blocktrans %}We help you to build action oriented strategic plans, communication, business development, marketing and partnership strategies, internal policies and 
+                    customer experience needs in the following industry categories and sectors:{% endblocktrans %} 
+                </p>
+                <p>
+                    {% trans "SMEs, FMCG, Consulting firms, INGOs, not for profit organizations including CBOs, CSOs, FBOs, civil societies, government, academic institutions and individuals." %}
+                </p> -->
+                <a href="{% url 'mainapp:programs' %}#investment">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">Learn More</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+        </div>
+        <br>
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-start">
+                    <img src="{% static 'images/home-project-management.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">{% trans "Project Management" %}</p>
+                <p class="pt-3">
+                    {% blocktrans %}We are the  first choice custodians of your projects and resources on ground. We source for quality and competitive resource plans, quotations, unique development 
+                    plans and bespoke designs that are fairly priced and work with reputable excerpts to execute your vision and deliver beyond the expected outcomes.{% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}Our areas of focus include: research, digitization, real estate & construction, corporate events (workshops and employee development programs), 
+                    budgeting exercises and project fundraising initiatives.{% endblocktrans %}
+                </p>
+                <a href="{% url 'mainapp:programs' %}#project-management">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">Learn More</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+        </div>
+        <br>
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-end">
+                    <img src="{% static 'images/home-workshops.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">{% trans "Workshops & Training" %}</p>
+                <p class="pt-3">
+                    {% blocktrans %}We design, recruit, facilitate, assess, tailormake and report on extra ordinary workshops, team building  and training initiatives for 
+                    teams and organizations. Our primary focus is on:{% endblocktrans %}
+                </p>
+                <p>
+                    a) {% trans "Management i.e crisis management, change management, conflict management and overall team management." %}
+                </p>
+                <p>
+                    b)  {% blocktrans %}Leadership i.e adaptable leadership, progressive organization culture, next level leadership, performance 
+                    (financial & operational) and decision making analysis & design){% endblocktrans %}
+                </p>
+                <a href="{% url 'mainapp:programs' %}#workshops">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">Learn More</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+        </div>
+        <br>
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-start">
+                    <img src="{% static 'images/home-career-counselling.webp' %}" class="img-fluid" style="box-shadow: 0 15px 12px rgba(204, 62, 24, 0.2); ">
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p class="text-center programs-text pt-4">{% trans "Career Counselling" %}</p>
+                <p class="pt-3">
+                    {% trans "We walk with you in the journey to discovering what sets your soul on fire professionally." %} 
+                </p>
+                <p>
+                    {% blocktrans %}We help you develop skills that support your professional vision and ad-ons aimed at 
+                    realizing your professional goals such as communication, ethics, personal presentation & profiling, 
+                    international opportunities search criteria, preparation for the next level, value brnding per work outcome, 
+                    knowing when to leave and winning negotiation skills for contracts.{% endblocktrans %}
+                </p>
+                <a href="{% url 'mainapp:programs' %}#career">
+                    <center>
+                        <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <span class="signin-text">Learn More</span>
+                        </button>
+                    </center>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- End of Mobile View -->
+    <br><br>
+</div>
+
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <!-- Mobile View -->
+    <div class="d-block d-sm-none">
+        <div class="container py-3">
+            <div class="row d-flex align-items-center">
+                <div class="col-md-7">
+                    <p class="accountabilitytext">We are all about accountability and convenience. Curious?</p>
+                </div>
+                <div class="col-md-5 pt-3 pb-3 d-flex justify-content-center">
+                    <a href="{% url 'mainapp:contact' %}">
+                        <button class="" style="padding:20px 42px;background-color: #CC3E18;color:#fff;border: none;"><span style="font-weight: bold;">LET'S TALK</span></button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End of Mobile View -->
+
+    <div class="d-none d-sm-block">
+        <br><br>
+        <div class="container py-5">
+            <div class="row d-flex align-items-center">
+                <div class="col-md-7">
+                    <p class="accountabilitytext">We are all about accountability and convenience. Curious?</p>
+                </div>
+                <div class="col-md-5 d-flex justify-content-center">
+                    <a href="{% url 'mainapp:contact' %}">
+                        <button class="" style="padding:20px 42px;background-color: #CC3E18;color:#fff;border: none;"><span style="font-weight: bold;">LET'S TALK</span></button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <br><br>
+    </div>
+</div>
+{% include "mainapp/footer.html" %}
+{% endblock content %}

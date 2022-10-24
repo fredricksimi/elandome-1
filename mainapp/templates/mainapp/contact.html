@@ -1,0 +1,278 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+{% block content %}
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+<p class="text-center contact-us-title">Contact Us</p>
+<div class="container">
+    <div class="row pb-5">
+        <div class="col-md-6">
+            <form method="post">
+                {% csrf_token %}
+                <div class="contact-us-form-div p-5">
+                    <div class="row pt-4 pb-2">
+                        <div class="col-md-6">
+                            <label for="exampleFormControlInput1" class="form-label">{% trans "FULL NAME" %}</label>
+                            {{form.full_name|as_crispy_field}}
+                        </div>
+                        <div class="col-md-6">
+                            <label for="exampleFormControlInput1" class="form-label">{% trans "EMAIL" %}</label>
+                            {{form.email|as_crispy_field}}
+                        </div>
+                    </div>
+                    <div class="row pt-4 pb-2">
+                        <div class="col-md-12">
+                            <label for="exampleFormControlInput1" class="form-label">{% trans "SUBJECT" %}</label>
+                            {{form.subject|as_crispy_field}}
+                        </div>
+                    </div>
+                    <div class="row pt-4 pb-2">
+                        <div class="col=md-12">
+                            <label for="exampleFormControlInput1" class="form-label">{% trans "MESSAGE" %}</label>
+                            {{form.message|as_crispy_field}}
+                        </div>
+                    </div>
+                    <div class="pt-4">
+                        <button class="contact-us-form-div-button" type="submit">
+                            <span class="contact-us-form-div-button-text" style="font-weight: bold;">{% trans "Submit" %}</span>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6 d-none d-sm-block">
+            <img src="{% static 'images/contact-alt22.webp' %}" class="img-fluid" style="border-radius: 40px;">
+        </div>
+    </div>
+
+    <div class="row pt-5 pb-5" id="faqs">
+        <div class="col-md-9 mx-auto">
+            <p class="display-6 text-center" style="font-weight:bold">FAQs</p>
+            <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <span style="font-weight:bold">1. How much time do I need to volunteer?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            ELAN Dome Consultants prides itself in creating volunteer schedules based on the desires 
+                            of our clients. We offer volunteer opportunities for both short term and long term periods 
+                            and this is left to the discretion  of the volunteer. For instance, you can volunteer for a 
+                            week, two weeks, a month and even a year.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            <span style="font-weight:bold">2. Will I get training before I volunteer?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            You will go through a very insightful orientation process for all the organizations and 
+                            institutions that you volunteer in which will give you a better understanding of how they 
+                            operate and how best to apply yourself.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingThree">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            <span style="font-weight:bold">3. How old do I have to be to volunteer?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            We have no age limits for volunteering. Volunteers below the age of 18 will have to be 
+                            accompanied by a parent or a guardian and have properly documented consent to participate 
+                            in our various volunteer programs.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingFour">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            <span style="font-weight:bold">4. Do I need qualifications?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            Some of our volunteering opportunities require qualifications. Our healthcare volunteer 
+                            programs are fully based on our volunteers healthcare background and training for proper 
+                            records of the same will have to be submitted to ensure effective placement. If particular 
+                            qualifications are needed this will be stated in our pre engagement sessions.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingFive">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            <span style="font-weight:bold">5. Can I get a qualification or an award?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            Our volunteers get several benefits from their volunteering journey ranging from a resume 
+                            that stands out, transforming communities, exploring and cultivating interest areas, a safe and convenient way to 
+                            travel abroad with adequate assistance and finally getting the opportunity to take on a 
+                            new adventure. ELAN Dome also offers  a valuable certificate of completion to all volunteers 
+                            along with access to a wide network of volunteers, program coordinators, local organizations, 
+                            and support staff.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingSix">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                            <span style="font-weight:bold">6. What else can I do during my volunteering journey?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            Aside from volunteering and helping underserved communities, we create avenues where our 
+                            volunteers can make more memories through leisure activities.Some of these activities include:
+                            <ol class="list-group-numbered pt-2">
+                                <li class="list-group-item">Taking  Weekend Trips (beach visits, hiking, camping)</li>
+                                <li class="list-group-item">Sampling local cuisine</li>
+                                <li class="list-group-item">Safari drives in local game parks and reserves</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingSeven">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                            <span style="font-weight:bold">7. How long do the workshops and trainings take?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <p>This is left to the discretion of the client. ELAN Dome is very passionate about tailor 
+                                making the workshop and training program. We structure them after carefully understanding 
+                                the needs of our clients so as to ensure that positive outcomes are realized.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingEight">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                            <span style="font-weight:bold">8. How can I keep tabs on my investment?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <p>ELAN Dome strives to enhance accountability and clarity for all our investment supervision 
+                                activities. We make our clients part of the journey even when they are away in different 
+                                countries so that at every particular juncture they are fully aware of what actions are being 
+                                taken with regards to their investment.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingNine">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                            <span style="font-weight:bold">9. What project management approach do you use?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <p>ELAN Dome's project management approaches are fully pegged and influenced by the kind of project we are 
+                                tasked with at any given time. Please reach out to us about a specific project and we will be able to 
+                                give a detailed overview of the approach
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingTen">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                            <span style="font-weight:bold">10. None of these FAQs answers my question, what do I do now?</span>
+                        </button>
+                    </h2>
+                    <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
+                        data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <p>If we haven't covered your question please get in touch with us through our email: 
+                                <a href="mailto:info@elandome.org">info@elandome.org</a> detailing your questions 
+                                and we'll be happy to help.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row pt-5 pb-5">
+        <div class="col-md-3">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center align-items-center contact-us-icon-div">
+                    <img src="{% static 'images/contact-location.png' %}" class="img-fluid contact-us-icon" alt="location icon" style="height:54px;"/>
+                </div>
+            </div>
+            <p class="pt-4 text-center contact-us-icon-text">The Mirage Towers, <br>Ground Floor, <br>Suite 15</p>
+        </div>
+        <div class="col-md-3">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center align-items-center contact-us-icon-div">
+                    <img src="{% static 'images/contact-phone.png' %}" class="img-fluid contact-us-icon" alt="location icon"/>
+                </div>
+            </div>
+            
+            <p class="pt-4 text-center contact-us-icon-text">{% trans "Phone" %}: <br>+254 114 824 347</p>
+        </div>
+        <div class="col-md-3">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center align-items-center contact-us-icon-div">
+                    <img src="{% static 'images/contact-envelope.png' %}" class="img-fluid contact-us-icon" alt="location icon"/>
+                </div>
+            </div>
+            
+            <p class="pt-4 text-center contact-us-icon-text">{% trans "Email" %}: <br>info@elandome.com</p>
+        </div>
+        <div class="col-md-3">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center align-items-center contact-us-icon-div">
+                    <img src="{% static 'images/contact-globe.png' %}" class="img-fluid contact-us-icon" alt="location icon"/>
+                </div>
+            </div>
+            <p class="pt-4 text-center contact-us-icon-text">{% trans "Website" %}: <br>www.elandome.org</p>
+        </div>
+    </div>
+    
+    <p class="text-center contact-us-title2">{% trans "Pay Us a Visit" %}</p>
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.838194716477!2d36.80499561469349!3d-1.2700207990736774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f17399ed7e0d9%3A0x3bf85e96965485b2!2sMirage%20Towers!5e0!3m2!1sen!2ske!4v1665853619071!5m2!1sen!2ske"
+        width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy">
+    </iframe>
+    <p class="py-5 text-center">
+        Copyright © 2022 | {% trans "All Rights Reserved." %}
+    </p>
+</div>
+</div>
+{% endblock content %}

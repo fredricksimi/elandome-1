@@ -1,0 +1,522 @@
+{% extends "mainapp/base.html" %}
+{% load i18n %}
+{% load static %}
+{% block content %}
+<style>
+    html,body
+    {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden; 
+    }
+    </style>
+<br><br><br>
+<div style="background:url('../../static/images/sandra-banner.jpeg');background-repeat: none;background-position: top center;background-size: cover; height:478px;">
+    
+    <div class="d-none d-sm-block">
+        <div class="row">
+            <div class="col-md-6">
+                <p class="about-banner-text" style="font-size:50px;line-height: 58px;padding-left:50px;">
+                    {% trans "Get to know about us and our journey." %}
+                </p>
+                <p style="color:#fff;font-size:20px;padding-left:50px;">{% trans "Get acquainted with our team and understand how we work and proceed towards success." %}</p>
+            </div>
+        </div>
+    </div>
+    <!-- Mobile View -->
+    <div class="d-block d-sm-none">
+        <div class="row">
+            <div class="col-md-12">
+                <p class="about-banner-text text-center" style="font-size:calc(1.375rem + 1.5vw);line-height: 1.2;">
+                    {% trans "Get to know about us and our journey." %}
+                </p>
+                <p class="text-center text-white">{% trans "Get acquainted with our team and understand how we work and proceed towards success." %}</p>
+            </div>
+        </div>
+    </div>
+    <!-- End of Mobile View -->
+</div>
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <div class="container">
+        <p class="pt-5 pb-3 text-center about-banner-text aboutelandome" style="color:#014f42;">About ELAN Dome Consultants</p>
+        <p class="text-center">
+            {% blocktrans %}ELAN (Education, Learning and Networking) Dome Consultants is an Africa based, bred 
+            and youth-led social & corporate outsourcing consultancy firm that strives to reshape the path of social 
+            service and international business engagements for students, individuals and institutions interested 
+            in integrating international experience and community service by offering high-quality international 
+            volunteer and service-learning engagements. {% endblocktrans %}
+        </p>
+        <p class="text-center">
+            {% blocktrans %}Additionally, ELAN Dome Consultants offers supervision and implementation support services, 
+            organizational programming, project management, external quality assurance checks, curriculum research and 
+            development and international students collaboration projects. Our aim is to enhance impactful initiatives 
+            in Africa by promoting cultural exchange, reliable investment in projects and holistic learning for local 
+            citizens in the diaspora and the international community.{% endblocktrans %}
+        </p>
+
+        <div class="row pt-5">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-center">
+                    <img src="{% static 'images/missionvision.jpeg' %}" class="img-fluid" alt="mission-vision-image" style="border-radius:10px;">
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-6">
+                <p class="pt-3 missionvisiontext">
+                    {% trans "Our Mission" %}
+                </p>
+                <p class="missionvisiondescription">
+                    {% trans "To match prospective individuals and institutions with communities and organizations through global networking and partnerships." %}
+                </p>
+                <p class="pt-3 missionvisiontext" >{% trans "Our Vision" %}</p>
+                <p class="missionvisiondescription">{% trans "Experiential learning beyond borders" %}</p>
+            </div>
+        </div>
+        <div class="d-block d-sm-none">
+            <div class="row pt-3">
+                <div class="col-md-5">
+                    <div class="d-flex justify-content-center">
+                        <img src="{% static 'images/goals2.jpeg' %}" class="img-fluid" alt="goals image" style="border-radius:10px;">
+                    </div>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-6">
+                    <p class="missionvisiontext pt-4">
+                        {% trans "Client Focus Goal" %}
+                    </p>
+                    <p class="missionvisiondescription">
+                        {% trans "Optimized logistical support, cultural experiences and fulfillment to the stakeholders." %}
+                    </p>
+                    <p class="pt-3 missionvisiontext">Primary Goal</p>
+                    <p class="missionvisiondescription">{% trans "To facilitate a seamless and targeted positioning of individuals, families, groups and institutions in local but impactful initiatives in Africa." %}</p>
+                </div>
+            </div>
+        </div>
+        <div class="d-none d-sm-block">
+            <br><br>
+            <div class="row pt-5">
+                <div class="col-md-6">
+                    <p class="missionvisiontext">
+                        {% trans "Client Focus Goal" %}
+                    </p>
+                    <p class="missionvisiondescription">
+                        {% trans "Optimized logistical support, cultural experiences and fulfillment to the stakeholders." %}
+                    </p>
+                    <p class="pt-5 missionvisiontext">Primary Goal</p>
+                    <p class="missionvisiondescription">{% trans "To facilitate a seamless and targeted positioning of individuals, families, groups and institutions in local but impactful initiatives in Africa." %}</p>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-5">
+                    <div class="d-flex justify-content-center">
+                        <img src="{% static 'images/goals2.jpeg' %}" class="img-fluid" alt="goals image" style="border-radius:10px;">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div><br><br>
+</div>
+<!-- Mobile View -->
+<div class="d-block d-sm-none">
+    <div style="background-color: #CC3E18;">
+        <br><br>
+        <div class="container p-2" style="max-width: 1380px;">
+            <div style="border-radius: 20px;background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+                <div>
+                    <p class="service-title text-center missionvisiontext" style="padding-top:30px;font-weight:bold;color: #000;padding-left: 10px;padding-right:10px;">{% trans "Why Choose ELAN Dome Consultants" %}</p>
+                    <div class="row g-4 p-3">
+                        <div class="col-md-5 d-flex align-items-start">
+                            <div class=" text-dark flex-shrink-0 me-3">
+                                <!-- <img src="{% static 'images/service-process-7.svg' %}"> -->
+                                <p class="missionvisiontext" style="color:#014F42;">01.</p>
+                            </div>
+                            <div>
+                                <p style="color:#000">{% trans "Our efficient and experienced team members ensure that the journey of each participant turns out to be an incredible adventure." %}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                        <div class="col-md-5 d-flex align-items-start">
+                            <div class=" text-dark flex-shrink-0 me-3">
+                                <!-- <img src="{% static 'images/service-process-7.svg' %}"> -->
+                                <p class="missionvisiontext" style="color:#014F42;">02.</p>
+                            </div>
+                            <div>
+                                <p style="color:#000">{% blocktrans %}We offer a variety of programs tailored for diverse groups. The aim is to make a positive impact on the society and the participating 
+                                    individuals by instilling relevant skills and values.{% endblocktrans %}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-4 pt-2 px-3">
+                        <div class="col-md-5 d-flex align-items-start">
+                            <div class=" text-dark flex-shrink-0 me-3">
+                                <!-- <img src="{% static 'images/service-process-7.svg' %}"> -->
+                                <p class="missionvisiontext" style="color:#014F42;">03.</p>
+                            </div>
+                            <div>
+                                <p style="color:#000">{% trans "We have rolled out a localized integrated and dynamic international volunteer program for those seeking to experience Africa through service." %}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                        <div class="col-md-5 d-flex align-items-start">
+                            <div class=" text-dark flex-shrink-0 me-3">
+                                <!-- <img src="{% static 'images/service-process-7.svg' %}"> -->
+                                <p class="missionvisiontext" style="color:#014F42;">04.</p>
+                            </div>
+                            <div>
+                                <p style="color:#000">{% trans "We look out for the best interests of our clients with our unmatched supervision and implementation support." %}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br><br>
+    </div>
+</div>
+<!-- End of Mobile View -->
+
+<!-- Desktop View -->
+<div class="d-none d-sm-block">
+    <div style="background-color: #CC3E18;">
+        <br><br>
+        <div class="container p-5" style="max-width: 1380px;">
+            <div style="border-radius: 20px;background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+                <div style="padding:20px 80px;">
+                    <p class="service-title text-center" style="padding-top:60px;font-weight:bold;color: #000;">{% trans "Why Choose ELAN Dome Consultants" %}</p>
+                    <div class="row g-4 p-5">
+                        <div class="col-md-5 d-flex align-items-start">
+                            <div class=" text-dark flex-shrink-0 me-3">
+                                <!-- <img src="{% static 'images/service-process-7.svg' %}"> -->
+                                <p style="font-weight:bold;font-size:40px;line-height:48px;color:#014F42;">01.</p>
+                            </div>
+                            <div>
+                                <p style="color:#000">{% trans "Our efficient and experienced team members ensure that the journey of each participant turns out to be an incredible adventure." %}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                        <div class="col-md-5 d-flex align-items-start">
+                            <div class=" text-dark flex-shrink-0 me-3">
+                                <!-- <img src="{% static 'images/service-process-7.svg' %}"> -->
+                                <p style="font-weight:bold;font-size:40px;line-height:48px;color:#014F42;">02.</p>
+                            </div>
+                            <div>
+                                <p style="color:#000">{% blocktrans %}We offer a variety of programs tailored for diverse groups. The aim is to make a positive impact on the society and the participating 
+                                    individuals by instilling relevant skills and values.{% endblocktrans %}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-4 pt-2 pb-5 px-5">
+                        <div class="col-md-5 d-flex align-items-start">
+                            <div class=" text-dark flex-shrink-0 me-3">
+                                <!-- <img src="{% static 'images/service-process-7.svg' %}"> -->
+                                <p style="font-weight:bold;font-size:40px;line-height:48px;color:#014F42;">03.</p>
+                            </div>
+                            <div>
+                                <p style="color:#000">{% trans "We have rolled out a localized integrated and dynamic international volunteer program for those seeking to experience Africa through service." %}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                        <div class="col-md-5 d-flex align-items-start">
+                            <div class=" text-dark flex-shrink-0 me-3">
+                                <!-- <img src="{% static 'images/service-process-7.svg' %}"> -->
+                                <p style="font-weight:bold;font-size:40px;line-height:48px;color:#014F42;">04.</p>
+                            </div>
+                            <div>
+                                <p style="color:#000">{% trans "We look out for the best interests of our clients with our unmatched supervision and implementation support." %}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br><br>
+    </div>
+</div>
+<!-- End of Desktop View -->
+
+<div class="" style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <div class="container pb-5">
+        <br>
+        <p class="pt-5 pb-3 text-center about-banner-text" style="color:#000;">Our Team of Experts</p>
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-3">
+                <center><img src="{% static 'images/lavender.webp' %}"></center>
+                <p class="text-center pt-3" style="font-weight:bold">Awino Okore</p>
+                <p class="text-center" style="font-weight:bold">
+                    {% trans "Managing Director and Principal Consultant Partnerships and Corporate Affairs" %}
+                </p>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-8">
+                <p>
+                    {% blocktrans %}Awino is a seasoned Operations Lead with over five (5) years' experience in fast-paced 
+                    multi-sectoral organisations across multiple countries. She has excelled in providing strategic, 
+                    quality assurance, administrative, logistical, coordination and implementation support to high-level 
+                    executives and project teams with multiple tasks. She facilitates human centred design thinking and 
+                    challenge driven education workshops for faculty, corporate staff and university students.{% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}She has also  negotiated for partnerships, developed proposals and instituted partner stewardship programs 
+                    and has also been involved in data collection, classification, clean-up, knowledge management and governance 
+                    for various organizations. Some of the organizations she has worked in include: the Judiciary, Strathmore 
+                    University, Coalition of Blood for Africa, Pamoja CBO and ABE UK as an external quality assurer.{% endblocktrans %}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Mobile view -->
+<div class="d-block d-sm-none" style="background-color: #014F42;">
+    <div class="col-md-3 pt-3">
+        <center><img src="{% static 'images/sandra.webp' %}"></center>
+        <p class="text-center pt-3 text-white" style="font-weight:bold">Akinyi Aboge</p>
+        <p class="text-center text-white" style="font-weight:bold">
+            {% trans "Director & Lead Consultant: Business Development, PR, Marketing & Communications" %}
+        </p>
+    </div>
+    <div class="col-md-1"></div>
+    <div class="container pb-3">
+        <div class="row d-flex align-items-center">
+        <div class="col-md-8">
+            <p class="text-white">
+                {% blocktrans %}Akinyi is a design savvy and goal oriented professional with over three (3) years experience working in the BPO 
+                industry in different capacities within communications departments. She is driven and motivated to enhance business 
+                growth and develop beneficial networks. She is highly creative and has an eye for aesthetics and visual presentation. {% endblocktrans %}
+            </p>
+            <p class="text-white">
+                {% blocktrans %}She is passionate about streamlining processes through proper planning and execution and utilises her  diverse design 
+                background and strong organisational skills to increase efficiency, profitability and make an impact in all her engagements. 
+                Akinyi graduated with a Bachelor's Degree in Design from the University of Nairobi and is also an honorary member of the Public 
+                Relations Society of Kenya whose mandate is to advance excellence in Public Relations and Communication Management in Kenya.{% endblocktrans %}
+            </p>
+        </div>
+    </div>
+    </div>
+</div>
+<!-- End of Mobile View -->
+
+<!-- Desktop View -->
+<div class="d-none d-sm-block" style="background-color: #014F42;">
+    <div class="container py-5">
+        <div class="row pt-3 d-flex align-items-center">
+        <div class="col-md-8">
+            <p class="text-white">
+                {% blocktrans %}Akinyi is a design savvy and goal oriented professional with over three (3) years experience working in the BPO 
+                industry in different capacities within communications departments. She is driven and motivated to enhance business 
+                growth and develop beneficial networks. She is highly creative and has an eye for aesthetics and visual presentation. {% endblocktrans %}
+            </p>
+            <p class="text-white">
+                {% blocktrans %}She is passionate about streamlining processes through proper planning and execution and utilises her  diverse design 
+                background and strong organisational skills to increase efficiency, profitability and make an impact in all her engagements. 
+                Akinyi graduated with a Bachelor's Degree in Design from the University of Nairobi and is also an honorary member of the Public 
+                Relations Society of Kenya whose mandate is to advance excellence in Public Relations and Communication Management in Kenya.{% endblocktrans %}
+            </p>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-3">
+            <center><img src="{% static 'images/sandra.webp' %}"></center>
+            <p class="text-center pt-3 text-white" style="font-weight:bold">Akinyi Aboge</p>
+            <p class="text-center text-white" style="font-weight:bold">
+                {% trans "Director & Lead Consultant: Business Development, PR, Marketing & Communications" %}
+            </p>
+        </div>
+    </div>
+    </div>
+</div>
+<!-- End of Desktop View -->
+
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <div class="container py-5">
+        <div class="row pt-5 d-flex align-items-center">
+            <div class="col-md-3">
+                <center><img src="{% static 'images/newjudy_cropped.webp' %}"></center>
+                <p class="text-center pt-3" style="font-weight:bold">Judith Owuor</p>
+                <p class="text-center" style="font-weight:bold">
+                    {% trans "Director & Lead Consultant: Operational Management, Finance and Administration" %}
+                </p>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-8">
+                <p>
+                    {% blocktrans %}Judith is a finance and administration expert who is passionate about social impact. She has over 5 years 
+                    experience in working with adolescent Girls and young women including youths and 3 years experience in 
+                    leadership and management of community health programs. She has experience leading donor funded projects 
+                    and is accountable for making decisions, managing resources efficiently, achieving and sustaining high 
+                    performing teams while maintaining high ethical standards.{% endblocktrans %}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Mobile View -->
+<div class="d-block d-sm-none" style="background-color: #014F42;">
+    <div class="container py-5">
+        <p class="pt-3 pb-3 text-center about-banner-text text-white">{% trans "External Experts" %}</p>
+        <div class="row pt-3 d-flex align-items-center">
+            <div class="col-md-3">
+                <center><img src="{% static 'images/newmwaniki_cropped.webp' %}"></center>
+                <p class="text-center pt-3 text-white" style="font-weight:bold">Wangari Mwaniki</p>
+                <p class="text-center text-white" style="font-weight:bold">
+                    {% trans "Legal Advisory Consultant" %}
+                </p>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-8">
+                <p class="text-white">
+                    {% blocktrans %}Wangari is a confident and meticulous advocate of the High Court of Kenya with professional 
+                    experience in busy organisations such as the Kenya National Police Sacco and Equity Bank Kenya. 
+                    She has also worked in reputable law firms like Mwandwa Macharia & Mwangi Co Advocates and Macharia 
+                    Wa Muturi Co Advocates.{% endblocktrans %}
+                </p>
+                <p class="text-white">
+                    {% blocktrans %}Wangari is a mediator practising with The Judiciary of Kenya, an arbitrator and a member of the Chartered 
+                    Institute of Arbitrator UK and Kenya. She strives to be a well-rounded advocate who can effectively handle 
+                    diverse areas in the law, to develop a successful legal career founded on a good reputation, to be an 
+                    exceptionally sensitive and dedicated advocate and to ensure that justice is served to each member of the society.{% endblocktrans %}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End of Mobile View -->
+
+<!-- Desktop View -->
+<div class="d-none d-sm-block" style="background-color: #014F42;">
+    <div class="container py-5">
+        <p class="pt-3 pb-3 text-center about-banner-text text-white">{% trans "External Experts" %}</p>
+        <div class="row pt-3 d-flex align-items-center">
+            <div class="col-md-8">
+                <p class="text-white">
+                    {% blocktrans %}Wangari is a confident and meticulous advocate of the High Court of Kenya with professional 
+                    experience in busy organisations such as the Kenya National Police Sacco and Equity Bank Kenya. 
+                    She has also worked in reputable law firms like Mwandwa Macharia & Mwangi Co Advocates and Macharia 
+                    Wa Muturi Co Advocates.{% endblocktrans %}
+                </p>
+                <p class="text-white">
+                    {% blocktrans %}Wangari is a mediator practising with The Judiciary of Kenya, an arbitrator and a member of the Chartered 
+                    Institute of Arbitrator UK and Kenya. She strives to be a well-rounded advocate who can effectively handle 
+                    diverse areas in the law, to develop a successful legal career founded on a good reputation, to be an 
+                    exceptionally sensitive and dedicated advocate and to ensure that justice is served to each member of the society.{% endblocktrans %}
+                </p>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-3">
+                <center><img src="{% static 'images/newmwaniki_cropped.webp' %}"></center>
+                <p class="text-center pt-3 text-white" style="font-weight:bold">Wangari Mwaniki</p>
+                <p class="text-center text-white" style="font-weight:bold">
+                    {% trans "Legal Advisory Consultant" %}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End of Desktop View -->
+
+
+<!-- Mobile View -->
+<div class="d-block d-sm-none">
+    <div style="background-color: #CC3E18;">
+        <br><br>
+        <div class="container p-2">
+            <div class="row col-md-9 mx-auto">
+                <div style="border-radius: 20px;background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+                    <div>
+                        <p class="service-title text-center missionvisiontext pt-4">{% trans "Want to know more?" %}</p>
+                        <p class="text-center">Visit our <a href="{% url 'mainapp:contact' %}#faqs">FAQs</a></p>
+                        <p class="text-center" style="font-weight:bold">Or</p>
+                        <p class="pt-1 text-center">{% trans "Get in touch with us. Our team is happy to help you to answer any questions you may have." %}</p>
+                        <center>
+                            <a href="{% url 'mainapp:contact' %}">
+                                <button class="about-us-bottom-button" style="background-color: #014f42;">
+                                    <span class="about-us-bottom-button-text" style="color:white;font-weight:bold;">{% trans "Talk to Us" %}</span>
+                                </button>
+                            </a>
+                        </center>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br><br>
+    </div>
+</div>
+<!-- End of Mobile View -->
+
+<!-- Desktop View -->
+<div class="d-none d-sm-block" style="padding:24px;">
+    <div style="background-color: #CC3E18; border-radius:20px;">
+        <br><br>
+        <div class="container p-5">
+            <div class="row col-md-9 mx-auto">
+                <div style="border-radius: 20px;background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+                    <div style="padding:40px 80px;">
+                        <p class="service-title text-center" style="padding-top:20px;font-weight:bold;color: #000;">{% trans "Want to know more?" %}</p>
+                        <p class="text-center">Visit our <a href="{% url 'mainapp:contact' %}#faqs">FAQs</a></p>
+                        <p class="text-center" style="font-weight:bold">Or</p>
+                        <p class="pt-1 text-center">{% trans "Get in touch with us. Our team is happy to help you to" %} <br>{% trans "answer any questions you may have." %}</p>
+                        <br>
+                        <center>
+                            <a href="{% url 'mainapp:contact' %}">
+                                <button class="about-us-bottom-button" style="background-color: #014f42;">
+                                    <span class="about-us-bottom-button-text" style="color:white;font-weight:bold;">{% trans "Talk to Us" %}</span>
+                                </button>
+                            </a>
+                        </center>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br><br>
+    </div>
+</div>
+<!-- End of Desktop View -->
+
+<div>
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <br><br><br>
+    <div class="container">
+        <div class="row d-flex justify-content-between align-items-center">
+            
+            <div class="col-md-7">
+                <div class="d-flex justify-content-start">
+                    <div class="d-flex align-items-center">
+                        <p class="pl-5" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 40px;line-height: 48px;">{% trans "Subscribe to our Newsletter" %}</p>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-start">
+                    <p class="pl-5">{% trans "Subscribe to get more updates from us." %}</p>
+                </div>
+                
+            </div>
+            <div class="col-md-5 d-flex flex-nowrap justify-content-center">
+                <div class="d-flex align-items-center">
+                    <div class="d-flex align-items-center">
+                        <form class="input-group" method="post">
+                            {% csrf_token %}
+                            <input type="text" placeholder="Email" class="form-control" style="border-radius: 6px !important;">
+                            &nbsp;&nbsp;
+                            <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                                <span class="signin-text">{% trans "Subscribe" %}</span>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br><br><br>
+</div>
+{% include "mainapp/footer.html" %}
+{% endblock content %}

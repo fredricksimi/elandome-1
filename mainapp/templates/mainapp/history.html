@@ -1,0 +1,120 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% block content %}
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+<p class="d-none d-sm-block about-banner-text2 text-center pb-5" style="color:#000;padding-top:110px;">Our History</p>
+<p class="d-block d-sm-none missionvisiontext text-center pb-2" style="color:#000; padding-top: 90px;">Our History</p>
+    <div class="container">
+    <div class="row d-flex align-items-center">
+        <div class="col-md-6">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center align-items-center">
+                    <img src="{% static 'images/obc-bw.jpeg' %}" class="img-fluid" style="width:400px;height:auto;border-radius: 20px;">
+                </div>
+            </div>
+            <p class="text-center pt-3 small text-muted">{% trans "Okore Booker Charles as a student at the Starehe Boys Center where values of impact creation and community service were inculcated" %}</p>
+        </div>
+        <div class="col-md-6">
+            <p style="text-align: justify;">
+                {% blocktrans %}ELAN (Education, Learning and Networking) Dome Consultants was incorporated under the efforts of three 
+                young, ambitious and human centred design driven ladies who were seeking to make empathy the key informant 
+                of design, decisions and solutions for people and businesses aimed at the progress of Africa.{% endblocktrans %}
+            </p>
+            <p style="text-align: justify;">
+                {% blocktrans %}The founding partner of ELAN Dome draws deep inspiration from the intelligence, problem solving capability, 
+                mobilizing acumen and deep community service acts of her late father, Engineer Okore Booker Charles, OBC. He 
+                dedicated his life to fixing challenges, using his personal resources to support family, neighbours, friends, 
+                the community and strangers whenever he got the opportunity. He valued education, politics, farming, environmental 
+                preservation and human rights.{% endblocktrans %}
+            </p>
+        </div>
+    </div>
+    <div class="row d-flex align-items-center pt-3">
+        <div class="col-md-12">
+            <p style="text-align: justify;">
+                {% blocktrans %}His main target groups were the elderly, the poor, orphans, girls of school going age and the oppressed in the society. 
+                He was an ardent believer in the law as an instrument of seeking justice and achieving balance in the society. 
+                He constantly stepped in to oversee his friends' projects and manage teams on their behalf whenever they were away 
+                on international engagements, having resigned on a voluntary basis to dedicate his life to service.{% endblocktrans %}
+            </p>
+            <p style="text-align: justify;">
+                {% blocktrans %}This organization is deeply rooted in his values of sincerity, service, smart work, advocacy, diligence, strategy, 
+                impact achievement and celebration. The dome signifies a sense of coming together in a community set up like 
+                traditional African families did. They would gather in groups to talk about their issues, find solutions, share meals, 
+                support each other and build relationships.{% endblocktrans %} 
+            </p>
+            <p style="text-align: justify;">
+                {% blocktrans %}Engineer OBC had extensive networks and was able to strike new but formidable friendships by the first meeting, an attribute 
+                that resulted in his family receiving valuable support throughout his sickness, final demise and graceful send off. From this, 
+                the organization draws the value of networking, collaboration and cooperation in building functional ecosystems for individuals, 
+                groups and organizations.{% endblocktrans %}
+            </p>
+        </div>
+    </div>
+</div>
+</div>
+
+<br><br>
+<div style="background-color: #014F42;">
+    <br><br>
+    <div class="container">
+        <div class="row d-flex justify-content-between align-items-center">
+            <div class="col-md-5">
+                <div class="d-flex justify-content-center">
+                    <div class="d-flex align-items-center">
+                        <p class="d-block d-sm-none pl-5 missionvisiontext" style="color:#fff">{% trans "Want to know more?" %}</p>
+                        <p class="d-none d-sm-block pl-5" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 40px;line-height: 48px;color:#fff">{% trans "Want to know more?" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="d-flex justify-content-center">
+                    <div class="d-flex align-items-center">
+                        <button class="about-us-bottom-button">
+                            <span class="about-us-bottom-button-text" style="font-weight:bold">{% trans "Let's Talk" %}</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br><br>
+</div>
+<div>
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <br><br><br>
+    <div class="container">
+        <div class="row d-flex justify-content-between align-items-center">
+            
+            <div class="col-md-7">
+                <div class="d-flex justify-content-start">
+                    <div class="d-flex align-items-center">
+                        <p class="pl-5" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 40px;line-height: 48px;">{% trans "Subscribe to our Newsletter" %}</p>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-start">
+                    <p class="pl-5">{% trans "Subscribe to get more updates from us." %}</p>
+                </div>
+                
+            </div>
+            <div class="col-md-5 d-flex flex-nowrap justify-content-center">
+                <div class="d-flex align-items-center">
+                    <div class="d-flex align-items-center">
+                        <form class="input-group" method="post">
+                            {% csrf_token %}
+                            <input type="text" placeholder="Email" class="form-control" style="border-radius: 6px !important;">
+                            &nbsp;&nbsp;
+                            <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                                <span class="signin-text">{% trans "Subscribe" %}</span>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br><br><br>
+</div>
+{% include "mainapp/footer.html" %}
+{% endblock content %}

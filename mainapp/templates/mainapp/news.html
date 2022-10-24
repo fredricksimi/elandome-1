@@ -1,0 +1,63 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% block content %}
+<h3 class="text-center programs-page-title">News Page</h3>
+<div class="container pt-5">
+    <div class="card-group">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <a href="https://www.thecitizen.co.tz/tanzania/news/business/-how-the-diaspora-can-boost-east-african-trade-3973876" target="_blank">
+                    <img src="{% static 'images/ea-pic2.jpg' %}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <a href="https://www.thecitizen.co.tz/tanzania/news/business/-how-the-diaspora-can-boost-east-african-trade-3973876" style="text-decoration:none;color:#000;" target="_blank"><h5 class="card-title text-center" style="font-weight:bold">How the diaspora can boost East
+                            African trade</h5></a>
+                        <a href="https://www.thecitizen.co.tz/tanzania/news/business/-how-the-diaspora-can-boost-east-african-trade-3973876" style="text-decoration:none;color:#000;" target="_blank"><p class="card-text">The EAC was now wooing the diaspora to come and invest in the region saying
+                            the move will not only create employment opportunities, but it will as well boost trade in
+                            the region and Africa at large</p></a>
+                        <p class="card-text pt-3"><small class="text-muted">October 05, 2022.</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <a href="https://blog.campusgroups.com/campusgroups/2021/5/25/benefits-of-volunteering-for-college-students" target="_blank">
+                    <img src="https://images.squarespace-cdn.com/content/v1/515eba28e4b0ecbdd5ac1a2a/1629138576166-8H408ATH4JAQWS3BBAAQ/Benefits_of_college_student_volunteering.jpeg?format=750w"
+                        class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <a href="https://blog.campusgroups.com/campusgroups/2021/5/25/benefits-of-volunteering-for-college-students" style="text-decoration:none;color:#000;" target="_blank"><h5 class="card-title text-center" style="font-weight:bold;">Benefits of Volunteering for
+                            College Students</h5></a>
+                        <a href="https://gulfnews.com/special-reports/travel-to-africa-top-20-holiday-destinations-that-have-eased-covid-19-curbs-1.1666095494253" style="text-decoration:none;color:#000;" target="_blank"><p class="card-text">It's no secret that helping others and contributing to one's community
+                            through positive, impactful action makes people feel good. For college students, spending
+                            some time volunteering can be especially beneficial in a variety of ways.</p></a>
+                        <p class="card-text pt-3"><small class="text-muted">August 17, 2021.</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <a href="https://gulfnews.com/special-reports/travel-to-africa-top-20-holiday-destinations-that-have-eased-covid-19-curbs-1.1666095494253" target="_blank">
+                    <img src="https://imagevars.gulfnews.com/2022/10/18/Africa-travel---Main_183eb0b45d6_large.jpg"
+                        class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <a href="https://gulfnews.com/special-reports/travel-to-africa-top-20-holiday-destinations-that-have-eased-covid-19-curbs-1.1666095494253" target="_blank" style="text-decoration:none;color:#000;">
+                        <h5 class="card-title text-center" style="font-weight:bold">Travel to Africa: Top 20 holiday
+                            destinations that have eased COVID-19 curbs</h5></a>
+                        <a href="" target="_blank" style="text-decoration:none; color:#000;">
+                            <p class="card-text">Travel to Africa is easier now since most countries have done away with the
+                            RT-PCR tests before arrival. Several countries have removed the COVID-19 restrictions, but
+                            many countries insist on COVID-related documents. Not just that. The majority of countries
+                            have made it mandatory to wear face masks in indoor arenas and on public transport.</p></a>
+                        <p class="card-text pt-3"><small class="text-muted">October 18, 2022.</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br><br>
+{% include "mainapp/footer-alt.html" %}
+{% endblock content %}
