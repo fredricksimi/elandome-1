@@ -6,6 +6,16 @@
 <div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
 <p class="text-center contact-us-title">Contact Us</p>
 <div class="container">
+    <div class="col-md-7 mx-auto">
+        {% for message in messages %}
+        <div class="alert {{ message.tags }} alert-dismissible fade show" role="alert">
+            {{ message }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<div class="container">
     <div class="row pb-5">
         <div class="col-md-6">
             <form method="post">

@@ -2,6 +2,7 @@ from django.shortcuts import redirect, render
 from .forms import ContactPageForm, VolunteerApplicationForm
 from datetime import datetime, timezone
 from django.utils.translation import gettext as _
+from django.contrib import messages
 # Create your views here.
 
 def home_view(request):
@@ -22,6 +23,11 @@ def contact_view(request):
         form = ContactPageForm(request.POST or None)
         if form.is_valid():
             form.save()
+            redirect('mainapp:contact')
+            messages.success(request, 'Your details were submitted successfully!')
+            form = ContactPageForm()
+        else:
+            messages.warning(request, 'Please correct the errors below.')
     else:
         form = ContactPageForm()
     active = 'active'
@@ -55,7 +61,10 @@ def application_view(request):
         if form.is_valid():
             form.save()
             redirect('mainapp:application-form')
+            messages.success(request, 'Your details were submitted successfully!')
             form=VolunteerApplicationForm()
+        else:
+            messages.warning(request, 'Please correct the errors below.')
     else:
         form = VolunteerApplicationForm()
     active = 'active'

@@ -40,11 +40,15 @@
 <p class="text-center pb-4" style="font-weight:bold;color:#014f42;">Your names should match as they are in your passport</p>
 <div class="container">
     <div class="col-md-7 mx-auto">
-        <div class="alert alert-success" role="alert">
-            A simple success alert—check it out!
+        {% for message in messages %}
+        <div class="alert {{ message.tags }} alert-dismissible fade show" role="alert">
+            {{ message }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
+        {% endfor %}
     </div>
 </div>
+
 
 <div class="container">
     <form action="" method="post">
@@ -188,7 +192,6 @@
                 <label for="Health conditions, disabilities e.t.c" class="form-label">Health conditions, disabilities e.t.c</label>
                 {{form.health_conditions_disabilities|as_crispy_field}}
             </div>
-            
             <div class="col-md-6">
                 <label for="Personalized Preferrences" class="form-label">Personalized Preferrences</label>
                 {{form.personalized_preferrences|as_crispy_field}}
