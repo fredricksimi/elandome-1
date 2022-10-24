@@ -36,8 +36,8 @@
 });
 </script>
 <div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
-<p class="portfolio-page-title">Fill the form below</p>
-<p class="text-center pb-4" style="font-weight:bold;color:#014f42;">Your names should match as they are in your passport</p>
+<p class="portfolio-page-title">{% trans "Fill the form below" %}</p>
+<p class="text-center pb-4" style="font-weight:bold;color:#014f42;">{% trans "Your names should match as they are in your passport." %}</p>
 <div class="container">
     <div class="col-md-7 mx-auto">
         {% for message in messages %}
@@ -55,75 +55,75 @@
         {% csrf_token %}
         <div class="row">
             <div class="col-md-4">
-                <label for="First Name" class="form-label">First Name</label>
+                <label for="First Name" class="form-label">{% trans "First Name" %}</label>
                 {{form.first_name|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Last Name" class="form-label">Last Name</label>
+                <label for="Last Name" class="form-label">{% trans "Last Name" %}</label>
                 {{form.last_name|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Preferred Name" class="form-label">Preferred Name</label>
+                <label for="Preferred Name" class="form-label">{% trans "Preferred Name" %}</label>
                 {{form.preferred_name|as_crispy_field}}
             </div>
         </div>
 
         <div class="row pt-5">
             <div class="col-md-4">
-                <label for="Email" class="form-label">Email</label>
+                <label for="Email" class="form-label">{% trans "Email" %}</label>
                 {{form.email|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Street Address" class="form-label">Street Address</label>
+                <label for="Street Address" class="form-label">{% trans "Street Address" %}</label>
                 {{form.street_address|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="City" class="form-label">City</label>
+                <label for="City" class="form-label">{% trans "City" %}</label>
                 {{form.city|as_crispy_field}}
             </div>
         </div>
 
         <div class="row pt-5">
             <div class="col-md-4">
-                <label for="State/Province" class="form-label">State/Province</label>
+                <label for="State/Province" class="form-label">{% trans "State" %}/{% trans "Province" %}</label>
                 {{form.state_or_province|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Country of Origin" class="form-label">Country of Origin</label>
+                <label for="Country of Origin" class="form-label">{% trans "Country of Origin" %}</label>
                 {{form.country_of_origin|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Home Phone" class="form-label">Home Phone</label>
+                <label for="Home Phone" class="form-label">{% trans "Home Phone" %}</label>
                 {{form.home_phone|as_crispy_field}}
             </div>
         </div>
 
         <div class="row pt-5">
             <div class="col-md-4">
-                <label for="Mobile Phone" class="form-label">Mobile Phone</label>
+                <label for="Mobile Phone" class="form-label">{% trans "Mobile Phone" %}</label>
                 {{form.mobile_phone|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Office Tel." class="form-label">Office Tel.</label>
+                <label for="Office Tel." class="form-label">{% trans "Office Tel." %}</label>
                 {{form.office_tel|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Gender" class="form-label">Gender</label>
+                <label for="Gender" class="form-label">{% trans "Gender" %}</label>
                 {{form.gender|as_crispy_field}}
             </div>
         </div>
 
         <div class="row pt-5">
             <div class="col-md-4">
-                <label for="Date of Birth" class="form-label">Date of Birth</label>
+                <label for="Date of Birth" class="form-label">{% trans "Date of Birth" %}</label>
                 {{form.date_of_birth|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Nationality" class="form-label">Nationality</label>
+                <label for="Nationality" class="form-label">{% trans "Nationality" %}</label>
                 {{form.nationality|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Preferred Program" class="form-label">Preferred Program</label>
+                <label for="Preferred Program" class="form-label">{% trans "Preferred Program" %}</label>
                 {{form.preferred_program|as_crispy_field}}
             </div>
         </div>
@@ -131,23 +131,23 @@
         
         <div class="row pt-5" id="emergencycontact">
             <br><br>
-            <p style="font-weight:bold">Emergency Contact</p>
+            <p style="font-weight:bold">{% trans "Emergency Contact" %}</p>
             <div class="col-md-4">
-                <label for="Full Name" class="form-label">Full Name</label>
+                <label for="Full Name" class="form-label">{% trans "Full Name" %}</label>
                 {{form.emergency_contact_full_name|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Telephone No." class="form-label">Telephone No.</label>
+                <label for="Telephone No." class="form-label">{% trans "Telephone No." %}</label>
                 {{form.emergency_contact_telephone_no|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Residential Address" class="form-label">Residential Address</label>
+                <label for="Residential Address" class="form-label">{% trans "Residential Address" %}</label>
                 {{form.emergency_contact_residential_address|as_crispy_field}}
             </div>
         </div>
         <div class="row pt-3" id="relationship">
             <div class="col-md-4">
-                <label for="Relationship" class="form-label">Relationship</label>
+                <label for="Relationship" class="form-label">{% trans "Relationship" %}</label>
                 {{form.emergency_contact_relationship|as_crispy_field}}
             </div>
         </div>
@@ -155,23 +155,23 @@
         
         <div class="row pt-5" id="refereecontact">
             <br><br>
-            <p style="font-weight:bold">Referee Contact</p>
+            <p style="font-weight:bold">{% trans "Referee Contact" %}</p>
             <div class="col-md-4">
-                <label for="Full Name" class="form-label">Full Name</label>
+                <label for="Full Name" class="form-label">{% trans "Full Name" %}</label>
                 {{form.referee_contact_full_name|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Organization" class="form-label">Organization</label>
+                <label for="Organization" class="form-label">{% trans "Organization" %}</label>
                 {{form.referee_contact_organization|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Telephone No." class="form-label">Telephone No.</label>
+                <label for="Telephone No." class="form-label">{% trans "Telephone No." %}</label>
                 {{form.referee_contact_telephone_no|as_crispy_field}}
             </div>
         </div>
         <div class="row pt-3" id="workaddress">
             <div class="col-md-4">
-                <label for="Work Address" class="form-label">Work Address</label>
+                <label for="Work Address" class="form-label">{% trans "Work Address" %}</label>
                 {{form.referee_contact_work_address|as_crispy_field}}
             </div>
         </div>
@@ -179,7 +179,7 @@
         
         <div class="row pt-5" id="educationfield">
             <br><br>
-            <p style="font-weight:bold">Your Education / Experience</p>
+            <p style="font-weight:bold">{% trans "Your Education" %} / {% trans "Experience" %}</p>
             <div class="col-12">
                 {{form.education_or_experience|as_crispy_field}}
             </div>
@@ -189,58 +189,58 @@
         <div class="row pt-5" id="health">
             <br><br>
             <div class="col-md-6">
-                <label for="Health conditions, disabilities e.t.c" class="form-label">Health conditions, disabilities e.t.c</label>
+                <label for="Health conditions, disabilities e.t.c" class="form-label">{% trans "Health conditions, disabilities e.t.c." %}</label>
                 {{form.health_conditions_disabilities|as_crispy_field}}
             </div>
             <div class="col-md-6">
-                <label for="Personalized Preferrences" class="form-label">Personalized Preferrences</label>
+                <label for="Personalized Preferrences" class="form-label">{% trans "Personalized Preferrences" %}</label>
                 {{form.personalized_preferrences|as_crispy_field}}
             </div>
         </div>
 
         <div class="row pt-5" id="travelpax">
             <div class="col-md-4">
-                <label for="Travel Pax" class="form-label">Travel Pax</label>
+                <label for="Travel Pax" class="form-label">{% trans "Travel Pax" %}</label>
                 {{form.travel_pack|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Preferred Package" class="form-label">Preferred Package</label>
+                <label for="Preferred Package" class="form-label">{% trans "Preferred Package" %}</label>
                 {{form.preferred_package|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Duration of stay" class="form-label">Duration of stay</label>
+                <label for="Duration of stay" class="form-label">{% trans "Duration of stay" %}</label>
                 {{form.duration_of_stay|as_crispy_field}}
             </div>
         </div>
 
         <div class="row pt-5" id="city">
             <div class="col-md-4">
-                <label for="Preferred City" class="form-label">Preferred City</label>
+                <label for="Preferred City" class="form-label">{% trans "Preferred City" %}</label>
                 {{form.preferred_city|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="When would you like to travel?" class="form-label">When would you like to travel?</label>
+                <label for="When would you like to travel?" class="form-label">{% trans "When would you like to travel?" %}</label>
                 {{form.date_of_travel|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Do you require further information?" class="form-label">Do you require further information?</label>
+                <label for="Do you require further information?" class="form-label">{% trans "Do you require further information?" %}</label>
                 {{form.do_you_require_further_information|as_crispy_field}}
             </div>
         </div>
         <div class="row pt-5" id="heard">
             <div class="col-md-4">
-                <label for="How did you hear about us?" class="form-label">How did you hear about us?</label>
+                <label for="How did you hear about us?" class="form-label">{% trans "How did you hear about us?" %}</label>
                 {{form.how_did_you_hear_about_us|as_crispy_field}}
             </div>
             <div class="col-md-4">
-                <label for="Any other comments" class="form-label">Any other comments</label>
+                <label for="Any other comments" class="form-label">{% trans "Any other comments" %}</label>
                 {{form.any_other_comments|as_crispy_field}}
             </div>
         </div>
         <br><br>
         <div class="pt-4 pb-5 d-flex justify-content-center">
             <button class="volunteer-application-form-div-button">
-                <span class="volunteer-application-form-div-button-text" style="font-weight: bold;">Submit</span>
+                <span class="volunteer-application-form-div-button-text" style="font-weight: bold;">{% trans "Submit" %}</span>
             </button>
         </div>
     </form>

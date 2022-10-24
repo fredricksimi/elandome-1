@@ -3,8 +3,8 @@
 {% load i18n %}
 {% block content %}
 <div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
-<p class="d-none d-sm-block about-banner-text2 text-center pb-5" style="color:#000;padding-top:110px;">Our History</p>
-<p class="d-block d-sm-none missionvisiontext text-center pb-2" style="color:#000; padding-top: 90px;">Our History</p>
+<p class="d-none d-sm-block about-banner-text2 text-center pb-5" style="color:#000;padding-top:110px;">{% trans "Our History" %}</p>
+<p class="d-block d-sm-none missionvisiontext text-center pb-2" style="color:#000; padding-top:110px;">{% trans "Our History" %}</p>
     <div class="container">
     <div class="row d-flex align-items-center">
         <div class="col-md-6">
@@ -71,9 +71,11 @@
             <div class="col-md-3">
                 <div class="d-flex justify-content-center">
                     <div class="d-flex align-items-center">
-                        <button class="about-us-bottom-button">
-                            <span class="about-us-bottom-button-text" style="font-weight:bold">{% trans "Let's Talk" %}</span>
-                        </button>
+                        <a href="{% url 'mainapp:contact' %}" style="text-decoration:none;">
+                            <button class="about-us-bottom-button">
+                                <span class="about-us-bottom-button-text" style="font-weight:bold">{% trans "Let's Talk" %}</span>
+                            </button>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -105,7 +107,7 @@
                             {% csrf_token %}
                             <input type="text" placeholder="Email" class="form-control" style="border-radius: 6px !important;">
                             &nbsp;&nbsp;
-                            <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <button type="submit disabled" disabled class="signin-button" style="border-radius:6px !important;">
                                 <span class="signin-text">{% trans "Subscribe" %}</span>
                             </button>
                         </form>

@@ -54,10 +54,10 @@
         <div class="col-md-1"></div>
         <div class="col-md-6">
             <p class="wewithyoutext">
-                We are a goal oriented outsourcing consultancy firm that strives to optimize collaborative partnerships and provide carefully curated programs while stating result oriented.
+                {% trans "We are a goal oriented outsourcing consultancy firm that strives to optimize collaborative partnerships and provide carefully curated programs while stating result oriented." %}
             </p>
             <p class="wewithyoutext">
-                Our team is driven to do what's right and help you realize your vision. We believe in generating success collaboratively, delivering great results after every engagement, and building trust for the next big challenge.
+                {% trans "Our team is driven to do what's right and help you realize your vision. We believe in generating success collaboratively, delivering great results after every engagement, and building trust for the next big challenge." %}
             </p>
         </div>
     </div>
@@ -96,9 +96,11 @@
             <div class="col-md-7">
                 <p class="text-center programs-text pt-4">{% trans "Investment supervision, coordination and implementation" %}</p>
                 <p>
-                    {% blocktrans %}We provide guidance and advice to individuals, groups and institutions about their investments and how to 
+                    {% blocktrans %}
+                    We provide guidance and advice to individuals, groups and institutions about their investments and how to 
                     safeguard their interests and attain positive results. We further monitor the activities of these investments 
-                    to ensure that there's full accountability and clarity on the utilisation of resources.{% endblocktrans %} 
+                    to ensure that there's full accountability and clarity on the utilisation of resources.
+                    {% endblocktrans %} 
                 </p>
                 <p>
                     {% blocktrans %}
@@ -155,8 +157,10 @@
             <div class="col-md-7">
                 <p class="text-center programs-text pt-4">{% trans "Workshops & Training" %}</p>
                 <p class="pt-3">
-                    {% blocktrans %}We design, recruit, facilitate, assess, tailormake and report on extra ordinary workshops, team building  and training initiatives for 
-                    teams and organizations. Our primary focus is on:{% endblocktrans %}
+                    {% blocktrans %}
+                    We design, recruit, facilitate, assess, tailormake and report on extra ordinary workshops, team building  and training initiatives for 
+                    teams and organizations. Our primary focus is on:
+                    {% endblocktrans %}
                 </p>
                 <p>
                     a) {% trans "Management i.e crisis management, change management, conflict management and overall team management." %}
@@ -217,7 +221,7 @@
                 </div>
             </div>
             <div class="col-md-7">
-                <p class="text-center programs-text pt-4">Volunteer Services</p>
+                <p class="text-center programs-text pt-4">{% trans "Volunteer Services" %}</p>
                 <p class="pt-3">
                     {% blocktrans %}The OBC volunteer program was created in honor of the Late Engineer Okore Booker Charles. This program has been carefully curated to 
                     reflect and inculcate the values that he lived by throughout his life in community service and social impact.{% endblocktrans %} 
@@ -229,7 +233,7 @@
                 <a href="{% url 'mainapp:programs' %}#volunteer">
                     <center>
                         <button type="submit" class="signin-button" style="border-radius:6px !important;">
-                            <span class="signin-text">Learn More</span>
+                            <span class="signin-text">{% trans "Learn More" %}</span>
                         </button>
                     </center>
                 </a>
@@ -265,7 +269,7 @@
                 <a href="{% url 'mainapp:programs' %}#investment">
                     <center>
                         <button type="submit" class="signin-button" style="border-radius:6px !important;">
-                            <span class="signin-text">Learn More</span>
+                            <span class="signin-text">{% trans "Learn More" %}</span>
                         </button>
                     </center>
                 </a>
@@ -291,7 +295,7 @@
                 <a href="{% url 'mainapp:programs' %}#project-management">
                     <center>
                         <button type="submit" class="signin-button" style="border-radius:6px !important;">
-                            <span class="signin-text">Learn More</span>
+                            <span class="signin-text">{% trans "Learn More" %}</span>
                         </button>
                     </center>
                 </a>
@@ -364,11 +368,11 @@
         <div class="container py-3">
             <div class="row d-flex align-items-center">
                 <div class="col-md-7">
-                    <p class="accountabilitytext">We are all about accountability and convenience. Curious?</p>
+                    <p class="accountabilitytext">{% trans "We are all about accountability and convenience. Curious?" %}</p>
                 </div>
                 <div class="col-md-5 pt-3 pb-3 d-flex justify-content-center">
                     <a href="{% url 'mainapp:contact' %}">
-                        <button class="" style="padding:20px 42px;background-color: #CC3E18;color:#fff;border: none;"><span style="font-weight: bold;">LET'S TALK</span></button>
+                        <button class="" style="padding:20px 42px;background-color: #CC3E18;color:#fff;border: none;"><span style="font-weight: bold;">{% trans "LET'S TALK" %}</span></button>
                     </a>
                 </div>
             </div>
@@ -381,11 +385,11 @@
         <div class="container py-5">
             <div class="row d-flex align-items-center">
                 <div class="col-md-7">
-                    <p class="accountabilitytext">We are all about accountability and convenience. Curious?</p>
+                    <p class="accountabilitytext">{% trans "We are all about accountability and convenience. Curious?" %}</p>
                 </div>
                 <div class="col-md-5 d-flex justify-content-center">
                     <a href="{% url 'mainapp:contact' %}">
-                        <button class="" style="padding:20px 42px;background-color: #CC3E18;color:#fff;border: none;"><span style="font-weight: bold;">LET'S TALK</span></button>
+                        <button class="" style="padding:20px 42px;background-color: #CC3E18;color:#fff;border: none;"><span style="font-weight: bold;">{% trans "LET'S TALK" %}</span></button>
                     </a>
                 </div>
             </div>

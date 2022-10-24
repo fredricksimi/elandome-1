@@ -40,7 +40,7 @@
 </div>
 <div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
     <div class="container">
-        <p class="pt-5 pb-3 text-center about-banner-text aboutelandome" style="color:#014f42;">About ELAN Dome Consultants</p>
+        <p class="pt-5 pb-3 text-center about-banner-text aboutelandome" style="color:#014f42;">{% trans "About ELAN Dome Consultants" %}</p>
         <p class="text-center">
             {% blocktrans %}ELAN (Education, Learning and Networking) Dome Consultants is an Africa based, bred 
             and youth-led social & corporate outsourcing consultancy firm that strives to reshape the path of social 
@@ -89,7 +89,7 @@
                     <p class="missionvisiondescription">
                         {% trans "Optimized logistical support, cultural experiences and fulfillment to the stakeholders." %}
                     </p>
-                    <p class="pt-3 missionvisiontext">Primary Goal</p>
+                    <p class="pt-3 missionvisiontext">{% trans "Primary Goal" %}</p>
                     <p class="missionvisiondescription">{% trans "To facilitate a seamless and targeted positioning of individuals, families, groups and institutions in local but impactful initiatives in Africa." %}</p>
                 </div>
             </div>
@@ -104,7 +104,7 @@
                     <p class="missionvisiondescription">
                         {% trans "Optimized logistical support, cultural experiences and fulfillment to the stakeholders." %}
                     </p>
-                    <p class="pt-5 missionvisiontext">Primary Goal</p>
+                    <p class="pt-5 missionvisiontext">{% trans "Primary Goal" %}</p>
                     <p class="missionvisiondescription">{% trans "To facilitate a seamless and targeted positioning of individuals, families, groups and institutions in local but impactful initiatives in Africa." %}</p>
                 </div>
                 <div class="col-md-1"></div>
@@ -247,7 +247,7 @@
 <div class="" style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
     <div class="container pb-5">
         <br>
-        <p class="pt-5 pb-3 text-center about-banner-text" style="color:#000;">Our Team of Experts</p>
+        <p class="pt-5 pb-3 text-center about-banner-text" style="color:#000;">{% trans "Our Team of Experts" %}</p>
         <div class="row pt-5 d-flex align-items-center">
             <div class="col-md-3">
                 <center><img src="{% static 'images/lavender.webp' %}"></center>
@@ -439,7 +439,7 @@
                 <div style="border-radius: 20px;background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
                     <div>
                         <p class="service-title text-center missionvisiontext pt-4">{% trans "Want to know more?" %}</p>
-                        <p class="text-center">Visit our <a href="{% url 'mainapp:contact' %}#faqs">FAQs</a></p>
+                        <p class="text-center">{% trans "Visit our" %} <a href="{% url 'mainapp:contact' %}#faqs">FAQs</a></p>
                         <p class="text-center" style="font-weight:bold">Or</p>
                         <p class="pt-1 text-center">{% trans "Get in touch with us. Our team is happy to help you to answer any questions you may have." %}</p>
                         <center>
@@ -468,7 +468,7 @@
                 <div style="border-radius: 20px;background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
                     <div style="padding:40px 80px;">
                         <p class="service-title text-center" style="padding-top:20px;font-weight:bold;color: #000;">{% trans "Want to know more?" %}</p>
-                        <p class="text-center">Visit our <a href="{% url 'mainapp:contact' %}#faqs">FAQs</a></p>
+                        <p class="text-center">{% trans "Visit our" %} <a href="{% url 'mainapp:contact' %}#faqs">FAQs</a></p>
                         <p class="text-center" style="font-weight:bold">Or</p>
                         <p class="pt-1 text-center">{% trans "Get in touch with us. Our team is happy to help you to" %} <br>{% trans "answer any questions you may have." %}</p>
                         <br>
@@ -512,7 +512,7 @@
                             {% csrf_token %}
                             <input type="text" placeholder="Email" class="form-control" style="border-radius: 6px !important;">
                             &nbsp;&nbsp;
-                            <button type="submit" class="signin-button" style="border-radius:6px !important;">
+                            <button type="submit disabled" disabled class="signin-button" style="border-radius:6px !important;">
                                 <span class="signin-text">{% trans "Subscribe" %}</span>
                             </button>
                         </form>

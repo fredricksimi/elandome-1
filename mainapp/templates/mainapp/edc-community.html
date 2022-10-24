@@ -4,7 +4,7 @@
 {% block content %}
 <div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
 <p class="d-none d-sm-block about-banner-text2 text-center pb-5" style="color:#000;padding-top:110px;">{% trans "EDC Community" %}</p>
-<p class="d-block d-sm-none missionvisiontext text-center pb-2" style="color:#000; padding-top: 90px;">{% trans "EDC Community" %}</p>
+<p class="d-block d-sm-none missionvisiontext text-center pb-2" style="color:#000; padding-top:110px;">{% trans "EDC Community" %}</p>
 <div class="container">
     <div class="row">
         <div class="col-md-4">
@@ -95,14 +95,14 @@
         </div>
     </div>
     <div class="pt-5">
-        <h2 class="text-center pb-3 missionvisiontext" style="color:#000;">Be a part of our community</h2><br>
-        <p class="text-center">Are you interested in joining our community as a volunteer, mentor or a partner?</p>
-        <p class="text-center">Drop us an email at <a href="mailto:info@elandome.org">info@elandome.org</a>, we will send you more information and guide you through your  journey with<br> ELAN Dome Consultants.</p>
+        <h2 class="text-center pb-3 missionvisiontext" style="color:#000;">{% trans "Be a part of our community" %}</h2><br>
+        <p class="text-center">{% trans "Are you interested in joining our community as a volunteer, mentor or a partner?" %}</p>
+        <p class="text-center">{% trans "Drop us an email at" %} <a href="mailto:info@elandome.org">info@elandome.org</a>, {% trans "we will send you more information and guide you through your  journey with" %}<br> {% trans "ELAN Dome Consultants." %}</p>
         <br><br>
         <p class="text-center">
             <a href="{% url 'mainapp:application-form' %}">
                 <button class="signin-button" style="padding: 8px 30px;">
-                    <span class="signin-text" style="font-weight: bold;">Sign up today</span>
+                    <span class="signin-text" style="font-weight: bold;">{% trans "Sign up today" %}</span>
                 </button>
             </a>
         </p>

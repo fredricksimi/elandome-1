@@ -4,7 +4,7 @@
 <nav class="navbar navbar-expand-lg bg-white fixed-top py-2">
     <div class="container">
         <a class="navbar-brand" href="#">
-            <img src="{% static 'images/elandomelogo.png' %}" alt="elandome logo" style="height:50px;width:auto"/>
+            <img src="{% static 'images/elandomelogo.png' %}" alt="elandome logo" style="height:70px;width:auto"/>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,14 +29,11 @@
                 <li class="nav-item">
                     <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:services' %}">{% trans "Services" %}</a>
                 </li>
-                <!-- <li class="nav-item">
-                    <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:portfolio' %}">{% trans "Portfolio" %}</a>
-                </li> -->
                 <li class="nav-item">
                     <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:programs' %}">{% trans "Programs" %}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:news' %}">News</a>
+                    <a class="nav-link px-2 navlinkbold {{active}}" href="{% url 'mainapp:news' %}">{% trans "News" %}</a>
                 </li>
                 <li class="nav-item">
                     <a class="d-grid d-md-block " href="{% url 'mainapp:application-form' %}" style="text-decoration: none;color:#fff;">
