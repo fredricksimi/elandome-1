@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-19 17:11+0300\n"
+"POT-Creation-Date: 2022-10-26 06:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,70 +18,81 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: mainapp/templates/mainapp/about.html:12
+#: mainapp/templates/mainapp/about.html:22
+#: mainapp/templates/mainapp/about.html:33
 msgid "Get to know about us and our journey."
 msgstr "Apprenez à nous connaître et à connaître notre parcours."
 
-#: mainapp/templates/mainapp/about.html:14
+#: mainapp/templates/mainapp/about.html:24
+#: mainapp/templates/mainapp/about.html:35
 msgid ""
 "Get acquainted with our team and understand how we work and proceed towards "
 "success."
 msgstr ""
-"Familiarisez-vous avec notre équipe et comprenez comment nous travaillons et progressons vers le"
-"succès."
+"Familiarisez-vous avec notre équipe et comprenez comment nous travaillons et procédons vers "
+"Succès."
 
-#: mainapp/templates/mainapp/about.html:24
+#: mainapp/templates/mainapp/about.html:43
+msgid "About ELAN Dome Consultants"
+msgstr "À propos de ELAN Dôme Consultants"
+
+#: mainapp/templates/mainapp/about.html:45
 msgid ""
-"ELAN Dome Consultants is an Africa based, bred and led educational, social "
-"& \n"
-"            corporate outsourcing consultancy firm that strives to reshape "
-"the path of \n"
-"            global education and international business engagements for "
-"students, individuals \n"
-"            and institutions interested in integrating international "
-"experience and community \n"
-"            service by offering high-quality international volunteer and "
-"service-learning engagements."
+"\n"
+"            ELAN (Education, Learning and Networking) Dome Consultants is an "
+"Africa based, bred \n"
+"            and youth-led social & corporate outsourcing consultancy firm "
+"that strives to reshape the path of social \n"
+"            service and international business engagements for students, "
+"individuals and institutions interested \n"
+"            in integrating international experience and community service by "
+"offering high-quality international \n"
+"            volunteer and service-learning engagements.\n"
+"            "
 msgstr ""
-"ELAN Dome Consultants est une société éducative, sociale, créée et dirigée en Afrique "
-"et \n"
-"            société de conseil en externalisation d'entreprise qui s'efforce de remodeler "
-"le chemin de \n"
-"            l'éducation mondiale et les engagements commerciaux internationaux pour"
-"étudiants, particuliers \n"
-"            et les institutions intéressées par l'intégration internationale "
-"expérience et communauté \n"
-"            service en offrant un volontariat international de haute qualité et "
-"engagements d'apprentissage par le service."
+"\n"
+"            ELAN (Education, Learning and Networking) Dome Consultants est un "
+"Basé en Afrique, élevé \n"
+"            et société de conseil en externalisation sociale et d'entreprise dirigée par des jeunes "
+"qui s'efforce de remodeler le chemin de la société \n"
+"            des engagements de service et d'affaires internationales pour les étudiants, "
+"personnes et institutions intéressées \n"
+"            à intégrer l'expérience internationale et le service communautaire en "
+"offrant des services internationaux de haute qualité \n"
+"            engagements de bénévolat et d'apprentissage par le service.\n"
+"            "
 
-#: mainapp/templates/mainapp/about.html:31
+#: mainapp/templates/mainapp/about.html:54
 msgid ""
-"Additionally, ELAN Dome Consultants offers strategic advisory services, "
-"organizational \n"
-"            programming, project management, external quality assurance "
-"checks, curriculum research \n"
-"            and development and international students collaboration "
-"projects. Our aim is to increase \n"
-"            quality education accessibility and enhance the success rate for "
-"Africa based interventions \n"
-"            by promoting cultural exchange and holistic learning."
+"\n"
+"            Additionally, ELAN Dome Consultants offers supervision and "
+"implementation support services, \n"
+"            organizational programming, project management, external quality "
+"assurance checks, curriculum research and \n"
+"            development and international students collaboration projects. "
+"Our aim is to enhance impactful initiatives \n"
+"            in Africa by promoting cultural exchange, reliable investment in "
+"projects and holistic learning for local \n"
+"            citizens in the diaspora and the international community.\n"
+"            "
 msgstr ""
-"De plus, ELAN Dome Consultants propose des services de conseil stratégique, "
-"organisationnel \n"
-"            programmation, gestion de projet, assurance qualité externe "
-"vérifications, recherche de programmes \n"
-"            et le développement et la collaboration des étudiants internationaux "
-"projects. Our aim is to increase \n"
-"            l'accessibilité à une éducation de qualité et améliorer le taux de réussite"
-"Interventions basées en Afrique \n"
-"            en favorisant les échanges culturels et l'apprentissage holistique."
+"\n"
+"            De plus, ELAN Dome Consultants offre une supervision et "
+"services d'aide à la mise en œuvre, \n"
+"            programmation organisationnelle, gestion de projet, qualité externe "
+"vérifications d'assurance, recherche de programmes et \n"
+"            projets de développement et de collaboration d'étudiants internationaux. "
+"Notre objectif est de valoriser les initiatives impactantes \n"
+"            en Afrique en promouvant les échanges culturels, des investissements fiables dans "
+"projets et apprentissage holistique pour les \n"
+"            citoyens de la diaspora et de la communauté internationale.\n"
+"            "
 
-
-#: mainapp/templates/mainapp/about.html:46
+#: mainapp/templates/mainapp/about.html:72
 msgid "Our Mission"
-msgstr "Notre Mission"
+msgstr "Notre mission"
 
-#: mainapp/templates/mainapp/about.html:49
+#: mainapp/templates/mainapp/about.html:75
 msgid ""
 "To match prospective individuals and institutions with communities and "
 "organizations through global networking and partnerships."
@@ -89,26 +100,35 @@ msgstr ""
 "Mettre en relation des personnes et des institutions potentielles avec des communautés et "
 "organisations par le biais de réseaux et de partenariats mondiaux."
 
-#: mainapp/templates/mainapp/about.html:51
+#: mainapp/templates/mainapp/about.html:77
 msgid "Our Vision"
 msgstr "Notre vision"
 
-#: mainapp/templates/mainapp/about.html:52
+#: mainapp/templates/mainapp/about.html:78
 msgid "Experiential learning beyond borders"
 msgstr "Apprentissage expérientiel au-delà des frontières"
 
-#: mainapp/templates/mainapp/about.html:58
+#: mainapp/templates/mainapp/about.html:91
+#: mainapp/templates/mainapp/about.html:106
 msgid "Client Focus Goal"
-msgstr "Objectif Axé sur le Client"
+msgstr "Objectif axé sur le client"
 
-#: mainapp/templates/mainapp/about.html:61
+#: mainapp/templates/mainapp/about.html:94
+#: mainapp/templates/mainapp/about.html:109
 msgid ""
 "Optimized logistical support, cultural experiences and fulfillment to the "
 "stakeholders."
-msgstr "Soutien logistique optimisé, expériences culturelles et épanouissement des "
+msgstr ""
+"Soutien logistique optimisé, expériences culturelles et épanouissement au "
 "parties prenantes."
 
-#: mainapp/templates/mainapp/about.html:64
+#: mainapp/templates/mainapp/about.html:96
+#: mainapp/templates/mainapp/about.html:111
+msgid "Primary Goal"
+msgstr "Objectif principal"
+
+#: mainapp/templates/mainapp/about.html:97
+#: mainapp/templates/mainapp/about.html:112
 msgid ""
 "To facilitate a seamless and targeted positioning of individuals, families, "
 "groups and institutions in local but impactful initiatives in Africa."
@@ -116,11 +136,13 @@ msgstr ""
 "Pour faciliter un positionnement homogène et ciblé des individus, familles, "
 "groupes et institutions dans des initiatives locales mais percutantes en Afrique."
 
-#: mainapp/templates/mainapp/about.html:92
+#: mainapp/templates/mainapp/about.html:132
+#: mainapp/templates/mainapp/about.html:191
 msgid "Why Choose ELAN Dome Consultants"
 msgstr "Pourquoi choisir les consultants ELAN Dome"
 
-#: mainapp/templates/mainapp/about.html:100
+#: mainapp/templates/mainapp/about.html:139
+#: mainapp/templates/mainapp/about.html:199
 msgid ""
 "Our efficient and experienced team members ensure that the journey of each "
 "participant turns out to be an incredible adventure."
@@ -128,19 +150,20 @@ msgstr ""
 "Les membres de notre équipe, efficaces et expérimentés, s'assurent que le parcours de chacun "
 "participant s'avère être une aventure incroyable."
 
-#: mainapp/templates/mainapp/about.html:111
+#: mainapp/templates/mainapp/about.html:149
 msgid ""
 "We offer a variety of programs tailored for diverse groups. The aim is to "
 "make a positive impact on the society and the participating \n"
-"                                individuals by instilling relevant skills "
-"and values."
+"                                    individuals by instilling relevant "
+"skills and values."
 msgstr ""
 "Nous offrons une variété de programmes adaptés à divers groupes. Le but est de "
 "avoir un impact positif sur la société et les participants \n"
-"                                individus en leur inculquant des compétences pertinentes \n"
-"et valeurs."
+"                                    individus en leur inculquant "
+"compétences et valeurs."
 
-#: mainapp/templates/mainapp/about.html:124
+#: mainapp/templates/mainapp/about.html:161
+#: mainapp/templates/mainapp/about.html:225
 msgid ""
 "We have rolled out a localized integrated and dynamic international "
 "volunteer program for those seeking to experience Africa through service."
@@ -148,24 +171,48 @@ msgstr ""
 "Nous avons déployé un réseau international localisé, intégré et dynamique "
 "programme de volontariat pour ceux qui cherchent à découvrir l'Afrique à travers le service."
 
-#: mainapp/templates/mainapp/about.html:135
+#: mainapp/templates/mainapp/about.html:171
+#: mainapp/templates/mainapp/about.html:235
 msgid ""
-"We transform communities through impactful volunteer engagements and "
-"resource mobilizations."
+"We look out for the best interests of our clients with our unmatched "
+"supervision and implementation support."
 msgstr ""
-"Nous transformons les communautés grâce à des engagements bénévoles percutants et "
-"mobilisations de ressources."
+"Nous recherchons les meilleurs intérêts de nos clients avec notre inégalée "
+"supervision et appui à la mise en œuvre."
 
-#: mainapp/templates/mainapp/about.html:154
+#: mainapp/templates/mainapp/about.html:211
+msgid ""
+"\n"
+"                                    We offer a variety of programs tailored "
+"for diverse groups. The aim is to make a positive impact on the society and "
+"the participating \n"
+"                                    individuals by instilling relevant "
+"skills and values.\n"
+"                                    "
+msgstr ""
+"\n"
+"                                    Nous offrons une variété de programmes adaptés "
+"pour divers groupes. L'objectif est d'avoir un impact positif sur la société et "
+"le participant \n"
+"                                    individus en leur inculquant "
+"compétences et valeurs.\n"
+"                                    "
+
+#: mainapp/templates/mainapp/about.html:251
+msgid "Our Team of Experts"
+msgstr "Notre équipe d'experts"
+
+#: mainapp/templates/mainapp/about.html:257
 msgid ""
 "Managing Director and Principal Consultant Partnerships and Corporate Affairs"
 msgstr ""
 "Directeur général et consultant principal Partenariats et affaires corporatives"
 
-#: mainapp/templates/mainapp/about.html:160
+#: mainapp/templates/mainapp/about.html:263
 msgid ""
-"Lavender is a seasoned Operations Lead with over five (5) years' experience "
-"in fast-paced \n"
+"\n"
+"                    Awino is a seasoned Operations Lead with over five (5) "
+"years' experience in fast-paced \n"
 "                    multi-sectoral organisations across multiple countries. "
 "She has excelled in providing strategic, \n"
 "                    quality assurance, administrative, logistical, "
@@ -173,80 +220,48 @@ msgid ""
 "                    executives and project teams with multiple tasks. She "
 "facilitates human centred design thinking and \n"
 "                    challenge driven education workshops for faculty, "
-"corporate staff and university students."
+"corporate staff and university students.\n"
+"                    "
 msgstr ""
-"Lavender est une responsable des opérations chevronnée avec plus de cinq (5) ans d'expérience "
-"au rythme effréné \n"
-"                    organisations multisectorielles dans plusieurs pays."
+"\n"
+"                    Awino est un responsable des opérations chevronné avec plus de cinq (5) "
+"ans d'expérience dans le rythme rapide \n"
+"                    organisations multisectorielles dans plusieurs pays. "
 "Elle a excellé dans la prestation de services stratégiques, \n"
-"                    assurance qualité, administratif, logistique,"
+"                    assurance qualité, administratif, logistique, "
 "soutien à la coordination et à la mise en œuvre \n"
-"                    cadres et équipes de projet aux tâches multiples. Elle"
+"                    cadres et équipes de projet aux tâches multiples. Elle "
 "facilite la pensée de conception centrée sur l'humain et \n"
-"                    des ateliers d'éducation axés sur les défis pour les professeurs,"
-"personnel d'entreprise et étudiants universitaires."
+"                    des ateliers d'éducation axés sur les défis pour les professeurs, "
+"personnel d'entreprise et étudiants universitaires.\n"
+"                    "
 
-
-#: mainapp/templates/mainapp/about.html:167
+#: mainapp/templates/mainapp/about.html:272
 msgid ""
-"She has also  negotiated for partnerships, developed proposals and "
-"instituted partner stewardship programs \n"
+"\n"
+"                    She has also  negotiated for partnerships, developed "
+"proposals and instituted partner stewardship programs \n"
 "                    and has also been involved in data collection, "
 "classification, clean-up, knowledge management and governance \n"
 "                    for various organizations. Some of the organizations she "
 "has worked in include: the Judiciary, Strathmore \n"
 "                    University, Coalition of Blood for Africa, Pamoja CBO "
-"and ABE UK as an external quality assurer."
+"and ABE UK as an external quality assurer.\n"
+"                    "
 msgstr ""
-"Elle a également négocié des partenariats, élaboré des propositions et "
-"mis en place des programmes d'intendance des partenaires \n"
+"\n"
+"                    Elle a également négocié des partenariats, développé "
+"propositions et institué des programmes d'intendance des partenaires \n"
 "                    et a également participé à la collecte de données, "
 "classification, nettoyage, gestion des connaissances et gouvernance \n"
 "                    pour divers organismes. Certaines des organisations qu'elle "
 "a travaillé dans : la magistrature, Strathmore \n"
 "                    Université, Coalition of Blood for Africa, Pamoja CBO "
-"et ABE UK en tant qu'assureur qualité externe."
+"et ABE UK en tant qu'assureur qualité externe.\n"
+"                    "
 
-
-#: mainapp/templates/mainapp/about.html:182
-msgid ""
-"Akinyi is a design savvy and goal oriented professional with over three (3) "
-"years experience working in the BPO \n"
-"                industry in different capacities within communications "
-"departments. She is driven and motivated to enhance business \n"
-"                growth and develop beneficial networks. She is highly "
-"creative and has an eye for aesthetics and visual presentation. "
-msgstr ""
-"Akinyi est un professionnel du design et orienté vers les objectifs avec plus de trois (3) "
-"ans d'expérience dans le BPO \n"
-"                l'industrie à différents titres au sein des communications "
-"départements. Elle est motivée et motivée pour améliorer les affaires \n"
-"                croissance et développer des réseaux bénéfiques. Elle est hautement "
-"créatif et a le sens de l'esthétique et de la présentation visuelle. "
-
-#: mainapp/templates/mainapp/about.html:187
-msgid ""
-"She is passionate about streamlining processes through proper planning and "
-"execution and utilises her  diverse design \n"
-"                background and strong organisational skills to increase "
-"efficiency, profitability and make an impact in all her engagements. \n"
-"                Akinyi graduated with a Bachelor's Degree in Design from the "
-"University of Nairobi and is also an honorary member of the Public \n"
-"                Relations Society of Kenya whose mandate is to advance "
-"excellence in Public Relations and Communication Management in Kenya."
-msgstr ""
-"Elle est passionnée par la rationalisation des processus grâce à une bonne planification et "
-"exécution et utilise sa conception diversifiée \n"
-"                expérience et de solides compétences organisationnelles pour augmenter "
-"efficacité, rentabilité et avoir un impact dans tous ses engagements. \n"
-"                Akinyi est titulaire d'un baccalauréat en design de la "
-"Université de Nairobi et est également membre honoraire du Public \n"
-"                Relations Society of Kenya dont le mandat est de faire progresser "
-"excellence en relations publiques et gestion de la communication au Kenya."
-
-
-
-#: mainapp/templates/mainapp/about.html:198
+#: mainapp/templates/mainapp/about.html:290
+#: mainapp/templates/mainapp/about.html:344
 msgid ""
 "Director & Lead Consultant: Business Development, PR, Marketing & "
 "Communications"
@@ -254,7 +269,52 @@ msgstr ""
 "Directeur et consultant principal: développement des affaires, relations publiques, marketing et "
 "Communication"
 
-#: mainapp/templates/mainapp/about.html:211
+#: mainapp/templates/mainapp/about.html:298
+#: mainapp/templates/mainapp/about.html:324
+msgid ""
+"\n"
+"                Akinyi is a design savvy and goal oriented professional with "
+"over three (3) years experience working in the BPO \n"
+"                industry in different capacities within communications "
+"departments. She is driven and motivated to enhance business \n"
+"                growth and develop beneficial networks. She is highly "
+"creative and has an eye for aesthetics and visual presentation.\n"
+"                "
+msgstr ""
+"\n"
+"                Akinyi est un professionnel avisé en matière de conception et axé sur les objectifs avec "
+"plus de trois (3) ans d'expérience de travail dans le BPO \n"
+"                l'industrie à différents titres au sein des communications "
+"départements. Elle est motivée et motivée pour améliorer les affaires \n"
+"                croissance et développer des réseaux bénéfiques. Elle est hautement "
+"créatif et a le sens de l'esthétique et de la présentation visuelle.\n"
+"                "
+
+#: mainapp/templates/mainapp/about.html:305
+#: mainapp/templates/mainapp/about.html:331
+msgid ""
+"\n"
+"                She is passionate about streamlining processes through "
+"proper planning and execution and utilises her  diverse design \n"
+"                background and strong organisational skills to increase "
+"efficiency, profitability and make an impact in all her engagements. \n"
+"                Akinyi graduated with a Bachelor's Degree in Design from the "
+"University of Nairobi and is also an honorary member of the Public \n"
+"                Relations Society of Kenya whose mandate is to advance "
+"excellence in Public Relations and Communication Management in Kenya.\n"
+"                "
+msgstr ""
+"\n"
+"                Elle est passionnée par la rationalisation des processus grâce à "
+"une planification et une exécution appropriées et utilise sa conception diversifiée \n"
+"                expérience et de solides compétences organisationnelles pour augmenter "
+"efficacité, rentabilité et avoir un impact dans tous ses engagements. \n"
+"                Akinyi est titulaire d'un baccalauréat en design de la "
+"Université de Nairobi et est également membre honoraire du Public \n"
+"                Relations Society of Kenya dont le mandat est de faire progresser "
+"excellence en relations publiques et gestion de la communication au Kenya.\n"
+"                "
+#: mainapp/templates/mainapp/about.html:359
 msgid ""
 "Director & Lead Consultant: Operational Management, Finance and "
 "Administration"
@@ -262,430 +322,1087 @@ msgstr ""
 "Directeur & Consultant principal : Gestion opérationnelle, Finance et "
 "Administration"
 
-#: mainapp/templates/mainapp/about.html:217
+#: mainapp/templates/mainapp/about.html:365
 msgid ""
-"Judith is a finance and administration expert who is passionate about social "
-"impact. She has over 5 years \n"
+"\n"
+"                    Judith is a finance and administration expert who is "
+"passionate about social impact. She has over 5 years \n"
 "                    experience in working with adolescent Girls and young "
 "women including youths and 3 years experience in \n"
-"                    leadership and management of community health programs. "
-"She has experience leading donor funded projects \n"
-"                    and is accountable for making decisions, managing "
-"resources efficiently, achieving and sustaining high \n"
-"                    performing teams while maintaining high ethical "
-"standards."
+"                    leadership and management of community health programs.\n"
+"                    "
 msgstr ""
-"Judith est une experte en finance et en administration passionnée par le social "
-"impact. Elle a plus de 5 ans \n"
+"\n"
+"                    Judith est une experte en finances et en administration qui "
+"passionné par l'impact social. Elle a plus de 5 ans \n"
 "                    expérience de travail avec des adolescentes et des jeunes "
 "femmes y compris les jeunes et 3 ans d'expérience dans \n"
-"                    direction et gestion des programmes de santé communautaire. "
-"Elle a de l'expérience dans la direction de projets financés par des donateurs \n"
-"                    et est responsable de la prise de décisions, de la gestion "
-"efficacement les ressources, en atteignant et en maintenant des niveaux élevés \n"
-"                    des équipes performantes tout en gardant un haut niveau éthique"
-"normes."
+"                    direction et gestion des programmes de santé communautaire.\n"
+"                    "
 
-#: mainapp/templates/mainapp/about.html:230
+#: mainapp/templates/mainapp/about.html:372
+msgid ""
+"\n"
+"                    She has experience leading donor funded projects and is "
+"accountable for making decisions, managing resources efficiently, achieving "
+"and sustaining high \n"
+"                    performing teams while maintaining high ethical "
+"standards. She is very passionate about self development and personal "
+"growth. She loves working and \n"
+"                    mentoring the youths to learn thrive and lead in "
+"different capacities. She believes in mentorship and coaching to help the "
+"youth attain self actualization.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Elle a de l'expérience dans la direction de projets financés par des donateurs et est "
+"responsable de la prise de décisions, de la gestion efficace des ressources, de la réalisation "
+"et maintien élevé \n"
+"                    des équipes performantes tout en gardant un haut niveau éthique "
+"normes. Elle est très passionnée par le développement personnel et personnel "
+"croissance. Elle aime travailler et \n"
+"                    encadrer les jeunes pour qu'ils apprennent à s'épanouir et à diriger "
+"capacités différentes. Elle croit au mentorat et au coaching pour aider les "
+"les jeunes s'épanouissent.\n"
+"                    "
+
+#: mainapp/templates/mainapp/about.html:386
+#: mainapp/templates/mainapp/about.html:422
 msgid "External Experts"
 msgstr "Experts externes"
 
-#: mainapp/templates/mainapp/about.html:234
+#: mainapp/templates/mainapp/about.html:392
+#: mainapp/templates/mainapp/about.html:447
+msgid "Legal Advisory Consultant"
+msgstr "Conseiller Juridique"
+
+#: mainapp/templates/mainapp/about.html:398
+#: mainapp/templates/mainapp/about.html:426
 msgid ""
-"Faith is a confident and highly meticulous advocate of the High Court of "
-"Kenya with professional \n"
+"\n"
+"                    Wangari is a confident and meticulous advocate of the "
+"High Court of Kenya with professional \n"
 "                    experience in busy organisations such as the Kenya "
 "National Police Sacco and Equity Bank Kenya. \n"
 "                    She has also worked in reputable law firms like Mwandwa "
-"Macharia & Mwangi Co Advocates and Macahria \n"
-"                    Wa Muturi Co Advocates."
+"Macharia & Mwangi Co Advocates and Macharia \n"
+"                    Wa Muturi Co Advocates.\n"
+"                    "
 msgstr ""
+"\n"
+"                    Wangari est un défenseur confiant et méticuleux de la "
+"Haute Cour du Kenya avec des professionnels \n"
+"                    expérience dans des organisations actives telles que le Kenya "
+"Police nationale Sacco et Equity Bank Kenya. \n"
+"                    Elle a également travaillé dans des cabinets d'avocats réputés comme Mwandwa "
+"Macharia & Mwangi Co Advocates et Macharia \n"
+"                    Les avocats de Wa Muturi Co.\n"
+"                    "
 
-#: mainapp/templates/mainapp/about.html:240
+#: mainapp/templates/mainapp/about.html:406
+#: mainapp/templates/mainapp/about.html:434
 msgid ""
-"Faith is a mediator practising with The Judiciary of Kenya, an arbitrator "
-"and a member of the Chartered \n"
+"\n"
+"                    Wangari is a mediator practising with The Judiciary of "
+"Kenya, an arbitrator and a member of the Chartered \n"
 "                    Institute of Arbitrator UK and Kenya. She strives to be "
 "a well-rounded advocate who can effectively handle \n"
 "                    diverse areas in the law, to develop a successful legal "
 "career founded on a good reputation, to be an \n"
 "                    exceptionally sensitive and dedicated advocate and to "
-"ensure that justice is served to each member of the society."
+"ensure that justice is served to each member of the society.\n"
+"                    "
 msgstr ""
-"Faith est médiatrice exerçant auprès de la magistrature du Kenya, arbitre "
-"et membre de la Charte \n"
+"\n"
+"                    Wangari est un médiateur exerçant auprès de la magistrature de "
+"Kenya, arbitre et membre du Chartered \n"
 "                    Institute of Arbitrator Royaume-Uni et Kenya. Elle s'efforce d'être "
-"un avocat bien équilibré qui peut gérer efficacement \n"
+"un avocat bien équilibré qui peut gérer efficacement\n"
 "                    divers domaines du droit, pour développer un système juridique efficace "
 "carrière fondée sur une bonne réputation, être un \n"
 "                    avocat exceptionnellement sensible et dévoué et à "
-"veiller à ce que justice soit rendue à chaque membre de la société."
+"                    "
 
-#: mainapp/templates/mainapp/about.html:251
-msgid "Legal Advisory Consultant"
-msgstr "Conseiller Juridique"
-
-#: mainapp/templates/mainapp/about.html:264
-#: mainapp/templates/mainapp/history.html:83
+#: mainapp/templates/mainapp/about.html:464
+#: mainapp/templates/mainapp/about.html:493
+#: mainapp/templates/mainapp/history.html:76
+#: mainapp/templates/mainapp/history.html:77
 msgid "Want to know more?"
 msgstr "Vouloir en savoir davantage?"
 
-#: mainapp/templates/mainapp/about.html:266
+#: mainapp/templates/mainapp/about.html:465
+#: mainapp/templates/mainapp/about.html:494
+msgid "Visit our"
+msgstr "Visitez notre"
+
+#: mainapp/templates/mainapp/about.html:467
+msgid ""
+"Get in touch with us. Our team is happy to help you to answer any questions "
+"you may have."
+msgstr ""
+"Prenez contact avec nous. Notre équipe est heureuse de vous aider à répondre à toutes vos questions "
+"vous pouvez avoir."
+
+#: mainapp/templates/mainapp/about.html:471
+#: mainapp/templates/mainapp/about.html:501
+msgid "Talk to Us"
+msgstr "Parle-nous"
+
+#: mainapp/templates/mainapp/about.html:496
 msgid "Get in touch with us. Our team is happy to help you to"
 msgstr "Prenez contact avec nous. Notre équipe est heureuse de vous aider à"
 
-#: mainapp/templates/mainapp/about.html:266
+#: mainapp/templates/mainapp/about.html:496
 msgid "answer any questions you may have."
 msgstr "répondre à toutes les questions que vous pourriez avoir."
 
-#: mainapp/templates/mainapp/about.html:270
-#: mainapp/templates/mainapp/history.html:91
-msgid "Contact Us"
-msgstr "Nous contacter"
-
-#: mainapp/templates/mainapp/about.html:290
-#: mainapp/templates/mainapp/history.html:109
+#: mainapp/templates/mainapp/about.html:523
+#: mainapp/templates/mainapp/history.html:105
 msgid "Subscribe to our Newsletter"
 msgstr "Abonnez-vous à notre newsletter"
 
-#: mainapp/templates/mainapp/about.html:294
-#: mainapp/templates/mainapp/history.html:113
+#: mainapp/templates/mainapp/about.html:527
+#: mainapp/templates/mainapp/history.html:109
 msgid "Subscribe to get more updates from us."
 msgstr "Abonnez-vous pour recevoir plus de mises à jour de notre part."
 
-#: mainapp/templates/mainapp/about.html:306
-#: mainapp/templates/mainapp/history.html:125
+#: mainapp/templates/mainapp/about.html:539
+#: mainapp/templates/mainapp/history.html:121
 msgid "Subscribe"
 msgstr "S'abonner"
 
-#: mainapp/templates/mainapp/contact.html:16
-msgid "FULL NAME"
-msgstr "NOM ET PRÉNOM"
+#: mainapp/templates/mainapp/application-form.html:39
+msgid "Fill the form below"
+msgstr "Remplissez le formulaire ci-dessous"
 
-#: mainapp/templates/mainapp/contact.html:20
-msgid "EMAIL"
-msgstr "E-MAIL"
+#: mainapp/templates/mainapp/application-form.html:40
+msgid "Your names should match as they are in your passport."
+msgstr "Vos noms doivent correspondre tels qu'ils figurent sur votre passeport."
 
-#: mainapp/templates/mainapp/contact.html:26
-msgid "SUBJECT"
-msgstr "MATIÈRE"
+#: mainapp/templates/mainapp/application-form.html:58
+msgid "First Name"
+msgstr "Prénom"
 
-#: mainapp/templates/mainapp/contact.html:32
-msgid "MESSAGE"
-msgstr "MESSAGE"
+#: mainapp/templates/mainapp/application-form.html:62
+msgid "Last Name"
+msgstr "Nom de famille"
 
-#: mainapp/templates/mainapp/contact.html:38
-msgid "Submit"
-msgstr "Soumettre"
+#: mainapp/templates/mainapp/application-form.html:66
+msgid "Preferred Name"
+msgstr "nom préféré"
 
-#: mainapp/templates/mainapp/contact.html:65
-msgid "Phone"
-msgstr "Téléphoner"
-
-#: mainapp/templates/mainapp/contact.html:74
+#: mainapp/templates/mainapp/application-form.html:73
+#: mainapp/templates/mainapp/contact.html:287
 msgid "Email"
 msgstr "E-mail"
 
-#: mainapp/templates/mainapp/contact.html:82
+#: mainapp/templates/mainapp/application-form.html:77
+msgid "Street Address"
+msgstr "Adresse de rue"
+
+#: mainapp/templates/mainapp/application-form.html:81
+msgid "City"
+msgstr "Ville"
+
+#: mainapp/templates/mainapp/application-form.html:88
+msgid "State"
+msgstr "État"
+
+#: mainapp/templates/mainapp/application-form.html:88
+msgid "Province"
+msgstr "Province"
+
+#: mainapp/templates/mainapp/application-form.html:92
+msgid "Country of Origin"
+msgstr "Pays d'origine"
+
+#: mainapp/templates/mainapp/application-form.html:96
+msgid "Home Phone"
+msgstr "Téléphone fixe"
+
+#: mainapp/templates/mainapp/application-form.html:103
+msgid "Mobile Phone"
+msgstr "Téléphone mobile"
+
+#: mainapp/templates/mainapp/application-form.html:107
+msgid "Office Tel."
+msgstr "Bureau Tél."
+
+#: mainapp/templates/mainapp/application-form.html:111
+msgid "Gender"
+msgstr "Le genre"
+
+#: mainapp/templates/mainapp/application-form.html:118
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+#: mainapp/templates/mainapp/application-form.html:122
+msgid "Nationality"
+msgstr "Nationalité"
+
+#: mainapp/templates/mainapp/application-form.html:126
+msgid "Preferred Program"
+msgstr "Programme préféré"
+
+#: mainapp/templates/mainapp/application-form.html:134
+msgid "Emergency Contact"
+msgstr "Personne à contacter en cas d'urgence"
+
+#: mainapp/templates/mainapp/application-form.html:136
+#: mainapp/templates/mainapp/application-form.html:160
+msgid "Full Name"
+msgstr "Nom et prénom"
+
+#: mainapp/templates/mainapp/application-form.html:140
+#: mainapp/templates/mainapp/application-form.html:168
+msgid "Telephone No."
+msgstr "N ° de téléphone."
+
+#: mainapp/templates/mainapp/application-form.html:144
+msgid "Residential Address"
+msgstr "Adresse résidentielle"
+
+#: mainapp/templates/mainapp/application-form.html:150
+msgid "Relationship"
+msgstr "Relation"
+
+#: mainapp/templates/mainapp/application-form.html:158
+msgid "Referee Contact"
+msgstr "Coordonnées de l'arbitre"
+
+#: mainapp/templates/mainapp/application-form.html:164
+msgid "Organization"
+msgstr "Organisme"
+
+#: mainapp/templates/mainapp/application-form.html:174
+msgid "Work Address"
+msgstr "Adresse professionnelle"
+
+#: mainapp/templates/mainapp/application-form.html:182
+msgid "Your Education"
+msgstr "Votre éducation"
+
+#: mainapp/templates/mainapp/application-form.html:182
+msgid "Experience"
+msgstr "Vivre"
+
+#: mainapp/templates/mainapp/application-form.html:192
+msgid "Health conditions, disabilities e.t.c."
+msgstr "Conditions de santé, handicaps, etc."
+
+#: mainapp/templates/mainapp/application-form.html:196
+msgid "Personalized Preferrences"
+msgstr "Préférences personnalisées"
+
+#: mainapp/templates/mainapp/application-form.html:203
+msgid "Travel Pax"
+msgstr "Voyageur"
+
+#: mainapp/templates/mainapp/application-form.html:207
+msgid "Preferred Package"
+msgstr "Forfait préféré"
+
+#: mainapp/templates/mainapp/application-form.html:211
+msgid "Duration of stay"
+msgstr "La durée du séjour"
+
+#: mainapp/templates/mainapp/application-form.html:218
+msgid "Preferred City"
+msgstr "Ville préférée"
+
+#: mainapp/templates/mainapp/application-form.html:222
+msgid "When would you like to travel?"
+msgstr "Quand aimerais-tu voyager?"
+
+#: mainapp/templates/mainapp/application-form.html:226
+msgid "Do you require further information?"
+msgstr "Avez-vous besoin de plus d'informations?"
+
+#: mainapp/templates/mainapp/application-form.html:232
+msgid "How did you hear about us?"
+msgstr "Comment avez-vous entendu parler de nous?"
+
+#: mainapp/templates/mainapp/application-form.html:236
+msgid "Any other comments"
+msgstr "D'autres commentaires"
+
+#: mainapp/templates/mainapp/application-form.html:243
+#: mainapp/templates/mainapp/contact.html:48
+msgid "Submit"
+msgstr "Soumettre"
+
+#: mainapp/templates/mainapp/contact.html:7
+#: mainapp/templates/mainapp/footer.html:9
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+#: mainapp/templates/mainapp/contact.html:26
+msgid "FULL NAME"
+msgstr "NOM ET PRÉNOM"
+
+#: mainapp/templates/mainapp/contact.html:30
+msgid "EMAIL"
+msgstr "E-MAIL"
+
+#: mainapp/templates/mainapp/contact.html:36
+msgid "SUBJECT"
+msgstr "SUJET"
+
+#: mainapp/templates/mainapp/contact.html:42
+msgid "MESSAGE"
+msgstr "MESSAGE"
+
+#: mainapp/templates/mainapp/contact.html:67
+msgid "How much time do I need to volunteer?"
+msgstr "De combien de temps ai-je besoin pour faire du bénévolat?"
+
+#: mainapp/templates/mainapp/contact.html:73
+msgid ""
+"\n"
+"                            ELAN Dome Consultants prides itself in creating "
+"volunteer schedules based on the desires \n"
+"                            of our clients. We offer volunteer opportunities "
+"for both short term and long term periods \n"
+"                            and this is left to the discretion  of the "
+"volunteer. For instance, you can volunteer for a \n"
+"                            week, two weeks, a month and even a year.\n"
+"                            "
+msgstr ""
+"\n"
+"                            ELAN Dome Consultants est fier de créer "
+"horaires des bénévoles en fonction des envies \n"
+"                            de nos clients. Nous offrons des opportunités de bénévolat "
+"pour des périodes à court et à long terme "
+"                            et cela est laissé à la discrétion du "
+"bénévole. Par exemple, vous pouvez vous porter volontaire pour un \n"
+"                            semaine, deux semaines, un mois et même un an.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:86
+msgid "Will I get training before I volunteer?"
+msgstr "Vais-je suivre une formation avant de faire du bénévolat?"
+
+#: mainapp/templates/mainapp/contact.html:92
+msgid ""
+"\n"
+"                            You will go through a very insightful "
+"orientation process for all the organizations and \n"
+"                            institutions that you volunteer in which will "
+"give you a better understanding of how they \n"
+"                            operate and how best to apply yourself.\n"
+"                            "
+msgstr ""
+"\n"
+"                            Vous passerez par une très perspicace "
+"processus d'orientation pour toutes les organisations et \n"
+"                            institutions dans lesquelles vous faites du bénévolat et qui "
+"vous permettre de mieux comprendre comment ils \n"
+"                            fonctionner et la meilleure façon de vous appliquer.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:104
+msgid "How old do I have to be to volunteer?"
+msgstr "Quel âge dois-je avoir pour faire du bénévolat?"
+
+#: mainapp/templates/mainapp/contact.html:110
+msgid ""
+"\n"
+"                            We have no age limits for volunteering. "
+"Volunteers below the age of 18 will have to be \n"
+"                            accompanied by a parent or a guardian and have "
+"properly documented consent to participate \n"
+"                            in our various volunteer programs.\n"
+"                            "
+msgstr ""
+"\n"
+"                            Nous n'avons pas de limite d'âge pour faire du bénévolat. "
+"Les bénévoles de moins de 18 ans devront être \n"
+"                            accompagné d'un parent ou d'un tuteur et avoir "
+"consentement dûment documenté à participer \n"
+"                            dans nos divers programmes de bénévolat.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:122
+msgid "Do I need qualifications?"
+msgstr "Ai-je besoin de qualifications ?"
+
+#: mainapp/templates/mainapp/contact.html:128
+msgid ""
+"\n"
+"                            Some of our volunteering opportunities require "
+"qualifications. Our healthcare volunteer \n"
+"                            programs are fully based on our volunteers "
+"healthcare background and training for proper \n"
+"                            records of the same will have to be submitted to "
+"ensure effective placement. If particular \n"
+"                            qualifications are needed this will be stated in "
+"our pre engagement sessions.\n"
+"                            "
+msgstr ""
+"\n"
+"                            Certaines de nos opportunités de volontariat nécessitent "
+"qualifications. Notre bénévole de la santé \n"
+"                            les programmes reposent entièrement sur nos bénévoles "
+"expérience en soins de santé et formation pour une bonne \n"
+"                            les enregistrements de la même chose devront être soumis à "
+"assurer un placement efficace. Si particulier \n"
+"                            des qualifications sont nécessaires, cela sera indiqué dans "
+"nos séances pré fiançailles.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:141
+msgid "Can I get a qualification or an award?"
+msgstr "Puis-je obtenir une qualification ou un prix?"
+
+#: mainapp/templates/mainapp/contact.html:147
+msgid ""
+"\n"
+"                            Our volunteers get several benefits from their "
+"volunteering journey ranging from a resume \n"
+"                            that stands out, transforming communities, "
+"exploring and cultivating interest areas, a safe and convenient way to \n"
+"                            travel abroad with adequate assistance and "
+"finally getting the opportunity to take on a \n"
+"                            new adventure. ELAN Dome also offers  a valuable "
+"certificate of completion to all volunteers \n"
+"                            along with access to a wide network of "
+"volunteers, program coordinators, local organizations, \n"
+"                            and support staff.\n"
+"                            "
+msgstr ""
+"\n"
+"                            Nos bénévoles tirent plusieurs avantages de leur "
+"parcours de volontariat allant d'un CV \n"
+"                            qui se démarque, transformant les communautés, "
+"explorer et cultiver des domaines d'intérêt, un moyen sûr et pratique de \n"
+"                            voyager à l'étranger avec une assistance adéquate et "
+"avoir enfin l'opportunité d'assumer un \n"
+"                            nouvelle aventure. ELAN Dome offre également un précieux "
+"certificat d'achèvement à tous les bénévoles \n"
+"                            ainsi que l'accès à un vaste réseau de "
+"bénévoles, coordonnateurs de programmes, organismes locaux, \n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:162
+msgid "What else can I do during my volunteering journey?"
+msgstr "Que puis-je faire d'autre pendant mon parcours de volontariat ?"
+
+#: mainapp/templates/mainapp/contact.html:168
+msgid ""
+"\n"
+"                            Aside from volunteering and helping underserved "
+"communities, we create avenues where our \n"
+"                            volunteers can make more memories through "
+"leisure activities.Some of these activities include:\n"
+"                            "
+msgstr ""
+"\n"
+"                            En plus de faire du bénévolat et d'aider les personnes mal desservies "
+"communautés, nous créons des avenues où nos \n"
+"                            les bénévoles peuvent créer plus de souvenirs grâce à "
+"activités de loisirs.Certaines de ces activités comprennent:\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:173
+msgid "Taking  Weekend Trips (beach visits, hiking, camping)"
+msgstr "Faire des voyages le week-end (visites à la plage, randonnées, camping)"
+
+#: mainapp/templates/mainapp/contact.html:174
+msgid "Sampling local cuisine"
+msgstr "Goûter à la cuisine locale"
+
+#: mainapp/templates/mainapp/contact.html:175
+msgid "Safari drives in local game parks and reserves"
+msgstr "Safari conduit dans les parcs et réserves de gibier locaux"
+
+#: mainapp/templates/mainapp/contact.html:184
+msgid "How long do the workshops and trainings take?"
+msgstr "Combien de temps durent les ateliers et les formations ?"
+
+#: mainapp/templates/mainapp/contact.html:191
+msgid ""
+"\n"
+"                                This is left to the discretion of the "
+"client. ELAN Dome is very passionate about tailor \n"
+"                                making the workshop and training program. We "
+"structure them after carefully understanding \n"
+"                                the needs of our clients so as to ensure "
+"that positive outcomes are realized.\n"
+"                                "
+msgstr ""
+"\n"
+"                                Ceci est laissé à la discrétion du "
+"client. ELAN Dome est très passionné par le tailleur \n"
+"                                réalisation de l'atelier et du programme de formation. Nous "
+"les structurer après avoir bien compris \n"
+"                                les besoins de nos clients afin d'assurer "
+"que des résultats positifs sont obtenus.\n"
+"                                "
+#: mainapp/templates/mainapp/contact.html:204
+msgid "How can I keep tabs on my investment?"
+msgstr "Comment puis-je garder un œil sur mon investissement ?"
+
+#: mainapp/templates/mainapp/contact.html:211
+msgid ""
+"\n"
+"                                ELAN Dome strives to enhance accountability "
+"and clarity for all our investment supervision \n"
+"                                activities. We make our clients part of the "
+"journey even when they are away in different \n"
+"                                countries so that at every particular "
+"juncture they are fully aware of what actions are being \n"
+"                                taken with regards to their investment.\n"
+"                                "
+msgstr ""
+"\n"
+"                                ELAN Dome s'efforce d'améliorer la responsabilité "
+"et de la clarté pour tous nos suivis d'investissement \n"
+"                                activités. Nous faisons de nos clients une partie de "
+"voyage même lorsqu'ils sont absents dans différents \n"
+"                                pays afin qu'à chaque "
+"moment où ils sont pleinement conscients des actions en cours \n"
+"                                prises au regard de leur investissement.\n"
+"                                "
+#: mainapp/templates/mainapp/contact.html:225
+msgid "What project management approach do you use?"
+msgstr "Quelle approche de gestion de projet utilisez-vous?"
+
+#: mainapp/templates/mainapp/contact.html:232
+msgid ""
+"\n"
+"                                ELAN Dome's project management approaches "
+"are fully pegged and influenced by the kind of project we are \n"
+"                                tasked with at any given time. Please reach "
+"out to us about a specific project and we will be able to \n"
+"                                give a detailed overview of the approach\n"
+"                                "
+msgstr ""
+"\n"
+"                                Les approches de gestion de projet d'ELAN Dome "
+"sont entièrement ancrés et influencés par le type de projet que nous sommes \n"
+"                                chargé à un moment donné. Veuillez joindre "
+"nous parler d'un projet spécifique et nous serons en mesure de \n"
+"                                donner un aperçu détaillé de l'approche\n"
+"                                "
+#: mainapp/templates/mainapp/contact.html:245
+msgid "None of these FAQs answers my question, what do I do now?"
+msgstr "Aucune de ces FAQ ne répond à ma question, que dois-je faire maintenant?"
+
+#: mainapp/templates/mainapp/contact.html:251
+msgid ""
+"If we haven't covered your question please get in touch with us through our "
+"email"
+msgstr ""
+"Si nous n'avons pas répondu à votre question, veuillez nous contacter via notre"
+"e-mail"
+#: mainapp/templates/mainapp/contact.html:252
+msgid "detailing your questions"
+msgstr "détailler vos questions"
+
+#: mainapp/templates/mainapp/contact.html:253
+msgid "and we'll be happy to help."
+msgstr "et nous serons heureux de vous aider."
+
+#: mainapp/templates/mainapp/contact.html:269
+msgid "Ground Floor"
+msgstr "Rez-de-chaussée"
+
+#: mainapp/templates/mainapp/contact.html:278
+msgid "Phone"
+msgstr "Téléphoner"
+
+#: mainapp/templates/mainapp/contact.html:295
 msgid "Website"
 msgstr "Site Internet"
 
-#: mainapp/templates/mainapp/contact.html:86
+#: mainapp/templates/mainapp/contact.html:299
 msgid "Pay Us a Visit"
 msgstr "Rendez-nous visite"
 
-#: mainapp/templates/mainapp/contact.html:92
+#: mainapp/templates/mainapp/contact.html:305
 msgid "All Rights Reserved."
 msgstr "Tous les droits sont réservés."
 
 #: mainapp/templates/mainapp/edc-community.html:6
+#: mainapp/templates/mainapp/edc-community.html:7
 #: mainapp/templates/mainapp/navbar.html:26
 msgid "EDC Community"
-msgstr "EDC Communauté"
+msgstr "Communauté EDC"
 
-#: mainapp/templates/mainapp/edc-community.html:15
-msgid "Family"
-msgstr "Famille"
+#: mainapp/templates/mainapp/edc-community.html:16
+msgid "Families"
+msgstr "Familles"
 
 #: mainapp/templates/mainapp/edc-community.html:18
 msgid ""
-"Our family packages create an avenue for bonding with your loved ones, "
-"immersing \n"
+"\n"
+"                Our family packages create an avenue for bonding with your "
+"loved ones, immersing \n"
 "                your family in a different culture and giving back to "
-"communities."
+"communities.\n"
+"                "
 msgstr ""
-"Nos forfaits familiaux créent une avenue pour créer des liens avec vos proches, "
-"immerger \n"
+"\n"
+"                Nos forfaits familiaux créent une avenue pour créer des liens avec votre "
+"proches, immersion \n"
 "                votre famille dans une culture différente et redonner à "
-"communautés."
-
-#: mainapp/templates/mainapp/edc-community.html:28
+"communautés.\n"
+"                "
+#: mainapp/templates/mainapp/edc-community.html:30
 msgid "Friends"
 msgstr "Amis"
 
-#: mainapp/templates/mainapp/edc-community.html:31
+#: mainapp/templates/mainapp/edc-community.html:32
 msgid ""
 "Our friends package takes buddies through an experience that strengthens "
 "friendships and transforms social lives for the better."
 msgstr ""
-"Notre forfait amis emmène les copains à travers une expérience qui renforce"
+"Notre forfait amis emmène les copains à travers une expérience qui renforce "
 "amitiés et transforme la vie sociale pour le mieux."
-
-#: mainapp/templates/mainapp/edc-community.html:40
+#: mainapp/templates/mainapp/edc-community.html:41
 msgid "Students"
-msgstr "Étudiants"
+msgstr "Étudiantes"
 
 #: mainapp/templates/mainapp/edc-community.html:43
 msgid ""
-"This package takes students through an experiential journey of personal "
-"growth that enables them to develop new \n"
-"                skills, meet new people and even improve their career "
-"prospects"
+"\n"
+"                This package takes students through an experiential journey "
+"of personal growth that enables them to develop new \n"
+"                skills, acquire a global perspective, meet new people and "
+"even improve their career prospects\n"
+"                "
 msgstr ""
-"Ce forfait emmène les étudiants à travers un voyage expérientiel de "
-"croissance qui leur permet de développer de nouveaux \n"
-"                compétences, rencontrer de nouvelles personnes et même améliorer leur carrière "
-"perspectives"
-
-#: mainapp/templates/mainapp/edc-community.html:56
+"\n"
+"                Ce forfait emmène les étudiants à travers un voyage expérientiel "
+"de croissance personnelle qui leur permet de développer de nouvelles \n"
+"                compétences, acquérir une perspective globale, rencontrer de nouvelles personnes et "
+"même améliorer leurs perspectives de carrière\n"
+"                "
+#: mainapp/templates/mainapp/edc-community.html:58
 msgid "Employees"
 msgstr "Des employés"
 
-#: mainapp/templates/mainapp/edc-community.html:59
+#: mainapp/templates/mainapp/edc-community.html:60
 msgid ""
-"Our employee program is a planned and managed initiative that seeks to "
-"motivate and enable employees to effectively meet organizational needs, \n"
-"                boost productivity, increase employee engagement and enhance "
-"employee retention through the leadership of the employer."
+"\n"
+"                Our employee program is a planned and managed initiative "
+"that seeks to motivate and enable employees to develop \n"
+"                design thinking skills, increase employee engagement in "
+"problem solving and enhance employee retention through \n"
+"                self leadership.\n"
+"                "
 msgstr ""
-"Notre programme pour les employés est une initiative planifiée et gérée qui vise à "
-"motiver et permettre aux employés de répondre efficacement aux besoins organisationnels, \n"
-"                stimuler la productivité, accroître l'engagement des employés et améliorer "
-"la rétention des employés grâce au leadership de l'employeur."
-
-#: mainapp/templates/mainapp/edc-community.html:69
+"\n"
+"                Notre programme pour les employés est une initiative planifiée et gérée "
+"qui vise à motiver et à permettre aux employés de se développer \n"
+"                compétences en matière de conception, accroître l'engagement des employés dans "
+"résoudre des problèmes et améliorer la rétention des employés grâce à \n"
+"                auto-direction.\n"
+"                "
+#: mainapp/templates/mainapp/edc-community.html:73
 msgid "Individuals"
 msgstr "Personnes"
 
-#: mainapp/templates/mainapp/edc-community.html:72
+#: mainapp/templates/mainapp/edc-community.html:75
 msgid ""
-"This package is designed for individuals looking to immerse themselves in a "
-"journey of self actualization and allows individuals to develop a deep \n"
+"\n"
+"                This package is designed for individuals looking to immerse "
+"themselves in a journey of self actualization and allows individuals to "
+"develop a deep \n"
 "                understanding of the culture, community and country where "
-"they are volunteering, and they are highly rewarding."
+"they are volunteering, and they are highly rewarding.\n"
+"                "
 msgstr ""
-"Ce forfait est conçu pour les personnes qui cherchent à s'immerger dans un "
-"voyage de réalisation de soi et permet aux individus de développer une profonde \n"
+"\n"
+"                Ce forfait est conçu pour les personnes qui cherchent à s'immerger "
+"eux-mêmes dans un voyage d'auto-actualisation et permet aux individus de "
+"développer une profonde \n"
 "                compréhension de la culture, de la communauté et du pays où "
-"ils font du bénévolat et ils sont très gratifiants."
-
-#: mainapp/templates/mainapp/edc-community.html:82
+"ils font du bénévolat et ils sont très gratifiants.\n"
+"                "
+#: mainapp/templates/mainapp/edc-community.html:87
 msgid "Teachers"
 msgstr "Enseignants"
 
-#: mainapp/templates/mainapp/edc-community.html:85
+#: mainapp/templates/mainapp/edc-community.html:89
 msgid ""
 "The teachers' package allows teachers to bring their knowledge and skills to "
 "eager but underserved children. to help improve educational practices and "
 "processes."
 msgstr ""
 "Le kit enseignants permet aux enseignants d'apporter leurs connaissances et leurs compétences à "
-"eager but underserved children. to help improve educational practices and "
+"enfants enthousiastes mais mal desservis. contribuer à améliorer les pratiques éducatives et "
 "processus."
 
-#: mainapp/templates/mainapp/history.html:15
-msgid ""
-"Okore Booker Charles as a student at the Starehe Boys Center where all the "
-"values of impact creation and community service were inculcated"
-msgstr ""
-"Okore Booker Charles en tant qu'étudiant au Starehe Boys Center où tous les "
-"les valeurs de création d'impact et de service communautaire ont été inculquées"
+#: mainapp/templates/mainapp/edc-community.html:94
+msgid "Be a part of our community"
+msgstr "Faites partie de notre communauté"
 
-#: mainapp/templates/mainapp/history.html:19
+#: mainapp/templates/mainapp/edc-community.html:95
 msgid ""
-"ELAN (Education, Learning and Networking) Dome Consultants was incorporated "
-"under the efforts of three \n"
+"Are you interested in joining our community as a volunteer, mentor or a "
+"partner?"
+msgstr ""
+"Êtes-vous intéressé à rejoindre notre communauté en tant que bénévole, mentor ou "
+"partenaire?"
+#: mainapp/templates/mainapp/edc-community.html:96
+msgid "Drop us an email at"
+msgstr "Envoyez-nous un e-mail à"
+
+#: mainapp/templates/mainapp/edc-community.html:96
+msgid ""
+"we will send you more information and guide you through your  journey with"
+msgstr ""
+"nous vous enverrons plus d'informations et vous guiderons tout au long de votre voyage avec"
+
+#: mainapp/templates/mainapp/edc-community.html:96
+msgid "ELAN Dome Consultants."
+msgstr "ELAN Dôme Consultants."
+
+#: mainapp/templates/mainapp/edc-community.html:101
+msgid "Sign up today"
+msgstr "Inscrivez-vous aujourd'hui"
+
+#: mainapp/templates/mainapp/footer-alt.html:9
+#: mainapp/templates/mainapp/footer-alt.html:27
+msgid "All Rights Reserved"
+msgstr "Tous les droits sont réservés"
+
+#: mainapp/templates/mainapp/footer.html:7
+msgid "ABOUT US"
+msgstr "À PROPOS DE NOUS"
+
+#: mainapp/templates/mainapp/footer.html:10
+msgid "How we run"
+msgstr "Comment nous courons"
+
+#: mainapp/templates/mainapp/footer.html:11
+msgid "Structure and People"
+msgstr "Structure et personnes"
+
+#: mainapp/templates/mainapp/footer.html:16
+msgid "RESOURCES"
+msgstr "RESSOURCES"
+
+#: mainapp/templates/mainapp/footer.html:18
+msgid "Media Center"
+msgstr "Centre des médias"
+
+#: mainapp/templates/mainapp/footer.html:21
+msgid "Our Community"
+msgstr "Notre communauté"
+
+#: mainapp/templates/mainapp/footer.html:26
+msgid "GET INVOLVED"
+msgstr "ÊTRE IMPLIQUÉ"
+
+#: mainapp/templates/mainapp/footer.html:28
+#: mainapp/templates/mainapp/programs.html:6
+msgid "Our Programs"
+msgstr "Nos programmes"
+
+#: mainapp/templates/mainapp/footer.html:29
+msgid "Volunteer with Us"
+msgstr "Faites du bénévolat avec nous"
+
+#: mainapp/templates/mainapp/footer.html:34
+msgid "LATEST"
+msgstr "DERNIER"
+
+#: mainapp/templates/mainapp/footer.html:44
+msgid "WORK WITH US"
+msgstr "TRAVAILLE AVEC NOUS"
+
+#: mainapp/templates/mainapp/footer.html:45
+msgid ""
+"We integrate international experience, community service and supervision and "
+"implementation support to ensure that our clients get the best outcomes from "
+"our various programs"
+msgstr ""
+"Nous intégrons l'expérience internationale, le service communautaire et la supervision et "
+"soutien à la mise en œuvre pour s'assurer que nos clients obtiennent les meilleurs résultats de "
+"nos différents programmes"
+
+#: mainapp/templates/mainapp/history.html:6
+#: mainapp/templates/mainapp/history.html:7
+#: mainapp/templates/mainapp/navbar.html:25
+msgid "Our History"
+msgstr "Notre histoire"
+
+#: mainapp/templates/mainapp/history.html:16
+msgid ""
+"Okore Booker Charles as a student at the Starehe Boys Center where values of "
+"impact creation and community service were inculcated"
+msgstr ""
+"Okore Booker Charles en tant qu'étudiant au Starehe Boys Center où les valeurs de "
+"la création d'impact et le service communautaire ont été inculqués"
+
+#: mainapp/templates/mainapp/history.html:20
+msgid ""
+"\n"
+"                ELAN (Education, Learning and Networking) Dome Consultants "
+"was incorporated under the efforts of three \n"
 "                young, ambitious and human centred design driven ladies who "
 "were seeking to make empathy the key informant \n"
 "                of design, decisions and solutions for people and businesses "
-"aimed at the progress of Africa."
+"aimed at the progress of Africa.\n"
+"                "
 msgstr ""
-"ELAN (Education, Learning and Networking) Dome Consultants a été incorporé "
-"sous les efforts de trois \n"
-"                jeunes femmes ambitieuses et centrées sur l'humain et axées sur le design "
+"\n"
+"                Consultants Dôme ELAN (Éducation, Apprentissage et Réseautage) "
+"a été incorporé sous les efforts de trois \n"
+"                young, ambitious and human centred design driven ladies who "
 "cherchaient à faire de l'empathie l'informateur clé \n"
 "                de conception, de décisions et de solutions pour les particuliers et les entreprises "
-"visant au progrès de l'Afrique."
-
-#: mainapp/templates/mainapp/history.html:28
+"visant au progrès de l'Afrique.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:27
 msgid ""
-"The founding partner of ELAN Dome draws deep inspiration from the "
-"intelligence, problem solving capability, \n"
+"\n"
+"                The founding partner of ELAN Dome draws deep inspiration "
+"from the intelligence, problem solving capability, \n"
 "                mobilizing acumen and deep community service acts of her "
 "late father, Engineer Okore Booker Charles, OBC. He \n"
 "                dedicated his life to fixing challenges, using his personal "
 "resources to support family, neighbours, friends, \n"
 "                the community and strangers whenever he got the opportunity. "
 "He valued education, politics, farming, environmental \n"
-"                preservation and human rights."
+"                preservation and human rights.\n"
+"                "
 msgstr ""
-"Le partenaire fondateur d'ELAN Dome s'inspire profondément de la "
-"intelligence, capacité de résolution de problèmes, \n"
+"\n"
+"                Le partenaire fondateur d'ELAN Dome s'inspire profondément "
+"de l'intelligence, de la capacité de résolution de problèmes, \n"
 "                mobilisant sa perspicacité et ses actes de service communautaire profonds "
 "feu père, ingénieur Okore Booker Charles, OBC. Il \n"
 "                a consacré sa vie à relever des défis, en utilisant son "
-"ressources pour soutenir la famille, les voisins, les amis,"
+"ressources pour soutenir la famille, les voisins, les amis, \n"
 "                la communauté et les étrangers chaque fois qu'il en avait l'occasion. "
 "Il valorisait l'éducation, la politique, l'agriculture, l'environnement \n"
-"la préservation et les droits de l'homme."
-
-#: mainapp/templates/mainapp/history.html:35
+"                preservation and human rights.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:40
 msgid ""
-"His main target groups were the elderly, the poor, orphans, girls of school "
-"going age and the oppressed in the society. \n"
+"\n"
+"                His main target groups were the elderly, the poor, orphans, "
+"girls of school going age and the oppressed in the society. \n"
 "                He was an ardent believer in the law as an instrument of "
 "seeking justice and achieving balance in the society. \n"
 "                He constantly stepped in to oversee his friends' projects "
 "and manage teams on their behalf whenever they were away \n"
 "                on international engagements, having resigned on a voluntary "
-"basis to dedicate his life to service."
+"basis to dedicate his life to service.\n"
+"                "
 msgstr ""
-"Ses principaux groupes cibles étaient les personnes âgées, les pauvres, les orphelins, les filles de l'école "
-"l'âge et les opprimés dans la société. \n"
+"\n"
+"                Ses principaux groupes cibles étaient les personnes âgées, les pauvres, les orphelins, "
+"les filles en âge d'aller à l'école et les opprimés dans la société. \n"
 "                Il était un ardent partisan de la loi en tant qu'instrument de "
 "rechercher la justice et parvenir à un équilibre dans la société. \n"
 "                Il intervenait constamment pour superviser les projets de ses amis "
 "et gérer les équipes en leur nom chaque fois qu'ils sont absents \n"
 "                sur des engagements internationaux, ayant démissionné volontairement "
-"base pour consacrer sa vie au service."
-
-#: mainapp/templates/mainapp/history.html:59
+"base pour consacrer sa vie au service.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:48
 msgid ""
-"This organization is deeply rooted in his values of sincerity, service, "
-"smart work, advocacy, diligence, strategy, \n"
+"\n"
+"                This organization is deeply rooted in his values of "
+"sincerity, service, smart work, advocacy, diligence, strategy, \n"
 "                impact achievement and celebration. The dome signifies a "
 "sense of coming together in a community set up like \n"
 "                traditional African families did. They would gather in "
 "groups to talk about their issues, find solutions, share meals, \n"
-"                support each other and build relationships."
+"                support each other and build relationships.\n"
+"                "
 msgstr ""
-"Cette organisation est profondément ancrée dans ses valeurs de sincérité, de service, "
-"travail intelligent, plaidoyer, diligence, stratégie, \n"
+"\n"
+"                Cette organisation est profondément ancrée dans ses valeurs de "
+"sincérité, service, travail intelligent, plaidoyer, diligence, stratégie, \n"
 "                avoir un impact sur la réalisation et la célébration. Le dôme signifie un "
 "sentiment de se retrouver dans une communauté constituée comme \n"
 "                les familles africaines traditionnelles l'ont fait. Ils se rassembleraient dans "
 "groupes pour parler de leurs problèmes, trouver des solutions, partager des repas, \n"
-"                s'entraider et nouer des relations."
-
-#: mainapp/templates/mainapp/history.html:65
+"                s'entraider et nouer des relations.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:56
 msgid ""
-"Engineer OBC had extensive networks and was able to strike new but "
-"formidable friendships by the first meeting, an attribute \n"
+"\n"
+"                Engineer OBC had extensive networks and was able to strike "
+"new but formidable friendships by the first meeting, an attribute \n"
 "                that resulted in his family receiving valuable support "
 "throughout his sickness, final demise and graceful send off. From this, \n"
 "                the organization draws the value of networking, "
 "collaboration and cooperation in building functional ecosystems for "
 "individuals, \n"
-"                groups and organizations."
+"                groups and organizations.\n"
+"                "
 msgstr ""
-"L'ingénieur OBC disposait de réseaux étendus et était capable de trouver de nouveaux mais "
-"formidable friendships by the first meeting, an attribute \n"
+"\n"
+"                L'ingénieur OBC disposait de vastes réseaux et a pu frapper "
+"des amitiés nouvelles mais formidables dès la première rencontre, un attribut \n"
 "                qui a permis à sa famille de recevoir un soutien précieux "
-"tout au long de sa maladie, de sa disparition définitive et de son envoi gracieux. De cela, "
+"tout au long de sa maladie, de sa disparition définitive et de son envoi gracieux. De cela, \n"
 "                l'organisation tire la valeur du réseautage, "
 "collaboration et coopération dans la construction d'écosystèmes fonctionnels pour "
 "personnes, \n"
-"                groupes et organisations."
+"                groupes et organisations.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:86
+msgid "Let's Talk"
+msgstr "Parlons"
 
 #: mainapp/templates/mainapp/index.html:19
+#: mainapp/templates/mainapp/index.html:33
 msgid "Experiential Learning"
 msgstr "Apprentissage expérimentale"
 
 #: mainapp/templates/mainapp/index.html:19
+#: mainapp/templates/mainapp/index.html:33
 msgid "Beyond Borders."
 msgstr "Au delà des frontières."
 
 #: mainapp/templates/mainapp/index.html:20
-msgid "Create a stellar experience and enjoy what we have to offer."
-msgstr "Créez une expérience stellaire et profitez de ce que nous avons à offrir."
+#: mainapp/templates/mainapp/index.html:34
+msgid ""
+"Experience adventure and learning concurrently through our personalized "
+"packages."
+msgstr ""
+"Vivez l'aventure et l'apprentissage simultanément grâce à notre programme personnalisé "
+"paquets."
 
-#: mainapp/templates/mainapp/index.html:24
-#: mainapp/templates/mainapp/navbar.html:49
+#: mainapp/templates/mainapp/index.html:25
+#: mainapp/templates/mainapp/index.html:38
+#: mainapp/templates/mainapp/navbar.html:50
 msgid "Get in touch - it's free"
 msgstr "Contactez-nous - c'est gratuit"
 
-#: mainapp/templates/mainapp/index.html:33
-msgid "WE ARE PIVOTAL"
-msgstr "NOUS SOMMES ESSENTIELS"
-
-#: mainapp/templates/mainapp/index.html:34
-msgid ""
-"Optimizing collaborative partnerships while providing tailored programs "
-"while staying results oriented"
-msgstr ""
-"Optimiser les partenariats collaboratifs tout en proposant des programmes sur mesure "
-"tout en restant orienté résultats"
-
-#: mainapp/templates/mainapp/index.html:45
+#: mainapp/templates/mainapp/index.html:51
 msgid "We're with you."
 msgstr "Nous sommes avec vous."
 
-#: mainapp/templates/mainapp/index.html:61
+#: mainapp/templates/mainapp/index.html:57
+msgid ""
+"We are a goal oriented outsourcing consultancy firm that strives to optimize "
+"collaborative partnerships and provide carefully curated programs while "
+"stating result oriented."
+msgstr ""
+"Nous sommes une société de conseil en externalisation axée sur les objectifs qui s'efforce d'optimiser "
+"partenariats collaboratifs et fournir des programmes soigneusement sélectionnés tout en "
+"déclarant orienté résultat."
+
+#: mainapp/templates/mainapp/index.html:60
+msgid ""
+"Our team is driven to do what's right and help you realize your vision. We "
+"believe in generating success collaboratively, delivering great results "
+"after every engagement, and building trust for the next big challenge."
+msgstr ""
+"Notre équipe est déterminée à faire ce qui est juste et à vous aider à réaliser votre vision. Nous "
+"croient en la réussite collaborative, en obtenant d'excellents résultats "
+"après chaque engagement, et établir la confiance pour le prochain grand défi."
+
+#: mainapp/templates/mainapp/index.html:67
 msgid "Focus Areas"
 msgstr "Domaines d'intervention"
 
-#: mainapp/templates/mainapp/index.html:73
-msgid ""
-"The OBC volunteer program was created in honor of the Late Engineer Okore "
-"Booker Charles . This program has been carefully curated to \n"
-"                    reflect and inculcate the values that he lived by "
-"throughout his life in community service and social impact."
-msgstr ""
-"Le programme de bénévolat OBC a été créé en l'honneur du regretté ingénieur Okore "
-"Booker Charles. Ce programme a été soigneusement conçu pour \n"
-"                    refléter et inculquer les valeurs qu'il a vécues "
-"tout au long de sa vie dans le service communautaire et l'impact social."
+#: mainapp/templates/mainapp/index.html:76
+#: mainapp/templates/mainapp/index.html:227
+#: mainapp/templates/mainapp/programs.html:17
+#: mainapp/templates/mainapp/services.html:132
+msgid "Volunteer Services"
+msgstr "Services bénévoles"
 
-#: mainapp/templates/mainapp/index.html:77
+#: mainapp/templates/mainapp/index.html:78
+#: mainapp/templates/mainapp/services.html:134
 msgid ""
-"The OBC volunteer program will help you render assistance to underprivileged "
-"and underserved communities where you will experience \n"
+"\n"
+"                    The OBC volunteer program was created in honor of the "
+"Late Engineer Okore Booker Charles. This program has been carefully curated "
+"to \n"
+"                    reflect and inculcate the values that he lived by "
+"throughout his life in community service and social impact.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Le programme de bénévolat de l'OBC a été créé en l'honneur du "
+"Feu l'ingénieur Okore Booker Charles. Ce programme a été soigneusement préparé "
+"à \n"
+"                    refléter et inculquer les valeurs qu'il a vécues "
+"tout au long de sa vie dans le service communautaire et l'impact social.\n"
+"                    "
+
+#: mainapp/templates/mainapp/index.html:84
+msgid ""
+"\n"
+"                    The OBC volunteer program will help you render "
+"assistance to underprivileged and underserved communities where you will "
+"experience \n"
 "                    traditional cultures and even get a chance to interact "
 "with rich wildlife all while supporting a good cause and creating a positive "
 "impact in the society."
 msgstr ""
-"Le programme de volontariat OBC vous aidera à venir en aide aux personnes défavorisées "
-"et les communautés mal desservies où vous ferez l'expérience \n"
+"\n"
+"                    Le programme de bénévolat OBC vous aidera à rendre "
+"assistance aux communautés défavorisées et mal desservies où vous "
+"vivre \n"
 "                    cultures traditionnelles et même avoir la chance d'interagir "
 "avec une faune riche tout en soutenant une bonne cause et en créant un climat positif "
 "impact dans la société."
-
-#: mainapp/templates/mainapp/index.html:82
-#: mainapp/templates/mainapp/index.html:100
-#: mainapp/templates/mainapp/index.html:131
+#: mainapp/templates/mainapp/index.html:91
+#: mainapp/templates/mainapp/index.html:121
+#: mainapp/templates/mainapp/index.html:152
+#: mainapp/templates/mainapp/index.html:178
+#: mainapp/templates/mainapp/index.html:210
+#: mainapp/templates/mainapp/index.html:239
+#: mainapp/templates/mainapp/index.html:275
+#: mainapp/templates/mainapp/index.html:304
+#: mainapp/templates/mainapp/index.html:337
+#: mainapp/templates/mainapp/index.html:366
 msgid "Learn More"
 msgstr "Apprendre encore plus"
 
-#: mainapp/templates/mainapp/index.html:90
-#: mainapp/templates/mainapp/programs.html:46
-msgid "Strategic Planning, Coordination & Monitoring"
-msgstr "Planification stratégique, coordination et suivi"
+#: mainapp/templates/mainapp/index.html:100
+#: mainapp/templates/mainapp/index.html:252
+#: mainapp/templates/mainapp/programs.html:83
+#: mainapp/templates/mainapp/programs.html:111
+msgid "Investment supervision, coordination and implementation"
+msgstr "Supervision, coordination et mise en œuvre des investissements"
 
-#: mainapp/templates/mainapp/index.html:92
+#: mainapp/templates/mainapp/index.html:102
 msgid ""
-"We help you to build action oriented strategic plans, communication, "
-"business development, marketing and partnership strategies, internal "
-"policies and \n"
-"                    customer experience needs in the following industry "
-"categories and sectors:"
+"\n"
+"                    We provide guidance and advice to individuals, groups "
+"and institutions about their investments and how to \n"
+"                    safeguard their interests and attain positive results. "
+"We further monitor the activities of these investments \n"
+"                    to ensure that there's full accountability and clarity "
+"on the utilisation of resources.\n"
+"                    "
 msgstr ""
-"Nous vous aidons à construire des plans stratégiques orientés vers l'action, la communication, "
-"développement des affaires, stratégies de marketing et de partenariat, interne "
-"politiques et \n"
-"                    besoins d'expérience client dans l'industrie suivante "
-"catégories et secteurs :"
-
-#: mainapp/templates/mainapp/index.html:96
+"\n"
+"                    Nous accompagnons et conseillons les particuliers, les groupes "
+"et les institutions sur leurs investissements et sur la manière de \n"
+"                    sauvegarder leurs intérêts et obtenir des résultats positifs. "
+"Nous surveillons en outre les activités de ces investissements \n"
+"                    pour s'assurer qu'il y a pleine responsabilisation et clarté "
+"sur l'utilisation des ressources.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:109
+#: mainapp/templates/mainapp/index.html:259
+msgid ""
+"\n"
+"                    Additionally, we advise organisations on key strategic "
+"issues by leveraging on our industry knowledge and \n"
+"                    analytical prowess, to enable  them make informed "
+"decisions. This service enables them to achieve their \n"
+"                    business objectives by capitalising on opportunities and "
+"being prepared to mitigate potential risks.\n"
+"                    "
+msgstr ""
+"\n"
+"                    De plus, nous conseillons les organisations sur les stratégies clés "
+"problèmes en tirant parti de notre connaissance de l'industrie et \n"
+"                    prouesses analytiques, pour leur permettre de prendre des "
+"les décisions. Ce service leur permet de réaliser leur \n"
+"                    objectifs commerciaux en capitalisant sur les opportunités et "
+"être prêt à atténuer les risques potentiels.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:116
+#: mainapp/templates/mainapp/index.html:270
 msgid ""
 "SMEs, FMCG, Consulting firms, INGOs, not for profit organizations including "
 "CBOs, CSOs, FBOs, civil societies, government, academic institutions and "
@@ -695,12 +1412,15 @@ msgstr ""
 "Organisations communautaires, OSC, organisations confessionnelles, sociétés civiles, gouvernement, institutions universitaires et "
 "personnes."
 
-#: mainapp/templates/mainapp/index.html:120
-#: mainapp/templates/mainapp/programs.html:54
+#: mainapp/templates/mainapp/index.html:140
+#: mainapp/templates/mainapp/index.html:289
+#: mainapp/templates/mainapp/programs.html:150
+#: mainapp/templates/mainapp/services.html:151
+#: mainapp/templates/mainapp/services.html:181
 msgid "Project Management"
 msgstr "Gestion de projet"
 
-#: mainapp/templates/mainapp/index.html:122
+#: mainapp/templates/mainapp/index.html:142
 msgid ""
 "We are the  first choice custodians of your projects and resources on "
 "ground. We source for quality and competitive resource plans, quotations, "
@@ -715,8 +1435,7 @@ msgstr ""
 "                    des plans et des conceptions sur mesure à un prix raisonnable et "
 "travaillez avec des extraits réputés pour exécuter votre vision et livrer au-delà du "
 "résultats attendus."
-
-#: mainapp/templates/mainapp/index.html:126
+#: mainapp/templates/mainapp/index.html:146
 msgid ""
 "Our areas of focus include: research, digitization, real estate & "
 "construction, corporate events (workshops and employee development "
@@ -728,23 +1447,31 @@ msgstr ""
 "programmes), \n"
 "                    des exercices de budgétisation et des initiatives de financement de projets."
 
-#: mainapp/templates/mainapp/index.html:139
-#: mainapp/templates/mainapp/programs.html:81
+#: mainapp/templates/mainapp/index.html:161
+#: mainapp/templates/mainapp/index.html:318
+#: mainapp/templates/mainapp/programs.html:184
+#: mainapp/templates/mainapp/programs.html:212
 msgid "Workshops & Training"
 msgstr "Ateliers & Formation"
 
-#: mainapp/templates/mainapp/index.html:141
+#: mainapp/templates/mainapp/index.html:163
+#: mainapp/templates/mainapp/index.html:320
 msgid ""
-"We design, recruit, facilitate, assess, tailormake and report on extra "
-"ordinary workshops, team building  and training initiatives for \n"
-"                    teams and organizations. Our primary focus is on:"
+"\n"
+"                    We design, recruit, facilitate, assess, tailormake and "
+"report on extra ordinary workshops, team building  and training initiatives "
+"for \n"
+"                    teams and organizations. Our primary focus is on:\n"
+"                    "
 msgstr ""
-"Nous concevons, recrutons, facilitons, évaluons, personnalisons et signalons des "
-"ateliers ordinaires, team building et initiatives de formation pour \n"
-"                    équipes et organisations. Notre objectif principal est de:"
-
-#: mainapp/templates/mainapp/index.html:145
-#: mainapp/templates/mainapp/programs.html:72
+"\n"
+"                    Nous concevons, recrutons, facilitons, évaluons, personnalisons et "
+"rapport sur les ateliers extraordinaires, les initiatives de consolidation d'équipe et de formation "
+"pour \n"
+"                    équipes et organisations. Notre objectif principal est de:\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:169
+#: mainapp/templates/mainapp/index.html:326
 msgid ""
 "Management i.e crisis management, change management, conflict management and "
 "overall team management."
@@ -752,7 +1479,7 @@ msgstr ""
 "Gestion, c'est-à-dire gestion de crise, gestion du changement, gestion des conflits et "
 "gestion globale de l'équipe."
 
-#: mainapp/templates/mainapp/index.html:148
+#: mainapp/templates/mainapp/index.html:172
 msgid ""
 "Leadership i.e adaptable leadership, progressive organization culture, next "
 "level leadership, performance \n"
@@ -763,22 +1490,23 @@ msgstr ""
 "leadership de niveau, performance \n"
 "                    (financière & opérationnelle) et analyse décisionnelle & "
 "motif)"
-
-#: mainapp/templates/mainapp/index.html:173
-#: mainapp/templates/mainapp/programs.html:89
+#: mainapp/templates/mainapp/index.html:197
+#: mainapp/templates/mainapp/index.html:351
+#: mainapp/templates/mainapp/programs.html:250
+#: mainapp/templates/mainapp/services.html:205
 msgid "Career Counselling"
 msgstr "Orientation professionnelle"
 
-#: mainapp/templates/mainapp/index.html:175
-#: mainapp/templates/mainapp/programs.html:93
+#: mainapp/templates/mainapp/index.html:199
+#: mainapp/templates/mainapp/index.html:353
 msgid ""
-"We walk with you the journey to discovering what sets your soul on fire "
+"We walk with you in the journey to discovering what sets your soul on fire "
 "professionally."
 msgstr ""
-"Nous parcourons avec vous le voyage pour découvrir ce qui met le feu à votre âme "
+"Nous vous accompagnons dans le voyage pour découvrir ce qui met le feu à votre âme "
 "professionnellement."
 
-#: mainapp/templates/mainapp/index.html:178
+#: mainapp/templates/mainapp/index.html:202
 msgid ""
 "We help you develop skills that support your professional vision and ad-ons "
 "aimed at \n"
@@ -791,12 +1519,151 @@ msgid ""
 msgstr ""
 "Nous vous aidons à développer des compétences qui soutiennent votre vision professionnelle et vos compléments "
 "visant à \n"
-"                    réaliser vos objectifs professionnels tels que la communication,"
+"                    réaliser vos objectifs professionnels tels que la communication, "
 "éthique, présentation et profilage personnels, \n"
 "                    critères de recherche d'opportunités internationales, préparation "
 "pour le niveau suivant, valeur brnding par résultat de travail, \n"
 "                    savoir quand partir et acquérir des compétences de négociation pour "
 "contrats."
+
+#: mainapp/templates/mainapp/index.html:229
+msgid ""
+"The OBC volunteer program was created in honor of the Late Engineer Okore "
+"Booker Charles. This program has been carefully curated to \n"
+"                    reflect and inculcate the values that he lived by "
+"throughout his life in community service and social impact."
+msgstr ""
+"Le programme de bénévolat OBC a été créé en l'honneur du regretté ingénieur Okore "
+"Booker Charles. Ce programme a été soigneusement conçu pour \n"
+"                    refléter et inculquer les valeurs qu'il a vécues "
+"tout au long de sa vie dans le service communautaire et l'impact social."
+
+#: mainapp/templates/mainapp/index.html:233
+msgid ""
+"The OBC volunteer program will help you render assistance to underprivileged "
+"and underserved communities where you will experience \n"
+"                    traditional cultures and even get a chance to interact "
+"with rich wildlife all while supporting a good cause and creating a positive "
+"impact in the society."
+msgstr ""
+"Le programme de volontariat OBC vous aidera à venir en aide aux personnes défavorisées "
+"et les communautés mal desservies où vous ferez l'expérience"
+"                    cultures traditionnelles et même avoir la chance d'interagir "
+"avec une faune riche tout en soutenant une bonne cause et en créant un climat positif "
+"impact dans la société."
+#: mainapp/templates/mainapp/index.html:254
+msgid ""
+"We provide guidance and advice to individuals, groups and institutions about "
+"their investments and how to \n"
+"                    safeguard their interests and attain positive results. "
+"We further monitor the activities of these investments \n"
+"                    to ensure that there's full accountability and clarity "
+"on the utilisation of resources."
+msgstr ""
+"Nous accompagnons et conseillons les individus, les groupes et les institutions sur "
+"leurs investissements et comment \n"
+"                    sauvegarder leurs intérêts et obtenir des résultats positifs. "
+"Nous surveillons en outre les activités de ces investissements \n"
+"                    pour s'assurer qu'il y a pleine responsabilisation et clarté "
+"sur l'utilisation des ressources."
+
+#: mainapp/templates/mainapp/index.html:266
+msgid ""
+"We help you to build action oriented strategic plans, communication, "
+"business development, marketing and partnership strategies, internal "
+"policies and \n"
+"                    customer experience needs in the following industry "
+"categories and sectors:"
+msgstr ""
+"Nous vous aidons à construire des plans stratégiques orientés vers l'action, la communication, "
+"développement des affaires, stratégies de marketing et de partenariat, interne "
+"politiques et \n"
+"                    besoins d'expérience client dans l'industrie suivante "
+"catégories et secteurs :"
+
+#: mainapp/templates/mainapp/index.html:291
+msgid ""
+"We are the  first choice custodians of your projects and resources on "
+"ground. We source for quality and competitive resource plans, quotations, "
+"unique development \n"
+"                    plans and bespoke designs that are fairly priced and "
+"work with reputable excerpts to execute your vision and deliver beyond the "
+"expected outcomes.\n"
+"                    "
+msgstr ""
+"Nous sommes les dépositaires de premier choix de vos projets et ressources sur "
+"terrain. Nous recherchons des plans de ressources de qualité et compétitifs, des devis, "
+"développement unique \n"
+"                    des plans et des conceptions sur mesure à un prix raisonnable et "
+"travaillez avec des extraits réputés pour exécuter votre vision et livrer au-delà du "
+"résultats attendus.\n"
+"                    "
+
+#: mainapp/templates/mainapp/index.html:296
+msgid ""
+"\n"
+"                    Our areas of focus include: research, digitization, real "
+"estate & construction, corporate events (workshops and employee development "
+"programs), \n"
+"                    budgeting exercises and project fundraising "
+"initiatives.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Nos domaines d'intervention comprennent: la recherche, la numérisation, la réalité "
+"immobilier et construction, événements d'entreprise (ateliers et développement des employés "
+"programmes), \n"
+"                    exercices de budgétisation et collecte de fonds pour le projet "
+"initiatives.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:329
+msgid ""
+"\n"
+"                    Leadership i.e adaptable leadership, progressive "
+"organization culture, next level leadership, performance \n"
+"                    (financial & operational) and decision making analysis & "
+"design)\n"
+"                    "
+msgstr ""
+"\n"
+"                    Leadership c'est-à-dire leadership adaptable, progressif "
+"culture organisationnelle, leadership de niveau supérieur, performance \n"
+"                    (financière & opérationnelle) et analyse décisionnelle & "
+"motif)\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:356
+#: mainapp/templates/mainapp/services.html:210
+msgid ""
+"\n"
+"                    We help you develop skills that support your "
+"professional vision and ad-ons aimed at \n"
+"                    realizing your professional goals such as communication, "
+"ethics, personal presentation & profiling, \n"
+"                    international opportunities search criteria, preparation "
+"for the next level, value brnding per work outcome, \n"
+"                    knowing when to leave and winning negotiation skills for "
+"contracts.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Nous vous aidons à développer des compétences qui soutiennent votre "
+"vision professionnelle et compléments destinés à \n"
+"                    réaliser vos objectifs professionnels tels que la communication, "
+"éthique, présentation et profilage personnels,\n"
+"                    critères de recherche d'opportunités internationales, préparation "
+"pour le niveau suivant, valeur brnding par résultat de travail, \n"
+"                    savoir quand partir et acquérir des compétences de négociation pour "
+"contrats.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:383
+#: mainapp/templates/mainapp/index.html:400
+msgid "We are all about accountability and convenience. Curious?"
+msgstr "Nous sommes tout au sujet de la responsabilité et de la commodité. Curieux?"
+
+#: mainapp/templates/mainapp/index.html:387
+#: mainapp/templates/mainapp/index.html:404
+msgid "LET'S TALK"
+msgstr "PARLONS"
 
 #: mainapp/templates/mainapp/navbar.html:16
 msgid "Home"
@@ -810,151 +1677,442 @@ msgstr "Qui nous sommes"
 msgid "About Us"
 msgstr "À propos de nous"
 
-#: mainapp/templates/mainapp/navbar.html:25
-msgid "Our History"
-msgstr "Notre histoire"
-
 #: mainapp/templates/mainapp/navbar.html:30
 msgid "Services"
 msgstr "Prestations de service"
 
 #: mainapp/templates/mainapp/navbar.html:33
-msgid "Portfolio"
-msgstr "Portefeuille"
-
-#: mainapp/templates/mainapp/navbar.html:36
 msgid "Programs"
 msgstr "Programmes"
 
-#: mainapp/templates/mainapp/navbar.html:39
-msgid "Contact"
-msgstr "Contact"
+#: mainapp/templates/mainapp/navbar.html:36
+msgid "News"
+msgstr "Nouvelles"
 
-#: mainapp/templates/mainapp/programs.html:6
-msgid "Our Programs"
-msgstr "Nos programmes"
+#: mainapp/templates/mainapp/navbar.html:41
+msgid "Join Us"
+msgstr "Rejoignez-nous"
 
-#: mainapp/templates/mainapp/programs.html:13
-msgid "Volunteer Services"
-msgstr "Services bénévoles"
+#: mainapp/templates/mainapp/news.html:5
+msgid "News Page"
+msgstr "Actualités"
 
-#: mainapp/templates/mainapp/programs.html:17
+#: mainapp/templates/mainapp/programs.html:19
 msgid ""
-"The OBC volunteer program was created in honor of the Late Engineer Okore "
-"Booker Charles. \n"
-"                This program has been carefully curated to reflect and "
-"inculcate the values that he lived by \n"
-"                throughout his life in community service and social impact. "
-"<br><br>The OBC volunteer program will help \n"
-"                you render assistance to underprivileged and underserved "
-"communities where you will experience \n"
-"                traditional cultures and even get a chance to interact with "
-"rich wildlife all while supporting \n"
-"                a good cause and creating a positive impact in the society."
+"\n"
+"                The OBC Volunteer program is ideal for students and "
+"practitioners and aims to place\n"
+"                enthusiastic volunteers in the right spaces to make a "
+"positive impact on the lives of\n"
+"                underserved people within local African Communities. The OBC "
+"volunteers get to interact with\n"
+"                the local communities and immerse themselves in rich African "
+"culture. Not only do they\n"
+"                experience the fulfillment of making positive changes to "
+"these underprivileged communities,\n"
+"                they also develop skills through a multicultural lens and a "
+"global spectrum.  \n"
+"                "
 msgstr ""
-"Le programme de bénévolat OBC a été créé en l'honneur du regretté ingénieur Okore "
-"Booker Charles. \n"
-"                Ce programme a été soigneusement organisé pour refléter et "
-"inculquer les valeurs qu'il a vécues \n"
-"                tout au long de sa vie dans le service communautaire et l'impact social."
-"<br><br>Le programme de bénévolat de l'OBC aidera \n"
-"                vous aidez les personnes défavorisées et mal desservies "
-"communautés où vous ferez l'expérience \n"
-"                cultures traditionnelles et même avoir la chance d'interagir avec "
-"une faune riche tout en soutenant \n"
-"                une bonne cause et créer un impact positif dans la société."
+"\n"
+"                Le programme de bénévolat OBC est idéal pour les étudiants et "
+"praticiens et vise à placer\n"
+"                bénévoles enthousiastes dans les bons espaces pour faire un "
+"impact positif sur la vie des\n"
+"                personnes mal desservies au sein des communautés africaines locales. L'OBC "
+"les bénévoles peuvent interagir avec\n"
+"                les communautés locales et s'immerger dans la richesse africaine "
+"Culture. Non seulement ils\n"
+"                faire l'expérience d'apporter des changements positifs à "
+"ces communautés défavorisées,\n"
+"                ils développent également des compétences à travers une lentille multiculturelle et une "
+"spectre mondial. \n"
+"                "
 
-#: mainapp/templates/mainapp/programs.html:27
+#: mainapp/templates/mainapp/programs.html:28
+msgid ""
+"The OBC Volunteer program is open to individuals across the board from "
+"different backgrounds such as"
+msgstr ""
+"Le programme de bénévolat OBC est ouvert aux personnes de tous horizons, de "
+"différents horizons tels que"
+
+#: mainapp/templates/mainapp/programs.html:30
+msgid "General Health Care"
+msgstr "Soins de santé généraux"
+
+#: mainapp/templates/mainapp/programs.html:31
+msgid "Urban Planning and Development"
+msgstr "Urbanisme et Développement"
+
+#: mainapp/templates/mainapp/programs.html:32
+msgid "Economic Empowerment"
+msgstr "Émancipation économique"
+
+#: mainapp/templates/mainapp/programs.html:33
+msgid "Water and Sanitation"
+msgstr "Eau et Assainissement"
+
+#: mainapp/templates/mainapp/programs.html:34
+msgid "Eco Farming"
+msgstr "Agriculture écologique"
+
+#: mainapp/templates/mainapp/programs.html:35
+msgid "Mental Health"
+msgstr "Santé mentale"
+
+#: mainapp/templates/mainapp/programs.html:36
+msgid "Youth"
+msgstr "Jeunesse"
+
+#: mainapp/templates/mainapp/programs.html:37
+msgid "Education"
+msgstr "Éducation"
+
+#: mainapp/templates/mainapp/programs.html:38
+msgid "Child Care"
+msgstr "Garde d'enfants"
+
+#: mainapp/templates/mainapp/programs.html:39
+msgid "Elderly Care"
+msgstr "Les soins aux personnes âgées"
+
+#: mainapp/templates/mainapp/programs.html:45
+msgid ""
+"\n"
+"            We give our volunteers a detailed overview of ELAN Dome's "
+"volunteer missions and\n"
+"            expectations to enable them to be confident and knowledgeable "
+"about the causes they are\n"
+"            undertaking and to cultivate the motivation and enthusiasm that "
+"encouraged them to volunteer\n"
+"            in the first place.  \n"
+"            "
+msgstr ""
+"\n"
+"            Nous donnons à nos volontaires un aperçu détaillé des activités d'ELAN Dome "
+"missions bénévoles et\n"
+"            attentes pour leur permettre d'être confiants et bien informés "
+"sur les causes qu'ils sont\n"
+"            entreprendre et de cultiver la motivation et l'enthousiasme qui "
+"les a encouragés à faire du bénévolat\n"
+"en premier lieu.  \n"
+"            "
+#: mainapp/templates/mainapp/programs.html:53
+msgid ""
+"\n"
+"            Due to the rich farming community in Kenya, eco farming "
+"volunteering is highly encouraged for\n"
+"            individuals who are concerned about sustainability, climate "
+"change and community farming.\n"
+"            They get to connect with the local farming communities and share "
+"their skills to enhance the\n"
+"            farming standards and contribute to food security. We give our "
+"volunteers a detailed overview of\n"
+"            ELAN Domes' volunteer mission and expectations to enable them to "
+"be confident and\n"
+"            knowledgeable about the causes they are undertaking and to "
+"cultivate the motivation and\n"
+"            enthusiasm that encouraged them to volunteer in the first "
+"place.\n"
+"            "
+msgstr ""
+"\n"
+"            En raison de la richesse de la communauté agricole au Kenya, l'agriculture écologique "
+"le volontariat est vivement encouragé pour\n"
+"            les personnes soucieuses de la durabilité, du climat "
+"changement et agriculture communautaire.\n"
+"            Ils peuvent entrer en contact avec les communautés agricoles locales et partager "
+"leurs compétences pour améliorer\n"
+"            normes agricoles et contribuer à la sécurité alimentaire. Nous donnons notre "
+"volontaires un aperçu détaillé de\n"
+"            La mission et les attentes des bénévoles d'ELAN Domes pour leur permettre de "
+"être confiant et\n"
+"            bien informés sur les causes qu'ils entreprennent et de "
+"            enthousiasme qui les a encouragés à faire du bénévolat dans les premiers "
+"place.\n"
+"            "
+#: mainapp/templates/mainapp/programs.html:67
 msgid "Apply to be a volunteer"
 msgstr "Postuler pour devenir bénévole"
 
-#: mainapp/templates/mainapp/programs.html:36
+#: mainapp/templates/mainapp/programs.html:85
+#: mainapp/templates/mainapp/programs.html:113
 msgid ""
-"We help you to build action oriented strategic plans, communication, "
-"business development, marketing \n"
-"                and partnership strategies, internal policies and customer "
-"experience needs in the following industry \n"
-"                categories and sectors : SMEs, FMCG, Consulting firms, "
-"INGOs, not for profit organizations including \n"
-"                CBOs, CSOs, FBOs, civil societies, government, academic "
-"institutions and individuals."
+"\n"
+"                    We support local citizens in the diaspora and "
+"international development organizations with all their investment\n"
+"                    needs. Using our knowledge about the local market we "
+"prioritize efficient and seamless operations that protect \n"
+"                    them from negative eventualities. Through our investment "
+"supervision services, we offer our local and \n"
+"                    international investor's representative service and "
+"supervision of their investment projects thereby enhancing \n"
+"                    accountability.\n"
+"                    "
 msgstr ""
-"Nous vous aidons à construire des plans stratégiques orientés vers l'action, la communication, "
-"développement commercial, commercialisation \n"
-"                et les stratégies de partenariat, les politiques internes et la clientèle "
-"besoins d'expérience dans l'industrie suivante \n"
-"                catégories et secteurs : PME, FMCG, Cabinets de conseil, "
-"ONGI, organisations à but non lucratif, y compris \n"
-"                Organisations communautaires, OSC, organisations confessionnelles, sociétés civiles, gouvernement, universitaires "
-"institutionnels et particuliers."
-
-#: mainapp/templates/mainapp/programs.html:58
-msgid ""
-"We are the  first choice custodians of your projects and resources on "
-"ground. We source for quality and \n"
-"                competitive resource plans, quotations, unique development "
-"plans and bespoke designs that are fairly priced \n"
-"                and work with reputable excerpts to execute your vision and "
-"deliver beyond the expected outcomes. <br><br>Our areas \n"
-"                of focus include: research, digitization, real estate & "
-"construction, corporate events (workshops and employee \n"
-"                development programs), budgeting exercises and project "
-"fundraising initiatives."
-msgstr ""
-"Nous sommes les dépositaires de premier choix de vos projets et ressources sur "
-"terrain. Nous nous approvisionnons en qualité et \n"
-"                plans de ressources compétitifs, devis, développement unique "
-"des plans et des conceptions sur mesure à un prix raisonnable \n"
-"                et travaillez avec des extraits réputés pour exécuter votre vision et "
-"produire au-delà des résultats attendus. <br><br>Nos domaines \n"
-"                d'intérêt comprennent: la recherche, la numérisation, l'immobilier et "
-"construction, événements corporatifs (ateliers et employés \n"
-"                programmes de développement), exercices de budgétisation et projet "
-"initiatives de collecte de fonds."
-
-#: mainapp/templates/mainapp/programs.html:69
-msgid ""
-"We design, recruit, facilitate, assess, tailormake and report on extra "
-"ordinary workshops, team building  \n"
-"                and training initiatives for teams and organizations. Our "
-"primary focus is on"
-msgstr ""
-"Nous concevons, recrutons, facilitons, évaluons, personnalisons et signalons des "
-"ateliers ordinaires, team building \n"
-"                et des initiatives de formation pour les équipes et les organisations. Notre "
-"l'accent est mis sur"
-
-#: mainapp/templates/mainapp/programs.html:73
-msgid ""
-"Leadership i.e adaptable leadership, progressive organization culture, next "
-"level leadership, performance \n"
-"                (financial & operational) and decision making analysis & "
-"design)"
-msgstr ""
-"Leadership, c'est-à-dire leadership adaptable, culture organisationnelle progressive, prochaine "
-"leadership de niveau, performance \n"
-"                (financière & opérationnelle) et analyse décisionnelle & "
-"motif)"
-
+"\n"
+"                    Nous soutenons les citoyens locaux de la diaspora et "
+"organisations internationales de développement avec tout leur investissement\n"
+"                    Besoins. Grâce à notre connaissance du marché local, nous "
+"donner la priorité à des opérations efficaces et transparentes qui protègent \n"
+"                    les protéger des éventualités négatives. Grâce à notre investissement "
+"services de supervision, nous offrons nos services locaux et \n"
+"                    responsabilité.\n"
+"                    "
 #: mainapp/templates/mainapp/programs.html:93
-msgid ""
-"We help you develop skills that support your professional \n"
-"                vision and ad-ons aimed at realizing your professional goals "
-"such as communication, ethics, personal presentation & profiling, "
-"international \n"
-"                opportunities search criteria, preparation for the next "
-"level, value brnding per work outcome, knowing when to leave and winning "
-"negotiation skills for contracts."
-msgstr ""
-"Nous vous aidons à développer des compétences qui soutiennent votre carrière professionnelle \n"
-"                vision et compléments visant à réaliser vos objectifs professionnels "
-"tels que la communication, l'éthique, la présentation personnelle et le profilage, "
-"international \n"
-"                critères de recherche d'opportunités, préparation de la prochaine "
-"niveau, création de valeur par résultat de travail, savoir quand partir et gagner "
-"compétences en négociation de contrats."
+#: mainapp/templates/mainapp/programs.html:121
+msgid "These services range from"
+msgstr "Ces prestations vont de"
 
-#: mainapp/templates/mainapp/programs.html:102
+#: mainapp/templates/mainapp/programs.html:95
+#: mainapp/templates/mainapp/programs.html:123
+msgid "Supporting managing the entire investment process."
+msgstr "Soutenir la gestion de l'ensemble du processus d'investissement."
+
+#: mainapp/templates/mainapp/programs.html:96
+#: mainapp/templates/mainapp/programs.html:124
+msgid ""
+"Regularly inspecting investments sites in order to control the progress."
+msgstr ""
+"Inspecter régulièrement les sites d'investissements afin de contrôler l'avancement."
+
+#: mainapp/templates/mainapp/programs.html:97
+#: mainapp/templates/mainapp/programs.html:125
+msgid "Verifying work carried out contractors."
+msgstr "Vérification des travaux effectués par les entrepreneurs."
+
+#: mainapp/templates/mainapp/programs.html:98
+#: mainapp/templates/mainapp/programs.html:126
+msgid "Generating post-completion documentation."
+msgstr "Génération de la documentation post-achèvement."
+
+#: mainapp/templates/mainapp/programs.html:99
+#: mainapp/templates/mainapp/programs.html:127
+msgid "Taking part in coordination meetings."
+msgstr "Participation aux réunions de coordination."
+
+#: mainapp/templates/mainapp/programs.html:100
+#: mainapp/templates/mainapp/programs.html:128
+msgid ""
+"Preparing and taking part in the final handover of the investment to the "
+"investor."
+msgstr ""
+"Préparer et participer à la remise finale de l'investissement au "
+"investisseur."
+#: mainapp/templates/mainapp/programs.html:130
+msgid ""
+"We make our clients part of the journey even while they are away by "
+"completely involving them in every juncture of our processes."
+msgstr ""
+"Nous faisons participer nos clients au voyage même lorsqu'ils sont absents en "
+"en les impliquant complètement à chaque étape de nos processus."
+#: mainapp/templates/mainapp/programs.html:152
+msgid ""
+"\n"
+"                We handle all aspects pertaining to the planning and "
+"execution of projects. We monitor projects\n"
+"                through the stages of project initiation, planning, "
+"execution, and closure to make sure that the\n"
+"                objectives of the project are fulfilled. We manage projects "
+"effectively so that they are completed on\n"
+"                time, to the set specification and within the stipulated "
+"budgets. With our strong grasp of various\n"
+"                modes of project delivery we can identify and recommend the "
+"most appropriate project delivery\n"
+"                approach for projects.\n"
+"                "
+msgstr ""
+"\n"
+"                Nous nous occupons de tous les aspects relatifs à la planification et "
+"exécution des projets. Nous suivons les projets\n"
+"                à travers les étapes de lancement du projet, de planification, "
+"l'exécution et la clôture pour s'assurer que le\n"
+"                objectifs du projet sont atteints. Nous gérons des projets "
+"efficacement afin qu'ils soient terminés sur\n"
+"                temps, au cahier des charges et dans les délais stipulés "
+"budgets. Grâce à notre solide maîtrise de divers\n"
+"                modes de livraison du projet, nous pouvons identifier et recommander les "
+"livraison de projet la plus appropriée\n"
+"                démarche pour les projets.\n"
+"                "
+
+#: mainapp/templates/mainapp/programs.html:161
+msgid "Some of our project management services include"
+msgstr "Certains de nos services de gestion de projet comprennent"
+
+#: mainapp/templates/mainapp/programs.html:163
+msgid "Define program goals and project scope"
+msgstr "Définir les objectifs du programme et la portée du projet"
+
+#: mainapp/templates/mainapp/programs.html:164
+msgid "Identify project delivery methods"
+msgstr "Identifier les méthodes de livraison du projet"
+
+#: mainapp/templates/mainapp/programs.html:165
+msgid "Outline project schedules"
+msgstr "Planifier les calendriers du projet"
+
+#: mainapp/templates/mainapp/programs.html:166
+msgid "Cost management"
+msgstr "La gestion des coûts"
+
+#: mainapp/templates/mainapp/programs.html:167
+msgid "Develop and Evaluate proposals"
+msgstr "Élaborer et évaluer des propositions"
+
+#: mainapp/templates/mainapp/programs.html:168
+msgid "Manage Consulting Services"
+msgstr "Gérer les services de conseil"
+
+#: mainapp/templates/mainapp/programs.html:169
+msgid "Develop Contract Documentation"
+msgstr "développer la documentation contractuelle"
+
+#: mainapp/templates/mainapp/programs.html:170
+msgid "Draft and generate project reports"
+msgstr "Rédiger et générer des rapports de projet"
+
+#: mainapp/templates/mainapp/programs.html:186
+#: mainapp/templates/mainapp/programs.html:214
+msgid ""
+"\n"
+"                    Workshops provide an avenue to explore current topics, "
+"hands-on training, and practical application.\n"
+"                    ELAN Dome Consultants offers a wide array of interactive "
+"and dynamic workshops and training sessions that\n"
+"                    can be easily customized to suit different individuals, "
+"groups and organizations. (Corporate\n"
+"                    Organizations, Educational Institutions, NGOs, CBOs "
+"etc)\n"
+"                    "
+msgstr ""
+"\n"
+"                    Les ateliers permettent d'explorer des sujets d'actualité, "
+"formation pratique et application pratique.\n"
+"                    ELAN Dome Consultants propose un large éventail de "
+"et des ateliers dynamiques et des sessions de formation qui\n"
+"                    peut être facilement personnalisé pour convenir à différentes personnes, "
+"groupes et organisations. (Entreprise\n"
+"                    Organisations, établissements d'enseignement, ONG, organisations communautaires "
+"etc)\n"
+"                    "
+
+#: mainapp/templates/mainapp/programs.html:194
+#: mainapp/templates/mainapp/programs.html:222
+msgid ""
+"\n"
+"                    These workshops and training sessions focus on "
+"respective areas as requested by our clients.\n"
+"                    They range from personal development areas to "
+"professional improvement areas like\n"
+"                    leadership training and change management. They are "
+"particularly very beneficial to\n"
+"                    organizations that would like to optimize their manpower "
+"and create unison within different\n"
+"                    departments.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Ces ateliers et sessions de formation portent sur "
+"domaines respectifs à la demande de nos clients.\n"
+"                    Ils vont des domaines de développement personnel à "
+"domaines de perfectionnement professionnel comme\n"
+"                    formation au leadership et conduite du changement. Elles sont "
+"particulièrement très bénéfique pour\n"
+"                    organisations qui souhaitent optimiser leur main-d'œuvre "
+"et créer l'unisson au sein de différents\n"
+"                    départements.\n"
+"                    "
+#: mainapp/templates/mainapp/programs.html:252
+msgid ""
+"\n"
+"                We work with individuals to help them identify what's most "
+"important to them and what they\n"
+"                want from their future and then support them to achieve "
+"these goals. Our Career Counseling\n"
+"                program is beneficial in numerous ways.\n"
+"                "
+msgstr ""
+"\n"
+"                Nous travaillons avec les individus pour les aider à identifier ce qui est le plus "
+"important pour eux et ce qu'ils"
+"                veulent de leur avenir, puis les aider à atteindre "
+"ces objectifs. Notre orientation professionnelle\n"
+"                programme est bénéfique à bien des égards.\n"
+"                "
+#: mainapp/templates/mainapp/programs.html:258
+msgid "We help you fully explore your interests"
+msgstr "Nous vous aidons à explorer pleinement vos intérêts"
+
+#: mainapp/templates/mainapp/programs.html:260
+msgid ""
+"\n"
+"                Through career counseling our participants are able to sift "
+"through factors that actually make\n"
+"                them want a certain career and angle plus common influential "
+"factors. Our career counselors\n"
+"                also question and support choices with all factors "
+"considered.\n"
+"                "
+msgstr ""
+"\n"
+"                Grâce à l'orientation professionnelle, nos participants sont en mesure de passer au crible "
+"à travers des facteurs qui font réellement\n"
+"ils veulent une certaine carrière et un certain angle ainsi qu'une influence commune "
+"                ils veulent une certaine carrière et un certain angle ainsi qu'une influence commune "
+"les facteurs. Nos conseillers en carrière\n"
+"                également remettre en question et soutenir les choix avec tous les facteurs "
+"considéré.\n"
+"                "
+#: mainapp/templates/mainapp/programs.html:270
+msgid "We clarify your professional objectives."
+msgstr "Nous clarifions vos objectifs professionnels."
+
+#: mainapp/templates/mainapp/programs.html:272
+msgid ""
+"\n"
+"                In order to break barriers and achieve success within your "
+"chosen field it is paramount to have\n"
+"                set objectives that guide your journey. Through career we "
+"help you create a roadmap by helping\n"
+"                you set these objectives and providing extensive insight on "
+"the advantages and disadvantages\n"
+"                of each action.\n"
+"                "
+msgstr ""
+"\n"
+"                Afin de briser les barrières et de réussir au sein de votre "
+"domaine choisi, il est primordial d'avoir\n"
+"                fixez-vous des objectifs qui guident votre cheminement. Grâce à la carrière, nous "
+"vous aider à créer une feuille de route en aidant\n"
+"                vous fixez ces objectifs et fournissez des informations détaillées sur "
+"les avantages et les inconvénients\n"
+"                de chaque acte.\n"
+"                "
+
+#: mainapp/templates/mainapp/programs.html:282
+msgid "We help you expand your horizons."
+msgstr "Nous vous aidons à élargir vos horizons."
+
+#: mainapp/templates/mainapp/programs.html:284
+msgid ""
+"\n"
+"                Through our career counseling program you will gain a wider "
+"perspective of the career options\n"
+"                and choices they have. You will be able to explore more "
+"career options, review the opportunities\n"
+"                that present themselves and settle on the best fit.\n"
+"                "
+msgstr ""
+"\n"
+"                Grâce à notre programme d'orientation professionnelle, vous bénéficierez d'une plus grande "
+"perspective des options de carrière\n"
+"                et les choix qu'ils ont. Vous pourrez explorer davantage "
+"options de carrière, examinez les opportunités\n"
+"                qui se présentent et choisissent le meilleur ajustement.\n"
+"                "
+#: mainapp/templates/mainapp/programs.html:296
 msgid "Still want to know more? Let's Talk"
 msgstr "Vous voulez encore en savoir plus ? Parlons"
 
@@ -968,111 +2126,204 @@ msgstr "Traiter"
 
 #: mainapp/templates/mainapp/services.html:24
 msgid ""
-"We prioritize efficient and seamless operations that cushion our clients "
-"from the hustle \n"
-"                and bustle of international regulatory requirements, "
+"\n"
+"                    We prioritize efficient and seamless operations that "
+"cushion our clients from the hustle \n"
+"                    and bustle of international regulatory requirements, "
 "cultural pressures and international \n"
-"                logistics. We transfer these responsibilities from you to us "
-"given our deep understanding \n"
-"                of the cultural contexts, legal requirements and local "
+"                    logistics. We transfer these responsibilities from you "
+"to us given our deep understanding \n"
+"                    of the cultural contexts, legal requirements and local "
 "dynamics. We want to make sure everything \n"
-"                is fast, simple, under control, pleasant, experiential, "
-"memorable and impactful."
+"                    is fast, simple, under control, pleasant, experiential, "
+"memorable and impactful.\n"
+"                    "
 msgstr ""
-"Nous accordons la priorité à des opérations efficaces et transparentes qui protègent nos clients "
-"de l'agitation \n"
-"                et l'agitation des exigences réglementaires internationales, "
+"\n"
+"                    Nous accordons la priorité à des opérations efficaces et transparentes qui "
+"protéger nos clients de l'agitation \n"
+"                    et l'agitation des exigences réglementaires internationales, "
 "pressions culturelles et internationales \n"
-"                logistique. Nous transférons ces responsabilités de vous à nous "
-"compte tenu de notre profonde compréhension \n"
-"                des contextes culturels, des exigences légales et des "
+"                    logistique. Nous vous transférons ces responsabilités "
+"à nous compte tenu de notre profonde compréhension \n"
+"                    des contextes culturels, des exigences légales et des "
 "dynamique. Nous voulons nous assurer que tout \n"
-"                est rapide, simple, maîtrisé, agréable, expérientiel, "
-"mémorable et percutant."
+"                    est rapide, simple, maîtrisé, agréable, expérientiel,"
+"mémorable et percutant.\n"
+"                    "
 
-#: mainapp/templates/mainapp/services.html:184
+#: mainapp/templates/mainapp/services.html:37
 msgid "What We Do"
 msgstr "Ce que nous faisons"
 
-#: mainapp/templates/mainapp/services.html:185
+#: mainapp/templates/mainapp/services.html:38
 msgid "Project focussed."
 msgstr "Axé sur le projet."
 
-#: mainapp/templates/mainapp/services.html:185
+#: mainapp/templates/mainapp/services.html:38
 msgid "People centred."
 msgstr "Centré sur les personnes."
 
-#: mainapp/templates/mainapp/services.html:185
+#: mainapp/templates/mainapp/services.html:38
 msgid "Results driven."
-msgstr "Axé sur les résultats."
+msgstr "Centré sur les personnes."
 
-#: mainapp/templates/mainapp/services.html:192
+#: mainapp/templates/mainapp/services.html:46
 msgid ""
-"Interlink international students, individual social/organizational groups, "
-"universities\n"
-"                    and boarding schools to prospective community programs, "
-"initiatives, organizations and projects."
+"\n"
+"                        Interlink international students, individual social/"
+"organizational groups, universities\n"
+"                        and boarding schools to prospective community "
+"programs, initiatives, organizations and projects.\n"
+"                        "
 msgstr ""
-"Relier les étudiants internationaux, les groupes sociaux / organisationnels individuels, "
-"les universités\n"
-"                    et internats aux programmes communautaires potentiels, "
-"initiatives, organisations et projets."
-
-#: mainapp/templates/mainapp/services.html:202
+"\n"
+"                        Interlink étudiants internationaux, social individuel/"
+"groupes organisationnels, universités\n"
+"                        et internats à la communauté potentielle "
+"programmes, initiatives, organisations et projets.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:59
 msgid ""
-"Provide individuals with an experiential and international learning exposure "
-"service that is second\n"
-"                    to none in terms of immersion into societal contexts "
-"that are unique and rich."
+"\n"
+"                        Provide individuals with an experiential and "
+"international learning exposure service that is second\n"
+"                        to none in terms of immersion into societal contexts "
+"that are unique and rich.\n"
+"                        "
 msgstr ""
-"Offrir aux individus une expérience d'apprentissage expérientiel et international "
-"service qui est deuxième\n"
-"                    à rien en termes d'immersion dans des contextes sociétaux "
-"uniques et riches."
-
-#: mainapp/templates/mainapp/services.html:212
+"\n"
+"                        Offrir aux individus une expérience et "
+"international learning exposure service that is second\n"
+"                        à rien en termes d'immersion dans des contextes sociétaux "
+"uniques et riches.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:72
 msgid ""
-"Offer project management services to in all aspects (community based "
-"organizations, corporate facing and\n"
-"                    event oriented)"
+"\n"
+"                        Offer project management services to in all aspects "
+"(community based organizations, corporate facing and\n"
+"                        event oriented)\n"
+"                        "
 msgstr ""
-"Offrir des services de gestion de projet à tous les aspects (basés sur la communauté "
-"organisations, face aux entreprises et\n"
-"                    événementiel)"
-
-#: mainapp/templates/mainapp/services.html:224
+"\n"
+"                        Offrir des services de gestion de projet à tous les aspects "
+"(organisations communautaires, face aux entreprises et\n"
+"                        événementiel)\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:87
 msgid ""
-"Organize exceptional adventurous activities for volunteers across Africa- "
-"networking, thrill, food &\n"
-"                    culture etc."
+"\n"
+"                        Organize exceptional adventurous activities for "
+"volunteers across Africa- networking, thrill, food &\n"
+"                        culture etc.\n"
+"                        "
 msgstr ""
-"Organisez des activités d'aventure exceptionnelles pour les volontaires à travers l'Afrique- "
-"networking, sensations fortes, food &\n"
-"                    culturelle etc."
-
-#: mainapp/templates/mainapp/services.html:234
+"\n"
+"                        Organisez des activités d'aventure exceptionnelles pour "
+"bénévoles à travers l'Afrique - réseautage, sensations fortes, nourriture et\n"
+"                        culturelle etc...\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:100
 msgid ""
-"Provide 360° placement services to assist interested individuals in all "
-"facets of enrolling in\n"
-"                    international internship and exchange programs."
+"\n"
+"                        Provide 360° placement services to assist interested "
+"individuals in all facets of enrolling in\n"
+"                        international internship and exchange programs.\n"
+"                        "
 msgstr ""
-"Fournir des services de placement à 360° pour aider les personnes intéressées dans tous "
-"facettes de l'inscription à\n"
-"                    programmes de stages et d'échanges internationaux."
+"\n"
+"                        Fournir des services de placement à 360° pour aider les personnes intéressées "
+"les individus dans toutes les facettes de l'inscription à\n"
+"                        programmes de stages et d'échanges internationaux.\n"
+"                        "
 
-#: mainapp/templates/mainapp/services.html:244
+#: mainapp/templates/mainapp/services.html:113
 msgid ""
-"Provide organizational programming through the creation of functional "
-"organization designs,\n"
-"                    implementation, evaluation and support"
+"\n"
+"                        Provide organizational programming through the "
+"creation of functional organization designs,\n"
+"                        implementation, evaluation and support\n"
+"                        "
 msgstr ""
-"Fournir une programmation organisationnelle par la création de "
-"conceptions d'organisation,\n"
-"                    mise en œuvre, évaluation et accompagnement"
+"\n"
+"                        Offrir une programmation organisationnelle par le "
+"création de schémas d'organisation fonctionnelle,\n"
+"                        mise en œuvre, évaluation et accompagnement\n"
+"                        "
 
-#: mainapp/templates/mainapp/services.html:252
+#: mainapp/templates/mainapp/services.html:124
 msgid "Our Portfolio"
+msgstr "Notre portfolio"
+
+#: mainapp/templates/mainapp/services.html:140
+msgid ""
+"\n"
+"                    The OBC volunteer program will help you render "
+"assistance to underprivileged and underserved communities where you will "
+"experience \n"
+"                    traditional cultures and even get a chance to interact "
+"with rich wildlife all while supporting a good cause and creating a positive "
+"impact in the society.\n"
+"                    "
 msgstr ""
+"\n"
+"                    Le programme de bénévolat OBC vous aidera à rendre "
+"assistance aux communautés défavorisées et mal desservies où vous "
+"vivre \n"
+"                    cultures traditionnelles et même avoir la chance d'interagir "
+"avec une faune riche tout en soutenant une bonne cause et en créant un climat positif "
+"impact dans la société.\n"
+"                    "
+#: mainapp/templates/mainapp/services.html:153
+#: mainapp/templates/mainapp/services.html:183
+msgid ""
+"\n"
+"                        We are the  first choice custodians of your projects "
+"and resources on ground. We source for quality and competitive resource "
+"plans, quotations, unique development \n"
+"                        plans and bespoke designs that are fairly priced and "
+"work with reputable excerpts to execute your vision and deliver beyond the "
+"expected outcomes.\n"
+"                        "
+msgstr ""
+"\n"
+"                        Nous sommes les gardiens de premier choix de vos projets "
+"et ressources sur le terrain. Nous recherchons des ressources de qualité et compétitives "
+"plans, devis, aménagement unique \n"
+"                        des plans et des conceptions sur mesure à un prix raisonnable et "
+"travaillez avec des extraits réputés pour exécuter votre vision et livrer au-delà du "
+"résultats attendus.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:159
+#: mainapp/templates/mainapp/services.html:189
+msgid ""
+"\n"
+"                        Our areas of focus include: research, digitization, "
+"real estate & construction, corporate events (workshops and employee "
+"development programs), \n"
+"                        budgeting exercises and project fundraising "
+"initiatives.\n"
+"                        "
+msgstr ""
+"\n"
+"                        Nos domaines d'intervention comprennent : la recherche, la numérisation, "
+"immobilier & construction, événements d'entreprise (ateliers et employés "
+"programmes de développement), \n"
+"                        exercices de budgétisation et collecte de fonds pour le projet "
+"initiatives.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:207
+msgid ""
+"We walk with you the journey to discovering what sets your soul on fire "
+"professionally."
+msgstr ""
+"Nous parcourons avec vous le voyage pour découvrir ce qui met le feu à votre âme "
+"professionnellement."
+
+#: mainapp/templates/mainapp/services.html:223
+msgid "Find Out More"
+msgstr "En savoir plus"
 
 #: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:130
 #: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:140
