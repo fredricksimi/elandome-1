@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-25 20:17+0300\n"
+"POT-Creation-Date: 2022-10-26 20:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1304,7 +1304,7 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:25
 #: mainapp/templates/mainapp/index.html:38
-#: mainapp/templates/mainapp/navbar.html:50
+#: mainapp/templates/mainapp/navbar.html:52
 msgid "Get in touch - it's free"
 msgstr "Mettiti in contatto - è gratuito"
 
@@ -1395,8 +1395,8 @@ msgstr "Per saperne di più"
 
 #: mainapp/templates/mainapp/index.html:100
 #: mainapp/templates/mainapp/index.html:252
-#: mainapp/templates/mainapp/programs.html:83
-#: mainapp/templates/mainapp/programs.html:111
+#: mainapp/templates/mainapp/programs.html:72
+#: mainapp/templates/mainapp/programs.html:100
 msgid "Investment supervision, coordination and implementation"
 msgstr "Supervisione, coordinamento e attuazione degli investimenti"
 
@@ -1454,7 +1454,7 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:140
 #: mainapp/templates/mainapp/index.html:289
-#: mainapp/templates/mainapp/programs.html:150
+#: mainapp/templates/mainapp/programs.html:139
 #: mainapp/templates/mainapp/services.html:151
 #: mainapp/templates/mainapp/services.html:181
 msgid "Project Management"
@@ -1491,8 +1491,8 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:161
 #: mainapp/templates/mainapp/index.html:318
-#: mainapp/templates/mainapp/programs.html:184
-#: mainapp/templates/mainapp/programs.html:212
+#: mainapp/templates/mainapp/programs.html:173
+#: mainapp/templates/mainapp/programs.html:201
 msgid "Workshops & Training"
 msgstr "Workshop e formazione"
 
@@ -1537,7 +1537,7 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:197
 #: mainapp/templates/mainapp/index.html:351
-#: mainapp/templates/mainapp/programs.html:250
+#: mainapp/templates/mainapp/programs.html:239
 #: mainapp/templates/mainapp/services.html:205
 msgid "Career Counselling"
 msgstr "Consulenza professionale"
@@ -1742,7 +1742,7 @@ msgstr "Programmi"
 msgid "News"
 msgstr "Notizia"
 
-#: mainapp/templates/mainapp/navbar.html:41
+#: mainapp/templates/mainapp/navbar.html:43
 msgid "Join Us"
 msgstr "Unisciti a noi"
 
@@ -1852,48 +1852,12 @@ msgstr ""
 "            innanzitutto.  \n"
 "            "
 
-#: mainapp/templates/mainapp/programs.html:53
-msgid ""
-"\n"
-"            Due to the rich farming community in Kenya, eco farming "
-"volunteering is highly encouraged for\n"
-"            individuals who are concerned about sustainability, climate "
-"change and community farming.\n"
-"            They get to connect with the local farming communities and share "
-"their skills to enhance the\n"
-"            farming standards and contribute to food security. We give our "
-"volunteers a detailed overview of\n"
-"            ELAN Domes' volunteer mission and expectations to enable them to "
-"be confident and\n"
-"            knowledgeable about the causes they are undertaking and to "
-"cultivate the motivation and\n"
-"            enthusiasm that encouraged them to volunteer in the first "
-"place.\n"
-"            "
-msgstr ""
-"\n"
-"            A causa della ricca comunità agricola in Kenya, l'ecoagricoltura "
-"il volontariato è altamente incoraggiato\n"
-"            persone preoccupate per la sostenibilità, il clima cambiamento e "
-"agricoltura comunitaria.\n"
-"            Possono entrare in contatto con le comunità agricole locali e "
-"condividere le loro capacità per migliorare il\n"
-"            standard agricoli e contribuiscono alla sicurezza alimentare. "
-"Diamo il nostro volontari una panoramica dettagliata di\n"
-"            La missione e le aspettative dei volontari di ELAN Domes per "
-"consentirgli di farlo essere fiducioso e\n"
-"            ben informato sulle cause che stanno intraprendendo e verso "
-"coltivare la motivazione e\n"
-"            entusiasmo che li ha incoraggiati a fare volontariato nel primo "
-"posto.\n"
-"            "
-
-#: mainapp/templates/mainapp/programs.html:67
+#: mainapp/templates/mainapp/programs.html:56
 msgid "Apply to be a volunteer"
 msgstr "Candidati per diventare volontario"
 
-#: mainapp/templates/mainapp/programs.html:85
-#: mainapp/templates/mainapp/programs.html:113
+#: mainapp/templates/mainapp/programs.html:74
+#: mainapp/templates/mainapp/programs.html:102
 msgid ""
 "\n"
 "                    We support local citizens in the diaspora and "
@@ -1920,41 +1884,41 @@ msgstr ""
 "                    responsabilità.\n"
 "                    "
 
-#: mainapp/templates/mainapp/programs.html:93
-#: mainapp/templates/mainapp/programs.html:121
+#: mainapp/templates/mainapp/programs.html:82
+#: mainapp/templates/mainapp/programs.html:110
 msgid "These services range from"
 msgstr "Questi servizi vanno da"
 
-#: mainapp/templates/mainapp/programs.html:95
-#: mainapp/templates/mainapp/programs.html:123
+#: mainapp/templates/mainapp/programs.html:84
+#: mainapp/templates/mainapp/programs.html:112
 msgid "Supporting managing the entire investment process."
 msgstr "Supporto alla gestione dell'intero processo di investimento."
 
-#: mainapp/templates/mainapp/programs.html:96
-#: mainapp/templates/mainapp/programs.html:124
+#: mainapp/templates/mainapp/programs.html:85
+#: mainapp/templates/mainapp/programs.html:113
 msgid ""
 "Regularly inspecting investments sites in order to control the progress."
 msgstr ""
 "Ispezionare regolarmente i siti di investimento al fine di controllarne lo "
 "stato di avanzamento. "
 
-#: mainapp/templates/mainapp/programs.html:97
-#: mainapp/templates/mainapp/programs.html:125
+#: mainapp/templates/mainapp/programs.html:86
+#: mainapp/templates/mainapp/programs.html:114
 msgid "Verifying work carried out contractors."
 msgstr "Verifica lavori eseguiti appaltatori."
 
-#: mainapp/templates/mainapp/programs.html:98
-#: mainapp/templates/mainapp/programs.html:126
+#: mainapp/templates/mainapp/programs.html:87
+#: mainapp/templates/mainapp/programs.html:115
 msgid "Generating post-completion documentation."
 msgstr "Generazione della documentazione successiva al completamento."
 
-#: mainapp/templates/mainapp/programs.html:99
-#: mainapp/templates/mainapp/programs.html:127
+#: mainapp/templates/mainapp/programs.html:88
+#: mainapp/templates/mainapp/programs.html:116
 msgid "Taking part in coordination meetings."
 msgstr "Partecipazione alle riunioni di coordinamento."
 
-#: mainapp/templates/mainapp/programs.html:100
-#: mainapp/templates/mainapp/programs.html:128
+#: mainapp/templates/mainapp/programs.html:89
+#: mainapp/templates/mainapp/programs.html:117
 msgid ""
 "Preparing and taking part in the final handover of the investment to the "
 "investor."
@@ -1962,7 +1926,7 @@ msgstr ""
 "Preparazione e partecipazione alla consegna finale dell'investimento al "
 "investitore."
 
-#: mainapp/templates/mainapp/programs.html:130
+#: mainapp/templates/mainapp/programs.html:119
 msgid ""
 "We make our clients part of the journey even while they are away by "
 "completely involving them in every juncture of our processes."
@@ -1970,7 +1934,7 @@ msgstr ""
 "Rendiamo i nostri clienti partecipi del viaggio anche mentre sono lontani "
 "coinvolgendoli completamente in ogni frangente dei nostri processi."
 
-#: mainapp/templates/mainapp/programs.html:152
+#: mainapp/templates/mainapp/programs.html:141
 msgid ""
 "\n"
 "                We handle all aspects pertaining to the planning and "
@@ -2000,44 +1964,44 @@ msgstr ""
 "                approccio per i progetti.\n"
 "                "
 
-#: mainapp/templates/mainapp/programs.html:161
+#: mainapp/templates/mainapp/programs.html:150
 msgid "Some of our project management services include"
 msgstr "Alcuni dei nostri servizi di gestione dei progetti includono"
 
-#: mainapp/templates/mainapp/programs.html:163
+#: mainapp/templates/mainapp/programs.html:152
 msgid "Define program goals and project scope"
 msgstr "Definire gli obiettivi del programma e l'ambito del progetto"
 
-#: mainapp/templates/mainapp/programs.html:164
+#: mainapp/templates/mainapp/programs.html:153
 msgid "Identify project delivery methods"
 msgstr "Identificare i metodi di consegna del progetto"
 
-#: mainapp/templates/mainapp/programs.html:165
+#: mainapp/templates/mainapp/programs.html:154
 msgid "Outline project schedules"
 msgstr "Delineare le pianificazioni dei progetti"
 
-#: mainapp/templates/mainapp/programs.html:166
+#: mainapp/templates/mainapp/programs.html:155
 msgid "Cost management"
 msgstr "Gestione dei costi"
 
-#: mainapp/templates/mainapp/programs.html:167
+#: mainapp/templates/mainapp/programs.html:156
 msgid "Develop and Evaluate proposals"
 msgstr "Sviluppare e valutare proposte"
 
-#: mainapp/templates/mainapp/programs.html:168
+#: mainapp/templates/mainapp/programs.html:157
 msgid "Manage Consulting Services"
 msgstr "Gestisci i servizi di consulenza"
 
-#: mainapp/templates/mainapp/programs.html:169
+#: mainapp/templates/mainapp/programs.html:158
 msgid "Develop Contract Documentation"
 msgstr "Sviluppa documentazione contrattuale"
 
-#: mainapp/templates/mainapp/programs.html:170
+#: mainapp/templates/mainapp/programs.html:159
 msgid "Draft and generate project reports"
 msgstr "Redigere e generare report di progetto"
 
-#: mainapp/templates/mainapp/programs.html:186
-#: mainapp/templates/mainapp/programs.html:214
+#: mainapp/templates/mainapp/programs.html:175
+#: mainapp/templates/mainapp/programs.html:203
 msgid ""
 "\n"
 "                    Workshops provide an avenue to explore current topics, "
@@ -2061,8 +2025,8 @@ msgstr ""
 "eccetera)\n"
 "                    "
 
-#: mainapp/templates/mainapp/programs.html:194
-#: mainapp/templates/mainapp/programs.html:222
+#: mainapp/templates/mainapp/programs.html:183
+#: mainapp/templates/mainapp/programs.html:211
 msgid ""
 "\n"
 "                    These workshops and training sessions focus on "
@@ -2088,7 +2052,7 @@ msgstr ""
 "                    dipartimenti.\n"
 "                    "
 
-#: mainapp/templates/mainapp/programs.html:252
+#: mainapp/templates/mainapp/programs.html:241
 msgid ""
 "\n"
 "                We work with individuals to help them identify what's most "
@@ -2106,11 +2070,11 @@ msgstr ""
 "                programma è vantaggioso in molti modi.\n"
 "                "
 
-#: mainapp/templates/mainapp/programs.html:258
+#: mainapp/templates/mainapp/programs.html:247
 msgid "We help you fully explore your interests"
 msgstr "Ti aiutiamo ad espandere i tuoi orizzonti."
 
-#: mainapp/templates/mainapp/programs.html:260
+#: mainapp/templates/mainapp/programs.html:249
 msgid ""
 "\n"
 "                Through career counseling our participants are able to sift "
@@ -2131,11 +2095,11 @@ msgstr ""
 "tutti i fattori considerato.\n"
 "                "
 
-#: mainapp/templates/mainapp/programs.html:270
+#: mainapp/templates/mainapp/programs.html:259
 msgid "We clarify your professional objectives."
 msgstr "Chiariamo i tuoi obiettivi professionali."
 
-#: mainapp/templates/mainapp/programs.html:272
+#: mainapp/templates/mainapp/programs.html:261
 msgid ""
 "\n"
 "                In order to break barriers and achieve success within your "
@@ -2157,11 +2121,11 @@ msgstr ""
 "                di ogni azione.\n"
 "                "
 
-#: mainapp/templates/mainapp/programs.html:282
+#: mainapp/templates/mainapp/programs.html:271
 msgid "We help you expand your horizons."
 msgstr "Ti aiutiamo ad espandere i tuoi orizzonti."
 
-#: mainapp/templates/mainapp/programs.html:284
+#: mainapp/templates/mainapp/programs.html:273
 msgid ""
 "\n"
 "                Through our career counseling program you will gain a wider "
@@ -2180,7 +2144,7 @@ msgstr ""
 "migliore.\n"
 "                "
 
-#: mainapp/templates/mainapp/programs.html:296
+#: mainapp/templates/mainapp/programs.html:285
 msgid "Still want to know more? Let's Talk"
 msgstr "Ancora voglia di saperne di più? Parliamo"
 
@@ -3612,3 +3576,38 @@ msgstr ""
 #: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:249
 msgid "Connect, get help, or contribute"
 msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "            Due to the rich farming community in Kenya, eco farming "
+#~ "volunteering is highly encouraged for\n"
+#~ "            individuals who are concerned about sustainability, climate "
+#~ "change and community farming.\n"
+#~ "            They get to connect with the local farming communities and "
+#~ "share their skills to enhance the\n"
+#~ "            farming standards and contribute to food security. We give "
+#~ "our volunteers a detailed overview of\n"
+#~ "            ELAN Domes' volunteer mission and expectations to enable them "
+#~ "to be confident and\n"
+#~ "            knowledgeable about the causes they are undertaking and to "
+#~ "cultivate the motivation and\n"
+#~ "            enthusiasm that encouraged them to volunteer in the first "
+#~ "place.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "            A causa della ricca comunità agricola in Kenya, "
+#~ "l'ecoagricoltura il volontariato è altamente incoraggiato\n"
+#~ "            persone preoccupate per la sostenibilità, il clima "
+#~ "cambiamento e agricoltura comunitaria.\n"
+#~ "            Possono entrare in contatto con le comunità agricole locali e "
+#~ "condividere le loro capacità per migliorare il\n"
+#~ "            standard agricoli e contribuiscono alla sicurezza alimentare. "
+#~ "Diamo il nostro volontari una panoramica dettagliata di\n"
+#~ "            La missione e le aspettative dei volontari di ELAN Domes per "
+#~ "consentirgli di farlo essere fiducioso e\n"
+#~ "            ben informato sulle cause che stanno intraprendendo e verso "
+#~ "coltivare la motivazione e\n"
+#~ "            entusiasmo che li ha incoraggiati a fare volontariato nel "
+#~ "primo posto.\n"
+#~ "            "
