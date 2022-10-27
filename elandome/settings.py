@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-rs_7@8((-=ypq-ia(1_!4e-fmv1_fe-336tp+^al4j+nfcjs8n
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['elan.fredricksimi.com', '127.0.0.1', 'elandome.org']
+ALLOWED_HOSTS = ['elan.fredricksimi.com', '127.0.0.1', 'elandome.org', 'localhost']
 
 
 # Application definition
@@ -136,6 +136,7 @@ LANGUAGES = [
     ('fr', 'French'),
     ('de', 'German'),
     ('it', 'Italian'),
+    ('sw', 'Swahili')
 ]
 
 
@@ -157,6 +158,6 @@ MESSAGE_TAGS = {
     messages.WARNING: 'alert-warning',
     messages.ERROR: 'alert-danger',
 }
-SECURE_SSL_REDIRECT = True
-SESSION_COOKIE_SECURE = True
-CSRF_COOKIE_SECURE = True
+# SECURE_SSL_REDIRECT = True
+# SESSION_COOKIE_SECURE = True
+# CSRF_COOKIE_SECURE = True
