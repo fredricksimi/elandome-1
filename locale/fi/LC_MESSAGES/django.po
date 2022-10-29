@@ -1,0 +1,3485 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-29 08:42+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: mainapp/templates/mainapp/about.html:22
+#: mainapp/templates/mainapp/about.html:33
+msgid "Get to know about us and our journey."
+msgstr "Tutustu meihin ja matkaamme."
+
+#: mainapp/templates/mainapp/about.html:24
+#: mainapp/templates/mainapp/about.html:35
+msgid ""
+"Get acquainted with our team and understand how we work and proceed towards "
+"success."
+msgstr ""
+"Tutustu tiimiimme ja ymmärrä, miten toimimme ja etenemme kohti "
+"menestys."
+
+#: mainapp/templates/mainapp/about.html:43
+msgid "About ELAN Dome Consultants"
+msgstr "Tietoja ELAN Dome Consultantsista"
+
+#: mainapp/templates/mainapp/about.html:45
+msgid ""
+"\n"
+"            ELAN (Education, Learning and Networking) Dome Consultants is an "
+"Africa based, bred \n"
+"            and youth-led social & corporate outsourcing consultancy firm "
+"that strives to reshape the path of social \n"
+"            service and international business engagements for students, "
+"individuals and institutions interested \n"
+"            in integrating international experience and community service by "
+"offering high-quality international \n"
+"            volunteer and service-learning engagements.\n"
+"            "
+msgstr ""
+"\n"
+"            ELAN (Education, Learning and Networking) Dome Consultants on "
+"Afrikassa, kasvatettu \n"
+"            ja nuorisojohtoinen sosiaalinen ja yritysulkoistuskonsulttiyritys "
+"joka pyrkii muotoilemaan uudelleen sosiaalisen polun \n"
+"            palvelu- ja kansainvälinen yritystoiminta opiskelijoille, "
+"kiinnostuneet henkilöt ja laitokset \n"
+"            kansainvälisen kokemuksen ja yhteisön palvelun yhdistämisessä "
+"tarjoaa korkealaatuista kansainvälistä \n"
+"            vapaaehtoistyötä ja palveluoppimista.\n"
+"            "
+#: mainapp/templates/mainapp/about.html:54
+msgid ""
+"\n"
+"            Additionally, ELAN Dome Consultants offers supervision and "
+"implementation support services, \n"
+"            organizational programming, project management, external quality "
+"assurance checks, curriculum research and \n"
+"            development and international students collaboration projects. "
+"Our aim is to enhance impactful initiatives \n"
+"            in Africa by promoting cultural exchange, reliable investment in "
+"projects and holistic learning for local \n"
+"            citizens in the diaspora and the international community.\n"
+"            "
+msgstr ""
+"\n"
+"            Lisäksi ELAN Dome Consultants tarjoaa valvontaa ja "
+"käyttöönoton tukipalvelut, \n"
+"            organisaation ohjelmointi, projektinhallinta, ulkoinen laatu "
+"varmuustarkastukset, opetussuunnitelmatutkimukset ja \n"
+"            kehitys- ja kansainvälisten opiskelijoiden yhteistyöprojekteja. "
+"Tavoitteenamme on edistää vaikuttavia aloitteita \n"
+"            Afrikassa edistämällä kulttuurivaihtoa, luotettavia investointeja "
+"hankkeita ja kokonaisvaltaista oppimista paikallisille \n"
+"            diasporan ja kansainvälisen yhteisön kansalaisia.\n"
+"            "
+#: mainapp/templates/mainapp/about.html:72
+msgid "Our Mission"
+msgstr "Tehtävämme"
+
+#: mainapp/templates/mainapp/about.html:75
+msgid ""
+"To match prospective individuals and institutions with communities and "
+"organizations through global networking and partnerships."
+msgstr ""
+"Kohdistaa mahdolliset yksilöt ja laitokset yhteisöihin ja "
+"organisaatioiden maailmanlaajuisen verkostoitumisen ja kumppanuuksien kautta."
+
+#: mainapp/templates/mainapp/about.html:77
+msgid "Our Vision"
+msgstr "Näkemyksemme"
+
+#: mainapp/templates/mainapp/about.html:78
+msgid "Experiential learning beyond borders"
+msgstr "Kokemuksellinen oppiminen yli rajojen"
+
+#: mainapp/templates/mainapp/about.html:91
+#: mainapp/templates/mainapp/about.html:106
+msgid "Client Focus Goal"
+msgstr "Asiakaskeskeinen tavoite"
+
+#: mainapp/templates/mainapp/about.html:94
+#: mainapp/templates/mainapp/about.html:109
+msgid ""
+"Optimized logistical support, cultural experiences and fulfillment to the "
+"stakeholders."
+msgstr ""
+"Optimoitu logistinen tuki, kulttuurielämyksiä ja täyttymystä "
+"sidosryhmiä."
+
+#: mainapp/templates/mainapp/about.html:96
+#: mainapp/templates/mainapp/about.html:111
+msgid "Primary Goal"
+msgstr "Päätavoite"
+
+#: mainapp/templates/mainapp/about.html:97
+#: mainapp/templates/mainapp/about.html:112
+msgid ""
+"To facilitate a seamless and targeted positioning of individuals, families, "
+"groups and institutions in local but impactful initiatives in Africa."
+msgstr ""
+"Helpottaa saumatonta ja kohdennettua yksilöiden, perheiden, "
+"ryhmiä ja instituutioita paikallisissa mutta vaikuttavissa aloitteissa Afrikassa."
+
+#: mainapp/templates/mainapp/about.html:132
+#: mainapp/templates/mainapp/about.html:191
+msgid "Why Choose ELAN Dome Consultants"
+msgstr "Miksi valita ELAN Dome Consultants"
+
+#: mainapp/templates/mainapp/about.html:139
+#: mainapp/templates/mainapp/about.html:199
+msgid ""
+"Our efficient and experienced team members ensure that the journey of each "
+"participant turns out to be an incredible adventure."
+msgstr ""
+"Tehokkaat ja kokeneet tiimimme jäsenet varmistavat jokaisen matkan "
+"osallistujasta tulee uskomaton seikkailu."
+#: mainapp/templates/mainapp/about.html:149
+msgid ""
+"We offer a variety of programs tailored for diverse groups. The aim is to "
+"make a positive impact on the society and the participating \n"
+"                                    individuals by instilling relevant "
+"skills and values."
+msgstr ""
+"Tarjoamme monipuolista ohjelmaa eri ryhmille. Tavoitteena on "
+"vaikuttaa myönteisesti yhteiskuntaan ja osallistujaan \n"
+"                                    yksilöiden juurruttamalla asiaankuuluvia "
+"taitoja ja arvoja."
+#: mainapp/templates/mainapp/about.html:161
+#: mainapp/templates/mainapp/about.html:225
+msgid ""
+"We have rolled out a localized integrated and dynamic international "
+"volunteer program for those seeking to experience Africa through service."
+msgstr ""
+"Olemme ottaneet käyttöön paikallisen integroidun ja dynaamisen kansainvälisen "
+"vapaaehtoisohjelma niille, jotka haluavat kokea Afrikkaa palvelun kautta."
+
+#: mainapp/templates/mainapp/about.html:171
+#: mainapp/templates/mainapp/about.html:235
+msgid ""
+"We look out for the best interests of our clients with our unmatched "
+"supervision and implementation support."
+msgstr ""
+"Pidämme asiakkaidemme etua vertaansa vailla "
+"valvonta- ja täytäntöönpanotuki."
+#: mainapp/templates/mainapp/about.html:211
+msgid ""
+"\n"
+"                                    We offer a variety of programs tailored "
+"for diverse groups. The aim is to make a positive impact on the society and "
+"the participating \n"
+"                                    individuals by instilling relevant "
+"skills and values.\n"
+"                                    "
+msgstr ""
+"\n"
+"                                    Tarjoamme erilaisia räätälöityjä ohjelmia "
+"erilaisille ryhmille. Tavoitteena on vaikuttaa positiivisesti yhteiskuntaan ja "
+"osallistuva \n"
+"                                    yksilöiden juurruttamalla asiaankuuluvia "
+"taitoja ja arvoja.\n"
+"                                    "
+#: mainapp/templates/mainapp/about.html:251
+msgid "Our Team of Experts"
+msgstr "Asiantuntijatiimimme"
+
+#: mainapp/templates/mainapp/about.html:257
+msgid ""
+"Managing Director and Principal Consultant Partnerships and Corporate Affairs"
+msgstr ""
+"Toimitusjohtaja ja pääkonsultti Kumppanuudet ja yritysasiat"
+
+#: mainapp/templates/mainapp/about.html:263
+msgid ""
+"\n"
+"                    Awino is a seasoned Operations Lead with over five (5) "
+"years' experience in fast-paced \n"
+"                    multi-sectoral organisations across multiple countries. "
+"She has excelled in providing strategic, \n"
+"                    quality assurance, administrative, logistical, "
+"coordination and implementation support to high-level \n"
+"                    executives and project teams with multiple tasks. She "
+"facilitates human centred design thinking and \n"
+"                    challenge driven education workshops for faculty, "
+"corporate staff and university students.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Awino on kokenut operaatiojohtaja, jolla on yli viisi (5) "
+"vuoden kokemus nopeatempoisesta \n"
+"                    monialaisia organisaatioita useissa maissa. "
+"Hän on loistanut strategisten, \n"
+"                    laadunvarmistus, hallinto, logistiikka, "
+"koordinointi- ja täytäntöönpanotuki korkealle tasolle \n"
+"                    johtajat ja projektiryhmät, joilla on useita tehtäviä. Hän "
+"helpottaa ihmiskeskeistä suunnitteluajattelua ja \n"
+"                    haastelähtöiset koulutustyöpajat tiedekunnalle, "
+"yritysten henkilökuntaa ja yliopisto-opiskelijoita.\n"
+"                    "
+#: mainapp/templates/mainapp/about.html:272
+msgid ""
+"\n"
+"                    She has also  negotiated for partnerships, developed "
+"proposals and instituted partner stewardship programs \n"
+"                    and has also been involved in data collection, "
+"classification, clean-up, knowledge management and governance \n"
+"                    for various organizations. Some of the organizations she "
+"has worked in include: the Judiciary, Strathmore \n"
+"                    University, Coalition of Blood for Africa, Pamoja CBO "
+"and ABE UK as an external quality assurer.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Hän on myös neuvotellut kumppanuuksia, kehittänyt "
+"ehdotuksia ja perustettuja kumppanuusohjelmia \n"
+"                    ja on myös ollut mukana tiedonkeruussa, "
+"luokittelu, puhdistus, tiedonhallinta ja hallinto \n"
+"                    eri järjestöille. Jotkut järjestöt hän "
+"on työskennellyt muun muassa oikeuslaitoksessa, Strathmoressa \n"
+"                    Yliopisto, Coalition of Blood for Africa, Pamoja CBO "
+"ja ABE UK ulkopuolisena laadunvarmistajana.\n"
+"                    "
+#: mainapp/templates/mainapp/about.html:290
+#: mainapp/templates/mainapp/about.html:344
+msgid ""
+"Director & Lead Consultant: Business Development, PR, Marketing & "
+"Communications"
+msgstr ""
+"Johtaja ja pääkonsultti: liiketoiminnan kehitys, PR, markkinointi ja "
+"Viestintä"
+
+#: mainapp/templates/mainapp/about.html:298
+#: mainapp/templates/mainapp/about.html:324
+msgid ""
+"\n"
+"                Akinyi is a design savvy and goal oriented professional with "
+"over three (3) years experience working in the BPO \n"
+"                industry in different capacities within communications "
+"departments. She is driven and motivated to enhance business \n"
+"                growth and develop beneficial networks. She is highly "
+"creative and has an eye for aesthetics and visual presentation.\n"
+"                "
+msgstr ""
+"\n"
+"                Akinyi on suunnittelutaito ja tavoitteellinen ammattilainen "
+"yli kolmen (3) vuoden työkokemus BPO:ssa \n"
+"                teollisuuden eri valmiuksia viestinnässä "
+"osastot. Hän on innostunut ja motivoitunut kehittämään liiketoimintaa \n"
+"                kasvua ja hyödyllisten verkostojen kehittämistä. Hän on korkealla "
+"luova ja hänellä on silmää estetiikkaan ja visuaaliseen esitykseen.\n"
+"                "
+
+#: mainapp/templates/mainapp/about.html:305
+#: mainapp/templates/mainapp/about.html:331
+msgid ""
+"\n"
+"                She is passionate about streamlining processes through "
+"proper planning and execution and utilises her  diverse design \n"
+"                background and strong organisational skills to increase "
+"efficiency, profitability and make an impact in all her engagements. \n"
+"                Akinyi graduated with a Bachelor's Degree in Design from the "
+"University of Nairobi and is also an honorary member of the Public \n"
+"                Relations Society of Kenya whose mandate is to advance "
+"excellence in Public Relations and Communication Management in Kenya.\n"
+"                "
+msgstr ""
+"\n"
+"                Hän on intohimoinen prosessien virtaviivaistamiseen "
+"asianmukaista suunnittelua ja toteutusta sekä hyödyntää monipuolista suunnitteluaan \n"
+"                tausta ja vahvat organisointitaidot kasvaa "
+"tehokkuutta, kannattavuutta ja vaikuttaa kaikissa hänen toimeksiannoissaan. \n"
+"                Akinyi valmistui Muotoilun kandidaatiksi "
+"Nairobin yliopisto ja on myös yleisön kunniajäsen \n"
+"                Relations Society of Kenia, jonka tehtävänä on edistyä "
+"huippuosaamista suhdetoiminnan ja viestinnän hallinnassa Keniassa.\n"
+"                "
+#: mainapp/templates/mainapp/about.html:359
+msgid ""
+"Director & Lead Consultant: Operational Management, Finance and "
+"Administration"
+msgstr ""
+"Johtaja ja pääkonsultti: Operatiivinen johto, talous ja "
+"Hallinto"
+
+#: mainapp/templates/mainapp/about.html:365
+msgid ""
+"\n"
+"                    Judith is a finance and administration expert who is "
+"passionate about social impact. She has over 5 years \n"
+"                    experience in working with adolescent Girls and young "
+"women including youths and 3 years experience in \n"
+"                    leadership and management of community health programs.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Judith on talous- ja hallintoasiantuntija, joka on "
+"intohimoinen sosiaalinen vaikutus. Hänellä on yli 5 vuotta \n"
+"                    kokemusta työskentelystä nuorten tyttöjen ja nuorten parissa "
+"naiset mukaan lukien nuoret ja 3 vuoden kokemus \n"
+"                    yhteisön terveysohjelmien johtaminen ja hallinnointi.\n"
+"                    "
+#: mainapp/templates/mainapp/about.html:372
+msgid ""
+"\n"
+"                    She has experience leading donor funded projects and is "
+"accountable for making decisions, managing resources efficiently, achieving "
+"and sustaining high \n"
+"                    performing teams while maintaining high ethical "
+"standards. She is very passionate about self development and personal "
+"growth. She loves working and \n"
+"                    mentoring the youths to learn thrive and lead in "
+"different capacities. She believes in mentorship and coaching to help the "
+"youth attain self actualization.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Hänellä on kokemusta lahjoittajien rahoittamien hankkeiden johtamisesta ja hän on "
+"vastuussa päätösten tekemisestä, resurssien tehokkaasta hallinnasta, saavuttamisesta "
+"ja pysyy korkealla \n"
+"                    suorituskykyisiä tiimejä säilyttäen samalla korkea eettisyys "
+"standardit. Hän on erittäin intohimoinen itsensä kehittämiseen ja henkilökohtaiseen kehitykseen "
+"kasvu. Hän rakastaa työskentelyä ja \n"
+"                    ohjata nuoria oppimaan menestymään ja johtamaan toimintaan "
+"erilaisia kapasiteettia. Hän uskoo mentorointiin ja valmennukseen auttavan "
+"nuoret saavuttavat itsensä toteuttamisen.\n"
+"                    "
+#: mainapp/templates/mainapp/about.html:386
+#: mainapp/templates/mainapp/about.html:422
+msgid "External Experts"
+msgstr "Ulkopuoliset asiantuntijat"
+
+#: mainapp/templates/mainapp/about.html:392
+#: mainapp/templates/mainapp/about.html:447
+msgid "Legal Advisory Consultant"
+msgstr "Oikeudellinen neuvonantaja"
+
+#: mainapp/templates/mainapp/about.html:398
+#: mainapp/templates/mainapp/about.html:426
+msgid ""
+"\n"
+"                    Wangari is a confident and meticulous advocate of the "
+"High Court of Kenya with professional \n"
+"                    experience in busy organisations such as the Kenya "
+"National Police Sacco and Equity Bank Kenya. \n"
+"                    She has also worked in reputable law firms like Mwandwa "
+"Macharia & Mwangi Co Advocates and Macharia \n"
+"                    Wa Muturi Co Advocates.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Wangari on itsevarma ja huolellinen puolestapuhuja "
+"Kenian korkein oikeus ammattilaisten kanssa \n"
+"                    kokemusta kiireisistä organisaatioista, kuten Keniassa "
+"National Police Sacco ja Equity Bank Kenia."
+"                    Hän on myös työskennellyt hyvämaineisissa asianajotoimistoissa, kuten Mwandwa "
+"Macaria & Mwangi Co Advocates ja Macaria \n"
+"                    Wa Muturi Co Advocates.\n"
+"                    "
+#: mainapp/templates/mainapp/about.html:406
+#: mainapp/templates/mainapp/about.html:434
+msgid ""
+"\n"
+"                    Wangari is a mediator practising with The Judiciary of "
+"Kenya, an arbitrator and a member of the Chartered \n"
+"                    Institute of Arbitrator UK and Kenya. She strives to be "
+"a well-rounded advocate who can effectively handle \n"
+"                    diverse areas in the law, to develop a successful legal "
+"career founded on a good reputation, to be an \n"
+"                    exceptionally sensitive and dedicated advocate and to "
+"ensure that justice is served to each member of the society.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Wangari on sovittelija, joka harjoittelee The Judicy of:n kanssa "
+"Kenia, välimies ja Charteredin jäsen \n"
+"                    Institute of Arbitrator UK ja Kenia. Hän pyrkii olemaan "
+"monipuolinen asianajaja, joka pystyy käsittelemään tehokkaasti\n"
+"                    eri aloilla lain, kehittää onnistunut oikeudellinen "
+"ura perustuu hyvään maineeseen, olla \n"
+"                    poikkeuksellisen herkkä ja omistautunut puolestapuhuja "
+"varmistaa, että oikeus toteutuu jokaiselle yhteiskunnan jäsenelle.\n"
+"                    "
+#: mainapp/templates/mainapp/about.html:464
+#: mainapp/templates/mainapp/about.html:493
+#: mainapp/templates/mainapp/history.html:76
+#: mainapp/templates/mainapp/history.html:77
+msgid "Want to know more?"
+msgstr "Haluatko tietää lisää?"
+
+#: mainapp/templates/mainapp/about.html:465
+#: mainapp/templates/mainapp/about.html:494
+msgid "Visit our"
+msgstr "Vieraile meillä"
+
+#: mainapp/templates/mainapp/about.html:467
+msgid ""
+"Get in touch with us. Our team is happy to help you to answer any questions "
+"you may have."
+msgstr ""
+"Ota yhteyttä meihin. Tiimimme auttaa mielellään vastaamaan kaikkiin kysymyksiin "
+"sinulla voi olla."
+
+#: mainapp/templates/mainapp/about.html:471
+#: mainapp/templates/mainapp/about.html:501
+msgid "Talk to Us"
+msgstr "Puhu meille"
+
+#: mainapp/templates/mainapp/about.html:496
+msgid "Get in touch with us. Our team is happy to help you to"
+msgstr "Ota yhteyttä meihin. Tiimimme auttaa sinua mielellään"
+
+#: mainapp/templates/mainapp/about.html:496
+msgid "answer any questions you may have."
+msgstr "vastaa kaikkiin kysymyksiisi."
+
+#: mainapp/templates/mainapp/about.html:523
+#: mainapp/templates/mainapp/history.html:105
+msgid "Subscribe to our Newsletter"
+msgstr "Tilaa uutiskirjeemme"
+
+#: mainapp/templates/mainapp/about.html:527
+#: mainapp/templates/mainapp/history.html:109
+msgid "Subscribe to get more updates from us."
+msgstr "Tilaa saadaksesi lisää päivityksiä meiltä."
+
+#: mainapp/templates/mainapp/about.html:539
+#: mainapp/templates/mainapp/history.html:121
+msgid "Subscribe"
+msgstr "Tilaa"
+
+#: mainapp/templates/mainapp/application-form.html:39
+msgid "Fill the form below"
+msgstr "Täytä alla oleva lomake"
+
+#: mainapp/templates/mainapp/application-form.html:40
+msgid "Your names should match as they are in your passport."
+msgstr "Nimesi tulee vastata passissasi olevia nimiä."
+
+#: mainapp/templates/mainapp/application-form.html:58
+msgid "First Name"
+msgstr "Etunimi"
+
+#: mainapp/templates/mainapp/application-form.html:62
+msgid "Last Name"
+msgstr "Sukunimi"
+
+#: mainapp/templates/mainapp/application-form.html:66
+msgid "Preferred Name"
+msgstr "Haluttu nimi"
+
+#: mainapp/templates/mainapp/application-form.html:73
+#: mainapp/templates/mainapp/contact.html:287
+msgid "Email"
+msgstr "Sähköposti"
+
+#: mainapp/templates/mainapp/application-form.html:77
+msgid "Street Address"
+msgstr "Katuosoite"
+
+#: mainapp/templates/mainapp/application-form.html:81
+msgid "City"
+msgstr "Kaupunki"
+
+#: mainapp/templates/mainapp/application-form.html:88
+msgid "State"
+msgstr "Osavaltio"
+
+#: mainapp/templates/mainapp/application-form.html:88
+msgid "Province"
+msgstr "maakunta"
+
+#: mainapp/templates/mainapp/application-form.html:92
+msgid "Country of Origin"
+msgstr "Alkuperämaa"
+
+#: mainapp/templates/mainapp/application-form.html:96
+msgid "Home Phone"
+msgstr "Kotipuhelin"
+
+#: mainapp/templates/mainapp/application-form.html:103
+msgid "Mobile Phone"
+msgstr "Kännykkä"
+
+#: mainapp/templates/mainapp/application-form.html:107
+msgid "Office Tel."
+msgstr "Toimisto Puh."
+
+#: mainapp/templates/mainapp/application-form.html:111
+msgid "Gender"
+msgstr "Sukupuoli"
+
+#: mainapp/templates/mainapp/application-form.html:118
+msgid "Date of Birth"
+msgstr "Syntymäaika"
+
+#: mainapp/templates/mainapp/application-form.html:122
+msgid "Nationality"
+msgstr "Kansallisuus"
+
+#: mainapp/templates/mainapp/application-form.html:126
+msgid "Preferred Program"
+msgstr "Suosittu ohjelma"
+
+#: mainapp/templates/mainapp/application-form.html:134
+msgid "Emergency Contact"
+msgstr "Yhteystiedot hätätilanteissa"
+
+#: mainapp/templates/mainapp/application-form.html:136
+#: mainapp/templates/mainapp/application-form.html:160
+msgid "Full Name"
+msgstr "Koko nimi"
+
+#: mainapp/templates/mainapp/application-form.html:140
+#: mainapp/templates/mainapp/application-form.html:168
+msgid "Telephone No."
+msgstr "Puhelinnumero."
+
+#: mainapp/templates/mainapp/application-form.html:144
+msgid "Residential Address"
+msgstr "Asunnon osoite"
+
+#: mainapp/templates/mainapp/application-form.html:150
+msgid "Relationship"
+msgstr "Suhde"
+
+#: mainapp/templates/mainapp/application-form.html:158
+msgid "Referee Contact"
+msgstr "Erotuomarin yhteystiedot"
+
+#: mainapp/templates/mainapp/application-form.html:164
+msgid "Organization"
+msgstr "Organisaatio"
+
+#: mainapp/templates/mainapp/application-form.html:174
+msgid "Work Address"
+msgstr "Työosoite"
+
+#: mainapp/templates/mainapp/application-form.html:182
+msgid "Your Education"
+msgstr "Koulutuksesi"
+
+#: mainapp/templates/mainapp/application-form.html:182
+msgid "Experience"
+msgstr "Kokea"
+
+#: mainapp/templates/mainapp/application-form.html:192
+msgid "Health conditions, disabilities e.t.c."
+msgstr "Terveysongelmat, vammat jne."
+
+#: mainapp/templates/mainapp/application-form.html:196
+msgid "Personalized Preferrences"
+msgstr "Henkilökohtaiset asetukset"
+
+#: mainapp/templates/mainapp/application-form.html:203
+msgid "Travel Pax"
+msgstr "Travel Pax"
+
+#: mainapp/templates/mainapp/application-form.html:207
+msgid "Preferred Package"
+msgstr "Ensisijainen paketti"
+
+#: mainapp/templates/mainapp/application-form.html:211
+msgid "Duration of stay"
+msgstr "Oleskelun kesto"
+
+#: mainapp/templates/mainapp/application-form.html:218
+msgid "Preferred City"
+msgstr "Suosittu kaupunki"
+
+#: mainapp/templates/mainapp/application-form.html:222
+msgid "When would you like to travel?"
+msgstr "Milloin haluaisit matkustaa?"
+
+#: mainapp/templates/mainapp/application-form.html:226
+msgid "Do you require further information?"
+msgstr "Tarvitsetko lisätietoja?"
+
+#: mainapp/templates/mainapp/application-form.html:232
+msgid "How did you hear about us?"
+msgstr "Kuinka kuulit meistä?"
+
+#: mainapp/templates/mainapp/application-form.html:236
+msgid "Any other comments"
+msgstr "Muita kommentteja"
+
+#: mainapp/templates/mainapp/application-form.html:243
+#: mainapp/templates/mainapp/contact.html:48
+msgid "Submit"
+msgstr "Lähetä"
+
+#: mainapp/templates/mainapp/contact.html:7
+#: mainapp/templates/mainapp/footer.html:9
+msgid "Contact Us"
+msgstr "Ota meihin yhteyttä"
+
+#: mainapp/templates/mainapp/contact.html:26
+msgid "FULL NAME"
+msgstr "KOKO NIMI"
+
+#: mainapp/templates/mainapp/contact.html:30
+msgid "EMAIL"
+msgstr "EMAIL"
+
+#: mainapp/templates/mainapp/contact.html:36
+msgid "SUBJECT"
+msgstr "AIHE"
+
+#: mainapp/templates/mainapp/contact.html:42
+msgid "MESSAGE"
+msgstr "VIESTI"
+
+#: mainapp/templates/mainapp/contact.html:67
+msgid "How much time do I need to volunteer?"
+msgstr "Kuinka paljon aikaa tarvitsen vapaaehtoistyöhön?"
+
+#: mainapp/templates/mainapp/contact.html:73
+msgid ""
+"\n"
+"                            ELAN Dome Consultants prides itself in creating "
+"volunteer schedules based on the desires \n"
+"                            of our clients. We offer volunteer opportunities "
+"for both short term and long term periods \n"
+"                            and this is left to the discretion  of the "
+"volunteer. For instance, you can volunteer for a \n"
+"                            week, two weeks, a month and even a year.\n"
+"                            "
+msgstr ""
+"\n"
+"                            ELAN Dome Consultants on ylpeä luomisestaan "
+"vapaaehtoistyön aikataulut toiveiden mukaan \n"
+"                            asiakkaistamme. Tarjoamme vapaaehtoistyömahdollisuuksia "
+"sekä lyhyellä että pitkällä aikavälillä \n"
+"                            ja tämä jätetään valtuuston päätettäväksi "
+"vapaaehtoisena. Voit esimerkiksi tehdä vapaaehtoistyötä a \n"
+"                            viikko, kaksi viikkoa, kuukausi ja jopa vuosi.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:86
+msgid "Will I get training before I volunteer?"
+msgstr "Saanko koulutusta ennen vapaaehtoistyötä?"
+
+#: mainapp/templates/mainapp/contact.html:92
+msgid ""
+"\n"
+"                            You will go through a very insightful "
+"orientation process for all the organizations and \n"
+"                            institutions that you volunteer in which will "
+"give you a better understanding of how they \n"
+"                            operate and how best to apply yourself.\n"
+"                            "
+msgstr ""
+"\n"
+"                            Tulet käymään läpi erittäin oivaltavaa "
+"perehdytysprosessi kaikille organisaatioille ja \n"
+"                            laitoksia, joissa teet vapaaehtoistyötä "
+"antaa sinulle paremman käsityksen siitä, miten ne \n"
+"                            toimia ja miten parhaiten soveltaa itseäsi.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:104
+msgid "How old do I have to be to volunteer?"
+msgstr "Kuinka vanha minun pitää olla voidakseni tehdä vapaaehtoistyötä?"
+
+#: mainapp/templates/mainapp/contact.html:110
+msgid ""
+"\n"
+"                            We have no age limits for volunteering. "
+"Volunteers below the age of 18 will have to be \n"
+"                            accompanied by a parent or a guardian and have "
+"properly documented consent to participate \n"
+"                            in our various volunteer programs.\n"
+"                            "
+msgstr ""
+"\n"
+"                            Meillä ei ole ikärajaa vapaaehtoistyölle. "
+"Alle 18-vuotiaiden vapaaehtoisten tulee olla \n"
+"                            vanhemman tai huoltajan seurassa "
+"asianmukaisesti dokumentoitu suostumus osallistua \n"
+"                            erilaisissa vapaaehtoisohjelmissamme.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:122
+msgid "Do I need qualifications?"
+msgstr "Tarvitsenko pätevyyttä?"
+
+#: mainapp/templates/mainapp/contact.html:128
+msgid ""
+"\n"
+"                            Some of our volunteering opportunities require "
+"qualifications. Our healthcare volunteer \n"
+"                            programs are fully based on our volunteers "
+"healthcare background and training for proper \n"
+"                            records of the same will have to be submitted to "
+"ensure effective placement. If particular \n"
+"                            qualifications are needed this will be stated in "
+"our pre engagement sessions.\n"
+"                            "
+msgstr ""
+"\n"
+"                            Jotkut vapaaehtoistyömahdollisuuksistamme vaativat "
+"pätevyys. Terveydenhuollon vapaaehtoisemme \n"
+"                            ohjelmat perustuvat täysin vapaaehtoisihimme "
+"terveydenhuoltotausta ja asianmukainen koulutus \n"
+"                            tietueet samasta on toimitettava "
+"ensure effective placement. If particular \n"
+"                            vaaditaan pätevyys, tämä mainitaan "
+"our pre engagement sessions.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:141
+msgid "Can I get a qualification or an award?"
+msgstr "Can I get a qualification or an award?"
+
+#: mainapp/templates/mainapp/contact.html:147
+msgid ""
+"\n"
+"                            Our volunteers get several benefits from their "
+"volunteering journey ranging from a resume \n"
+"                            that stands out, transforming communities, "
+"exploring and cultivating interest areas, a safe and convenient way to \n"
+"                            travel abroad with adequate assistance and "
+"finally getting the opportunity to take on a \n"
+"                            new adventure. ELAN Dome also offers  a valuable "
+"certificate of completion to all volunteers \n"
+"                            along with access to a wide network of "
+"volunteers, program coordinators, local organizations, \n"
+"                            and support staff.\n"
+"                            "
+msgstr ""
+"\n"
+"                            Our volunteers get several benefits from their "
+"volunteering journey ranging from a resume \n"
+"                            joka erottuu, muuttaa yhteisöjä, "
+"kiinnostuksen kohteiden tutkiminen ja viljeleminen, turvallinen ja kätevä tapa \n"
+"                            matkustaa ulkomaille riittävän avun kanssa ja "
+"vihdoinkin tilaisuus ottaa vastaan a \n"
+"                            uusi seikkailu. ELAN Dome tarjoaa myös arvokasta "
+"todistus suorituksesta kaikille vapaaehtoisille \n"
+"                            sekä pääsy laajaan verkkoon "
+"vapaaehtoiset, ohjelmakoordinaattorit, paikalliset järjestöt,\n"
+"                            and support staff.\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:162
+msgid "What else can I do during my volunteering journey?"
+msgstr "Mitä muuta voin tehdä vapaaehtoistyöni aikana?"
+
+#: mainapp/templates/mainapp/contact.html:168
+msgid ""
+"\n"
+"                            Aside from volunteering and helping underserved "
+"communities, we create avenues where our \n"
+"                            volunteers can make more memories through "
+"leisure activities.Some of these activities include:\n"
+"                            "
+msgstr ""
+"\n"
+"                            Paitsi vapaaehtoistyö ja alipalvettujen auttaminen "
+"yhteisöille, luomme väyliä, joissa meidän \n"
+"                            vapaaehtoiset voivat tehdä enemmän muistoja kautta "
+"vapaa-ajan toimintaa. Joitakin näistä toiminnoista ovat:\n"
+"                            "
+#: mainapp/templates/mainapp/contact.html:173
+msgid "Taking  Weekend Trips (beach visits, hiking, camping)"
+msgstr "Viikonloppumatkat (rantavierailut, vaellus, telttailu)"
+
+#: mainapp/templates/mainapp/contact.html:174
+msgid "Sampling local cuisine"
+msgstr "Maistamassa paikallista ruokaa"
+
+#: mainapp/templates/mainapp/contact.html:175
+msgid "Safari drives in local game parks and reserves"
+msgstr "Safari ajaa paikallisissa pelipuistoissa ja suojelualueilla"
+
+#: mainapp/templates/mainapp/contact.html:184
+msgid "How long do the workshops and trainings take?"
+msgstr "Kuinka kauan työpajat ja koulutukset kestävät?"
+
+#: mainapp/templates/mainapp/contact.html:191
+msgid ""
+"\n"
+"                                This is left to the discretion of the "
+"client. ELAN Dome is very passionate about tailor \n"
+"                                making the workshop and training program. We "
+"structure them after carefully understanding \n"
+"                                the needs of our clients so as to ensure "
+"that positive outcomes are realized.\n"
+"                                "
+msgstr ""
+"\n"
+"                                Tämä jätetään valtuuston päätettäväksi "
+"asiakas. ELAN Dome on erittäin intohimoinen räätälöintiin \n"
+"                                työpajan ja koulutusohjelman tekeminen. Me "
+"jäsentää ne huolellisesti ymmärtämisen jälkeen \n"
+"                                asiakkaidemme tarpeet varmistaaksemme "
+"että positiiviset tulokset toteutuvat.\n"
+"                                "
+#: mainapp/templates/mainapp/contact.html:204
+msgid "How can I keep tabs on my investment?"
+msgstr "Kuinka voin pitää sijoitukseni silmällä?"
+
+#: mainapp/templates/mainapp/contact.html:211
+msgid ""
+"\n"
+"                                ELAN Dome strives to enhance accountability "
+"and clarity for all our investment supervision \n"
+"                                activities. We make our clients part of the "
+"journey even when they are away in different \n"
+"                                countries so that at every particular "
+"juncture they are fully aware of what actions are being \n"
+"                                taken with regards to their investment.\n"
+"                                "
+msgstr ""
+"\n"
+"                                ELAN Dome pyrkii lisäämään vastuullisuutta "
+"ja selkeyttä kaikelle sijoitusvalvonnallemme \n"
+"                                toimintaa. Teemme asiakkaamme osaksi "
+"matka vaikka he ovat poissa eri \n"
+"                                maissa niin että jokaisessa "
+"juncture they are fully aware of what actions are being \n"
+"                                investointejaan.\n"
+"                                "
+#: mainapp/templates/mainapp/contact.html:225
+msgid "What project management approach do you use?"
+msgstr "Mitä projektinhallintatapaa käytät?"
+
+#: mainapp/templates/mainapp/contact.html:232
+msgid ""
+"\n"
+"                                ELAN Dome's project management approaches "
+"are fully pegged and influenced by the kind of project we are \n"
+"                                tasked with at any given time. Please reach "
+"out to us about a specific project and we will be able to \n"
+"                                give a detailed overview of the approach\n"
+"                                "
+msgstr ""
+"\n"
+"                                ELAN Domen projektijohtamisen lähestymistavat "
+"ovat täysin sidoksissa siihen, millainen projekti olemme \n"
+"                                tehtävänä milloin tahansa. Ota yhteyttä "
+"kerro meille tietystä projektista, niin voimme \n"
+"                                antaa yksityiskohtaisen yleiskatsauksen lähestymistavasta\n"
+"                                "
+#: mainapp/templates/mainapp/contact.html:245
+msgid "None of these FAQs answers my question, what do I do now?"
+msgstr "Mikään näistä usein kysytyistä kysymyksistä ei vastaa kysymykseeni, mitä teen nyt?"
+
+#: mainapp/templates/mainapp/contact.html:251
+msgid ""
+"If we haven't covered your question please get in touch with us through our "
+"email"
+msgstr ""
+"Jos emme ole käsittäneet kysymystäsi, ota meihin yhteyttä kauttamme "
+"email"
+
+#: mainapp/templates/mainapp/contact.html:252
+msgid "detailing your questions"
+msgstr "yksityiskohtaisesti kysymyksesi"
+
+#: mainapp/templates/mainapp/contact.html:253
+msgid "and we'll be happy to help."
+msgstr "ja autamme mielellämme."
+
+#: mainapp/templates/mainapp/contact.html:269
+msgid "Ground Floor"
+msgstr "Maantaso"
+
+#: mainapp/templates/mainapp/contact.html:278
+msgid "Phone"
+msgstr "Puhelin"
+
+#: mainapp/templates/mainapp/contact.html:295
+msgid "Website"
+msgstr "Verkkosivusto"
+
+#: mainapp/templates/mainapp/contact.html:299
+msgid "Pay Us a Visit"
+msgstr "Tule käymään"
+
+#: mainapp/templates/mainapp/contact.html:305
+msgid "All Rights Reserved."
+msgstr "Kaikki oikeudet pidätetään."
+
+#: mainapp/templates/mainapp/edc-community.html:6
+#: mainapp/templates/mainapp/edc-community.html:7
+#: mainapp/templates/mainapp/navbar.html:26
+msgid "EDC Community"
+msgstr "EDC-yhteisö"
+
+#: mainapp/templates/mainapp/edc-community.html:16
+msgid "Families"
+msgstr "Perheet"
+
+#: mainapp/templates/mainapp/edc-community.html:18
+msgid ""
+"\n"
+"                Our family packages create an avenue for bonding with your "
+"loved ones, immersing \n"
+"                your family in a different culture and giving back to "
+"communities.\n"
+"                "
+msgstr ""
+"\n"
+"                Perhepakettimme luovat yhteyden luomiseen "
+"rakkaat, upottamalla \n"
+"                perheesi eri kulttuurissa ja antaa takaisin "
+"communities.\n"
+"                "
+#: mainapp/templates/mainapp/edc-community.html:30
+msgid "Friends"
+msgstr "Ystävät"
+
+#: mainapp/templates/mainapp/edc-community.html:32
+msgid ""
+"Our friends package takes buddies through an experience that strengthens "
+"friendships and transforms social lives for the better."
+msgstr ""
+"Ystäväpakettimme vie kaverit läpi kokemuksen, joka vahvistaa "
+"ystävyyssuhteita ja muuttaa sosiaalista elämää parempaan suuntaan."
+
+#: mainapp/templates/mainapp/edc-community.html:41
+msgid "Students"
+msgstr "Opiskelijat"
+
+#: mainapp/templates/mainapp/edc-community.html:43
+msgid ""
+"\n"
+"                This package takes students through an experiential journey "
+"of personal growth that enables them to develop new \n"
+"                skills, acquire a global perspective, meet new people and "
+"even improve their career prospects\n"
+"                "
+msgstr ""
+"\n"
+"                Tämä paketti vie opiskelijat kokemusmatkalle "
+"henkilökohtaista kasvua, joka antaa heille mahdollisuuden kehittää uutta \n"
+"                taitoja, saada globaali näkökulma, tavata uusia ihmisiä ja "
+"jopa parantaa uranäkymiään\n"
+"                "
+#: mainapp/templates/mainapp/edc-community.html:58
+msgid "Employees"
+msgstr ""
+
+#: mainapp/templates/mainapp/edc-community.html:60
+msgid ""
+"\n"
+"                Our employee program is a planned and managed initiative "
+"that seeks to motivate and enable employees to develop \n"
+"                design thinking skills, increase employee engagement in "
+"problem solving and enhance employee retention through \n"
+"                self leadership.\n"
+"                "
+msgstr ""
+"\n"
+"                Työntekijäohjelmamme on suunniteltu ja johdettu aloite "
+"joka pyrkii motivoimaan ja mahdollistamaan työntekijöiden kehittyminen \n"
+"                suunnittele ajattelutaitoja, lisää työntekijöiden sitoutumista "
+"ongelmanratkaisuun ja työntekijöiden pysyvyyden parantamiseen \n"
+"                itsejohtajuutta.\n"
+"                "
+#: mainapp/templates/mainapp/edc-community.html:73
+msgid "Individuals"
+msgstr "Yksilöt"
+
+#: mainapp/templates/mainapp/edc-community.html:75
+msgid ""
+"\n"
+"                This package is designed for individuals looking to immerse "
+"themselves in a journey of self actualization and allows individuals to "
+"develop a deep \n"
+"                understanding of the culture, community and country where "
+"they are volunteering, and they are highly rewarding.\n"
+"                "
+msgstr ""
+"\n"
+"                Tämä paketti on suunniteltu henkilöille, jotka haluavat uppoutua "
+"itsensä toteuttamisen matkalla ja antaa yksilöille mahdollisuuden "
+"kehittää syvä \n"
+"                ymmärrystä kulttuurista, yhteisöstä ja maasta "
+"he tekevät vapaaehtoistyötä ja ovat erittäin palkitsevia."
+"                "
+#: mainapp/templates/mainapp/edc-community.html:87
+msgid "Teachers"
+msgstr "Opettajat"
+
+#: mainapp/templates/mainapp/edc-community.html:89
+msgid ""
+"The teachers' package allows teachers to bring their knowledge and skills to "
+"eager but underserved children. to help improve educational practices and "
+"processes."
+msgstr ""
+"Opettajien paketin avulla opettajat voivat tuoda tietonsa ja taitonsa mukaan "
+"innokkaita mutta alipalvelustettuja lapsia. auttaa parantamaan koulutuskäytäntöjä ja "
+"prosessit."
+
+#: mainapp/templates/mainapp/edc-community.html:94
+msgid "Be a part of our community"
+msgstr "Ole osa yhteisöämme"
+
+#: mainapp/templates/mainapp/edc-community.html:95
+msgid ""
+"Are you interested in joining our community as a volunteer, mentor or a "
+"partner?"
+msgstr ""
+"Oletko kiinnostunut liittymään yhteisöömme vapaaehtoisena, mentorina tai a "
+"kumppani?"
+
+#: mainapp/templates/mainapp/edc-community.html:96
+msgid "Drop us an email at"
+msgstr "Lähetä meille sähköpostia osoitteeseen"
+
+#: mainapp/templates/mainapp/edc-community.html:96
+msgid ""
+"we will send you more information and guide you through your  journey with"
+msgstr ""
+"lähetämme sinulle lisätietoja ja opastamme sinua matkallasi"
+
+#: mainapp/templates/mainapp/edc-community.html:96
+msgid "ELAN Dome Consultants."
+msgstr "ELAN Dome Consultants."
+
+#: mainapp/templates/mainapp/edc-community.html:101
+msgid "Sign up today"
+msgstr "Rekisteröidy tänään"
+
+#: mainapp/templates/mainapp/footer-alt.html:9
+#: mainapp/templates/mainapp/footer-alt.html:27
+msgid "All Rights Reserved"
+msgstr "Kaikki oikeudet pidätetään"
+
+#: mainapp/templates/mainapp/footer.html:7
+msgid "ABOUT US"
+msgstr "MEISTÄ"
+
+#: mainapp/templates/mainapp/footer.html:10
+msgid "How we run"
+msgstr "Kuinka juoksemme"
+
+#: mainapp/templates/mainapp/footer.html:11
+msgid "Structure and People"
+msgstr "Rakenne ja ihmiset"
+
+#: mainapp/templates/mainapp/footer.html:16
+msgid "RESOURCES"
+msgstr "RESURSSIT"
+
+#: mainapp/templates/mainapp/footer.html:18
+msgid "Media Center"
+msgstr "Mediakeskus"
+
+#: mainapp/templates/mainapp/footer.html:21
+msgid "Our Community"
+msgstr "Meidän yhteisömme"
+
+#: mainapp/templates/mainapp/footer.html:26
+msgid "GET INVOLVED"
+msgstr "OSALLISTU"
+
+#: mainapp/templates/mainapp/footer.html:28
+#: mainapp/templates/mainapp/programs.html:6
+msgid "Our Programs"
+msgstr "Ohjelmamme"
+
+#: mainapp/templates/mainapp/footer.html:29
+msgid "Volunteer with Us"
+msgstr "Tule vapaaehtoiseksi kanssamme"
+
+#: mainapp/templates/mainapp/footer.html:34
+msgid "LATEST"
+msgstr "VIIMEISIN"
+
+#: mainapp/templates/mainapp/footer.html:44
+msgid "WORK WITH US"
+msgstr "TYÖSKENTELE KANSSAMME"
+
+#: mainapp/templates/mainapp/footer.html:45
+msgid ""
+"We integrate international experience, community service and supervision and "
+"implementation support to ensure that our clients get the best outcomes from "
+"our various programs"
+msgstr ""
+"Yhdistämme kansainvälisen kokemuksen, yhteisöpalvelun ja valvonnan sekä "
+"käyttöönottotukea varmistaaksemme, että asiakkaamme saavat parhaat tulokset "
+"erilaisista ohjelmistamme"
+
+#: mainapp/templates/mainapp/history.html:6
+#: mainapp/templates/mainapp/history.html:7
+#: mainapp/templates/mainapp/navbar.html:25
+msgid "Our History"
+msgstr "Historiamme"
+
+#: mainapp/templates/mainapp/history.html:16
+msgid ""
+"Okore Booker Charles as a student at the Starehe Boys Center where values of "
+"impact creation and community service were inculcated"
+msgstr ""
+"Okore Booker Charles opiskelijana Starehe Boys Centerissä, jossa arvot "
+"vaikutuksen luominen ja yhteisöpalvelu otettiin käyttöön"
+
+#: mainapp/templates/mainapp/history.html:20
+msgid ""
+"\n"
+"                ELAN (Education, Learning and Networking) Dome Consultants "
+"was incorporated under the efforts of three \n"
+"                young, ambitious and human centred design driven ladies who "
+"were seeking to make empathy the key informant \n"
+"                of design, decisions and solutions for people and businesses "
+"aimed at the progress of Africa.\n"
+"                "
+msgstr ""
+"\n"
+"                ELAN (Education, Learning and Networking) Dome Consultants "
+"perustettiin kolmen ponnisteluilla \n"
+"                nuoria, kunnianhimoisia ja ihmiskeskeisiä designvetoisia naisia, jotka "
+"halusivat tehdä empatiasta keskeisen informantin \n"
+"                suunnittelusta, päätöksistä ja ratkaisuista ihmisille ja yrityksille "
+"suunnattu Afrikan kehitykseen.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:27
+msgid ""
+"\n"
+"                The founding partner of ELAN Dome draws deep inspiration "
+"from the intelligence, problem solving capability, \n"
+"                mobilizing acumen and deep community service acts of her "
+"late father, Engineer Okore Booker Charles, OBC. He \n"
+"                dedicated his life to fixing challenges, using his personal "
+"resources to support family, neighbours, friends, \n"
+"                the community and strangers whenever he got the opportunity. "
+"He valued education, politics, farming, environmental \n"
+"                preservation and human rights.\n"
+"                "
+msgstr ""
+"\n"
+"                ELAN Domen perustajaosakas saa syvää inspiraatiota "
+"älykkyydestä, ongelmanratkaisukyvystä, \n"
+"                mobilisoivaa älykkyyttä ja syvää yhdyskuntapalvelua "
+"edesmennyt isä, insinööri Okore Booker Charles, OBC. Hän \n"
+"                omisti elämänsä haasteiden ratkaisemiseen käyttämällä henkilökohtaista "
+"resursseja tukea perhettä, naapureita, ystäviä, \n"
+"                yhteisöä ja vieraita aina kun hän sai tilaisuuden. "
+"Hän arvosti koulutusta, politiikkaa, maataloutta ja ympäristöä \n"
+"                suojelu ja ihmisoikeudet.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:40
+msgid ""
+"\n"
+"                His main target groups were the elderly, the poor, orphans, "
+"girls of school going age and the oppressed in the society. \n"
+"                He was an ardent believer in the law as an instrument of "
+"seeking justice and achieving balance in the society. \n"
+"                He constantly stepped in to oversee his friends' projects "
+"and manage teams on their behalf whenever they were away \n"
+"                on international engagements, having resigned on a voluntary "
+"basis to dedicate his life to service.\n"
+"                "
+msgstr ""
+"\n"
+"                Hänen pääkohderyhmänsä olivat vanhukset, köyhät, orvot, "
+"kouluikäiset tytöt ja yhteiskunnan sorretut. \n"
+"                Hän uskoi kiihkeästi lakiin sen välineenä "
+"oikeudenmukaisuuden ja tasapainon saavuttaminen yhteiskunnassa. \n"
+"                Hän astui jatkuvasti sisään valvomaan ystäviensä projekteja "
+"ja hallita ryhmiä heidän puolestaan aina, kun he olivat poissa \n"
+"                kansainvälisistä sitoumuksista erottuaan vapaaehtoisesti "
+"perusta omistaa elämänsä palvelulle.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:48
+msgid ""
+"\n"
+"                This organization is deeply rooted in his values of "
+"sincerity, service, smart work, advocacy, diligence, strategy, \n"
+"                impact achievement and celebration. The dome signifies a "
+"sense of coming together in a community set up like \n"
+"                traditional African families did. They would gather in "
+"groups to talk about their issues, find solutions, share meals, \n"
+"                support each other and build relationships.\n"
+"                "
+msgstr ""
+"\n"
+"                Tämä organisaatio on syvästi juurtunut hänen arvoihinsa "
+"vilpittömyys, palvelu, älykäs työ, edunvalvonta, ahkeruus, strategia, \n"
+"                vaikutus saavutukseen ja juhlaan. Kupoli merkitsee a "
+"tunne siitä, että tulet yhteen sellaiseen yhteisöön \n"
+"                perinteiset afrikkalaiset perheet tekivät. He kokoontuisivat sisään "
+"ryhmiä keskustelemaan ongelmistaan, löytämään ratkaisuja, jakamaan aterioita, \n"
+"                tukea toisiaan ja rakentaa ihmissuhteita.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:56
+msgid ""
+"\n"
+"                Engineer OBC had extensive networks and was able to strike "
+"new but formidable friendships by the first meeting, an attribute \n"
+"                that resulted in his family receiving valuable support "
+"throughout his sickness, final demise and graceful send off. From this, \n"
+"                the organization draws the value of networking, "
+"collaboration and cooperation in building functional ecosystems for "
+"individuals, \n"
+"                groups and organizations.\n"
+"                "
+msgstr ""
+"\n"
+"                Insinööri OBC:llä oli laajat verkostot ja hän pystyi iskemään "
+"uusia mutta mahtavia ystävyyssuhteita ensimmäisellä tapaamisella, ominaisuus \n"
+"                jonka seurauksena hänen perheensä sai arvokasta tukea \n"
+"koko sairautensa, lopullisen kuolemansa ja suloisen lähetyksensä ajan. Tästä, \n"
+"                organisaatio ammentaa verkostoitumisen arvoa, "
+"yhteistyö ja yhteistyö toimivien ekosysteemien rakentamisessa "
+"yksilöt, \n"
+"                ryhmät ja järjestöt.\n"
+"                "
+#: mainapp/templates/mainapp/history.html:86
+msgid "Let's Talk"
+msgstr "Puhutaan"
+
+#: mainapp/templates/mainapp/index.html:19
+#: mainapp/templates/mainapp/index.html:33
+msgid "Experiential Learning"
+msgstr "Kokeellinen oppiminen"
+
+#: mainapp/templates/mainapp/index.html:19
+#: mainapp/templates/mainapp/index.html:33
+msgid "Beyond Borders."
+msgstr "Yli rajojen."
+
+#: mainapp/templates/mainapp/index.html:20
+#: mainapp/templates/mainapp/index.html:34
+msgid ""
+"Experience adventure and learning concurrently through our personalized "
+"packages."
+msgstr ""
+"Koe seikkailu ja oppiminen samanaikaisesti henkilökohtaisen räätälöinnin kautta "
+"paketteja."
+#: mainapp/templates/mainapp/index.html:25
+#: mainapp/templates/mainapp/index.html:38
+#: mainapp/templates/mainapp/navbar.html:52
+msgid "Get in touch - it's free"
+msgstr "Ota yhteyttä - se on ilmainen"
+
+#: mainapp/templates/mainapp/index.html:51
+msgid "We're with you."
+msgstr "Olemme kanssasi."
+
+#: mainapp/templates/mainapp/index.html:57
+msgid ""
+"We are a goal oriented outsourcing consultancy firm that strives to optimize "
+"collaborative partnerships and provide carefully curated programs while "
+"stating result oriented."
+msgstr ""
+"Olemme tavoitteellinen ulkoistuskonsulttiyritys, joka pyrkii optimoimaan "
+"yhteistyökumppanuuksia ja tarjota huolellisesti kuratoituja ohjelmia samalla "
+"ilmaistaan tulossuuntautuneena."
+
+#: mainapp/templates/mainapp/index.html:60
+msgid ""
+"Our team is driven to do what's right and help you realize your vision. We "
+"believe in generating success collaboratively, delivering great results "
+"after every engagement, and building trust for the next big challenge."
+msgstr ""
+"Tiimimme haluaa tehdä oikein ja auttaa sinua toteuttamaan visiosi. Me "
+"usko menestyksen tuottamiseen yhteistyössä ja loistavien tulosten tuottamiseen "
+"jokaisen osallistumisen jälkeen ja rakentaa luottamusta seuraavaa suurta haastetta varten."
+
+#: mainapp/templates/mainapp/index.html:67
+msgid "Focus Areas"
+msgstr "Painopistealueet"
+
+#: mainapp/templates/mainapp/index.html:76
+#: mainapp/templates/mainapp/index.html:227
+#: mainapp/templates/mainapp/programs.html:17
+#: mainapp/templates/mainapp/services.html:132
+msgid "Volunteer Services"
+msgstr "Vapaaehtoispalvelut"
+
+#: mainapp/templates/mainapp/index.html:78
+#: mainapp/templates/mainapp/services.html:134
+msgid ""
+"\n"
+"                    The OBC volunteer program was created in honor of the "
+"Late Engineer Okore Booker Charles. This program has been carefully curated "
+"to \n"
+"                    reflect and inculcate the values that he lived by "
+"throughout his life in community service and social impact.\n"
+"                    "
+msgstr ""
+"\n"
+"                    OBC-vapaaehtoisohjelma luotiin kunniaksi "
+"Edesmennyt insinööri Okore Booker Charles. Tämä ohjelma on huolellisesti kuratoitu "
+"to \n"
+"                    pohtimaan ja juurruttamaan arvoja, joiden mukaan hän eli "
+"koko elämänsä yhdyskuntapalvelussa ja yhteiskunnallisessa vaikuttamisessa.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:84
+msgid ""
+"\n"
+"                    The OBC volunteer program will help you render "
+"assistance to underprivileged and underserved communities where you will "
+"experience \n"
+"                    traditional cultures and even get a chance to interact "
+"with rich wildlife all while supporting a good cause and creating a positive "
+"impact in the society."
+msgstr ""
+"\n"
+"                    OBC-vapaaehtoisohjelma auttaa sinua tekemään "
+"apua heikommassa asemassa oleville ja vähäosaisille yhteisöille missä haluat "
+"kokea \n"
+"                    perinteisiä kulttuureja ja jopa mahdollisuuden olla vuorovaikutuksessa "
+"rikkaiden villieläinten kanssa samalla kun tuetaan hyvää asiaa ja luodaan myönteistä "
+"vaikutusta yhteiskuntaan."
+#: mainapp/templates/mainapp/index.html:91
+#: mainapp/templates/mainapp/index.html:121
+#: mainapp/templates/mainapp/index.html:152
+#: mainapp/templates/mainapp/index.html:178
+#: mainapp/templates/mainapp/index.html:210
+#: mainapp/templates/mainapp/index.html:239
+#: mainapp/templates/mainapp/index.html:275
+#: mainapp/templates/mainapp/index.html:304
+#: mainapp/templates/mainapp/index.html:337
+#: mainapp/templates/mainapp/index.html:366
+msgid "Learn More"
+msgstr "Lisätietoja"
+
+#: mainapp/templates/mainapp/index.html:100
+#: mainapp/templates/mainapp/index.html:252
+#: mainapp/templates/mainapp/programs.html:72
+#: mainapp/templates/mainapp/programs.html:100
+msgid "Investment supervision, coordination and implementation"
+msgstr "Investointien valvonta, koordinointi ja toteutus"
+
+#: mainapp/templates/mainapp/index.html:102
+msgid ""
+"\n"
+"                    We provide guidance and advice to individuals, groups "
+"and institutions about their investments and how to \n"
+"                    safeguard their interests and attain positive results. "
+"We further monitor the activities of these investments \n"
+"                    to ensure that there's full accountability and clarity "
+"on the utilisation of resources.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Neuvomme ja neuvomme yksilöitä, ryhmiä "
+"ja instituutiot kertovat sijoituksistaan ja miten ne tehdään \n"
+"                    etujaan ja saavuttaa myönteisiä tuloksia. "
+"Seuraamme edelleen näiden investointien toimintaa \n"
+"                    varmistaakseen täyden vastuullisuuden ja selkeyden "
+"resurssien käytöstä.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:109
+#: mainapp/templates/mainapp/index.html:259
+msgid ""
+"\n"
+"                    Additionally, we advise organisations on key strategic "
+"issues by leveraging on our industry knowledge and \n"
+"                    analytical prowess, to enable  them make informed "
+"decisions. This service enables them to achieve their \n"
+"                    business objectives by capitalising on opportunities and "
+"being prepared to mitigate potential risks.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Lisäksi neuvomme organisaatioita keskeisissä strategisissa asioissa "
+"ongelmia hyödyntämällä alan tietämystämme ja \n"
+"                    analyyttinen kyky, jotta he voivat olla tietoisia "
+"päätökset. Tämän palvelun avulla he voivat saavuttaa tavoitteensa \n"
+"                    liiketoimintatavoitteet hyödyntämällä mahdollisuuksia ja "
+"olla valmis vähentämään mahdollisia riskejä.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:116
+#: mainapp/templates/mainapp/index.html:270
+msgid ""
+"SMEs, FMCG, Consulting firms, INGOs, not for profit organizations including "
+"CBOs, CSOs, FBOs, civil societies, government, academic institutions and "
+"individuals."
+msgstr ""
+"Pk-yritykset, FMCG, konsulttiyritykset, järjestöt, voittoa tavoittelemattomat organisaatiot mukaan lukien "
+"CBO:t, kansalaisjärjestöt, elintarvikealan toimijat, kansalaisyhteiskunnat, hallitus, akateemiset laitokset ja "
+"yksilöitä"
+
+#: mainapp/templates/mainapp/index.html:140
+#: mainapp/templates/mainapp/index.html:289
+#: mainapp/templates/mainapp/programs.html:139
+#: mainapp/templates/mainapp/services.html:151
+#: mainapp/templates/mainapp/services.html:181
+msgid "Project Management"
+msgstr "Projektinhallinta"
+
+#: mainapp/templates/mainapp/index.html:142
+msgid ""
+"We are the  first choice custodians of your projects and resources on "
+"ground. We source for quality and competitive resource plans, quotations, "
+"unique development \n"
+"                    plans and bespoke designs that are fairly priced and "
+"work with reputable excerpts to execute your vision and deliver beyond the "
+"expected outcomes."
+msgstr ""
+"Olemme projektiesi ja resurssien ensisijainen säilyttäjä "
+"maahan. Hankimme laadukkaita ja kilpailukykyisiä resurssisuunnitelmia, tarjouksia, "
+"ainutlaatuinen kehitys \n"
+"                    suunnitelmat ja mittatilaustyöt, jotka ovat kohtuuhintaisia ja "
+"käytä hyvämaineisia otteita toteuttaaksesi visiosi ja tuottaaksesi sen pidemmälle "
+"odotetut lopputulokset."
+#: mainapp/templates/mainapp/index.html:146
+msgid ""
+"Our areas of focus include: research, digitization, real estate & "
+"construction, corporate events (workshops and employee development "
+"programs), \n"
+"                    budgeting exercises and project fundraising initiatives."
+msgstr ""
+"Painopistealueitamme ovat: tutkimus, digitalisointi, kiinteistöt ja "
+"rakentaminen, yritystapahtumat (työpajat ja henkilöstön kehittäminen "
+"ohjelmat), \n"
+"                    budjetointiharjoitukset ja hankkeiden varainkeruualoitteet."
+
+#: mainapp/templates/mainapp/index.html:161
+#: mainapp/templates/mainapp/index.html:318
+#: mainapp/templates/mainapp/programs.html:173
+#: mainapp/templates/mainapp/programs.html:201
+msgid "Workshops & Training"
+msgstr "Työpajat ja koulutus"
+
+#: mainapp/templates/mainapp/index.html:163
+#: mainapp/templates/mainapp/index.html:320
+msgid ""
+"\n"
+"                    We design, recruit, facilitate, assess, tailormake and "
+"report on extra ordinary workshops, team building  and training initiatives "
+"for \n"
+"                    teams and organizations. Our primary focus is on:\n"
+"                    "
+msgstr ""
+"\n"
+"                    Suunnittelemme, rekrytoimme, helpotamme, arvioimme, räätälöimme ja "
+"raportoi tavallisista työpajoista, tiimin rakentamisesta ja koulutusaloitteista "
+"varten \n"
+"                    ryhmiä ja organisaatioita. Pääpainomme on:\n"
+"                    "
+
+#: mainapp/templates/mainapp/index.html:169
+#: mainapp/templates/mainapp/index.html:326
+msgid ""
+"Management i.e crisis management, change management, conflict management and "
+"overall team management."
+msgstr ""
+"Johtaminen eli kriisinhallinta, muutoksenhallinta, konfliktien hallinta ja "
+"joukkueen yleinen hallinta."
+#: mainapp/templates/mainapp/index.html:172
+msgid ""
+"Leadership i.e adaptable leadership, progressive organization culture, next "
+"level leadership, performance \n"
+"                    (financial & operational) and decision making analysis & "
+"design)"
+msgstr ""
+"Johtajuus eli mukautuva johtaminen, edistyksellinen organisaatiokulttuuri, seuraavaksi "
+"tason johtajuus, suorituskyky \n"
+"                    (taloudellinen ja toiminnallinen) ja päätöksentekoanalyysi & "
+"design)"
+#: mainapp/templates/mainapp/index.html:197
+#: mainapp/templates/mainapp/index.html:351
+#: mainapp/templates/mainapp/programs.html:239
+#: mainapp/templates/mainapp/services.html:205
+msgid "Career Counselling"
+msgstr "Uraneuvonta"
+
+#: mainapp/templates/mainapp/index.html:199
+#: mainapp/templates/mainapp/index.html:353
+msgid ""
+"We walk with you in the journey to discovering what sets your soul on fire "
+"professionally."
+msgstr ""
+"Kävelemme kanssasi matkalla löytääksesi, mikä sytyttää sielusi tuleen "
+"ammattimaisesti."
+
+#: mainapp/templates/mainapp/index.html:202
+msgid ""
+"We help you develop skills that support your professional vision and ad-ons "
+"aimed at \n"
+"                    realizing your professional goals such as communication, "
+"ethics, personal presentation & profiling, \n"
+"                    international opportunities search criteria, preparation "
+"for the next level, value brnding per work outcome, \n"
+"                    knowing when to leave and winning negotiation skills for "
+"contracts."
+msgstr ""
+"Autamme sinua kehittämään taitojasi, jotka tukevat ammatillista visiota ja lisäosia "
+"suunnattu \n"
+"                    toteuttaa ammatillisia tavoitteitasi, kuten viestintää, "
+"ethics, personal presentation & profiling, \n"
+"                    kansainvälisten mahdollisuuksien hakukriteerit, valmistelu "
+"seuraavalle tasolle, arvon tuottaminen työtulosta kohti, \n"
+"                    tietää milloin lähteä ja voittaa neuvottelutaidot "
+"sopimuksia."
+#: mainapp/templates/mainapp/index.html:229
+msgid ""
+"The OBC volunteer program was created in honor of the Late Engineer Okore "
+"Booker Charles. This program has been carefully curated to \n"
+"                    reflect and inculcate the values that he lived by "
+"throughout his life in community service and social impact."
+msgstr ""
+"OBC-vapaaehtoisohjelma luotiin edesmenneen insinööri Okoren kunniaksi "
+"Booker Charles. Tämä ohjelma on huolellisesti kuratoitu \n"
+"                    pohtimaan ja juurruttamaan arvoja, joiden mukaan hän eli "
+"koko elämänsä yhdyskuntapalvelussa ja yhteiskunnallisessa vaikuttamisessa."
+#: mainapp/templates/mainapp/index.html:233
+msgid ""
+"The OBC volunteer program will help you render assistance to underprivileged "
+"and underserved communities where you will experience \n"
+"                    traditional cultures and even get a chance to interact "
+"with rich wildlife all while supporting a good cause and creating a positive "
+"impact in the society."
+msgstr ""
+"OBC-vapaaehtoisohjelma auttaa sinua auttamaan vähäosaisia "
+"ja alipalveltuja yhteisöjä, joissa voit kokea \n"
+"                    perinteisiä kulttuureja ja jopa mahdollisuuden olla vuorovaikutuksessa "
+"rikkaiden villieläinten kanssa samalla kun tuetaan hyvää asiaa ja luodaan myönteistä "
+"vaikutusta yhteiskuntaan."
+
+#: mainapp/templates/mainapp/index.html:254
+msgid ""
+"We provide guidance and advice to individuals, groups and institutions about "
+"their investments and how to \n"
+"                    safeguard their interests and attain positive results. "
+"We further monitor the activities of these investments \n"
+"                    to ensure that there's full accountability and clarity "
+"on the utilisation of resources."
+msgstr ""
+"Tarjoamme opastusta ja neuvoja yksityishenkilöille, ryhmille ja instituutioille "
+"heidän sijoituksensa ja miten \n"
+"                    etujaan ja saavuttaa myönteisiä tuloksia. "
+"Seuraamme edelleen näiden investointien toimintaa \n"
+"                    varmistaakseen täyden vastuullisuuden ja selkeyden "
+"resurssien käytöstä."
+#: mainapp/templates/mainapp/index.html:266
+msgid ""
+"We help you to build action oriented strategic plans, communication, "
+"business development, marketing and partnership strategies, internal "
+"policies and \n"
+"                    customer experience needs in the following industry "
+"categories and sectors:"
+msgstr ""
+"Autamme sinua rakentamaan toimintalähtöisiä strategisia suunnitelmia, viestintää, "
+"liiketoiminnan kehittäminen, markkinointi ja kumppanuusstrategiat, sisäiset "
+"politiikat ja \n"
+"                    Asiakaskokemuksen tarpeita seuraavilla toimialoilla "
+"luokat ja alat:"
+#: mainapp/templates/mainapp/index.html:291
+msgid ""
+"We are the  first choice custodians of your projects and resources on "
+"ground. We source for quality and competitive resource plans, quotations, "
+"unique development \n"
+"                    plans and bespoke designs that are fairly priced and "
+"work with reputable excerpts to execute your vision and deliver beyond the "
+"expected outcomes.\n"
+"                    "
+msgstr ""
+"Olemme projektiesi ja resurssien ensisijainen säilyttäjä "
+"maahan. Hankimme laadukkaita ja kilpailukykyisiä resurssisuunnitelmia, tarjouksia, "
+"ainutlaatuinen kehitys \n"
+"                    suunnitelmat ja mittatilaustyöt, jotka ovat kohtuuhintaisia ja "
+"käytä hyvämaineisia otteita toteuttaaksesi visiosi ja tuottaaksesi sen pidemmälle "
+"odotetut lopputulokset.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:296
+msgid ""
+"\n"
+"                    Our areas of focus include: research, digitization, real "
+"estate & construction, corporate events (workshops and employee development "
+"programs), \n"
+"                    budgeting exercises and project fundraising "
+"initiatives.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Painopistealueitamme ovat: tutkimus, digitalisointi, tosielämä "
+"estate & construction, corporate events (workshops and employee development "
+"ohjelmat), \n"
+"                    budjetointiharjoituksia ja hankkeiden varainhankintaa "
+"aloitteita. \n"
+"                    "
+#: mainapp/templates/mainapp/index.html:329
+msgid ""
+"\n"
+"                    Leadership i.e adaptable leadership, progressive "
+"organization culture, next level leadership, performance \n"
+"                    (financial & operational) and decision making analysis & "
+"design)\n"
+"                    "
+msgstr ""
+"\n"
+"                    Johtajuus eli mukautuva johtajuus, edistyksellinen "
+"organisaatiokulttuuri, seuraavan tason johtajuus, suorituskyky \n"
+"                    (taloudellinen ja toiminnallinen) ja päätöksentekoanalyysi & "
+"design)\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:356
+#: mainapp/templates/mainapp/services.html:210
+msgid ""
+"\n"
+"                    We help you develop skills that support your "
+"professional vision and ad-ons aimed at \n"
+"                    realizing your professional goals such as communication, "
+"ethics, personal presentation & profiling, \n"
+"                    international opportunities search criteria, preparation "
+"for the next level, value brnding per work outcome, \n"
+"                    knowing when to leave and winning negotiation skills for "
+"contracts.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Autamme sinua kehittämään taitojasi, jotka tukevat sinua "
+"ammatillinen visio ja lisäosat \n"
+"                    toteuttaa ammatillisia tavoitteitasi, kuten viestintää,"
+"etiikka, henkilökohtainen esittely ja profilointi, \n"
+"                    kansainvälisten mahdollisuuksien hakukriteerit, valmistelu "
+"seuraavalle tasolle, arvon tuottaminen työtulosta kohti, \n"
+"                    tietää milloin lähteä ja voittaa neuvottelutaidot "
+"sopimuksia.\n"
+"                    "
+#: mainapp/templates/mainapp/index.html:383
+#: mainapp/templates/mainapp/index.html:400
+msgid "We are all about accountability and convenience. Curious?"
+msgstr "Olemme kaikki vastuussa ja mukavuudessa. Utelias?"
+
+#: mainapp/templates/mainapp/index.html:387
+#: mainapp/templates/mainapp/index.html:404
+msgid "LET'S TALK"
+msgstr "PUHUTAAN"
+
+#: mainapp/templates/mainapp/navbar.html:16
+msgid "Home"
+msgstr "Koti"
+
+#: mainapp/templates/mainapp/navbar.html:21
+msgid "Who We Are"
+msgstr "Keitä olemme"
+
+#: mainapp/templates/mainapp/navbar.html:24
+msgid "About Us"
+msgstr "Meistä"
+
+#: mainapp/templates/mainapp/navbar.html:30
+msgid "Services"
+msgstr "Palvelut"
+
+#: mainapp/templates/mainapp/navbar.html:33
+msgid "Programs"
+msgstr "Ohjelmat"
+
+#: mainapp/templates/mainapp/navbar.html:36
+msgid "News"
+msgstr "Uutiset"
+
+#: mainapp/templates/mainapp/navbar.html:43
+msgid "Join Us"
+msgstr "Liity meihin"
+
+#: mainapp/templates/mainapp/news.html:5
+msgid "News Page"
+msgstr "Uutissivu"
+
+#: mainapp/templates/mainapp/programs.html:19
+msgid ""
+"\n"
+"                The OBC Volunteer program is ideal for students and "
+"practitioners and aims to place\n"
+"                enthusiastic volunteers in the right spaces to make a "
+"positive impact on the lives of\n"
+"                underserved people within local African Communities. The OBC "
+"volunteers get to interact with\n"
+"                the local communities and immerse themselves in rich African "
+"culture. Not only do they\n"
+"                experience the fulfillment of making positive changes to "
+"these underprivileged communities,\n"
+"                they also develop skills through a multicultural lens and a "
+"global spectrum.  \n"
+"                "
+msgstr ""
+"\n"
+"                OBC Volunteer -ohjelma on ihanteellinen opiskelijoille ja "
+"harjoittajia ja pyrkii sijoittamaan\n"
+"                innokkaita vapaaehtoisia oikeissa tiloissa tekemään a "
+"positiivinen vaikutus elämään\n"
+"                alipalveltuja ihmisiä paikallisissa afrikkalaisissa yhteisöissä. OBC "
+"vapaaehtoiset saavat olla tekemisissä\n"
+"                paikalliset yhteisöt ja uppoutua rikkaaseen afrikkalaiseen "
+"kulttuuri. Eivät vain he\n"
+"                kokea positiivisten muutosten tekemisen täyttymys "
+"nämä vähäosaiset yhteisöt,\n"
+"                he myös kehittävät taitoja monikulttuurisen linssin kautta ja a "
+"globaali spektri.  \n"
+"                "
+#: mainapp/templates/mainapp/programs.html:28
+msgid ""
+"The OBC Volunteer program is open to individuals across the board from "
+"different backgrounds such as"
+msgstr ""
+"OBC Volunteer -ohjelma on avoin kaikille henkilöille alkaen "
+"erilaisia taustoja, esim"
+#: mainapp/templates/mainapp/programs.html:30
+msgid "General Health Care"
+msgstr "Yleinen terveydenhuolto"
+
+#: mainapp/templates/mainapp/programs.html:31
+msgid "Urban Planning and Development"
+msgstr "Kaupunkisuunnittelu ja -kehitys"
+
+#: mainapp/templates/mainapp/programs.html:32
+msgid "Economic Empowerment"
+msgstr "Taloudellinen vaikutusvalta"
+
+#: mainapp/templates/mainapp/programs.html:33
+msgid "Water and Sanitation"
+msgstr "Vesi ja sanitaatio"
+
+#: mainapp/templates/mainapp/programs.html:34
+msgid "Eco Farming"
+msgstr "Ekoviljely"
+
+#: mainapp/templates/mainapp/programs.html:35
+msgid "Mental Health"
+msgstr "Mielenterveys"
+
+#: mainapp/templates/mainapp/programs.html:36
+msgid "Youth"
+msgstr "Nuoriso"
+
+#: mainapp/templates/mainapp/programs.html:37
+msgid "Education"
+msgstr "koulutus"
+
+#: mainapp/templates/mainapp/programs.html:38
+msgid "Child Care"
+msgstr "Lastenhoito"
+
+#: mainapp/templates/mainapp/programs.html:39
+msgid "Elderly Care"
+msgstr "Vanhustenhoito"
+
+#: mainapp/templates/mainapp/programs.html:45
+msgid ""
+"\n"
+"            We give our volunteers a detailed overview of ELAN Dome's "
+"volunteer missions and\n"
+"            expectations to enable them to be confident and knowledgeable "
+"about the causes they are\n"
+"            undertaking and to cultivate the motivation and enthusiasm that "
+"encouraged them to volunteer\n"
+"            in the first place.  \n"
+"            "
+msgstr ""
+"\n"
+"            Annamme vapaaehtoisillemme yksityiskohtaisen yleiskatsauksen ELAN Domesta "
+"vapaaehtoistehtävät ja\n"
+"            odotuksia, jotta he voivat olla varmoja ja asiantuntevia "
+"niiden syistä\n"
+"            yritystä ja kasvattaa sitä motivaatiota ja innostusta "
+"rohkaisi heitä vapaaehtoistyöhön\n"
+"            ensinnäkin.  \n"
+"            "
+#: mainapp/templates/mainapp/programs.html:56
+msgid "Apply to be a volunteer"
+msgstr "Hae vapaaehtoiseksi"
+
+#: mainapp/templates/mainapp/programs.html:74
+#: mainapp/templates/mainapp/programs.html:102
+msgid ""
+"\n"
+"                    We support local citizens in the diaspora and "
+"international development organizations with all their investment\n"
+"                    needs. Using our knowledge about the local market we "
+"prioritize efficient and seamless operations that protect \n"
+"                    them from negative eventualities. Through our investment "
+"supervision services, we offer our local and \n"
+"                    international investor's representative service and "
+"supervision of their investment projects thereby enhancing \n"
+"                    accountability.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Tuemme paikallisia kansalaisia diasporassa ja "
+"kansainväliset kehitysjärjestöt kaikkine investoinneineen\n"
+"                    tarpeisiin. Käytämme paikallisia markkinoita koskevia tietojamme "
+"priorisoi tehokkaat ja saumattomat toiminnot, jotka suojaavat \n"
+"                    niitä negatiivisilta tilanteilta. Investointimme kautta "
+"valvontapalveluita tarjoamme paikallisia ja \n"
+"                    kansainvälisten sijoittajien edustuspalvelu ja "
+"investointihankkeidensa valvontaa, mikä tehostaa \n"
+"                    vastuullisuus\n"
+"                    "
+#: mainapp/templates/mainapp/programs.html:82
+#: mainapp/templates/mainapp/programs.html:110
+msgid "These services range from"
+msgstr "Nämä palvelut vaihtelevat"
+
+#: mainapp/templates/mainapp/programs.html:84
+#: mainapp/templates/mainapp/programs.html:112
+msgid "Supporting managing the entire investment process."
+msgstr "Tukee koko sijoitusprosessin hallintaa."
+
+#: mainapp/templates/mainapp/programs.html:85
+#: mainapp/templates/mainapp/programs.html:113
+msgid ""
+"Regularly inspecting investments sites in order to control the progress."
+msgstr ""
+"Tarkastetaan säännöllisesti sijoituskohteita edistymisen valvomiseksi."
+
+#: mainapp/templates/mainapp/programs.html:86
+#: mainapp/templates/mainapp/programs.html:114
+msgid "Verifying work carried out contractors."
+msgstr "Urakoitsijoiden suorittamien töiden tarkistaminen."
+
+#: mainapp/templates/mainapp/programs.html:87
+#: mainapp/templates/mainapp/programs.html:115
+msgid "Generating post-completion documentation."
+msgstr "Valmistumisen jälkeisen dokumentaation luominen."
+
+#: mainapp/templates/mainapp/programs.html:88
+#: mainapp/templates/mainapp/programs.html:116
+msgid "Taking part in coordination meetings."
+msgstr "Osallistuminen koordinointikokouksiin."
+
+#: mainapp/templates/mainapp/programs.html:89
+#: mainapp/templates/mainapp/programs.html:117
+msgid ""
+"Preparing and taking part in the final handover of the investment to the "
+"investor."
+msgstr ""
+"Investoinnin lopullisen luovutuksen valmistelu ja osallistuminen "
+"sijoittaja."
+
+#: mainapp/templates/mainapp/programs.html:119
+msgid ""
+"We make our clients part of the journey even while they are away by "
+"completely involving them in every juncture of our processes."
+msgstr ""
+"Otamme asiakkaamme osaksi matkaa myös heidän ollessaan poissa "
+"ottaa heidät täysin mukaan prosessiemme jokaiseen vaiheeseen."
+#: mainapp/templates/mainapp/programs.html:141
+msgid ""
+"\n"
+"                We handle all aspects pertaining to the planning and "
+"execution of projects. We monitor projects\n"
+"                through the stages of project initiation, planning, "
+"execution, and closure to make sure that the\n"
+"                objectives of the project are fulfilled. We manage projects "
+"effectively so that they are completed on\n"
+"                time, to the set specification and within the stipulated "
+"budgets. With our strong grasp of various\n"
+"                modes of project delivery we can identify and recommend the "
+"most appropriate project delivery\n"
+"                approach for projects.\n"
+"                "
+msgstr ""
+"\n"
+"                Hoidamme kaikki suunnitteluun liittyvät asiat "
+"hankkeiden toteuttaminen. Seuraamme projekteja\n"
+"                läpi hankkeen aloitus-, suunnittelu-, "
+"toteuttaminen ja sulkeminen varmistaaksesi, että\n"
+"                hankkeen tavoitteet täyttyvät. Hoidamme projekteja "
+"tehokkaasti, jotta ne valmistuvat\n"
+"                aika, asetettujen eritelmien mukaisesti ja määrättyjen rajojen sisällä "
+"budjetit. Meidän vahva käsitys eri\n"
+"                projektien toteutustavat voimme tunnistaa ja suositella "
+"sopivin projektitoimitus\n"
+"                lähestymistapa hankkeisiin.\n"
+"                "
+#: mainapp/templates/mainapp/programs.html:150
+msgid "Some of our project management services include"
+msgstr "Osa projektinhallintapalveluistamme sisältää mm"
+
+#: mainapp/templates/mainapp/programs.html:152
+msgid "Define program goals and project scope"
+msgstr "Määritä ohjelman tavoitteet ja projektin laajuus"
+
+#: mainapp/templates/mainapp/programs.html:153
+msgid "Identify project delivery methods"
+msgstr "Tunnista projektin toimitustavat"
+
+#: mainapp/templates/mainapp/programs.html:154
+msgid "Outline project schedules"
+msgstr "Piirrä projektien aikataulut"
+
+#: mainapp/templates/mainapp/programs.html:155
+msgid "Cost management"
+msgstr "Kulujen hallinta"
+
+#: mainapp/templates/mainapp/programs.html:156
+msgid "Develop and Evaluate proposals"
+msgstr "Kehitä ja arvioi ehdotuksia"
+
+#: mainapp/templates/mainapp/programs.html:157
+msgid "Manage Consulting Services"
+msgstr "Hallinnoi konsultointipalveluita"
+
+#: mainapp/templates/mainapp/programs.html:158
+msgid "Develop Contract Documentation"
+msgstr "Kehitä sopimusdokumentaatio"
+
+#: mainapp/templates/mainapp/programs.html:159
+msgid "Draft and generate project reports"
+msgstr "Laadi ja luo projektiraportteja"
+
+#: mainapp/templates/mainapp/programs.html:175
+#: mainapp/templates/mainapp/programs.html:203
+msgid ""
+"\n"
+"                    Workshops provide an avenue to explore current topics, "
+"hands-on training, and practical application.\n"
+"                    ELAN Dome Consultants offers a wide array of interactive "
+"and dynamic workshops and training sessions that\n"
+"                    can be easily customized to suit different individuals, "
+"groups and organizations. (Corporate\n"
+"                    Organizations, Educational Institutions, NGOs, CBOs "
+"etc)\n"
+"                    "
+msgstr ""
+"\n"
+"                    Työpajat tarjoavat mahdollisuuden tutustua ajankohtaisiin aiheisiin, "
+"käytännön koulutusta ja käytännön soveltamista.\n"
+"                    ELAN Dome Consultants tarjoaa laajan valikoiman interaktiivisia "
+"                    voidaan helposti räätälöidä eri henkilöille sopivaksi, "
+"ryhmät ja järjestöt. (Yritys\n"
+"jne)\n"
+"                    "
+#: mainapp/templates/mainapp/programs.html:183
+#: mainapp/templates/mainapp/programs.html:211
+msgid ""
+"\n"
+"                    These workshops and training sessions focus on "
+"respective areas as requested by our clients.\n"
+"                    They range from personal development areas to "
+"professional improvement areas like\n"
+"                    leadership training and change management. They are "
+"particularly very beneficial to\n"
+"                    organizations that would like to optimize their manpower "
+"and create unison within different\n"
+"                    departments.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Nämä työpajat ja koulutustilaisuudet keskittyvät "
+"vastaavat alueet asiakkaidemme pyynnöstä.\n"
+"                    Ne vaihtelevat henkilökohtaisesta kehityksen alueista "
+"ammatilliset kehittämisalueet, kuten\n"
+"                    johtamiskoulutus ja muutoksenhallinta. He ovat "
+"particularly very beneficial to\n"
+"                    organisaatioille, jotka haluavat optimoida työvoimaansa "
+"ja luoda yhtenäisyyttä eri sisällä\n"
+"                    osastot.\n"
+"                    "
+#: mainapp/templates/mainapp/programs.html:241
+msgid ""
+"\n"
+"                We work with individuals to help them identify what's most "
+"important to them and what they\n"
+"                want from their future and then support them to achieve "
+"these goals. Our Career Counseling\n"
+"                program is beneficial in numerous ways.\n"
+"                "
+msgstr ""
+"\n"
+"                Työskentelemme ihmisten kanssa auttaaksemme heitä tunnistamaan, mikä on tärkeintä "
+"heille tärkeitä ja mitä he\n"
+"                haluavat heidän tulevaisuutensa ja sitten tukea heitä saavuttamaan "
+"näitä tavoitteita. Uraneuvontamme\n"
+"                ohjelmasta on hyötyä monella tapaa.\n"
+"                "
+#: mainapp/templates/mainapp/programs.html:247
+msgid "We help you fully explore your interests"
+msgstr "Autamme sinua tutkimaan kiinnostuksen kohteitasi täysin"
+
+#: mainapp/templates/mainapp/programs.html:249
+msgid ""
+"\n"
+"                Through career counseling our participants are able to sift "
+"through factors that actually make\n"
+"                them want a certain career and angle plus common influential "
+"factors. Our career counselors\n"
+"                also question and support choices with all factors "
+"considered.\n"
+"                "
+msgstr ""
+"\n"
+"                Uraneuvonnan kautta osallistujamme voivat seuloa "
+"tekijöiden kautta, jotka todella tekevät\n"
+"                he haluavat tietyn uran ja näkökulman sekä yhteisen vaikutusvallan "
+"tekijät. Meidän uraneuvojamme\n"
+"                myös kyseenalaistaa ja tukea valintoja kaikilla tekijöillä"
+"harkittu.\n"
+"                "
+#: mainapp/templates/mainapp/programs.html:259
+msgid "We clarify your professional objectives."
+msgstr "Selvitämme ammatillisia tavoitteitasi."
+
+#: mainapp/templates/mainapp/programs.html:261
+msgid ""
+"\n"
+"                In order to break barriers and achieve success within your "
+"chosen field it is paramount to have\n"
+"                set objectives that guide your journey. Through career we "
+"help you create a roadmap by helping\n"
+"                you set these objectives and providing extensive insight on "
+"the advantages and disadvantages\n"
+"                of each action.\n"
+"                "
+msgstr ""
+"\n"
+"                Voit rikkoa esteitä ja saavuttaa menestystä sisälläsi "
+"valitun alan on ensiarvoisen tärkeää\n"
+"                aseta tavoitteita, jotka ohjaavat matkaasi. Uran kautta me "
+"auttaa sinua luomaan tiekartan auttamalla\n"
+"                asetat nämä tavoitteet ja annat laajan käsityksen "
+"edut ja haitat\n"
+"                jokaisesta toiminnasta.\n"
+"                "
+#: mainapp/templates/mainapp/programs.html:271
+msgid "We help you expand your horizons."
+msgstr "Autamme sinua laajentamaan näköalojasi."
+
+#: mainapp/templates/mainapp/programs.html:273
+msgid ""
+"\n"
+"                Through our career counseling program you will gain a wider "
+"perspective of the career options\n"
+"                and choices they have. You will be able to explore more "
+"career options, review the opportunities\n"
+"                that present themselves and settle on the best fit.\n"
+"                "
+msgstr ""
+"\n"
+"                Uraneuvontaohjelmamme kautta saat laajemman "
+"näkökulmasta uravaihtoehtoihin\n"
+"                ja heillä on valinnanvaraa. Voit tutkia lisää "
+"uravaihtoehtoja, tarkista mahdollisuudet\n"
+"                jotka esittelevät itsensä ja sopivat parhaiten.\n"
+"                "
+#: mainapp/templates/mainapp/programs.html:285
+msgid "Still want to know more? Let's Talk"
+msgstr "Haluatko silti tietää lisää? Puhutaan"
+
+#: mainapp/templates/mainapp/services.html:19
+msgid "Our"
+msgstr "Meidän"
+
+#: mainapp/templates/mainapp/services.html:20
+msgid "Process"
+msgstr "Prosessi"
+
+#: mainapp/templates/mainapp/services.html:24
+msgid ""
+"\n"
+"                    We prioritize efficient and seamless operations that "
+"cushion our clients from the hustle \n"
+"                    and bustle of international regulatory requirements, "
+"cultural pressures and international \n"
+"                    logistics. We transfer these responsibilities from you "
+"to us given our deep understanding \n"
+"                    of the cultural contexts, legal requirements and local "
+"dynamics. We want to make sure everything \n"
+"                    is fast, simple, under control, pleasant, experiential, "
+"memorable and impactful.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Etusijalle asetamme tehokkaan ja saumattoman toiminnan "
+"suojata asiakkaitamme hälinästä \n"
+"                    ja kansainvälisten sääntelyvaatimusten vilske, "
+"kulttuuriset paineet ja kansainväliset \n"
+"                    logistiikka. Siirrämme nämä vastuut sinulta "
+"meille syvän ymmärryksemme ansiosta \n"
+"                    kulttuurisista konteksteista, lakisääteisistä vaatimuksista ja paikallisista "
+"dynamiikka. Haluamme varmistaa kaiken \n"
+"                    on nopea, yksinkertainen, hallinnassa, miellyttävä, kokemuksellinen, "
+"ikimuistoinen ja vaikuttava.\n"
+"                    "
+#: mainapp/templates/mainapp/services.html:37
+msgid "What We Do"
+msgstr "Mitä me teemme"
+
+#: mainapp/templates/mainapp/services.html:38
+msgid "Project focussed."
+msgstr "Projektiin keskittynyt."
+
+#: mainapp/templates/mainapp/services.html:38
+msgid "People centred."
+msgstr "Ihmisten keskiössä."
+
+#: mainapp/templates/mainapp/services.html:38
+msgid "Results driven."
+msgstr "Tulokset ajettu."
+
+#: mainapp/templates/mainapp/services.html:46
+msgid ""
+"\n"
+"                        Interlink international students, individual social/"
+"organizational groups, universities\n"
+"                        and boarding schools to prospective community "
+"programs, initiatives, organizations and projects.\n"
+"                        "
+msgstr ""
+"\n"
+"                        Interlink kansainväliset opiskelijat, yksittäiset sosiaaliset/"
+"organisaatioryhmät, yliopistot\n"
+"                        ja sisäoppilaitoksista tulevalle yhteisölle "
+"ohjelmia, aloitteita, järjestöjä ja hankkeita.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:59
+msgid ""
+"\n"
+"                        Provide individuals with an experiential and "
+"international learning exposure service that is second\n"
+"                        to none in terms of immersion into societal contexts "
+"that are unique and rich.\n"
+"                        "
+msgstr ""
+"\n"
+"                        Tarjoa yksilöille kokemuksellista ja "
+"kansainvälinen oppimisen altistumispalvelu, joka on toinen\n"
+"                        ei mihinkään yhteiskunnallisiin konteksteihin uppoamisen kannalta "
+"jotka ovat ainutlaatuisia ja rikkaita.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:72
+msgid ""
+"\n"
+"                        Offer project management services to in all aspects "
+"(community based organizations, corporate facing and\n"
+"                        event oriented)\n"
+"                        "
+msgstr ""
+"\n"
+"                        Tarjoa projektinhallintapalveluita kaikilla osa-alueilla "
+"(yhteisöpohjaiset organisaatiot, yrityskohtaiset ja\n"
+"                        tapahtumasuuntautunut)\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:87
+msgid ""
+"\n"
+"                        Organize exceptional adventurous activities for "
+"volunteers across Africa- networking, thrill, food &\n"
+"                        culture etc.\n"
+"                        "
+msgstr ""
+"\n"
+"                        Järjestä poikkeuksellisia seikkailunhaluisia aktiviteetteja "
+"vapaaehtoisia eri puolilla Afrikkaa - verkostoitumista, jännitystä, ruokaa ja\n"
+"                        kulttuuria jne.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:100
+msgid ""
+"\n"
+"                        Provide 360° placement services to assist interested "
+"individuals in all facets of enrolling in\n"
+"                        international internship and exchange programs.\n"
+"                        "
+msgstr ""
+"\n"
+"                        Tarjoa 360°-sijoituspalveluita kiinnostuneiden auttamiseksi "
+"yksilöitä kaikilla ilmoittautumisen osa-alueilla\n"
+"                        kansainvälisiä harjoittelu- ja vaihto-ohjelmia.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:113
+msgid ""
+"\n"
+"                        Provide organizational programming through the "
+"creation of functional organization designs,\n"
+"                        implementation, evaluation and support\n"
+"                        "
+msgstr ""
+"\n"
+"                        Tarjoa organisaation ohjelmointia "
+"toiminnallisten organisaatiosuunnitelmien luominen,\n"
+"                        täytäntöönpano, arviointi ja tuki\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:124
+msgid "Our Portfolio"
+msgstr "Portfoliomme"
+
+#: mainapp/templates/mainapp/services.html:140
+msgid ""
+"\n"
+"                    The OBC volunteer program will help you render "
+"assistance to underprivileged and underserved communities where you will "
+"experience \n"
+"                    traditional cultures and even get a chance to interact "
+"with rich wildlife all while supporting a good cause and creating a positive "
+"impact in the society.\n"
+"                    "
+msgstr ""
+"\n"
+"                    OBC-vapaaehtoisohjelma auttaa sinua tekemään "
+"apua heikommassa asemassa oleville ja vähäosaisille yhteisöille missä haluat "
+"kokea \n"
+"                    perinteisiä kulttuureja ja jopa mahdollisuuden olla vuorovaikutuksessa "
+"rikkaiden villieläinten kanssa samalla kun tuetaan hyvää asiaa ja luodaan myönteistä "
+"vaikutusta yhteiskuntaan.\n"
+"                    "
+#: mainapp/templates/mainapp/services.html:153
+#: mainapp/templates/mainapp/services.html:183
+msgid ""
+"\n"
+"                        We are the  first choice custodians of your projects "
+"and resources on ground. We source for quality and competitive resource "
+"plans, quotations, unique development \n"
+"                        plans and bespoke designs that are fairly priced and "
+"work with reputable excerpts to execute your vision and deliver beyond the "
+"expected outcomes.\n"
+"                        "
+msgstr ""
+"\n"
+"                        Olemme projektienne ensisijaisia ylläpitäjiä "
+"ja resurssit maassa. Hankimme laadukkaita ja kilpailukykyisiä resursseja "
+"suunnitelmat, lainaukset, ainutlaatuinen kehitys \n"
+"                        suunnitelmat ja mittatilaustyöt, jotka ovat kohtuuhintaisia ja "
+"käytä hyvämaineisia otteita toteuttaaksesi visiosi ja tuottaaksesi sen pidemmälle "
+"odotetut lopputulokset.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:159
+#: mainapp/templates/mainapp/services.html:189
+msgid ""
+"\n"
+"                        Our areas of focus include: research, digitization, "
+"real estate & construction, corporate events (workshops and employee "
+"development programs), \n"
+"                        budgeting exercises and project fundraising "
+"initiatives.\n"
+"                        "
+msgstr ""
+"\n"
+"                        Painopistealueitamme ovat: tutkimus, digitalisointi, "
+"kiinteistöt ja rakentaminen, yritystapahtumat (työpajat ja työntekijä "
+"kehitysohjelmat), \n"
+"                        budjetointiharjoituksia ja hankkeiden varainhankintaa "
+"aloitteita.\n"
+"                        "
+#: mainapp/templates/mainapp/services.html:207
+msgid ""
+"We walk with you the journey to discovering what sets your soul on fire "
+"professionally."
+msgstr ""
+"Kävelemme kanssasi matkalla löytääksesi, mikä sytyttää sielusi tuleen "
+"ammattimaisesti"
+
+#: mainapp/templates/mainapp/services.html:223
+msgid "Find Out More"
+msgstr "Lue lisää"
+
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:130
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:140
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:91
+msgid "This field is required."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout.py:392
+msgid "i18n text"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout.py:394
+msgid "i18n legend"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout_objects.py:143
+#: venv/lib/python3.10/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/contrib/messages/apps.py:15
+msgid "Messages"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr ""
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.10/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/paginator.py:50
+msgid "That page number is not an integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/paginator.py:52
+msgid "That page number is less than 1"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/paginator.py:57
+msgid "That page contains no results"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:104
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:751
+msgid "Enter a valid URL."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:164
+msgid "Enter a valid integer."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:175
+msgid "Enter a valid email address."
+msgstr ""
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.10/site-packages/django/core/validators.py:256
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:264
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
+"hyphens."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:276
+#: venv/lib/python3.10/site-packages/django/core/validators.py:284
+#: venv/lib/python3.10/site-packages/django/core/validators.py:313
+msgid "Enter a valid IPv4 address."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:293
+#: venv/lib/python3.10/site-packages/django/core/validators.py:314
+msgid "Enter a valid IPv6 address."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:305
+#: venv/lib/python3.10/site-packages/django/core/validators.py:312
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:348
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:354
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:389
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:398
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:407
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:417
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:435
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:458
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:347
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:386
+msgid "Enter a number."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:460
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:465
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:470
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:539
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/core/validators.py:600
+msgid "Null characters are not allowed."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/base.py:1401
+#: venv/lib/python3.10/site-packages/django/forms/models.py:899
+msgid "and"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/base.py:1403
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/constraints.py:17
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:129
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:130
+msgid "This field cannot be null."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:131
+msgid "This field cannot be blank."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:132
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:136
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:174
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1065
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1066
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1068
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1118
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1222
+msgid "Comma-separated integers"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1323
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1327
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1462
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1331
+msgid "Date (without time)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1458
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
+"uuuuuu]][TZ] format."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1466
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
+"[TZ]) but it is an invalid date/time."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1471
+msgid "Date (with time)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1595
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1597
+msgid "Decimal number"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1754
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
+"uuuuuu] format."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1758
+msgid "Duration"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1810
+msgid "Email address"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1835
+msgid "File path"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1913
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1915
+msgid "Floating point number"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1955
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1957
+msgid "Integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2049
+msgid "Big (8 byte) integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2066
+msgid "Small integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2074
+msgid "IPv4 address"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2105
+msgid "IP address"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2198
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2199
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2201
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2252
+msgid "Positive big integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2267
+msgid "Positive integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2282
+msgid "Positive small integer"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2298
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2334
+msgid "Text"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2409
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2413
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2417
+msgid "Time"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2525
+msgid "URL"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2549
+msgid "Raw binary data"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2614
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2616
+msgid "Universally unique identifier"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/files.py:232
+msgid "File"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/files.py:392
+msgid "Image"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/json.py:18
+msgid "A JSON object"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/json.py:20
+msgid "Value must be valid JSON."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:920
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:922
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1229
+msgid "One-to-one relationship"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1286
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1288
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1336
+msgid "Many-to-many relationship"
+msgstr ""
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the label
+#: venv/lib/python3.10/site-packages/django/forms/boundfield.py:176
+msgid ":?.!"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:298
+msgid "Enter a whole number."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:467
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1240
+msgid "Enter a valid date."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:490
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1241
+msgid "Enter a valid time."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:517
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:551
+msgid "Enter a valid duration."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:552
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:618
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:619
+msgid "No file was submitted."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:620
+msgid "The submitted file is empty."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:622
+#, python-format
+msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:627
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:693
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:856
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:948
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1572
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:950
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1069
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1570
+msgid "Enter a list of values."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1070
+msgid "Enter a complete value."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1309
+msgid "Enter a valid UUID."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/fields.py:1339
+msgid "Enter a valid JSON."
+msgstr ""
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.10/site-packages/django/forms/forms.py:98
+msgid ":"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/forms.py:248
+#: venv/lib/python3.10/site-packages/django/forms/forms.py:332
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:63
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:67
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:72
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:483
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:490
+msgid "Order"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/formsets.py:496
+msgid "Delete"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:892
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:897
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:904
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:913
+msgid "Please correct the duplicate values below."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1344
+msgid "The inline value did not match the parent instance."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1435
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/models.py:1574
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/utils.py:226
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:439
+msgid "Clear"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:440
+msgid "Currently"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:441
+msgid "Change"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:770
+msgid "Unknown"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:771
+msgid "Yes"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/forms/widgets.py:772
+msgid "No"
+msgstr ""
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:853
+msgid "yes,no,maybe"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:883
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:900
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:902
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:904
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:906
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:908
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:910
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:77
+msgid "p.m."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:78
+msgid "a.m."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:83
+msgid "PM"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:84
+msgid "AM"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:155
+msgid "midnight"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:157
+msgid "noon"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:7
+msgid "Monday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:8
+msgid "Tuesday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:9
+msgid "Wednesday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:10
+msgid "Thursday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:11
+msgid "Friday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:12
+msgid "Saturday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:13
+msgid "Sunday"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:16
+msgid "Mon"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:17
+msgid "Tue"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:18
+msgid "Wed"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:19
+msgid "Thu"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:20
+msgid "Fri"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:21
+msgid "Sat"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:22
+msgid "Sun"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:25
+msgid "January"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:26
+msgid "February"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:27
+msgid "March"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:28
+msgid "April"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:29
+msgid "May"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:30
+msgid "June"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:31
+msgid "July"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:32
+msgid "August"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:33
+msgid "September"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:34
+msgid "October"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:35
+msgid "November"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:36
+msgid "December"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:39
+msgid "jan"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:40
+msgid "feb"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:41
+msgid "mar"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:42
+msgid "apr"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:43
+msgid "may"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:44
+msgid "jun"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:45
+msgid "jul"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:46
+msgid "aug"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:47
+msgid "sep"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:48
+msgid "oct"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:49
+msgid "nov"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:50
+msgid "dec"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/text.py:76
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/text.py:252
+msgid "or"
+msgstr ""
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.10/site-packages/django/utils/text.py:271
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:94
+msgid ", "
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/utils/timesince.py:14
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:111
+msgid "Forbidden"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:112
+msgid "CSRF verification failed. Request aborted."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:116
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:122
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:127
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
+"including the “Referrer-Policy: no-referrer” header, please remove them. The "
+"CSRF protection requires the “Referer” header to do strict referer checking. "
+"If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:136
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:142
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/csrf.py:148
+msgid "More information is available with DEBUG=True."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:44
+msgid "No year specified"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:64
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:115
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:214
+msgid "Date out of range"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:94
+msgid "No month specified"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:147
+msgid "No day specified"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:194
+msgid "No week specified"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:349
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:380
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:652
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because %(class_name)s."
+"allow_future is False."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:692
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/generic/list.py:169
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/static.py:38
+msgid "Directory indexes are not allowed here."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/static.py:40
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/static.py:79
+#, python-format
+msgid "Index of %(directory)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
+"configured any URLs."
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr ""
+
+#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr ""
