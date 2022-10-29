@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'mainapp',
     'crispy_forms',
     'crispy_bootstrap5',
+    'import_export'
 ]
 
 
@@ -134,7 +135,7 @@ LANGUAGES = [
     ('en', 'English'),
     ('es', 'Spanish'),
     ('fr', 'French'),
-    ('swe', 'Swedish'),
+    ('sv', 'Swedish'),
     ('de', 'German'),
     ('it', 'Italian'),
     ('sw', 'Swahili'),

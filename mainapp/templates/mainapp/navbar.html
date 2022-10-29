@@ -64,7 +64,7 @@
                     {% get_language_info_list for LANGUAGES as languages %}
                     {% for language in languages %}
                     <option value="{{ language.code }}" {% if language.code == LANGUAGE_CODE %}selected{% endif %}
-                        style="font-size:13px;">{{ language.name_local|title }} ({{ language.code|upper }})</option>
+                        style="font-size:13px;">{{ language.name|title }} ({{ language.code|upper }})</option>
                     {% endfor %}
                 </select>&nbsp;<br>
                 <button class="btn " type="submit" style="font-size: 13px;padding: 0.375rem 0.75rem !important;background-color: #cc3e18;border-color: #cc3e18;color:white"><b>Go</b></button>

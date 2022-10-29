@@ -54,6 +54,9 @@ class ContactPage(models.Model):
     message = models.TextField()
     date_sent = models.DateTimeField(auto_now_add=True)
 
+    class Meta:
+        verbose_name_plural = 'Contact Page Submissions'
+
     def __str__(self):
         return f"{self.full_name} - {self.email}"
 
@@ -100,6 +103,9 @@ class VolunteerApplication(models.Model):
     referee_contact_work_address = models.CharField(max_length=100, blank=True, null=True)
 
     date_of_application = models.DateTimeField(auto_now_add=True, blank=True, null=True)
+
+    class Meta:
+        verbose_name_plural = 'Application Form Submissions'
 
     def __str__(self):
         return f"{self.first_name} {self.last_name} - {self.email} - {self.date_of_application}"
