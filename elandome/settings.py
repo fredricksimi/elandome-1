@@ -134,9 +134,11 @@ LANGUAGES = [
     ('en', 'English'),
     ('es', 'Spanish'),
     ('fr', 'French'),
+    ('swe', 'Swedish'),
     ('de', 'German'),
     ('it', 'Italian'),
-    ('sw', 'Swahili')
+    ('sw', 'Swahili'),
+    ('fi', 'Finnish')
 ]
 
 
