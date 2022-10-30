@@ -1,0 +1,453 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% block content %}
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
+<script>
+    /**
+    * Template Name: iPortfolio - v3.7.0
+    * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+    * Author: BootstrapMade.com
+    * License: https://bootstrapmade.com/license/
+    */
+    (function() {
+    "use strict";
+    
+    /**
+    * Easy selector helper function
+    */
+    const select = (el, all = false) => {
+    el = el.trim()
+    if (all) {
+    return [...document.querySelectorAll(el)]
+    } else {
+    return document.querySelector(el)
+    }
+    }
+    
+    /**
+    * Easy event listener function
+    */
+    const on = (type, el, listener, all = false) => {
+    let selectEl = select(el, all)
+    if (selectEl) {
+    if (all) {
+    selectEl.forEach(e => e.addEventListener(type, listener))
+    } else {
+    selectEl.addEventListener(type, listener)
+    }
+    }
+    }
+    
+    /**
+    * Easy on scroll event listener 
+    */
+    const onscroll = (el, listener) => {
+    el.addEventListener('scroll', listener)
+    }
+    
+    /**
+    * Navbar links active state on scroll
+    */
+    let navbarlinks = select('#navbar .scrollto', true)
+    const navbarlinksActive = () => {
+    let position = window.scrollY + 200
+    navbarlinks.forEach(navbarlink => {
+    if (!navbarlink.hash) return
+    let section = select(navbarlink.hash)
+    if (!section) return
+    if (position >= section.offsetTop && position <= (section.offsetTop + section.offsetHeight)) {
+    navbarlink.classList.add('active')
+    } else {
+    navbarlink.classList.remove('active')
+    }
+    })
+    }
+    window.addEventListener('load', navbarlinksActive)
+    onscroll(document, navbarlinksActive)
+    
+    /**
+    * Scrolls to an element with header offset
+    */
+    const scrollto = (el) => {
+    let elementPos = select(el).offsetTop
+    window.scrollTo({
+    top: elementPos,
+    behavior: 'smooth'
+    })
+    }
+    
+    /**
+    * Back to top button
+    */
+    let backtotop = select('.back-to-top')
+    if (backtotop) {
+    const toggleBacktotop = () => {
+    if (window.scrollY > 100) {
+    backtotop.classList.add('active')
+    } else {
+    backtotop.classList.remove('active')
+    }
+    }
+    window.addEventListener('load', toggleBacktotop)
+    onscroll(document, toggleBacktotop)
+    }
+    
+    /**
+    * Mobile nav toggle
+    */
+    on('click', '.mobile-nav-toggle', function(e) {
+    select('body').classList.toggle('mobile-nav-active')
+    this.classList.toggle('bi-list')
+    this.classList.toggle('bi-x')
+    })
+    
+    /**
+    * Scrool with ofset on links with a class name .scrollto
+    */
+    on('click', '.scrollto', function(e) {
+    if (select(this.hash)) {
+    e.preventDefault()
+    
+    let body = select('body')
+    if (body.classList.contains('mobile-nav-active')) {
+    body.classList.remove('mobile-nav-active')
+    let navbarToggle = select('.mobile-nav-toggle')
+    navbarToggle.classList.toggle('bi-list')
+    navbarToggle.classList.toggle('bi-x')
+    }
+    scrollto(this.hash)
+    }
+    }, true)
+    
+    /**
+    * Scroll with ofset on page load with hash links in the url
+    */
+    window.addEventListener('load', () => {
+    if (window.location.hash) {
+    if (select(window.location.hash)) {
+    scrollto(window.location.hash)
+    }
+    }
+    });
+    
+    /**
+    * Hero type effect
+    */
+    const typed = select('.typed')
+    if (typed) {
+    let typed_strings = typed.getAttribute('data-typed-items')
+    typed_strings = typed_strings.split(',')
+    new Typed('.typed', {
+    strings: typed_strings,
+    loop: true,
+    typeSpeed: 100,
+    backSpeed: 50,
+    backDelay: 2000
+    });
+    }
+    
+    /**
+    * Skills animation
+    */
+    let skilsContent = select('.skills-content');
+    if (skilsContent) {
+    new Waypoint({
+    element: skilsContent,
+    offset: '80%',
+    handler: function(direction) {
+    let progress = select('.progress .progress-bar', true);
+    progress.forEach((el) => {
+      el.style.width = el.getAttribute('aria-valuenow') + '%'
+    });
+    }
+    })
+    }
+    
+    /**
+    * Porfolio isotope and filter
+    */
+    window.addEventListener('load', () => {
+    let portfolioContainer = select('.portfolio-container');
+    if (portfolioContainer) {
+    let portfolioIsotope = new Isotope(portfolioContainer, {
+    itemSelector: '.portfolio-item'
+    });
+    
+    let portfolioFilters = select('#portfolio-flters li', true);
+    
+    on('click', '#portfolio-flters li', function(e) {
+    e.preventDefault();
+    portfolioFilters.forEach(function(el) {
+      el.classList.remove('filter-active');
+    });
+    this.classList.add('filter-active');
+    
+    portfolioIsotope.arrange({
+      filter: this.getAttribute('data-filter')
+    });
+    portfolioIsotope.on('arrangeComplete', function() {
+      AOS.refresh()
+    });
+    }, true);
+    }
+    
+    });
+    
+    /**
+    * Initiate portfolio lightbox 
+    */
+    const portfolioLightbox = GLightbox({
+    selector: '.portfolio-lightbox'
+    });
+    
+    /**
+    * Portfolio details slider
+    */
+    new Swiper('.portfolio-details-slider', {
+    speed: 400,
+    loop: true,
+    autoplay: {
+    delay: 5000,
+    disableOnInteraction: false
+    },
+    pagination: {
+    el: '.swiper-pagination',
+    type: 'bullets',
+    clickable: true
+    }
+    });
+    
+    /**
+    * Testimonials slider
+    */
+    new Swiper('.testimonials-slider', {
+    speed: 600,
+    loop: true,
+    autoplay: {
+    delay: 5000,
+    disableOnInteraction: false
+    },
+    slidesPerView: 'auto',
+    pagination: {
+    el: '.swiper-pagination',
+    type: 'bullets',
+    clickable: true
+    },
+    breakpoints: {
+    320: {
+    slidesPerView: 1,
+    spaceBetween: 20
+    },
+    
+    1200: {
+    slidesPerView: 3,
+    spaceBetween: 20
+    }
+    }
+    });
+    
+    /**
+    * Animation on scroll
+    */
+    window.addEventListener('load', () => {
+    AOS.init({
+    duration: 1000,
+    easing: 'ease-in-out',
+    once: true,
+    mirror: false
+    })
+    });
+    
+    })()
+    </script>
+    
+    
+    <script>
+    // $('.portfolio-item').isotope({
+    //  	itemSelector: '.item',
+    //  	layoutMode: 'fitRows'
+    //  });
+    $('.portfolio-menu ul li').click(function () {
+      $('.portfolio-menu ul li').removeClass('active');
+      $(this).addClass('active');
+    
+      var selector = $(this).attr('data-filter');
+      $('.portfolio-item').isotope({
+          filter: selector
+      });
+      return false;
+    });
+    $(document).ready(function () {
+      var popup_btn = $('.popup-btn');
+      popup_btn.magnificPopup({
+          type: 'image',
+          gallery: {
+              enabled: true
+          }
+      });
+    });
+    </script>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    .portfolio-menu {
+      text-align: center;
+    }
+    .portfolio-menu ul li {
+      display: inline-block;
+      margin: 0;
+      list-style: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      -webkit-transition: all 05s ease;
+      -moz-transition: all 05s ease;
+      -ms-transition: all 05s ease;
+      -o-transition: all 05s ease;
+      transition: all .5s ease;
+    }
+    .portfolio-item .item {
+      /*width:303px;*/
+      float: left;
+      margin-bottom: 10px;
+    }
+    .portfolio .portfolio-item {
+    margin-bottom: 30px;
+    }
+    .portfolio #portfolio-flters {
+    padding: 0;
+    margin: 0 auto 35px auto;
+    list-style: none;
+    text-align: center;
+    background: #fff;
+    border-radius: 50px;
+    padding: 2px 15px;
+    }
+    .portfolio #portfolio-flters li {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 15px 8px 15px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #272829;
+    margin-bottom: 5px;
+    transition: all 0.3s ease-in-out;
+    }
+    .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+    color: #149ddd;
+    }
+    .portfolio #portfolio-flters li:last-child {
+    margin-right: 0;
+    }
+    .portfolio .portfolio-wrap {
+    transition: 0.3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    }
+    .portfolio .portfolio-wrap::before {
+    content: "";
+    background: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transition: all ease-in-out 0.3s;
+    z-index: 2;
+    opacity: 0;
+    }
+    .portfolio .portfolio-wrap .portfolio-links {
+    opacity: 1;
+    left: 0;
+    right: 0;
+    bottom: -60px;
+    z-index: 3;
+    position: absolute;
+    transition: all ease-in-out 0.3s;
+    display: flex;
+    justify-content: center;
+    }
+    .portfolio .portfolio-wrap .portfolio-links a {
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+    background: rgba(20, 157, 221, 0.75);
+    transition: 0.3s;
+    width: 50%;
+    }
+    .portfolio .portfolio-wrap .portfolio-links a:hover {
+    background: rgba(20, 157, 221, 0.95);
+    }
+    .portfolio .portfolio-wrap .portfolio-links a + a {
+    border-left: 1px solid #37b3ed;
+    }
+    .portfolio .portfolio-wrap:hover::before {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 1;
+    }
+    .portfolio .portfolio-wrap:hover .portfolio-links {
+    opacity: 1;
+    bottom: 0;
+    }
+    </style>
+    <div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+        <p class="d-none d-sm-block about-banner-text2 text-center pb-5" style="color:#000;padding-top:110px;">{% trans "Our Gallery" %}</p>
+        <p class="d-block d-sm-none missionvisiontext text-center pb-2" style="color:#000; padding-top:110px;">{% trans "Our Gallery" %}</p>
+        <div class="container">
+            <div class="portfolio-item row">
+            
+            <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
+                <a href="{% static 'images/3_cropped.png' %}"
+                    class="fancylight popup-btn" data-fancybox-group="light">
+                    <img class="img-fluid"
+                        src="{% static 'images/3_cropped.png' %}"
+                        alt="">
+                </a>
+            </div>
+            <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
+                <a href="{% static 'images/newjudy.png' %}"
+                    class="fancylight popup-btn" data-fancybox-group="light">
+                    <img class="img-fluid"
+                        src="{% static 'images/newjudy.png' %}"
+                        alt="">
+                </a>
+            </div>
+            <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
+                <a href="{% static 'images/3_cropped.png' %}"
+                    class="fancylight popup-btn" data-fancybox-group="light">
+                    <img class="img-fluid"
+                        src="{% static 'images/3_cropped.png' %}"
+                        alt="">
+                </a>
+            </div>
+            <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
+                <a href="{% static 'images/3_cropped.png' %}"
+                    class="fancylight popup-btn" data-fancybox-group="light">
+                    <img class="img-fluid"
+                        src="{% static 'images/3_cropped.png' %}"
+                        alt="">
+                </a>
+            </div>
+            
+        </div>
+    <br><br>
+    </div>
+</div>
+<br><br>
+
+
+
+{% endblock content %}
+

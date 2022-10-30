@@ -12,5 +12,6 @@ urlpatterns = [
     path('edc-community', views.edc_community_view, name='edc-community'),
     path('services', views.services_view, name='services'),
     path('apply', views.application_view, name='application-form'),
-    path('news', views.news_view, name='news')
+    path('news', views.news_view, name='news'),
+    path('gallery', views.gallery_view, name='gallery')
 ]

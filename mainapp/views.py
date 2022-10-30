@@ -76,3 +76,6 @@ def application_view(request):
 
 def news_view(request):
     return render(request, 'mainapp/news.html')
+
+def gallery_view(request):
+    return render(request, 'mainapp/gallery.html')
