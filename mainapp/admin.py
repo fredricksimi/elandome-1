@@ -33,5 +33,7 @@ class VolunteerApplicationAdmin(ImportExportModelAdmin):
     list_display = ('first_name', 'last_name', 'preferred_name', 'email', 'mobile_phone', 'date_of_application')
     resource_classes = [VolunteerApplicationResource]
 
+admin.site.site_header = "ELAN Dome Consultants Administration"
+admin.site.site_title = "ELAN Dome Consultants"
 admin.site.register(ContactPage, ContactPageAdmin)
 admin.site.register(VolunteerApplication, VolunteerApplicationAdmin)
