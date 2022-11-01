@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-27 10:12+0300\n"
+"POT-Creation-Date: 2022-11-01 15:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,8 +29,8 @@ msgid ""
 "Get acquainted with our team and understand how we work and proceed towards "
 "success."
 msgstr ""
-"Fahamu timu yetu na uelewe jinsi tunavyofanya kazi na kuendelea kuelekea"
-"mafanikio."
+"Fahamu timu yetu na uelewe jinsi tunavyofanya kazi na kuendelea "
+"kuelekeamafanikio."
 
 #: mainapp/templates/mainapp/about.html:43
 msgid "About ELAN Dome Consultants"
@@ -53,14 +53,15 @@ msgstr ""
 "\n"
 "            ELAN (Education, Learning and Networking) Dome Consultants ni "
 "Msingi wa Afrika, uliokuzwa \n"
-"            na kampuni ya ushauri ya kijamii na ushirika inayoongozwa na vijana "
-"ambayo inajitahidi kuunda upya njia ya kijamii \n"
-"            huduma na shughuli za biashara za kimataifa kwa wanafunzi, "
-"watu binafsi na taasisi zinazovutiwa \n"
+"            na kampuni ya ushauri ya kijamii na ushirika inayoongozwa na "
+"vijana ambayo inajitahidi kuunda upya njia ya kijamii \n"
+"            huduma na shughuli za biashara za kimataifa kwa wanafunzi, watu "
+"binafsi na taasisi zinazovutiwa \n"
 "            katika kuunganisha uzoefu wa kimataifa na huduma ya jamii kwa "
 "kutoa ubora wa kimataifa \n"
 "            shughuli za kujitolea na mafunzo ya huduma.\n"
 "            "
+
 #: mainapp/templates/mainapp/about.html:54
 msgid ""
 "\n"
@@ -78,14 +79,15 @@ msgstr ""
 "\n"
 "            Zaidi ya hayo, ELAN Dome Consultants inatoa usimamizi na "
 "utekelezaji wa huduma za usaidizi, \n"
-"            programu ya shirika, usimamizi wa mradi, ubora wa nje "
-"ukaguzi wa uhakikisho, utafiti wa mitaala na \n"
+"            programu ya shirika, usimamizi wa mradi, ubora wa nje ukaguzi wa "
+"uhakikisho, utafiti wa mitaala na \n"
 "            miradi ya maendeleo na ushirikiano wa wanafunzi wa kimataifa. "
 "Lengo letu ni kuimarisha mipango yenye matokeo \n"
-"            barani Afrika kwa kukuza ubadilishanaji wa kitamaduni, uwekezaji wa uhakika katika "
-"miradi na mafunzo ya jumla kwa wenyeji \n"
+"            barani Afrika kwa kukuza ubadilishanaji wa kitamaduni, uwekezaji "
+"wa uhakika katika miradi na mafunzo ya jumla kwa wenyeji \n"
 "            wananchi waliopo diaspora na jumuiya ya kimataifa.\n"
 "            "
+
 #: mainapp/templates/mainapp/about.html:72
 msgid "Our Mission"
 msgstr "Dhamira Yetu"
@@ -95,8 +97,9 @@ msgid ""
 "To match prospective individuals and institutions with communities and "
 "organizations through global networking and partnerships."
 msgstr ""
-"Kuoanisha watu binafsi na taasisi watarajiwa na jamii na "
-"mashirika kupitia mitandao ya kimataifa na ushirikiano."
+"Kuoanisha watu binafsi na taasisi watarajiwa na jamii na mashirika kupitia "
+"mitandao ya kimataifa na ushirikiano."
+
 #: mainapp/templates/mainapp/about.html:77
 msgid "Our Vision"
 msgstr "Maono Yetu"
@@ -116,8 +119,7 @@ msgid ""
 "Optimized logistical support, cultural experiences and fulfillment to the "
 "stakeholders."
 msgstr ""
-"Usaidizi ulioboreshwa wa vifaa, uzoefu wa kitamaduni na utimilifu kwa "
-"wadau."
+"Usaidizi ulioboreshwa wa vifaa, uzoefu wa kitamaduni na utimilifu kwa wadau."
 
 #: mainapp/templates/mainapp/about.html:96
 #: mainapp/templates/mainapp/about.html:111
@@ -130,8 +132,9 @@ msgid ""
 "To facilitate a seamless and targeted positioning of individuals, families, "
 "groups and institutions in local but impactful initiatives in Africa."
 msgstr ""
-"Ili kuwezesha nafasi isiyo na mshono na inayolengwa ya watu binafsi, familia, "
-"vikundi na taasisi katika mipango ya ndani lakini yenye matokeo barani Afrika."
+"Ili kuwezesha nafasi isiyo na mshono na inayolengwa ya watu binafsi, "
+"familia, vikundi na taasisi katika mipango ya ndani lakini yenye matokeo "
+"barani Afrika."
 
 #: mainapp/templates/mainapp/about.html:132
 #: mainapp/templates/mainapp/about.html:191
@@ -144,8 +147,9 @@ msgid ""
 "Our efficient and experienced team members ensure that the journey of each "
 "participant turns out to be an incredible adventure."
 msgstr ""
-"Washiriki wetu wa timu bora na wenye uzoefu wanahakikisha kwamba safari ya kila mmoja "
-"mshiriki anageuka kuwa adventure ya ajabu."
+"Washiriki wetu wa timu bora na wenye uzoefu wanahakikisha kwamba safari ya "
+"kila mmoja mshiriki anageuka kuwa adventure ya ajabu."
+
 #: mainapp/templates/mainapp/about.html:149
 msgid ""
 "We offer a variety of programs tailored for diverse groups. The aim is to "
@@ -153,10 +157,10 @@ msgid ""
 "                                    individuals by instilling relevant "
 "skills and values."
 msgstr ""
-"Tunatoa programu anuwai iliyoundwa kwa vikundi tofauti. Lengo ni ku "
-"kuleta matokeo chanya kwa jamii na washiriki \n"
-"                                    watu binafsi kwa kuingiza husika "
-"ujuzi na maadili."
+"Tunatoa programu anuwai iliyoundwa kwa vikundi tofauti. Lengo ni ku kuleta "
+"matokeo chanya kwa jamii na washiriki \n"
+"                                    watu binafsi kwa kuingiza husika ujuzi "
+"na maadili."
 
 #: mainapp/templates/mainapp/about.html:161
 #: mainapp/templates/mainapp/about.html:225
@@ -164,16 +168,17 @@ msgid ""
 "We have rolled out a localized integrated and dynamic international "
 "volunteer program for those seeking to experience Africa through service."
 msgstr ""
-"Tumezindua kimataifa iliyojumuishwa iliyojumuishwa na yenye nguvu "
-"mpango wa kujitolea kwa wale wanaotaka kupata uzoefu wa Afrika kupitia huduma."
+"Tumezindua kimataifa iliyojumuishwa iliyojumuishwa na yenye nguvu mpango wa "
+"kujitolea kwa wale wanaotaka kupata uzoefu wa Afrika kupitia huduma."
+
 #: mainapp/templates/mainapp/about.html:171
 #: mainapp/templates/mainapp/about.html:235
 msgid ""
 "We look out for the best interests of our clients with our unmatched "
 "supervision and implementation support."
 msgstr ""
-"Tunaangalia masilahi bora ya wateja wetu na yetu isiyo na kifani "
-"msaada wa usimamizi na utekelezaji."
+"Tunaangalia masilahi bora ya wateja wetu na yetu isiyo na kifani msaada wa "
+"usimamizi na utekelezaji."
 
 #: mainapp/templates/mainapp/about.html:211
 msgid ""
@@ -189,9 +194,10 @@ msgstr ""
 "                                    Tunatoa mipango mbalimbali iliyoundwa "
 "kwa makundi mbalimbali. Lengo ni kuleta matokeo chanya kwa jamii na "
 "wanaoshiriki \n"
-"                                    watu binafsi kwa kuingiza husika "
-"ujuzi na maadili.\n"
+"                                    watu binafsi kwa kuingiza husika ujuzi "
+"na maadili.\n"
 "                                    "
+
 #: mainapp/templates/mainapp/about.html:251
 msgid "Our Team of Experts"
 msgstr "Timu yetu ya Wataalam"
@@ -199,8 +205,7 @@ msgstr "Timu yetu ya Wataalam"
 #: mainapp/templates/mainapp/about.html:257
 msgid ""
 "Managing Director and Principal Consultant Partnerships and Corporate Affairs"
-msgstr ""
-"Mkurugenzi Mtendaji na Mshauri Mkuu Ubia na Masuala ya Biashara"
+msgstr "Mkurugenzi Mtendaji na Mshauri Mkuu Ubia na Masuala ya Biashara"
 
 #: mainapp/templates/mainapp/about.html:263
 msgid ""
@@ -218,12 +223,12 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Awino ni Kiongozi wa Operesheni aliyeboreshwa na zaidi ya watano (5) "
-"uzoefu wa miaka katika mwendo wa haraka \n"
-"                    mashirika ya sekta nyingi katika nchi nyingi. "
-"Amefanya vyema katika kutoa kimkakati, \n"
-"                    uhakikisho wa ubora, utawala, vifaa, "
-"uratibu na usaidizi wa utekelezaji kwa ngazi ya juu \n"
+"                    Awino ni Kiongozi wa Operesheni aliyeboreshwa na zaidi "
+"ya watano (5) uzoefu wa miaka katika mwendo wa haraka \n"
+"                    mashirika ya sekta nyingi katika nchi nyingi. Amefanya "
+"vyema katika kutoa kimkakati, \n"
+"                    uhakikisho wa ubora, utawala, vifaa, uratibu na usaidizi "
+"wa utekelezaji kwa ngazi ya juu \n"
 "                    watendaji na timu za mradi zilizo na kazi nyingi. Yeye "
 "hurahisisha fikra za muundo unaozingatia binadamu na \n"
 "                    warsha zinazoendeshwa na changamoto za elimu kwa kitivo, "
@@ -246,13 +251,14 @@ msgstr ""
 "\n"
 "                    Yeye pia mazungumzo kwa ajili ya ushirikiano, maendeleo "
 "mapendekezo na kuanzisha programu za uwakili wa washirika \n"
-"                    na pia amehusika katika ukusanyaji wa data, "
-"uainishaji, usafishaji, usimamizi wa maarifa na utawala \n"
+"                    na pia amehusika katika ukusanyaji wa data, uainishaji, "
+"usafishaji, usimamizi wa maarifa na utawala \n"
 "                    kwa mashirika mbalimbali. Baadhi ya mashirika yeye "
 "amefanya kazi katika ni pamoja na: Mahakama, Strathmore \n"
-"                    Chuo Kikuu, Muungano wa Damu kwa Afrika, Pamoja CBO "
-"na ABE UK kama mdhamini wa ubora wa nje.\n"
+"                    Chuo Kikuu, Muungano wa Damu kwa Afrika, Pamoja CBO na "
+"ABE UK kama mdhamini wa ubora wa nje.\n"
 "                    "
+
 #: mainapp/templates/mainapp/about.html:290
 #: mainapp/templates/mainapp/about.html:344
 msgid ""
@@ -277,11 +283,12 @@ msgstr ""
 "\n"
 "                Akinyi ni mtaalamu wa kubuni na mwenye mwelekeo wa malengo "
 "zaidi ya miaka mitatu (3) ya uzoefu wa kufanya kazi katika BPO \n"
-"                katika nyanja mbalimbali za mawasiliano "
-"idara. Anasukumwa na kuhamasishwa kukuza biashara \n"
+"                katika nyanja mbalimbali za mawasiliano idara. Anasukumwa na "
+"kuhamasishwa kukuza biashara \n"
 "                kukua na kuendeleza mitandao yenye manufaa. Yeye ni juu "
 "mbunifu na ana jicho la uzuri na uwasilishaji wa kuona.\n"
 "                "
+
 #: mainapp/templates/mainapp/about.html:305
 #: mainapp/templates/mainapp/about.html:331
 msgid ""
@@ -297,22 +304,24 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Ana shauku ya kurahisisha michakato kupitia "
-"upangaji na utekelezaji sahihi na hutumia muundo wake tofauti \n"
-"                usuli na ujuzi dhabiti wa shirika ili kuongeza "
-"ufanisi, faida na kuleta athari katika shughuli zake zote. \n"
-"                Akinyi alihitimu Shahada ya Kwanza ya Usanifu katika Chuo cha "
-"Chuo Kikuu cha Nairobi na pia ni mwanachama wa heshima wa Umma \n"
-"                Jumuiya ya Mahusiano ya Kenya ambayo mamlaka yake ni kuendeleza "
-"ubora katika Usimamizi wa Mahusiano ya Umma na Mawasiliano nchini Kenya.\n"
+"                Ana shauku ya kurahisisha michakato kupitia upangaji na "
+"utekelezaji sahihi na hutumia muundo wake tofauti \n"
+"                usuli na ujuzi dhabiti wa shirika ili kuongeza ufanisi, "
+"faida na kuleta athari katika shughuli zake zote. \n"
+"                Akinyi alihitimu Shahada ya Kwanza ya Usanifu katika Chuo "
+"cha Chuo Kikuu cha Nairobi na pia ni mwanachama wa heshima wa Umma \n"
+"                Jumuiya ya Mahusiano ya Kenya ambayo mamlaka yake ni "
+"kuendeleza ubora katika Usimamizi wa Mahusiano ya Umma na Mawasiliano nchini "
+"Kenya.\n"
 "                "
+
 #: mainapp/templates/mainapp/about.html:359
 msgid ""
 "Director & Lead Consultant: Operational Management, Finance and "
 "Administration"
 msgstr ""
-"Mkurugenzi & Mshauri Kiongozi: Usimamizi wa Uendeshaji, Fedha na "
-"Utawala"
+"Mkurugenzi & Mshauri Kiongozi: Usimamizi wa Uendeshaji, Fedha na Utawala"
+
 #: mainapp/templates/mainapp/about.html:365
 msgid ""
 "\n"
@@ -324,12 +333,13 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Judith ni mtaalam wa fedha na utawala ambaye ni "
-"shauku juu ya athari za kijamii. Ana zaidi ya miaka 5 \n"
-"                    uzoefu katika kufanya kazi na Wasichana waliobalehe na vijana "
-"wanawake wakiwemo vijana na uzoefu wa miaka 3 katika \n"
+"                    Judith ni mtaalam wa fedha na utawala ambaye ni shauku "
+"juu ya athari za kijamii. Ana zaidi ya miaka 5 \n"
+"                    uzoefu katika kufanya kazi na Wasichana waliobalehe na "
+"vijana wanawake wakiwemo vijana na uzoefu wa miaka 3 katika \n"
 "                    uongozi na usimamizi wa programu za afya ya jamii.\n"
 "                    "
+
 #: mainapp/templates/mainapp/about.html:372
 msgid ""
 "\n"
@@ -345,15 +355,15 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Ana uzoefu wa kuongoza miradi inayofadhiliwa na wafadhili na yuko "
-"kuwajibika kwa kufanya maamuzi, kusimamia rasilimali kwa ufanisi, kufikia "
-"na kudumisha hali ya juu \n"
+"                    Ana uzoefu wa kuongoza miradi inayofadhiliwa na "
+"wafadhili na yuko kuwajibika kwa kufanya maamuzi, kusimamia rasilimali kwa "
+"ufanisi, kufikia na kudumisha hali ya juu \n"
 "                    timu zinazocheza huku zikidumisha maadili ya hali ya juu "
-"viwango. Anapenda sana maendeleo ya kibinafsi na ya kibinafsi "
-"ukuaji. Anapenda kufanya kazi na \n"
-"                    kuwashauri vijana kujifunza kufanikiwa na kuongoza katika "
-"uwezo tofauti. Anaamini katika ushauri na kufundisha kusaidia "
-"vijana kupata uhalisia binafsi.\n"
+"viwango. Anapenda sana maendeleo ya kibinafsi na ya kibinafsi ukuaji. "
+"Anapenda kufanya kazi na \n"
+"                    kuwashauri vijana kujifunza kufanikiwa na kuongoza "
+"katika uwezo tofauti. Anaamini katika ushauri na kufundisha kusaidia vijana "
+"kupata uhalisia binafsi.\n"
 "                    "
 
 #: mainapp/templates/mainapp/about.html:386
@@ -380,14 +390,15 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Wangari ni mtetezi anayejiamini na makini wa "
-"Mahakama Kuu ya Kenya yenye taaluma \n"
-"                    uzoefu katika mashirika yenye shughuli nyingi kama vile Kenya "
-"National Police Sacco and Equity Bank Kenya. \n"
-"                    Pia amefanya kazi katika makampuni ya sheria yanayotambulika kama Mwandwa "
-"Macharia & Mwangi Co Advocates na Macharia \n"
+"                    Wangari ni mtetezi anayejiamini na makini wa Mahakama "
+"Kuu ya Kenya yenye taaluma \n"
+"                    uzoefu katika mashirika yenye shughuli nyingi kama vile "
+"Kenya National Police Sacco and Equity Bank Kenya. \n"
+"                    Pia amefanya kazi katika makampuni ya sheria "
+"yanayotambulika kama Mwandwa Macharia & Mwangi Co Advocates na Macharia \n"
 "                    Mawakili wa Wa Muturi Co.\n"
 "                    "
+
 #: mainapp/templates/mainapp/about.html:406
 #: mainapp/templates/mainapp/about.html:434
 msgid ""
@@ -405,10 +416,10 @@ msgstr ""
 "\n"
 "                    Wangari ni mpatanishi anayefanya kazi na Mahakama ya "
 "Kenya, msuluhishi na mwanachama wa Chartered \n"
-"                    Taasisi ya Wasuluhishi Uingereza na Kenya. Anajitahidi kuwa "
-"wakili aliyekamilika ambaye anaweza kushughulikia kwa ufanisi \n"
-"                    maeneo mbalimbali katika sheria, ili kuendeleza kisheria yenye mafanikio "
-"kazi iliyojengwa juu ya sifa nzuri, kuwa \n"
+"                    Taasisi ya Wasuluhishi Uingereza na Kenya. Anajitahidi "
+"kuwa wakili aliyekamilika ambaye anaweza kushughulikia kwa ufanisi \n"
+"                    maeneo mbalimbali katika sheria, ili kuendeleza kisheria "
+"yenye mafanikio kazi iliyojengwa juu ya sifa nzuri, kuwa \n"
 "                    wakili nyeti wa kipekee na aliyejitolea na kwa "
 "kuhakikisha haki inatendeka kwa kila mwanajamii.\n"
 "                    "
@@ -430,8 +441,9 @@ msgid ""
 "Get in touch with us. Our team is happy to help you to answer any questions "
 "you may have."
 msgstr ""
-"Wasiliana nasi. Timu yetu inafurahi kukusaidia kujibu maswali yoyote "
-"unaweza kuwa nayo."
+"Wasiliana nasi. Timu yetu inafurahi kukusaidia kujibu maswali yoyote unaweza "
+"kuwa nayo."
+
 #: mainapp/templates/mainapp/about.html:471
 #: mainapp/templates/mainapp/about.html:501
 msgid "Talk to Us"
@@ -658,12 +670,12 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                            ELAN Dome Consultants inajivunia kuunda "
-"ratiba za kujitolea kulingana na matamanio \n"
-"                            ya wateja wetu. Tunatoa fursa za kujitolea "
-"kwa muda mfupi na mrefu \n"
-"                            na hii imeachwa kwa hiari ya "
-"kujitolea. Kwa mfano, unaweza kujitolea kwa a \n"
+"                            ELAN Dome Consultants inajivunia kuunda ratiba "
+"za kujitolea kulingana na matamanio \n"
+"                            ya wateja wetu. Tunatoa fursa za kujitolea kwa "
+"muda mfupi na mrefu \n"
+"                            na hii imeachwa kwa hiari ya kujitolea. Kwa "
+"mfano, unaweza kujitolea kwa a \n"
 "                            wiki, wiki mbili, mwezi na hata mwaka.\n"
 "                            "
 
@@ -682,10 +694,10 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                            Utapitia ufahamu sana "
-"mchakato wa mwelekeo kwa mashirika yote na \n"
-"                            taasisi ambazo unajitolea katika mapenzi "
-"kukupa ufahamu bora wa jinsi wao \n"
+"                            Utapitia ufahamu sana mchakato wa mwelekeo kwa "
+"mashirika yote na \n"
+"                            taasisi ambazo unajitolea katika mapenzi kukupa "
+"ufahamu bora wa jinsi wao \n"
 "                            kazi na jinsi bora ya kujituma.\n"
 "                            "
 
@@ -704,12 +716,13 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                            Hatuna vikomo vya umri vya kujitolea. "
-"Wajitolea walio chini ya umri wa miaka 18 watalazimika kuwa \n"
-"                            akifuatana na mzazi au mlezi na kuwa na "
-"idhini iliyoandikwa ipasavyo kushiriki \n"
+"                            Hatuna vikomo vya umri vya kujitolea. Wajitolea "
+"walio chini ya umri wa miaka 18 watalazimika kuwa \n"
+"                            akifuatana na mzazi au mlezi na kuwa na idhini "
+"iliyoandikwa ipasavyo kushiriki \n"
 "                            katika programu zetu mbalimbali za kujitolea.\n"
 "                            "
+
 #: mainapp/templates/mainapp/contact.html:122
 msgid "Do I need qualifications?"
 msgstr "Je, ninahitaji sifa?"
@@ -730,13 +743,14 @@ msgstr ""
 "\n"
 "                            Baadhi ya fursa zetu za kujitolea zinahitaji "
 "sifa. Mhudumu wetu wa kujitolea wa afya \n"
-"                            mipango inategemea kikamilifu watu wetu wa kujitolea "
-"historia ya afya na mafunzo kwa sahihi \n"
+"                            mipango inategemea kikamilifu watu wetu wa "
+"kujitolea historia ya afya na mafunzo kwa sahihi \n"
 "                            kumbukumbu sawa itabidi kuwasilishwa kwa "
 "hakikisha uwekaji mzuri. Ikiwa maalum \n"
-"                            sifa zinahitajika hii itaelezwa katika "
-"vikao vyetu vya kabla ya uchumba.\n"
+"                            sifa zinahitajika hii itaelezwa katika vikao "
+"vyetu vya kabla ya uchumba.\n"
 "                            "
+
 #: mainapp/templates/mainapp/contact.html:141
 msgid "Can I get a qualification or an award?"
 msgstr "Je, ninaweza kupata sifa au tuzo?"
@@ -758,16 +772,16 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                            Watumishi wetu wa kujitolea hupata manufaa kadhaa kutoka kwao "
-"safari ya kujitolea kuanzia wasifu \n"
+"                            Watumishi wetu wa kujitolea hupata manufaa "
+"kadhaa kutoka kwao safari ya kujitolea kuanzia wasifu \n"
 "                            ambayo inajitokeza, kubadilisha jamii, "
 "kuchunguza na kukuza maeneo yenye maslahi, njia salama na rahisi ya \n"
 "                            kusafiri nje ya nchi kwa msaada wa kutosha na "
 "hatimaye kupata fursa ya kuchukua \n"
 "                            adventure mpya. ELAN Dome pia inatoa thamani "
 "cheti cha kukamilika kwa watu wote wa kujitolea \n"
-"                            pamoja na upatikanaji wa mtandao mpana wa "
-"watu wa kujitolea, waratibu wa programu, mashirika ya ndani, \n"
+"                            pamoja na upatikanaji wa mtandao mpana wa watu "
+"wa kujitolea, waratibu wa programu, mashirika ya ndani, \n"
 "                            na wafanyakazi wa usaidizi.\n"
 "                            "
 
@@ -785,15 +799,16 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                            Kando na kujitolea na kusaidia watu wasio na uwezo "
-"jamii, tunatengeneza njia ambapo yetu \n"
-"                            wanaojitolea wanaweza kutengeneza kumbukumbu zaidi kupitia "
-"shughuli za burudani.Baadhi ya shughuli hizi ni pamoja na:\n"
+"                            Kando na kujitolea na kusaidia watu wasio na "
+"uwezo jamii, tunatengeneza njia ambapo yetu \n"
+"                            wanaojitolea wanaweza kutengeneza kumbukumbu "
+"zaidi kupitia shughuli za burudani.Baadhi ya shughuli hizi ni pamoja na:\n"
 "                            "
 
 #: mainapp/templates/mainapp/contact.html:173
 msgid "Taking  Weekend Trips (beach visits, hiking, camping)"
-msgstr "Kuchukua Safari za Wikendi (ziara za ufukweni, kupanda milima, kupiga kambi)"
+msgstr ""
+"Kuchukua Safari za Wikendi (ziara za ufukweni, kupanda milima, kupiga kambi)"
 
 #: mainapp/templates/mainapp/contact.html:174
 msgid "Sampling local cuisine"
@@ -819,8 +834,8 @@ msgid ""
 "                                "
 msgstr ""
 "\n"
-"                                Hii imeachwa kwa hiari ya "
-"mteja. ELAN Dome anapenda sana ushonaji nguo \n"
+"                                Hii imeachwa kwa hiari ya mteja. ELAN Dome "
+"anapenda sana ushonaji nguo \n"
 "                                kuandaa warsha na programu ya mafunzo. Sisi "
 "zitengeneze baada ya kuelewa kwa makini \n"
 "                                mahitaji ya wateja wetu ili kuhakikisha "
@@ -846,10 +861,10 @@ msgstr ""
 "\n"
 "                                ELAN Dome inajitahidi kuimarisha uwajibikaji "
 "na uwazi kwa usimamizi wetu wote wa uwekezaji \n"
-"                                shughuli. Tunawafanya wateja wetu kuwa sehemu ya "
-"safari hata wakiwa mbali kwa tofauti \n"
-"                                nchi ili kwa kila mahususi "
-"wanafahamu kikamilifu ni vitendo gani vinafanyika \n"
+"                                shughuli. Tunawafanya wateja wetu kuwa "
+"sehemu ya safari hata wakiwa mbali kwa tofauti \n"
+"                                nchi ili kwa kila mahususi wanafahamu "
+"kikamilifu ni vitendo gani vinafanyika \n"
 "                                kuchukuliwa kuhusiana na uwekezaji wao.\n"
 "                                "
 
@@ -870,13 +885,16 @@ msgstr ""
 "\n"
 "                                Mbinu za usimamizi wa mradi wa ELAN Dome "
 "tumedhibitiwa kikamilifu na kusukumwa na aina ya mradi tulio nao \n"
-"                                kuwajibika kwa wakati wowote. Tafadhali fikia "
-"tuwasiliane kuhusu mradi fulani na tutaweza \n"
+"                                kuwajibika kwa wakati wowote. Tafadhali "
+"fikia tuwasiliane kuhusu mradi fulani na tutaweza \n"
 "                                toa muhtasari wa kina wa mbinu hiyo\n"
 "                                "
+
 #: mainapp/templates/mainapp/contact.html:245
 msgid "None of these FAQs answers my question, what do I do now?"
-msgstr "Hakuna Maswali Yanayoulizwa Mara kwa Mara kati ya haya yanayojibu swali langu, nifanye nini sasa?"
+msgstr ""
+"Hakuna Maswali Yanayoulizwa Mara kwa Mara kati ya haya yanayojibu swali "
+"langu, nifanye nini sasa?"
 
 #: mainapp/templates/mainapp/contact.html:251
 msgid ""
@@ -934,11 +952,12 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Vifurushi vyetu vya familia huunda njia ya kushikamana na yako "
-"wapendwa, kuzamishwa \n"
+"                Vifurushi vyetu vya familia huunda njia ya kushikamana na "
+"yako wapendwa, kuzamishwa \n"
 "                familia yako katika utamaduni tofauti na kutoa nyuma "
 "jumuiya.\n"
 "                "
+
 #: mainapp/templates/mainapp/edc-community.html:30
 msgid "Friends"
 msgstr "Marafiki"
@@ -950,6 +969,7 @@ msgid ""
 msgstr ""
 "Kifurushi chetu cha marafiki huwatumia marafiki kupitia uzoefu unaoimarisha "
 "urafiki na kubadilisha maisha ya kijamii kuwa bora."
+
 #: mainapp/templates/mainapp/edc-community.html:41
 msgid "Students"
 msgstr "Wanafunzi"
@@ -966,8 +986,8 @@ msgstr ""
 "\n"
 "                Kifurushi hiki kinachukua wanafunzi kupitia safari ya uzoefu "
 "ukuaji wa kibinafsi unaowawezesha kukuza mpya \n"
-"                ujuzi, kupata mtazamo wa kimataifa, kukutana na watu wapya na "
-"hata kuboresha matarajio yao ya kazi\n"
+"                ujuzi, kupata mtazamo wa kimataifa, kukutana na watu wapya "
+"na hata kuboresha matarajio yao ya kazi\n"
 "                "
 
 #: mainapp/templates/mainapp/edc-community.html:58
@@ -985,12 +1005,14 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Mpango wetu wa wafanyikazi ni mpango uliopangwa na unaosimamiwa "
-"ambayo inataka kuwahamasisha na kuwawezesha wafanyakazi kujiendeleza \n"
-"                kubuni ujuzi wa kufikiri, kuongeza ushiriki wa mfanyakazi katika "
-"kutatua matatizo na kuboresha uhifadhi wa wafanyakazi kupitia \n"
+"                Mpango wetu wa wafanyikazi ni mpango uliopangwa na "
+"unaosimamiwa ambayo inataka kuwahamasisha na kuwawezesha wafanyakazi "
+"kujiendeleza \n"
+"                kubuni ujuzi wa kufikiri, kuongeza ushiriki wa mfanyakazi "
+"katika kutatua matatizo na kuboresha uhifadhi wa wafanyakazi kupitia \n"
 "                uongozi binafsi.\n"
 "                "
+
 #: mainapp/templates/mainapp/edc-community.html:73
 msgid "Individuals"
 msgstr "Watu binafsi"
@@ -1006,12 +1028,13 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Kifurushi hiki kimeundwa kwa ajili ya watu binafsi wanaotaka kuzamisha"
-"wenyewe katika safari ya kujitambua na kuwaruhusu watu binafsi kufanya hivyo "
-"kuendeleza kina \n"
-"                ufahamu wa utamaduni, jamii na nchi ambapo "
-"wanajitolea, na wanathawabisha sana.\n"
+"                Kifurushi hiki kimeundwa kwa ajili ya watu binafsi wanaotaka "
+"kuzamishawenyewe katika safari ya kujitambua na kuwaruhusu watu binafsi "
+"kufanya hivyo kuendeleza kina \n"
+"                ufahamu wa utamaduni, jamii na nchi ambapo wanajitolea, na "
+"wanathawabisha sana.\n"
 "                "
+
 #: mainapp/templates/mainapp/edc-community.html:87
 msgid "Teachers"
 msgstr "Walimu"
@@ -1022,8 +1045,8 @@ msgid ""
 "eager but underserved children. to help improve educational practices and "
 "processes."
 msgstr ""
-"Kifurushi cha walimu kinaruhusu walimu kuleta maarifa na ujuzi wao "
-"watoto wenye hamu lakini wasio na uwezo. kusaidia kuboresha mazoea ya elimu na "
+"Kifurushi cha walimu kinaruhusu walimu kuleta maarifa na ujuzi wao watoto "
+"wenye hamu lakini wasio na uwezo. kusaidia kuboresha mazoea ya elimu na "
 "taratibu."
 
 #: mainapp/templates/mainapp/edc-community.html:94
@@ -1045,8 +1068,7 @@ msgstr "Tuandikie barua pepe kwa"
 #: mainapp/templates/mainapp/edc-community.html:96
 msgid ""
 "we will send you more information and guide you through your  journey with"
-msgstr ""
-"tutakutumia taarifa zaidi na kukuongoza katika safari yako na "
+msgstr "tutakutumia taarifa zaidi na kukuongoza katika safari yako na "
 
 #: mainapp/templates/mainapp/edc-community.html:96
 msgid "ELAN Dome Consultants."
@@ -1112,9 +1134,14 @@ msgid ""
 "implementation support to ensure that our clients get the best outcomes from "
 "our various programs"
 msgstr ""
-"Tunaunganisha uzoefu wa kimataifa, huduma za jamii na usimamizi na "
-"usaidizi wa utekelezaji ili kuhakikisha kuwa wateja wetu wanapata matokeo bora kutoka "
+"Tunaunganisha uzoefu wa kimataifa, huduma za jamii na usimamizi na usaidizi "
+"wa utekelezaji ili kuhakikisha kuwa wateja wetu wanapata matokeo bora kutoka "
 "programu zetu mbalimbali"
+
+#: mainapp/templates/mainapp/gallery.html:406
+#: mainapp/templates/mainapp/gallery.html:407
+msgid "Our Gallery"
+msgstr "Picha Yetu"
 
 #: mainapp/templates/mainapp/history.html:6
 #: mainapp/templates/mainapp/history.html:7
@@ -1127,8 +1154,8 @@ msgid ""
 "Okore Booker Charles as a student at the Starehe Boys Center where values of "
 "impact creation and community service were inculcated"
 msgstr ""
-"Okore Booker Charles kama mwanafunzi katika Kituo cha Wavulana cha Starehe ambapo maadili ya "
-"uundaji wa athari na huduma za jamii ziliingizwa"
+"Okore Booker Charles kama mwanafunzi katika Kituo cha Wavulana cha Starehe "
+"ambapo maadili ya uundaji wa athari na huduma za jamii ziliingizwa"
 
 #: mainapp/templates/mainapp/history.html:20
 msgid ""
@@ -1144,8 +1171,8 @@ msgstr ""
 "\n"
 "                ELAN (Education, Learning and Networking) Dome Consultants "
 "ilijumuishwa chini ya juhudi za watatu \n"
-"                vijana, kabambe na binadamu unaozingatia kubuni inaendeshwa wanawake ambao "
-"walikuwa wakitafuta kufanya huruma kuwa mtoa habari mkuu \n"
+"                vijana, kabambe na binadamu unaozingatia kubuni inaendeshwa "
+"wanawake ambao walikuwa wakitafuta kufanya huruma kuwa mtoa habari mkuu \n"
 "                ya muundo, maamuzi na suluhisho kwa watu na biashara "
 "inayolenga maendeleo ya Afrika.\n"
 "                "
@@ -1169,12 +1196,13 @@ msgstr ""
 "kutoka kwa akili, uwezo wa kutatua shida, \n"
 "                kuhamasisha acumen na matendo ya kina ya huduma kwa jamii "
 "marehemu baba, Mhandisi Okore Booker Charles, OBC. Yeye \n"
-"                alijitolea maisha yake kutatua changamoto, kwa kutumia yake binafsi "
-"rasilimali za kusaidia familia, majirani, marafiki, \n"
-"                jamii na wageni kila alipopata fursa. "
-"Alithamini elimu, siasa, kilimo, mazingira \n"
+"                alijitolea maisha yake kutatua changamoto, kwa kutumia yake "
+"binafsi rasilimali za kusaidia familia, majirani, marafiki, \n"
+"                jamii na wageni kila alipopata fursa. Alithamini elimu, "
+"siasa, kilimo, mazingira \n"
 "                uhifadhi na haki za binadamu.\n"
 "                "
+
 #: mainapp/templates/mainapp/history.html:40
 msgid ""
 "\n"
@@ -1191,13 +1219,14 @@ msgstr ""
 "\n"
 "                Makundi yake makuu yalikuwa ni wazee, maskini, mayatima, "
 "wasichana wa umri wa kwenda shule na wanaokandamizwa katika jamii. \n"
-"                Alikuwa muumini mkubwa wa sheria kama chombo cha "
-"kutafuta haki na kupata usawa katika jamii. \n"
-"                Mara kwa mara aliingia kusimamia miradi ya marafiki zake "
-"na kusimamia timu kwa niaba yao wakati wowote walipokuwa ugenini \n"
+"                Alikuwa muumini mkubwa wa sheria kama chombo cha kutafuta "
+"haki na kupata usawa katika jamii. \n"
+"                Mara kwa mara aliingia kusimamia miradi ya marafiki zake na "
+"kusimamia timu kwa niaba yao wakati wowote walipokuwa ugenini \n"
 "                juu ya shughuli za kimataifa, baada ya kujiuzulu kwa hiari "
 "msingi wa kujitolea maisha yake kwa huduma.\n"
 "                "
+
 #: mainapp/templates/mainapp/history.html:48
 msgid ""
 "\n"
@@ -1213,12 +1242,14 @@ msgstr ""
 "\n"
 "                Shirika hili limejikita sana katika maadili yake ya "
 "uaminifu, huduma, kazi nzuri, utetezi, bidii, mkakati, \n"
-"                athari mafanikio na sherehe. Kuba inaashiria a "
-"hisia ya kuja pamoja katika jumuiya iliyoanzishwa kama \n"
-"                familia za kitamaduni za Kiafrika zilifanya hivyo. Wangekusanyika "
-"vikundi kuzungumzia masuala yao, kutafuta suluhu, kushiriki milo, \n"
+"                athari mafanikio na sherehe. Kuba inaashiria a hisia ya kuja "
+"pamoja katika jumuiya iliyoanzishwa kama \n"
+"                familia za kitamaduni za Kiafrika zilifanya hivyo. "
+"Wangekusanyika vikundi kuzungumzia masuala yao, kutafuta suluhu, kushiriki "
+"milo, \n"
 "                kusaidiana na kujenga mahusiano.\n"
 "                "
+
 #: mainapp/templates/mainapp/history.html:56
 msgid ""
 "\n"
@@ -1235,13 +1266,15 @@ msgstr ""
 "\n"
 "                Mhandisi OBC alikuwa na mitandao mingi na aliweza kugoma "
 "urafiki mpya lakini wa kutisha na mkutano wa kwanza, sifa \n"
-"                hiyo ilisababisha familia yake kupata usaidizi muhimu "
-"katika kipindi chote cha ugonjwa wake, kifo cha mwisho na kutuma kwa neema. Kutokana na hili, \n"
-"                shirika huchota thamani ya mitandao, "
-"ushirikiano na ushirikiano katika kujenga mifumo ikolojia inayofanya kazi kwa "
-"watu binafsi, \n"
+"                hiyo ilisababisha familia yake kupata usaidizi muhimu katika "
+"kipindi chote cha ugonjwa wake, kifo cha mwisho na kutuma kwa neema. "
+"Kutokana na hili, \n"
+"                shirika huchota thamani ya mitandao, ushirikiano na "
+"ushirikiano katika kujenga mifumo ikolojia inayofanya kazi kwa watu "
+"binafsi, \n"
 "                vikundi na mashirika.\n"
 "                "
+
 #: mainapp/templates/mainapp/history.html:86
 msgid "Let's Talk"
 msgstr "Tuzungumze"
@@ -1267,7 +1300,7 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:25
 #: mainapp/templates/mainapp/index.html:38
-#: mainapp/templates/mainapp/navbar.html:52
+#: mainapp/templates/mainapp/navbar.html:53
 msgid "Get in touch - it's free"
 msgstr "Wasiliana nasi - ni bure"
 
@@ -1281,9 +1314,9 @@ msgid ""
 "collaborative partnerships and provide carefully curated programs while "
 "stating result oriented."
 msgstr ""
-"Sisi ni kampuni ya ushauri ya utoaji wa huduma za nje yenye malengo ambayo inajitahidi kuboresha "
-"ushirikiano shirikishi na kutoa mipango makini curated wakati "
-"kueleza matokeo yanayolengwa."
+"Sisi ni kampuni ya ushauri ya utoaji wa huduma za nje yenye malengo ambayo "
+"inajitahidi kuboresha ushirikiano shirikishi na kutoa mipango makini curated "
+"wakati kueleza matokeo yanayolengwa."
 
 #: mainapp/templates/mainapp/index.html:60
 msgid ""
@@ -1291,9 +1324,10 @@ msgid ""
 "believe in generating success collaboratively, delivering great results "
 "after every engagement, and building trust for the next big challenge."
 msgstr ""
-"Timu yetu inasukumwa kufanya kile kilicho sawa na kukusaidia kutambua maono yako. Sisi "
-"amini katika kuzalisha mafanikio kwa ushirikiano, kutoa matokeo mazuri "
-"baada ya kila uchumba, na kujenga uaminifu kwa changamoto kubwa inayofuata."
+"Timu yetu inasukumwa kufanya kile kilicho sawa na kukusaidia kutambua maono "
+"yako. Sisi amini katika kuzalisha mafanikio kwa ushirikiano, kutoa matokeo "
+"mazuri baada ya kila uchumba, na kujenga uaminifu kwa changamoto kubwa "
+"inayofuata."
 
 #: mainapp/templates/mainapp/index.html:67
 msgid "Focus Areas"
@@ -1324,6 +1358,7 @@ msgstr ""
 "                    kutafakari na kukazia maadili ambayo aliishi kwayo "
 "katika maisha yake yote katika huduma ya jamii na athari za kijamii.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:84
 msgid ""
 "\n"
@@ -1335,12 +1370,12 @@ msgid ""
 "impact in the society."
 msgstr ""
 "\n"
-"                    Mpango wa OBC wa kujitolea utakusaidia kutoa "
-"usaidizi kwa jamii zisizo na uwezo na ambazo hazijahudumiwa pale utakapoweza "
-"uzoefu \n"
-"                    tamaduni za jadi na hata kupata nafasi ya kuingiliana "
-"na wanyamapori matajiri wakati wote wakiunga mkono sababu nzuri na kuunda chanya "
-"athari katika jamii."
+"                    Mpango wa OBC wa kujitolea utakusaidia kutoa usaidizi "
+"kwa jamii zisizo na uwezo na ambazo hazijahudumiwa pale utakapoweza uzoefu \n"
+"                    tamaduni za jadi na hata kupata nafasi ya kuingiliana na "
+"wanyamapori matajiri wakati wote wakiunga mkono sababu nzuri na kuunda "
+"chanya athari katika jamii."
+
 #: mainapp/templates/mainapp/index.html:91
 #: mainapp/templates/mainapp/index.html:121
 #: mainapp/templates/mainapp/index.html:152
@@ -1373,13 +1408,14 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Tunatoa mwongozo na ushauri kwa watu binafsi, vikundi "
-"na taasisi kuhusu uwekezaji wao na jinsi ya \n"
+"                    Tunatoa mwongozo na ushauri kwa watu binafsi, vikundi na "
+"taasisi kuhusu uwekezaji wao na jinsi ya \n"
 "                    kulinda maslahi yao na kupata matokeo chanya. "
 "Tunafuatilia zaidi shughuli za uwekezaji huu \n"
 "                    ili kuhakikisha kuwa kuna uwajibikaji kamili na uwazi "
 "juu ya matumizi ya rasilimali.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:109
 #: mainapp/templates/mainapp/index.html:259
 msgid ""
@@ -1393,13 +1429,14 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Zaidi ya hayo, tunashauri mashirika juu ya mkakati muhimu "
-"masuala kwa kutumia maarifa ya tasnia yetu na \n"
+"                    Zaidi ya hayo, tunashauri mashirika juu ya mkakati "
+"muhimu masuala kwa kutumia maarifa ya tasnia yetu na \n"
 "                    uwezo wa uchambuzi, ili kuwawezesha kufanya habari "
 "maamuzi. Huduma hii inawawezesha kufikia malengo yao \n"
-"                    malengo ya biashara kwa kutumia fursa na "
-"kuwa tayari kupunguza hatari zinazoweza kutokea.\n"
+"                    malengo ya biashara kwa kutumia fursa na kuwa tayari "
+"kupunguza hatari zinazoweza kutokea.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:116
 #: mainapp/templates/mainapp/index.html:270
 msgid ""
@@ -1408,8 +1445,8 @@ msgid ""
 "individuals."
 msgstr ""
 "SMEs, FMCG, Kampuni za Ushauri, INGOs, si za mashirika ya faida yakiwemo "
-"CBOs, CSOs, FBOs, jumuiya za kiraia, serikali, taasisi za kitaaluma na "
-"watu binafsi."
+"CBOs, CSOs, FBOs, jumuiya za kiraia, serikali, taasisi za kitaaluma na watu "
+"binafsi."
 
 #: mainapp/templates/mainapp/index.html:140
 #: mainapp/templates/mainapp/index.html:289
@@ -1428,11 +1465,11 @@ msgid ""
 "work with reputable experts to execute your vision and deliver beyond the "
 "expected outcomes."
 msgstr ""
-"Sisi ndio wasimamizi chaguo la kwanza wa miradi na rasilimali zako "
-"ardhi. Tunapata mipango bora na ya ushindani ya rasilimali, nukuu, "
-"maendeleo ya kipekee \n"
-"                    mipango na miundo bespoke ambayo ni haki bei na "
-"fanya kazi na wataalam wanaoheshimika ili kutekeleza maono yako na kutoa zaidi ya "
+"Sisi ndio wasimamizi chaguo la kwanza wa miradi na rasilimali zako ardhi. "
+"Tunapata mipango bora na ya ushindani ya rasilimali, nukuu, maendeleo ya "
+"kipekee \n"
+"                    mipango na miundo bespoke ambayo ni haki bei na fanya "
+"kazi na wataalam wanaoheshimika ili kutekeleza maono yako na kutoa zaidi ya "
 "matokeo yanayotarajiwa."
 
 #: mainapp/templates/mainapp/index.html:146
@@ -1442,10 +1479,11 @@ msgid ""
 "programs), \n"
 "                    budgeting exercises and project fundraising initiatives."
 msgstr ""
-"Maeneo yetu ya kuzingatia ni pamoja na: utafiti, digitalization, mali isiyohamishika na "
-"ujenzi, hafla za ushirika (warsha na maendeleo ya wafanyikazi "
-"programu), \n"
+"Maeneo yetu ya kuzingatia ni pamoja na: utafiti, digitalization, mali "
+"isiyohamishika na ujenzi, hafla za ushirika (warsha na maendeleo ya "
+"wafanyikazi programu), \n"
 "                    mazoezi ya bajeti na mipango ya kukusanya fedha za mradi."
+
 #: mainapp/templates/mainapp/index.html:161
 #: mainapp/templates/mainapp/index.html:318
 #: mainapp/templates/mainapp/programs.html:173
@@ -1464,9 +1502,9 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Tunatengeneza, kuajiri, kuwezesha, kutathmini, kutengeneza ushonaji na "
-"ripoti juu ya warsha za ziada za kawaida, ujenzi wa timu na mipango ya mafunzo "
-"kwa \n"
+"                    Tunatengeneza, kuajiri, kuwezesha, kutathmini, "
+"kutengeneza ushonaji na ripoti juu ya warsha za ziada za kawaida, ujenzi wa "
+"timu na mipango ya mafunzo kwa \n"
 "                    timu na mashirika. Lengo letu kuu ni:\n"
 "                    "
 
@@ -1476,8 +1514,9 @@ msgid ""
 "Management i.e crisis management, change management, conflict management and "
 "overall team management."
 msgstr ""
-"Usimamizi yaani usimamizi wa migogoro, usimamizi wa mabadiliko, udhibiti wa migogoro na "
-"usimamizi wa timu kwa ujumla."
+"Usimamizi yaani usimamizi wa migogoro, usimamizi wa mabadiliko, udhibiti wa "
+"migogoro na usimamizi wa timu kwa ujumla."
+
 #: mainapp/templates/mainapp/index.html:172
 msgid ""
 "Leadership i.e adaptable leadership, progressive organization culture, next "
@@ -1485,10 +1524,10 @@ msgid ""
 "                    (financial & operational) and decision making analysis & "
 "design)"
 msgstr ""
-"Uongozi yaani uongozi unaobadilika, utamaduni wa shirika unaoendelea, unaofuata "
-"uongozi wa ngazi, utendaji"
-"                    (kifedha na kiutendaji) na uchambuzi wa maamuzi na "
-"kubuni)"
+"Uongozi yaani uongozi unaobadilika, utamaduni wa shirika unaoendelea, "
+"unaofuata uongozi wa ngazi, utendaji                    (kifedha na "
+"kiutendaji) na uchambuzi wa maamuzi na kubuni)"
+
 #: mainapp/templates/mainapp/index.html:197
 #: mainapp/templates/mainapp/index.html:351
 #: mainapp/templates/mainapp/programs.html:239
@@ -1502,12 +1541,22 @@ msgid ""
 "We walk with you in the journey to discovering what sets your soul on fire "
 "professionally."
 msgstr ""
-"Tunatembea nawe katika safari ya kugundua ni nini kinachoiweka roho yako moto "
-"kitaaluma."
+"Tunatembea nawe katika safari ya kugundua ni nini kinachoiweka roho yako "
+"moto kitaaluma."
 
 #: mainapp/templates/mainapp/index.html:202
+#, fuzzy
+#| msgid ""
+#| "We help you develop skills that support your professional vision and ad-"
+#| "ons aimed at \n"
+#| "                    realizing your professional goals such as "
+#| "communication, ethics, personal presentation & profiling, \n"
+#| "                    international opportunities search criteria, "
+#| "preparation for the next level, value brnding per work outcome, \n"
+#| "                    knowing when to leave and winning negotiation skills "
+#| "for contracts."
 msgid ""
-"We help you develop skills that support your professional vision and ad-ons "
+"We help you develop skills that support your professional vision and add-ons "
 "aimed at \n"
 "                    realizing your professional goals such as communication, "
 "ethics, personal presentation & profiling, \n"
@@ -1524,6 +1573,7 @@ msgstr ""
 "kwa kiwango kinachofuata, kuleta thamani kwa kila matokeo ya kazi, \n"
 "                    kujua wakati wa kuondoka na kushinda ujuzi wa mazungumzo "
 "mikataba."
+
 #: mainapp/templates/mainapp/index.html:229
 msgid ""
 "The OBC volunteer program was created in honor of the Late Engineer Okore "
@@ -1544,11 +1594,11 @@ msgid ""
 "with rich wildlife all while supporting a good cause and creating a positive "
 "impact in the society."
 msgstr ""
-"Mpango wa OBC wa kujitolea utakusaidia kutoa usaidizi kwa wasiojiweza "
-"na jumuiya ambazo hazijahudumiwa ambapo utapata uzoefu \n"
-"                    tamaduni za jadi na hata kupata nafasi ya kuingiliana "
-"na wanyamapori matajiri wakati wote wakiunga mkono sababu nzuri na kuunda chanya "
-"athari katika jamii."
+"Mpango wa OBC wa kujitolea utakusaidia kutoa usaidizi kwa wasiojiweza na "
+"jumuiya ambazo hazijahudumiwa ambapo utapata uzoefu \n"
+"                    tamaduni za jadi na hata kupata nafasi ya kuingiliana na "
+"wanyamapori matajiri wakati wote wakiunga mkono sababu nzuri na kuunda "
+"chanya athari katika jamii."
 
 #: mainapp/templates/mainapp/index.html:254
 msgid ""
@@ -1585,13 +1635,14 @@ msgid ""
 "expected outcomes.\n"
 "                    "
 msgstr ""
-"Sisi ndio wasimamizi chaguo la kwanza wa miradi na rasilimali zako "
-"ardhi. Tunapata mipango bora na ya ushindani ya rasilimali, nukuu, "
-"maendeleo ya kipekee \n"
-"                    mipango na miundo bespoke ambayo ni haki bei na "
-"fanya kazi na wataalam wanaoheshimika ili kutekeleza maono yako na kutoa zaidi ya "
+"Sisi ndio wasimamizi chaguo la kwanza wa miradi na rasilimali zako ardhi. "
+"Tunapata mipango bora na ya ushindani ya rasilimali, nukuu, maendeleo ya "
+"kipekee \n"
+"                    mipango na miundo bespoke ambayo ni haki bei na fanya "
+"kazi na wataalam wanaoheshimika ili kutekeleza maono yako na kutoa zaidi ya "
 "matokeo yanayotarajiwa.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:296
 msgid ""
 "\n"
@@ -1603,12 +1654,13 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Maeneo yetu ya kuzingatia ni pamoja na: utafiti, digitalization, halisi "
-"mali na ujenzi, hafla za ushirika (warsha na ukuzaji wa wafanyikazi "
-"programu), \n"
+"                    Maeneo yetu ya kuzingatia ni pamoja na: utafiti, "
+"digitalization, halisi mali na ujenzi, hafla za ushirika (warsha na ukuzaji "
+"wa wafanyikazi programu), \n"
 "                    mazoezi ya bajeti na uchangishaji fedha wa mradi "
 "mipango.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:329
 msgid ""
 "\n"
@@ -1619,17 +1671,29 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Uongozi i.e uongozi unaobadilika, unaoendelea "
-"utamaduni wa shirika, uongozi wa ngazi inayofuata, utendaji \n"
-"                    (kifedha na kiutendaji) na uchambuzi wa maamuzi na"
-"kubuni)\n"
+"                    Uongozi i.e uongozi unaobadilika, unaoendelea utamaduni "
+"wa shirika, uongozi wa ngazi inayofuata, utendaji \n"
+"                    (kifedha na kiutendaji) na uchambuzi wa maamuzi "
+"nakubuni)\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:356
-#: mainapp/templates/mainapp/services.html:210
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                    We help you develop skills that support your "
+#| "professional vision and ad-ons aimed at \n"
+#| "                    realizing your professional goals such as "
+#| "communication, ethics, personal presentation & profiling, \n"
+#| "                    international opportunities search criteria, "
+#| "preparation for the next level, value brnding per work outcome, \n"
+#| "                    knowing when to leave and winning negotiation skills "
+#| "for contracts.\n"
+#| "                    "
 msgid ""
 "\n"
 "                    We help you develop skills that support your "
-"professional vision and ad-ons aimed at \n"
+"professional vision and add-ons aimed at \n"
 "                    realizing your professional goals such as communication, "
 "ethics, personal presentation & profiling, \n"
 "                    international opportunities search criteria, preparation "
@@ -1639,8 +1703,8 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Tunakusaidia kukuza ujuzi unaokusaidia "
-"maono ya kitaaluma na matangazo yanayolenga \n"
+"                    Tunakusaidia kukuza ujuzi unaokusaidia maono ya "
+"kitaaluma na matangazo yanayolenga \n"
 "                    kufikia malengo yako ya kitaaluma kama vile mawasiliano, "
 "maadili, uwasilishaji wa kibinafsi na wasifu, \n"
 "                    vigezo vya utafutaji wa fursa za kimataifa, maandalizi "
@@ -1648,6 +1712,7 @@ msgstr ""
 "                    kujua wakati wa kuondoka na kushinda ujuzi wa mazungumzo "
 "mikataba.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:383
 #: mainapp/templates/mainapp/index.html:400
 msgid "We are all about accountability and convenience. Curious?"
@@ -1670,19 +1735,23 @@ msgstr "Sisi ni Nani"
 msgid "About Us"
 msgstr "Kuhusu sisi"
 
-#: mainapp/templates/mainapp/navbar.html:30
+#: mainapp/templates/mainapp/navbar.html:27
+msgid "Gallery"
+msgstr ""
+
+#: mainapp/templates/mainapp/navbar.html:31
 msgid "Services"
 msgstr "Huduma"
 
-#: mainapp/templates/mainapp/navbar.html:33
+#: mainapp/templates/mainapp/navbar.html:34
 msgid "Programs"
 msgstr "Mipango"
 
-#: mainapp/templates/mainapp/navbar.html:36
+#: mainapp/templates/mainapp/navbar.html:37
 msgid "News"
 msgstr "Habari"
 
-#: mainapp/templates/mainapp/navbar.html:43
+#: mainapp/templates/mainapp/navbar.html:44
 msgid "Join Us"
 msgstr "Jiunge nasi"
 
@@ -1714,20 +1783,21 @@ msgstr ""
 "athari chanya katika maisha ya\n"
 "                watu wasio na huduma nzuri ndani ya Jumuiya za Kiafrika. OBC "
 "kujitolea kupata kuingiliana na\n"
-"                jamii za wenyeji na kujitumbukiza katika matajiri wa Kiafrika "
-"utamaduni. Si wao tu\n"
-"                uzoefu utimilifu wa kufanya mabadiliko chanya kwa "
-"jamii hizi zisizo na uwezo,\n"
+"                jamii za wenyeji na kujitumbukiza katika matajiri wa "
+"Kiafrika utamaduni. Si wao tu\n"
+"                uzoefu utimilifu wa kufanya mabadiliko chanya kwa jamii hizi "
+"zisizo na uwezo,\n"
 "                pia wanakuza ujuzi kupitia lenzi ya tamaduni nyingi na a "
 "wigo wa kimataifa.  \n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:28
 msgid ""
 "The OBC Volunteer program is open to individuals across the board from "
 "different backgrounds such as"
 msgstr ""
-"Mpango wa Kujitolea wa OBC uko wazi kwa watu binafsi kote kutoka "
-"asili tofauti kama vile"
+"Mpango wa Kujitolea wa OBC uko wazi kwa watu binafsi kote kutoka asili "
+"tofauti kama vile"
 
 #: mainapp/templates/mainapp/programs.html:30
 msgid "General Health Care"
@@ -1782,14 +1852,13 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"            Tunawapa wafanyakazi wetu wa kujitolea muhtasari wa kina wa ELAN Dome "
-"misheni ya kujitolea na\n"
-"            matarajio ya kuwawezesha kujiamini na maarifa "
-"kuhusu sababu zao\n"
-"            kufanya na kukuza hamasa na shauku hiyo "
-"kuwahimiza kujitolea\n"
+"            Tunawapa wafanyakazi wetu wa kujitolea muhtasari wa kina wa ELAN "
+"Dome misheni ya kujitolea na\n"
+"            matarajio ya kuwawezesha kujiamini na maarifa kuhusu sababu zao\n"
+"            kufanya na kukuza hamasa na shauku hiyo kuwahimiza kujitolea\n"
 "            mahali pa kwanza.  \n"
 "            "
+
 #: mainapp/templates/mainapp/programs.html:56
 msgid "Apply to be a volunteer"
 msgstr "Omba kuwa mtu wa kujitolea"
@@ -1810,16 +1879,17 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Tunaunga mkono wananchi walioko ughaibuni na "
-"mashirika ya maendeleo ya kimataifa na uwekezaji wao wote\n"
-"                    mahitaji. Kwa kutumia ujuzi wetu kuhusu soko la ndani sisi "
-"weka kipaumbele utendakazi bora na usio na mshono unaolinda \n"
+"                    Tunaunga mkono wananchi walioko ughaibuni na mashirika "
+"ya maendeleo ya kimataifa na uwekezaji wao wote\n"
+"                    mahitaji. Kwa kutumia ujuzi wetu kuhusu soko la ndani "
+"sisi weka kipaumbele utendakazi bora na usio na mshono unaolinda \n"
 "                    yao kutokana na matukio mabaya. Kupitia uwekezaji wetu "
 "huduma za usimamizi, tunatoa huduma zetu za ndani na \n"
 "                    international investor's representative service and "
 "usimamizi wa miradi yao ya uwekezaji na hivyo kuimarishwa \n"
 "                    uwajibikaji.\n"
 "                    "
+
 #: mainapp/templates/mainapp/programs.html:82
 #: mainapp/templates/mainapp/programs.html:110
 msgid "These services range from"
@@ -1834,8 +1904,7 @@ msgstr "Kusaidia kusimamia mchakato mzima wa uwekezaji."
 #: mainapp/templates/mainapp/programs.html:113
 msgid ""
 "Regularly inspecting investments sites in order to control the progress."
-msgstr ""
-"Kukagua maeneo ya uwekezaji mara kwa mara ili kudhibiti maendeleo."
+msgstr "Kukagua maeneo ya uwekezaji mara kwa mara ili kudhibiti maendeleo."
 
 #: mainapp/templates/mainapp/programs.html:86
 #: mainapp/templates/mainapp/programs.html:114
@@ -1888,16 +1957,17 @@ msgstr ""
 "\n"
 "                Tunashughulikia vipengele vyote vinavyohusu upangaji na "
 "utekelezaji wa miradi. Tunafuatilia miradi\n"
-"                kupitia hatua za uanzishaji wa mradi, upangaji, "
-"utekelezaji, na kufungwa ili kuhakikisha kwamba\n"
-"                malengo ya mradi yanatimia. Tunasimamia miradi "
-"kwa ufanisi ili zikamilike\n"
+"                kupitia hatua za uanzishaji wa mradi, upangaji, utekelezaji, "
+"na kufungwa ili kuhakikisha kwamba\n"
+"                malengo ya mradi yanatimia. Tunasimamia miradi kwa ufanisi "
+"ili zikamilike\n"
 "                muda, kwa vipimo vilivyowekwa na ndani ya ilivyoainishwa "
 "bajeti. Pamoja na ufahamu wetu wa nguvu wa anuwai\n"
 "                njia za utoaji wa mradi tunaweza kutambua na kupendekeza "
 "utoaji wa mradi unaofaa zaidi\n"
 "                mbinu kwa ajili ya miradi.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:150
 msgid "Some of our project management services include"
 msgstr "Baadhi ya huduma zetu za usimamizi wa mradi ni pamoja na"
@@ -1949,15 +2019,15 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Warsha hutoa njia ya kuchunguza mada za sasa, "
-"mafunzo ya vitendo, na matumizi ya vitendo.\n"
+"                    Warsha hutoa njia ya kuchunguza mada za sasa, mafunzo ya "
+"vitendo, na matumizi ya vitendo.\n"
 "                    ELAN Dome Consultants hutoa safu nyingi za mwingiliano "
 "na warsha zenye nguvu na vipindi vya mafunzo ambavyo\n"
-"                    inaweza kubinafsishwa kwa urahisi ili kuendana na watu tofauti, "
-"vikundi na mashirika. (Shirika\n"
-"                    Mashirika, Taasisi za Elimu, NGOs, CBOs "
-"na kadhalika)\n"
+"                    inaweza kubinafsishwa kwa urahisi ili kuendana na watu "
+"tofauti, vikundi na mashirika. (Shirika\n"
+"                    Mashirika, Taasisi za Elimu, NGOs, CBOs na kadhalika)\n"
 "                    "
+
 #: mainapp/templates/mainapp/programs.html:183
 #: mainapp/templates/mainapp/programs.html:211
 msgid ""
@@ -1974,15 +2044,16 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Warsha hizi na vipindi vya mafunzo vinazingatia "
-"maeneo husika kama ilivyoombwa na wateja wetu.\n"
-"                    Zinaanzia maeneo ya maendeleo ya kibinafsi hadi "
-"maeneo ya kuboresha taaluma kama\n"
+"                    Warsha hizi na vipindi vya mafunzo vinazingatia maeneo "
+"husika kama ilivyoombwa na wateja wetu.\n"
+"                    Zinaanzia maeneo ya maendeleo ya kibinafsi hadi maeneo "
+"ya kuboresha taaluma kama\n"
 "                    mafunzo ya uongozi na usimamizi wa mabadiliko. Wao ni "
 "hasa manufaa kwa\n"
-"                    mashirika ambayo yangependa kuongeza nguvu kazi yao "
-"                    idara.\n"
+"                    mashirika ambayo yangependa kuongeza nguvu kazi "
+"yao                     idara.\n"
 "                    "
+
 #: mainapp/templates/mainapp/programs.html:241
 msgid ""
 "\n"
@@ -1994,12 +2065,13 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Tunafanya kazi na watu binafsi ili kuwasaidia kutambua kilicho zaidi "
-"muhimu kwao na nini wao\n"
-"                wanataka kutoka kwa maisha yao ya baadaye na kuwaunga mkono kufikia "
-"malengo haya. Ushauri wetu wa Kazi\n"
+"                Tunafanya kazi na watu binafsi ili kuwasaidia kutambua "
+"kilicho zaidi muhimu kwao na nini wao\n"
+"                wanataka kutoka kwa maisha yao ya baadaye na kuwaunga mkono "
+"kufikia malengo haya. Ushauri wetu wa Kazi\n"
 "                programu ni ya manufaa kwa njia nyingi.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:247
 msgid "We help you fully explore your interests"
 msgstr "Tunakusaidia kuchunguza kikamilifu mambo yanayokuvutia"
@@ -2018,11 +2090,11 @@ msgstr ""
 "\n"
 "                Kupitia ushauri wa kazi washiriki wetu wanaweza kuchuja "
 "kupitia mambo ambayo kwa kweli hufanya\n"
-"                wanataka taaluma na pembe fulani pamoja na ushawishi wa kawaida "
-"sababu. Washauri wetu wa taaluma\n"
-"                pia swali na usaidizi wa chaguo na mambo yote "
-"kuzingatiwa.\n"
+"                wanataka taaluma na pembe fulani pamoja na ushawishi wa "
+"kawaida sababu. Washauri wetu wa taaluma\n"
+"                pia swali na usaidizi wa chaguo na mambo yote kuzingatiwa.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:259
 msgid "We clarify your professional objectives."
 msgstr "Tunafafanua malengo yako ya kitaaluma."
@@ -2040,14 +2112,15 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Ili kuvunja vikwazo na kufikia mafanikio ndani yako "
-"chosen field it is paramount to have\n"
-"                weka malengo ya kuongoza safari yako. Kupitia taaluma sisi"
-"kukusaidia kuunda ramani ya barabara kwa kusaidia\n"
-"                unaweka malengo haya na kutoa ufahamu wa kina juu ya "
-"faida na hasara\n"
+"                Ili kuvunja vikwazo na kufikia mafanikio ndani yako chosen "
+"field it is paramount to have\n"
+"                weka malengo ya kuongoza safari yako. Kupitia taaluma "
+"sisikukusaidia kuunda ramani ya barabara kwa kusaidia\n"
+"                unaweka malengo haya na kutoa ufahamu wa kina juu ya faida "
+"na hasara\n"
 "                ya kila kitendo.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:271
 msgid "We help you expand your horizons."
 msgstr "Tunakusaidia kupanua upeo wako."
@@ -2065,10 +2138,11 @@ msgstr ""
 "\n"
 "                Kupitia programu yetu ya ushauri wa kazi utapata pana zaidi "
 "mtazamo wa chaguzi za kazi\n"
-"                na chaguzi wanazo. Utaweza kuchunguza zaidi "
-"chaguzi za kazi, kagua fursa\n"
+"                na chaguzi wanazo. Utaweza kuchunguza zaidi chaguzi za kazi, "
+"kagua fursa\n"
 "                wanaojiwasilisha na kukaa kwenye kifafa bora zaidi.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:285
 msgid "Still want to know more? Let's Talk"
 msgstr "Bado unataka kujua zaidi? Tuzungumze"
@@ -2099,15 +2173,16 @@ msgstr ""
 "\n"
 "                    Tunatanguliza utendakazi bora na usio na mshono ambao "
 "kuwaepusha wateja wetu kutokana na machafuko \n"
-"                    na zogo la mahitaji ya udhibiti wa kimataifa, "
-"shinikizo za kitamaduni na kimataifa \n"
-"                    vifaa. Tunahamisha majukumu haya kutoka kwako "
-"kwetu kutokana na ufahamu wetu wa kina \n"
-"                    ya muktadha wa kitamaduni, mahitaji ya kisheria na ya ndani "
-"mienendo. Tunataka kuhakikisha kila kitu \n"
-"                    ni haraka, rahisi, chini ya udhibiti, ya kupendeza, ya uzoefu, "
-"ya kukumbukwa na yenye athari.\n"
+"                    na zogo la mahitaji ya udhibiti wa kimataifa, shinikizo "
+"za kitamaduni na kimataifa \n"
+"                    vifaa. Tunahamisha majukumu haya kutoka kwako kwetu "
+"kutokana na ufahamu wetu wa kina \n"
+"                    ya muktadha wa kitamaduni, mahitaji ya kisheria na ya "
+"ndani mienendo. Tunataka kuhakikisha kila kitu \n"
+"                    ni haraka, rahisi, chini ya udhibiti, ya kupendeza, ya "
+"uzoefu, ya kukumbukwa na yenye athari.\n"
 "                    "
+
 #: mainapp/templates/mainapp/services.html:37
 msgid "What We Do"
 msgstr "Tunachofanya"
@@ -2134,11 +2209,12 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                        Interlink wanafunzi wa kimataifa, mtu binafsi kijamii/"
-"vikundi vya shirika, vyuo vikuu\n"
-"                        na shule za bweni kwa jamii inayotarajiwa "
-"mipango, mipango, mashirika na miradi.\n"
+"                        Interlink wanafunzi wa kimataifa, mtu binafsi "
+"kijamii/vikundi vya shirika, vyuo vikuu\n"
+"                        na shule za bweni kwa jamii inayotarajiwa mipango, "
+"mipango, mashirika na miradi.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:59
 msgid ""
 "\n"
@@ -2149,11 +2225,12 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                        Kutoa watu binafsi na uzoefu na "
-"huduma ya kimataifa ya kufichua kujifunza ambayo ni ya pili\n"
-"                        kwa yeyote katika suala la kuzamishwa katika miktadha ya kijamii "
-"ambazo ni za kipekee na tajiri.\n"
+"                        Kutoa watu binafsi na uzoefu na huduma ya kimataifa "
+"ya kufichua kujifunza ambayo ni ya pili\n"
+"                        kwa yeyote katika suala la kuzamishwa katika "
+"miktadha ya kijamii ambazo ni za kipekee na tajiri.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:72
 msgid ""
 "\n"
@@ -2167,6 +2244,7 @@ msgstr ""
 "(mashirika ya kijamii, yanayokabili ushirika na\n"
 "                        inayolenga tukio)\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:87
 msgid ""
 "\n"
@@ -2180,6 +2258,7 @@ msgstr ""
 "wafanyakazi wa kujitolea kote Afrika- mitandao, furaha, chakula na\n"
 "                        utamaduni nk.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:100
 msgid ""
 "\n"
@@ -2193,6 +2272,7 @@ msgstr ""
 "watu binafsi katika nyanja zote za kujiandikisha\n"
 "                        mipango ya kimataifa ya mafunzo na kubadilishana.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:113
 msgid ""
 "\n"
@@ -2202,10 +2282,11 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                        Kutoa programu za shirika kupitia "
-"kuunda miundo ya shirika inayofanya kazi,\n"
+"                        Kutoa programu za shirika kupitia kuunda miundo ya "
+"shirika inayofanya kazi,\n"
 "                        utekelezaji, tathmini na msaada\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:124
 msgid "Our Portfolio"
 msgstr "Kwingineko yetu"
@@ -2222,34 +2303,44 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Mpango wa OBC wa kujitolea utakusaidia kutoa "
-"usaidizi kwa jamii zisizo na uwezo na ambazo hazijahudumiwa pale utakapoweza "
-"uzoefu \n"
-"                    tamaduni za jadi na hata kupata nafasi ya kuingiliana "
-"na wanyamapori matajiri wakati wote wakiunga mkono sababu nzuri na kuunda chanya "
-"athari katika jamii.\n"
+"                    Mpango wa OBC wa kujitolea utakusaidia kutoa usaidizi "
+"kwa jamii zisizo na uwezo na ambazo hazijahudumiwa pale utakapoweza uzoefu \n"
+"                    tamaduni za jadi na hata kupata nafasi ya kuingiliana na "
+"wanyamapori matajiri wakati wote wakiunga mkono sababu nzuri na kuunda "
+"chanya athari katika jamii.\n"
 "                    "
 
 #: mainapp/templates/mainapp/services.html:153
 #: mainapp/templates/mainapp/services.html:183
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                        We are the  first choice custodians of your "
+#| "projects and resources on ground. We source for quality and competitive "
+#| "resource plans, quotations, unique development \n"
+#| "                        plans and bespoke designs that are fairly priced "
+#| "and work with reputable experts to execute your vision and deliver beyond "
+#| "the expected outcomes.\n"
+#| "                        "
 msgid ""
 "\n"
 "                        We are the  first choice custodians of your projects "
 "and resources on ground. We source for quality and competitive resource "
 "plans, quotations, unique development \n"
 "                        plans and bespoke designs that are fairly priced and "
-"work with reputable experts to execute your vision and deliver beyond the "
+"work with reputable excerpts to execute your vision and deliver beyond the "
 "expected outcomes.\n"
 "                        "
 msgstr ""
 "\n"
 "                        Sisi ndio wasimamizi chaguo la kwanza wa miradi yako "
-"na rasilimali ardhini. Tunatoa rasilimali kwa ubora na ushindani "
-"mipango, nukuu, maendeleo ya kipekee \n"
-"                        mipango na miundo ambayo ni haki bei na "
-"fanya kazi na wataalam wanaoheshimika ili kutekeleza maono yako na kutoa zaidi ya "
+"na rasilimali ardhini. Tunatoa rasilimali kwa ubora na ushindani mipango, "
+"nukuu, maendeleo ya kipekee \n"
+"                        mipango na miundo ambayo ni haki bei na fanya kazi "
+"na wataalam wanaoheshimika ili kutekeleza maono yako na kutoa zaidi ya "
 "matokeo yanayotarajiwa.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:159
 #: mainapp/templates/mainapp/services.html:189
 msgid ""
@@ -2262,12 +2353,13 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                        Maeneo yetu ya kuzingatia ni pamoja na: utafiti, digitalization, "
-"mali isiyohamishika na ujenzi, hafla za ushirika (warsha na wafanyikazi "
-"mipango ya maendeleo), \n"
+"                        Maeneo yetu ya kuzingatia ni pamoja na: utafiti, "
+"digitalization, mali isiyohamishika na ujenzi, hafla za ushirika (warsha na "
+"wafanyikazi mipango ya maendeleo), \n"
 "                        mazoezi ya bajeti na uchangishaji fedha wa mradi "
 "mipango.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:207
 msgid ""
 "We walk with you the journey to discovering what sets your soul on fire "
@@ -2276,1220 +2368,30 @@ msgstr ""
 "We walk with you the journey to discovering what sets your soul on fire "
 "kitaaluma."
 
+#: mainapp/templates/mainapp/services.html:210
+msgid ""
+"\n"
+"                    We help you develop skills that support your "
+"professional vision and ad-ons aimed at \n"
+"                    realizing your professional goals such as communication, "
+"ethics, personal presentation & profiling, \n"
+"                    international opportunities search criteria, preparation "
+"for the next level, value brnding per work outcome, \n"
+"                    knowing when to leave and winning negotiation skills for "
+"contracts.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Tunakusaidia kukuza ujuzi unaokusaidia maono ya "
+"kitaaluma na matangazo yanayolenga \n"
+"                    kufikia malengo yako ya kitaaluma kama vile mawasiliano, "
+"maadili, uwasilishaji wa kibinafsi na wasifu, \n"
+"                    vigezo vya utafutaji wa fursa za kimataifa, maandalizi "
+"kwa kiwango kinachofuata, kuleta thamani kwa kila matokeo ya kazi, \n"
+"                    kujua wakati wa kuondoka na kushinda ujuzi wa mazungumzo "
+"mikataba.\n"
+"                    "
+
 #: mainapp/templates/mainapp/services.html:223
 msgid "Find Out More"
 msgstr "Jua Zaidi"
-
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:130
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:140
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:91
-msgid "This field is required."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout.py:392
-msgid "i18n text"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout.py:394
-msgid "i18n legend"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout_objects.py:143
-#: venv/lib/python3.10/site-packages/django/core/validators.py:22
-msgid "Enter a valid value."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/contrib/messages/apps.py:15
-msgid "Messages"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/contrib/sitemaps/apps.py:8
-msgid "Site Maps"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/contrib/staticfiles/apps.py:9
-msgid "Static Files"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/contrib/syndication/apps.py:7
-msgid "Syndication"
-msgstr ""
-
-#. Translators: String used to replace omitted page numbers in elided page
-#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-#: venv/lib/python3.10/site-packages/django/core/paginator.py:30
-msgid "…"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/paginator.py:50
-msgid "That page number is not an integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/paginator.py:52
-msgid "That page number is less than 1"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/paginator.py:57
-msgid "That page contains no results"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:104
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:751
-msgid "Enter a valid URL."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:164
-msgid "Enter a valid integer."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:175
-msgid "Enter a valid email address."
-msgstr ""
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-#: venv/lib/python3.10/site-packages/django/core/validators.py:256
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:264
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:276
-#: venv/lib/python3.10/site-packages/django/core/validators.py:284
-#: venv/lib/python3.10/site-packages/django/core/validators.py:313
-msgid "Enter a valid IPv4 address."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:293
-#: venv/lib/python3.10/site-packages/django/core/validators.py:314
-msgid "Enter a valid IPv6 address."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:305
-#: venv/lib/python3.10/site-packages/django/core/validators.py:312
-msgid "Enter a valid IPv4 or IPv6 address."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:348
-msgid "Enter only digits separated by commas."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:354
-#, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:389
-#, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:398
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:407
-#, python-format
-msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:417
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:435
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:458
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:347
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:386
-msgid "Enter a number."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:460
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:465
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:470
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:539
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:600
-msgid "Null characters are not allowed."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/base.py:1401
-#: venv/lib/python3.10/site-packages/django/forms/models.py:899
-msgid "and"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/base.py:1403
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/constraints.py:17
-#, python-format
-msgid "Constraint “%(name)s” is violated."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:129
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:130
-msgid "This field cannot be null."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:131
-msgid "This field cannot be blank."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:132
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr ""
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or
-#. 'month'. Eg: "Title must be unique for pub_date year"
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:136
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:174
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1065
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1066
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1068
-msgid "Boolean (Either True or False)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1118
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1222
-msgid "Comma-separated integers"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1323
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1327
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1462
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1331
-msgid "Date (without time)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1458
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1466
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1471
-msgid "Date (with time)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1595
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1597
-msgid "Decimal number"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1754
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1758
-msgid "Duration"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1810
-msgid "Email address"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1835
-msgid "File path"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1913
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1915
-msgid "Floating point number"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1955
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1957
-msgid "Integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2049
-msgid "Big (8 byte) integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2066
-msgid "Small integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2074
-msgid "IPv4 address"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2105
-msgid "IP address"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2198
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2199
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2201
-msgid "Boolean (Either True, False or None)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2252
-msgid "Positive big integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2267
-msgid "Positive integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2282
-msgid "Positive small integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2298
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2334
-msgid "Text"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2409
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2413
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2417
-msgid "Time"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2525
-msgid "URL"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2549
-msgid "Raw binary data"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2614
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2616
-msgid "Universally unique identifier"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/files.py:232
-msgid "File"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/files.py:392
-msgid "Image"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/json.py:18
-msgid "A JSON object"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/json.py:20
-msgid "Value must be valid JSON."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:920
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:922
-msgid "Foreign Key (type determined by related field)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1229
-msgid "One-to-one relationship"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1286
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1288
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1336
-msgid "Many-to-many relationship"
-msgstr ""
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the label
-#: venv/lib/python3.10/site-packages/django/forms/boundfield.py:176
-msgid ":?.!"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:298
-msgid "Enter a whole number."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:467
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1240
-msgid "Enter a valid date."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:490
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1241
-msgid "Enter a valid time."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:517
-msgid "Enter a valid date/time."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:551
-msgid "Enter a valid duration."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:552
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:618
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:619
-msgid "No file was submitted."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:620
-msgid "The submitted file is empty."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:622
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:627
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:693
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:856
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:948
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1572
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:950
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1069
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1570
-msgid "Enter a list of values."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1070
-msgid "Enter a complete value."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1309
-msgid "Enter a valid UUID."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1339
-msgid "Enter a valid JSON."
-msgstr ""
-
-#. Translators: This is the default suffix added to form field labels
-#: venv/lib/python3.10/site-packages/django/forms/forms.py:98
-msgid ":"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/forms.py:248
-#: venv/lib/python3.10/site-packages/django/forms/forms.py:332
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:63
-#, python-format
-msgid ""
-"ManagementForm data is missing or has been tampered with. Missing fields: "
-"%(field_names)s. You may need to file a bug report if the issue persists."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:67
-#, python-format
-msgid "Please submit at most %(num)d form."
-msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:72
-#, python-format
-msgid "Please submit at least %(num)d form."
-msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:483
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:490
-msgid "Order"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:496
-msgid "Delete"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:892
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:897
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:904
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:913
-msgid "Please correct the duplicate values below."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1344
-msgid "The inline value did not match the parent instance."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1435
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1574
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/utils.py:226
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:439
-msgid "Clear"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:440
-msgid "Currently"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:441
-msgid "Change"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:770
-msgid "Unknown"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:771
-msgid "Yes"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:772
-msgid "No"
-msgstr ""
-
-#. Translators: Please do not add spaces around commas.
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:853
-msgid "yes,no,maybe"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:883
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:900
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:902
-#, python-format
-msgid "%s KB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:904
-#, python-format
-msgid "%s MB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:906
-#, python-format
-msgid "%s GB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:908
-#, python-format
-msgid "%s TB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:910
-#, python-format
-msgid "%s PB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:77
-msgid "p.m."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:78
-msgid "a.m."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:83
-msgid "PM"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:84
-msgid "AM"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:155
-msgid "midnight"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:157
-msgid "noon"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:7
-msgid "Monday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:8
-msgid "Tuesday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:9
-msgid "Wednesday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:10
-msgid "Thursday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:11
-msgid "Friday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:12
-msgid "Saturday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:13
-msgid "Sunday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:16
-msgid "Mon"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:17
-msgid "Tue"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:18
-msgid "Wed"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:19
-msgid "Thu"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:20
-msgid "Fri"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:21
-msgid "Sat"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:22
-msgid "Sun"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:25
-msgid "January"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:26
-msgid "February"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:27
-msgid "March"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:28
-msgid "April"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:29
-msgid "May"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:30
-msgid "June"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:31
-msgid "July"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:32
-msgid "August"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:33
-msgid "September"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:34
-msgid "October"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:35
-msgid "November"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:36
-msgid "December"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:39
-msgid "jan"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:40
-msgid "feb"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:41
-msgid "mar"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:42
-msgid "apr"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:43
-msgid "may"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:44
-msgid "jun"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:45
-msgid "jul"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:46
-msgid "aug"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:47
-msgid "sep"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:48
-msgid "oct"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:49
-msgid "nov"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:50
-msgid "dec"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:53
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:54
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:55
-msgctxt "abbrev. month"
-msgid "March"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:56
-msgctxt "abbrev. month"
-msgid "April"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:57
-msgctxt "abbrev. month"
-msgid "May"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:58
-msgctxt "abbrev. month"
-msgid "June"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:59
-msgctxt "abbrev. month"
-msgid "July"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:60
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:61
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:62
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:63
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:64
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:67
-msgctxt "alt. month"
-msgid "January"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:68
-msgctxt "alt. month"
-msgid "February"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:69
-msgctxt "alt. month"
-msgid "March"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:70
-msgctxt "alt. month"
-msgid "April"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:71
-msgctxt "alt. month"
-msgid "May"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:72
-msgctxt "alt. month"
-msgid "June"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:73
-msgctxt "alt. month"
-msgid "July"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:74
-msgctxt "alt. month"
-msgid "August"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:75
-msgctxt "alt. month"
-msgid "September"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:76
-msgctxt "alt. month"
-msgid "October"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:77
-msgctxt "alt. month"
-msgid "November"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:78
-msgctxt "alt. month"
-msgid "December"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/ipv6.py:8
-msgid "This is not a valid IPv6 address."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/text.py:76
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/text.py:252
-msgid "or"
-msgstr ""
-
-#. Translators: This string is used as a separator between list elements
-#: venv/lib/python3.10/site-packages/django/utils/text.py:271
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:94
-msgid ", "
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:9
-#, python-format
-msgid "%(num)d year"
-msgid_plural "%(num)d years"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:10
-#, python-format
-msgid "%(num)d month"
-msgid_plural "%(num)d months"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:11
-#, python-format
-msgid "%(num)d week"
-msgid_plural "%(num)d weeks"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:12
-#, python-format
-msgid "%(num)d day"
-msgid_plural "%(num)d days"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:13
-#, python-format
-msgid "%(num)d hour"
-msgid_plural "%(num)d hours"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:14
-#, python-format
-msgid "%(num)d minute"
-msgid_plural "%(num)d minutes"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:111
-msgid "Forbidden"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:112
-msgid "CSRF verification failed. Request aborted."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:116
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:122
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:127
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a "
-"rel=\"noreferrer\" …> for links to third-party sites."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:136
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:142
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:148
-msgid "More information is available with DEBUG=True."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:44
-msgid "No year specified"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:64
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:115
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:214
-msgid "Date out of range"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:94
-msgid "No month specified"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:147
-msgid "No day specified"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:194
-msgid "No week specified"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:349
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:380
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:652
-#, python-format
-msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:692
-#, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/detail.py:56
-#, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/list.py:70
-msgid "Page is not “last”, nor can it be converted to an int."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/list.py:77
-#, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/list.py:169
-#, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/static.py:38
-msgid "Directory indexes are not allowed here."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/static.py:40
-#, python-format
-msgid "“%(path)s” does not exist"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/static.py:79
-#, python-format
-msgid "Index of %(directory)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:7
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:221
-msgid "The install worked successfully! Congratulations!"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:207
-#, python-format
-msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:222
-#, python-format
-msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
-"configured any URLs."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:230
-msgid "Django Documentation"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:231
-msgid "Topics, references, &amp; how-to’s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:239
-msgid "Tutorial: A Polling App"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:240
-msgid "Get started with Django"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:248
-msgid "Django Community"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:249
-msgid "Connect, get help, or contribute"
-msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-28 19:42+0300\n"
+"POT-Creation-Date: 2022-11-01 15:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,14 +53,15 @@ msgstr ""
 "\n"
 "            ELAN (Education, Learning and Networking) Dome Consultants är en "
 "Afrikabaserad, uppfödd \n"
-"            och ett ungdomsledd konsultföretag för social & företags outsourcing "
-"som strävar efter att omforma den sociala vägen \n"
+"            och ett ungdomsledd konsultföretag för social & företags "
+"outsourcing som strävar efter att omforma den sociala vägen \n"
 "            service och internationella affärsengagemang för studenter, "
 "intresserade individer och institutioner \n"
-"            i att integrera internationell erfarenhet och samhällsservice genom "
-"erbjuder högkvalitativ internationell \n"
+"            i att integrera internationell erfarenhet och samhällsservice "
+"genom erbjuder högkvalitativ internationell \n"
 "            volontär- och serviceinlärningsengagemang.\n"
 "            "
+
 #: mainapp/templates/mainapp/about.html:54
 msgid ""
 "\n"
@@ -80,12 +81,13 @@ msgstr ""
 "implementeringsstödtjänster, \n"
 "            organisatorisk programmering, projektledning, extern kvalitet "
 "försäkran kontroller, läroplansforskning och \n"
-"            utveckling och internationella studenters samarbetsprojekt. "
-"Vårt mål är att förbättra effektfulla initiativ \n"
-"            i Afrika genom att främja kulturellt utbyte, pålitliga investeringar i "
-"projekt och holistiskt lärande för lokalt \n"
+"            utveckling och internationella studenters samarbetsprojekt. Vårt "
+"mål är att förbättra effektfulla initiativ \n"
+"            i Afrika genom att främja kulturellt utbyte, pålitliga "
+"investeringar i projekt och holistiskt lärande för lokalt \n"
 "            medborgare i diasporan och det internationella samfundet.\n"
 "            "
+
 #: mainapp/templates/mainapp/about.html:72
 msgid "Our Mission"
 msgstr "Vårt uppdrag"
@@ -131,8 +133,9 @@ msgid ""
 "To facilitate a seamless and targeted positioning of individuals, families, "
 "groups and institutions in local but impactful initiatives in Africa."
 msgstr ""
-"För att underlätta en sömlös och målinriktad positionering av individer, familjer, "
-"grupper och institutioner i lokala men effektfulla initiativ i Afrika."
+"För att underlätta en sömlös och målinriktad positionering av individer, "
+"familjer, grupper och institutioner i lokala men effektfulla initiativ i "
+"Afrika."
 
 #: mainapp/templates/mainapp/about.html:132
 #: mainapp/templates/mainapp/about.html:191
@@ -155,8 +158,8 @@ msgid ""
 "                                    individuals by instilling relevant "
 "skills and values."
 msgstr ""
-"Vi erbjuder en mängd olika program skräddarsydda för olika grupper. Målet är att "
-"ha en positiv inverkan på samhället och de deltagande \n"
+"Vi erbjuder en mängd olika program skräddarsydda för olika grupper. Målet är "
+"att ha en positiv inverkan på samhället och de deltagande \n"
 "                                    individer genom att ingjuta relevanta "
 "färdigheter och värderingar."
 
@@ -175,8 +178,8 @@ msgid ""
 "We look out for the best interests of our clients with our unmatched "
 "supervision and implementation support."
 msgstr ""
-"Vi ser till våra kunders bästa med våra oöverträffade "
-"tillsyn och genomförandestöd."
+"Vi ser till våra kunders bästa med våra oöverträffade tillsyn och "
+"genomförandestöd."
 
 #: mainapp/templates/mainapp/about.html:211
 msgid ""
@@ -189,12 +192,13 @@ msgid ""
 "                                    "
 msgstr ""
 "\n"
-"                                    Vi erbjuder en mängd skräddarsydda program "
-"för olika grupper. Syftet är att göra en positiv inverkan på samhället och "
-"de deltagande \n"
+"                                    Vi erbjuder en mängd skräddarsydda "
+"program för olika grupper. Syftet är att göra en positiv inverkan på "
+"samhället och de deltagande \n"
 "                                    individer genom att ingjuta relevanta "
 "färdigheter och värderingar.\n"
 "                                    "
+
 #: mainapp/templates/mainapp/about.html:251
 msgid "Our Team of Experts"
 msgstr "Vårt team av experter"
@@ -223,15 +227,16 @@ msgstr ""
 "\n"
 "                    Awino är en erfaren verksamhetsledare med över fem (5) "
 "års erfarenhet av högt tempo \n"
-"                    multisektoriella organisationer i flera länder. "
-"Hon har utmärkt sig i att tillhandahålla strategiska, \n"
-"                    kvalitetssäkring, administrativ, logistisk, "
-"samordning och genomförandestöd till hög nivå \n"
+"                    multisektoriella organisationer i flera länder. Hon har "
+"utmärkt sig i att tillhandahålla strategiska, \n"
+"                    kvalitetssäkring, administrativ, logistisk, samordning "
+"och genomförandestöd till hög nivå \n"
 "                    chefer och projektteam med flera uppgifter. Hon "
 "underlättar mänskligt centrerat designtänkande och \n"
 "                    utmaningsdrivna utbildningsworkshops för fakulteten, "
 "företagspersonal och universitetsstudenter.\n"
 "                    "
+
 #: mainapp/templates/mainapp/about.html:272
 msgid ""
 "\n"
@@ -255,6 +260,7 @@ msgstr ""
 "                    Universitet, Coalition of Blood for Africa, Pamoja CBO "
 "and ABE UK as an external quality assurer.\n"
 "                    "
+
 #: mainapp/templates/mainapp/about.html:290
 #: mainapp/templates/mainapp/about.html:344
 msgid ""
@@ -279,11 +285,12 @@ msgstr ""
 "\n"
 "                Akinyi är en designkunnig och målinriktad professionell med "
 "över tre (3) års erfarenhet av att arbeta i BPO \n"
-"                industri i olika kapaciteter inom kommunikation "
-"avdelningar. Hon är driven och motiverad att förbättra verksamheten \n"
+"                industri i olika kapaciteter inom kommunikation avdelningar. "
+"Hon är driven och motiverad att förbättra verksamheten \n"
 "                tillväxt och utveckla fördelaktiga nätverk. Hon är hög "
 "kreativ och har ett öga för estetik och visuell presentation.\n"
 "                "
+
 #: mainapp/templates/mainapp/about.html:305
 #: mainapp/templates/mainapp/about.html:331
 msgid ""
@@ -299,8 +306,8 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Hon brinner för att effektivisera processer genom "
-"korrekt planering och utförande och använder hennes mångsidiga design \n"
+"                Hon brinner för att effektivisera processer genom korrekt "
+"planering och utförande och använder hennes mångsidiga design \n"
 "                bakgrund och starka organisatoriska färdigheter att öka "
 "effektivitet, lönsamhet och påverka i alla hennes engagemang. \n"
 "                Akinyi tog examen med en kandidatexamen i design från "
@@ -308,6 +315,7 @@ msgstr ""
 "                Relations Society of Kenya vars mandat är att avancera "
 "excellens inom PR och kommunikationshantering i Kenya.\n"
 "                "
+
 #: mainapp/templates/mainapp/about.html:359
 msgid ""
 "Director & Lead Consultant: Operational Management, Finance and "
@@ -333,6 +341,7 @@ msgstr ""
 "kvinnor inklusive ungdomar och 3 års erfarenhet av \n"
 "                    ledarskap och ledning av samhällshälsoprogram.\n"
 "                    "
+
 #: mainapp/templates/mainapp/about.html:372
 msgid ""
 "\n"
@@ -348,15 +357,16 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Hon har erfarenhet av att leda givarfinansierade projekt och är "
-"ansvarig för att fatta beslut, hantera resurser effektivt, uppnå "
-"och upprätthålla högt \n"
+"                    Hon har erfarenhet av att leda givarfinansierade projekt "
+"och är ansvarig för att fatta beslut, hantera resurser effektivt, uppnå och "
+"upprätthålla högt \n"
 "                    performing teams while maintaining high ethical "
-"standarder. Hon brinner mycket för självutveckling och personlig "
-"tillväxt. Hon älskar att jobba och \n"
+"standarder. Hon brinner mycket för självutveckling och personlig tillväxt. "
+"Hon älskar att jobba och \n"
 "                    mentor för ungdomar att lära sig trivas och leda in "
 "olika kapaciteter. Hon tror på mentorskap och coaching för att hjälpa "
 "ungdomar uppnår självförverkligande."
+
 #: mainapp/templates/mainapp/about.html:386
 #: mainapp/templates/mainapp/about.html:422
 msgid "External Experts"
@@ -385,10 +395,11 @@ msgstr ""
 "High Court of Kenya med professionell \n"
 "                    erfarenhet från upptagna organisationer som Kenya "
 "National Police Sacco and Equity Bank Kenya. \n"
-"                    Hon har också arbetat på välrenommerade advokatbyråer som Mwandwa "
-"Macharia & Mwangi Co Advocates och Macharia \n"
+"                    Hon har också arbetat på välrenommerade advokatbyråer "
+"som Mwandwa Macharia & Mwangi Co Advocates och Macharia \n"
 "                    Wa Muturi Co-förespråkare.\n"
 "                    "
+
 #: mainapp/templates/mainapp/about.html:406
 #: mainapp/templates/mainapp/about.html:434
 msgid ""
@@ -404,15 +415,16 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Wangari är en medlare som praktiserar med The Judiciary of "
-"Kenya, en skiljedomare och medlem av Chartered \n"
-"                    Institute of Arbitrator Storbritannien och Kenya. Hon strävar efter att vara "
-"en välgrundad advokat som effektivt kan hantera \n"
-"                    olika områden i lagen, för att utveckla en framgångsrik juridisk "
-"karriär grundad på ett gott rykte, att vara en \n"
-"                    exceptionellt känslig och engagerad förespråkare och till "
-"se till att rättvisa tilldelas varje medlem i samhället.\n"
+"                    Wangari är en medlare som praktiserar med The Judiciary "
+"of Kenya, en skiljedomare och medlem av Chartered \n"
+"                    Institute of Arbitrator Storbritannien och Kenya. Hon "
+"strävar efter att vara en välgrundad advokat som effektivt kan hantera \n"
+"                    olika områden i lagen, för att utveckla en framgångsrik "
+"juridisk karriär grundad på ett gott rykte, att vara en \n"
+"                    exceptionellt känslig och engagerad förespråkare och "
+"till se till att rättvisa tilldelas varje medlem i samhället.\n"
 "                    "
+
 #: mainapp/templates/mainapp/about.html:464
 #: mainapp/templates/mainapp/about.html:493
 #: mainapp/templates/mainapp/history.html:76
@@ -430,8 +442,8 @@ msgid ""
 "Get in touch with us. Our team is happy to help you to answer any questions "
 "you may have."
 msgstr ""
-"Kontakta oss. Vårt team hjälper dig gärna att svara på eventuella frågor "
-"du kanske har."
+"Kontakta oss. Vårt team hjälper dig gärna att svara på eventuella frågor du "
+"kanske har."
 
 #: mainapp/templates/mainapp/about.html:471
 #: mainapp/templates/mainapp/about.html:501
@@ -663,9 +675,10 @@ msgstr ""
 "volontärscheman baserat på önskemålen \n"
 "                            av våra kunder. Vi erbjuder volontärmöjligheter "
 "för både kortsiktiga och långa perioder \n"
-"                            och detta överlåts till bedömningen av "
-"volontär. Du kan till exempel vara volontär för en \n"
-"                            vecka, två veckor, en månad och till och med ett år.\n"
+"                            och detta överlåts till bedömningen av volontär. "
+"Du kan till exempel vara volontär för en \n"
+"                            vecka, två veckor, en månad och till och med ett "
+"år.\n"
 "                            "
 
 #: mainapp/templates/mainapp/contact.html:86
@@ -685,10 +698,11 @@ msgstr ""
 "\n"
 "                            Du kommer att gå igenom en mycket insiktsfull "
 "orienteringsprocess för alla organisationer och \n"
-"                            institutioner som du frivilligt i vilket testamente "
-"ge dig en bättre förståelse för hur de \n"
+"                            institutioner som du frivilligt i vilket "
+"testamente ge dig en bättre förståelse för hur de \n"
 "                            fungerar och hur du bäst applicerar dig själv.\n"
 "                            "
+
 #: mainapp/templates/mainapp/contact.html:104
 msgid "How old do I have to be to volunteer?"
 msgstr "Hur gammal måste jag vara för att vara volontär?"
@@ -706,8 +720,8 @@ msgstr ""
 "\n"
 "                            Vi har inga åldersgränser för volontärarbete. "
 "Volontärer under 18 år måste vara det \n"
-"                            åtföljs av en förälder eller en vårdnadshavare och har "
-"korrekt dokumenterat samtycke att delta \n"
+"                            åtföljs av en förälder eller en vårdnadshavare "
+"och har korrekt dokumenterat samtycke att delta \n"
 "                            i våra olika volontärprogram.\n"
 "                            "
 
@@ -738,6 +752,7 @@ msgstr ""
 "                            kvalifikationer behövs detta kommer att anges i "
 "våra före engagemangssessioner.\n"
 "                            "
+
 #: mainapp/templates/mainapp/contact.html:141
 msgid "Can I get a qualification or an award?"
 msgstr "Kan jag få en kvalifikation eller en utmärkelse?"
@@ -761,16 +776,17 @@ msgstr ""
 "\n"
 "                            Våra volontärer får flera fördelar av sina "
 "volontär resa allt från ett CV \n"
-"                            som sticker ut, förvandlar samhällen, "
-"utforska och odla intresseområden, ett säkert och bekvämt sätt att \n"
+"                            som sticker ut, förvandlar samhällen, utforska "
+"och odla intresseområden, ett säkert och bekvämt sätt att \n"
 "                            resa utomlands med adekvat assistans och "
 "äntligen får möjligheten att ta sig an en \n"
-"                            nytt äventyr. ELAN Dome erbjuder också en värdefull "
-"färdighetsbevis till alla volontärer \n"
-"                            tillsammans med tillgång till ett brett nätverk av "
-"volontärer, programsamordnare, lokala organisationer, \n"
+"                            nytt äventyr. ELAN Dome erbjuder också en "
+"värdefull färdighetsbevis till alla volontärer \n"
+"                            tillsammans med tillgång till ett brett nätverk "
+"av volontärer, programsamordnare, lokala organisationer, \n"
 "                            och stödpersonal.\n"
 "                            "
+
 #: mainapp/templates/mainapp/contact.html:162
 msgid "What else can I do during my volunteering journey?"
 msgstr "Vad mer kan jag göra under min volontärresa?"
@@ -785,8 +801,8 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                            Förutom volontärarbete och att hjälpa undertjänade "
-"samhällen skapar vi vägar där våra \n"
+"                            Förutom volontärarbete och att hjälpa "
+"undertjänade samhällen skapar vi vägar där våra \n"
 "                            volontärer kan skapa fler minnen genom "
 "fritidsaktiviteter. Några av dessa aktiviteter inkluderar:\n"
 "                            "
@@ -819,13 +835,14 @@ msgid ""
 "                                "
 msgstr ""
 "\n"
-"                                Detta överlåts till bedömningen av "
-"klient. ELAN Dome brinner mycket för skräddare \n"
-"                                att göra workshopen och utbildningsprogrammet. Vi "
-"strukturera dem efter noggrann förståelse \n"
-"                                våra kunders behov för att säkerställa "
-"att positiva resultat uppnås.\n"
+"                                Detta överlåts till bedömningen av klient. "
+"ELAN Dome brinner mycket för skräddare \n"
+"                                att göra workshopen och "
+"utbildningsprogrammet. Vi strukturera dem efter noggrann förståelse \n"
+"                                våra kunders behov för att säkerställa att "
+"positiva resultat uppnås.\n"
 "                                "
+
 #: mainapp/templates/mainapp/contact.html:204
 msgid "How can I keep tabs on my investment?"
 msgstr "Hur kan jag hålla koll på min investering?"
@@ -843,12 +860,12 @@ msgid ""
 "                                "
 msgstr ""
 "\n"
-"                                ELAN Dome strävar efter att öka ansvarstagandet "
-"och tydlighet för all vår investeringsövervakning \n"
-"                                aktiviteter. Vi gör våra kunder till en del av "
-"resa även när de är borta i olika \n"
-"                                länder så att vid varje särskilt "
-"de är fullt medvetna om vilka handlingar som pågår \n"
+"                                ELAN Dome strävar efter att öka "
+"ansvarstagandet och tydlighet för all vår investeringsövervakning \n"
+"                                aktiviteter. Vi gör våra kunder till en del "
+"av resa även när de är borta i olika \n"
+"                                länder så att vid varje särskilt de är fullt "
+"medvetna om vilka handlingar som pågår \n"
 "                                tas med hänsyn till deras investering.\n"
 "                                "
 
@@ -867,12 +884,14 @@ msgid ""
 "                                "
 msgstr ""
 "\n"
-"                                ELAN Domes projektledning närmar sig "
-"är helt knutna och påverkade av vilken typ av projekt vi är \n"
-"                                uppdrag vid varje given tidpunkt. Vänligen nå "
-"ut till oss om ett specifikt projekt så kommer vi att kunna \n"
-"                                ge en detaljerad översikt över tillvägagångssättet\n"
+"                                ELAN Domes projektledning närmar sig är helt "
+"knutna och påverkade av vilken typ av projekt vi är \n"
+"                                uppdrag vid varje given tidpunkt. Vänligen "
+"nå ut till oss om ett specifikt projekt så kommer vi att kunna \n"
+"                                ge en detaljerad översikt över "
+"tillvägagångssättet\n"
 "                                "
+
 #: mainapp/templates/mainapp/contact.html:245
 msgid "None of these FAQs answers my question, what do I do now?"
 msgstr "Ingen av dessa vanliga frågor svarar på min fråga, vad gör jag nu?"
@@ -881,9 +900,7 @@ msgstr "Ingen av dessa vanliga frågor svarar på min fråga, vad gör jag nu?"
 msgid ""
 "If we haven't covered your question please get in touch with us through our "
 "email"
-msgstr ""
-"Om vi inte har täckt din fråga vänligen kontakta oss via vår "
-"e-post"
+msgstr "Om vi inte har täckt din fråga vänligen kontakta oss via vår e-post"
 
 #: mainapp/templates/mainapp/contact.html:252
 msgid "detailing your questions"
@@ -933,11 +950,12 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Våra familjepaket skapar en väg för bindning med dig "
-"nära och kära, fördjupa \n"
+"                Våra familjepaket skapar en väg för bindning med dig nära "
+"och kära, fördjupa \n"
 "                din familj i en annan kultur och ge tillbaka till "
 "samhällen.\n"
 "                "
+
 #: mainapp/templates/mainapp/edc-community.html:30
 msgid "Friends"
 msgstr "Vänner"
@@ -947,8 +965,9 @@ msgid ""
 "Our friends package takes buddies through an experience that strengthens "
 "friendships and transforms social lives for the better."
 msgstr ""
-"Vårt kompispaket tar kompisar genom en upplevelse som stärker "
-"vänskap och förändrar sociala liv till det bättre."
+"Vårt kompispaket tar kompisar genom en upplevelse som stärker vänskap och "
+"förändrar sociala liv till det bättre."
+
 #: mainapp/templates/mainapp/edc-community.html:41
 msgid "Students"
 msgstr "Studenter"
@@ -963,10 +982,10 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Detta paket tar eleverna genom en upplevelserik resa "
-"av personlig tillväxt som gör det möjligt för dem att utvecklas nytt \n"
-"                färdigheter, skaffa sig ett globalt perspektiv, träffa nya människor och "
-"till och med förbättra sina karriärmöjligheter\n"
+"                Detta paket tar eleverna genom en upplevelserik resa av "
+"personlig tillväxt som gör det möjligt för dem att utvecklas nytt \n"
+"                färdigheter, skaffa sig ett globalt perspektiv, träffa nya "
+"människor och till och med förbättra sina karriärmöjligheter\n"
 "                "
 
 #: mainapp/templates/mainapp/edc-community.html:58
@@ -1009,9 +1028,10 @@ msgstr ""
 "                Detta paket är designat för personer som vill fördjupa sig "
 "sig själva på en resa av självförverkligande och tillåter individer att "
 "utveckla en djup \n"
-"                förståelse för kulturen, samhället och landet där "
-"de är frivilliga och de är mycket givande.\n"
+"                förståelse för kulturen, samhället och landet där de är "
+"frivilliga och de är mycket givande.\n"
 "                "
+
 #: mainapp/templates/mainapp/edc-community.html:87
 msgid "Teachers"
 msgstr "Lärare"
@@ -1022,9 +1042,9 @@ msgid ""
 "eager but underserved children. to help improve educational practices and "
 "processes."
 msgstr ""
-"Lärarpaketet låter lärare ta med sina kunskaper och färdigheter till "
-"ivriga men undertjänade barn. för att hjälpa till att förbättra utbildningsmetoder och "
-"processer."
+"Lärarpaketet låter lärare ta med sina kunskaper och färdigheter till ivriga "
+"men undertjänade barn. för att hjälpa till att förbättra utbildningsmetoder "
+"och processer."
 
 #: mainapp/templates/mainapp/edc-community.html:94
 msgid "Be a part of our community"
@@ -1035,8 +1055,8 @@ msgid ""
 "Are you interested in joining our community as a volunteer, mentor or a "
 "partner?"
 msgstr ""
-"Är du intresserad av att gå med i vår gemenskap som volontär, mentor eller en "
-"partner?"
+"Är du intresserad av att gå med i vår gemenskap som volontär, mentor eller "
+"en partner?"
 
 #: mainapp/templates/mainapp/edc-community.html:96
 msgid "Drop us an email at"
@@ -1045,8 +1065,7 @@ msgstr ""
 #: mainapp/templates/mainapp/edc-community.html:96
 msgid ""
 "we will send you more information and guide you through your  journey with"
-msgstr ""
-"vi skickar dig mer information och guidar dig genom din resa med"
+msgstr "vi skickar dig mer information och guidar dig genom din resa med"
 
 #: mainapp/templates/mainapp/edc-community.html:96
 msgid "ELAN Dome Consultants."
@@ -1113,8 +1132,13 @@ msgid ""
 "our various programs"
 msgstr ""
 "Vi integrerar internationell erfarenhet, samhällsservice och handledning och "
-"implementeringsstöd för att säkerställa att våra kunder får bästa möjliga resultat "
-"våra olika program"
+"implementeringsstöd för att säkerställa att våra kunder får bästa möjliga "
+"resultat våra olika program"
+
+#: mainapp/templates/mainapp/gallery.html:406
+#: mainapp/templates/mainapp/gallery.html:407
+msgid "Our Gallery"
+msgstr "Vårt Galleri"
 
 #: mainapp/templates/mainapp/history.html:6
 #: mainapp/templates/mainapp/history.html:7
@@ -1144,11 +1168,12 @@ msgstr ""
 "\n"
 "                ELAN (Education, Learning and Networking) Dome Consultants "
 "införlivades under tre ansträngningar \n"
-"                unga, ambitiösa och människocentrerade designdrivna damer som "
-"försökte göra empati till nyckelinformatören \n"
+"                unga, ambitiösa och människocentrerade designdrivna damer "
+"som försökte göra empati till nyckelinformatören \n"
 "                av design, beslut och lösningar för människor och företag "
 "som syftar till Afrikas framsteg.\n"
 "                "
+
 #: mainapp/templates/mainapp/history.html:27
 msgid ""
 "\n"
@@ -1164,16 +1189,17 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Grundaren av ELAN Dome hämtar djup inspiration "
-"från intelligens, problemlösningsförmåga, \n"
-"                mobiliserande skarpsinne och djupa samhällstjänsthandlingar av henne "
-"avlidne far, ingenjör Okore Booker Charles, OBC. han \n"
-"                ägnade sitt liv åt att fixa utmaningar, med hjälp av sitt personliga "
-"resurser för att stödja familj, grannar, vänner, \n"
-"                samhället och främlingar närhelst han fick möjlighet. "
-"Han uppskattade utbildning, politik, jordbruk, miljö \n"
+"                Grundaren av ELAN Dome hämtar djup inspiration från "
+"intelligens, problemlösningsförmåga, \n"
+"                mobiliserande skarpsinne och djupa samhällstjänsthandlingar "
+"av henne avlidne far, ingenjör Okore Booker Charles, OBC. han \n"
+"                ägnade sitt liv åt att fixa utmaningar, med hjälp av sitt "
+"personliga resurser för att stödja familj, grannar, vänner, \n"
+"                samhället och främlingar närhelst han fick möjlighet. Han "
+"uppskattade utbildning, politik, jordbruk, miljö \n"
 "                bevarande och mänskliga rättigheter.\n"
 "                "
+
 #: mainapp/templates/mainapp/history.html:40
 msgid ""
 "\n"
@@ -1188,14 +1214,15 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Hans huvudsakliga målgrupper var äldre, fattiga, föräldralösa barn, "
-"girls of school going age and the oppressed in the society. \n"
-"                Han var en ivrig troende på lagen som ett redskap för "
-"söka rättvisa och uppnå balans i samhället. \n"
+"                Hans huvudsakliga målgrupper var äldre, fattiga, "
+"föräldralösa barn, girls of school going age and the oppressed in the "
+"society. \n"
+"                Han var en ivrig troende på lagen som ett redskap för söka "
+"rättvisa och uppnå balans i samhället. \n"
 "                Han gick hela tiden in för att övervaka sina vänners projekt "
 "och hantera team för deras räkning när de var borta \n"
-"                om internationella engagemang, efter att ha avgått på frivillig basis "
-"grund för att ägna sitt liv åt tjänst.\n"
+"                om internationella engagemang, efter att ha avgått på "
+"frivillig basis grund för att ägna sitt liv åt tjänst.\n"
 "                "
 
 #: mainapp/templates/mainapp/history.html:48
@@ -1213,12 +1240,13 @@ msgstr ""
 "\n"
 "                Denna organisation är djupt rotad i hans värderingar "
 "uppriktighet, service, smart arbete, opinionsbildning, flit, strategi, \n"
-"                påverka prestation och firande. Kupolen betecknar a "
-"känsla av att mötas i en gemenskap som är uppbyggd som \n"
-"                traditionella afrikanska familjer gjorde. De skulle samlas in "
-"grupper för att prata om sina problem, hitta lösningar, dela måltider, \n"
+"                påverka prestation och firande. Kupolen betecknar a känsla "
+"av att mötas i en gemenskap som är uppbyggd som \n"
+"                traditionella afrikanska familjer gjorde. De skulle samlas "
+"in grupper för att prata om sina problem, hitta lösningar, dela måltider, \n"
 "                stötta varandra och bygga relationer.\n"
 "                "
+
 #: mainapp/templates/mainapp/history.html:56
 msgid ""
 "\n"
@@ -1233,13 +1261,14 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Ingenjör OBC hade omfattande nätverk och kunde slå till "
-"nya men formidabla vänskaper vid det första mötet, en egenskap \n"
-"                som resulterade i att hans familj fick värdefullt stöd "
-"under hela hans sjukdom, slutliga bortgång och graciösa utskick. Från detta, "
-"                organisationen drar värdet av nätverkande, "
+"                Ingenjör OBC hade omfattande nätverk och kunde slå till nya "
+"men formidabla vänskaper vid det första mötet, en egenskap \n"
+"                som resulterade i att hans familj fick värdefullt stöd under "
+"hela hans sjukdom, slutliga bortgång och graciösa utskick. Från "
+"detta,                 organisationen drar värdet av nätverkande, "
 "individer, \n"
 "                "
+
 #: mainapp/templates/mainapp/history.html:86
 msgid "Let's Talk"
 msgstr "Låt oss prata"
@@ -1259,13 +1288,11 @@ msgstr "Bortom gränser."
 msgid ""
 "Experience adventure and learning concurrently through our personalized "
 "packages."
-msgstr ""
-"Upplev äventyr och lärande samtidigt genom vår personliga "
-"paket."
+msgstr "Upplev äventyr och lärande samtidigt genom vår personliga paket."
 
 #: mainapp/templates/mainapp/index.html:25
 #: mainapp/templates/mainapp/index.html:38
-#: mainapp/templates/mainapp/navbar.html:52
+#: mainapp/templates/mainapp/navbar.html:53
 msgid "Get in touch - it's free"
 msgstr "Hör av dig - det är gratis"
 
@@ -1279,9 +1306,9 @@ msgid ""
 "collaborative partnerships and provide carefully curated programs while "
 "stating result oriented."
 msgstr ""
-"Vi är ett målinriktat outsourcingkonsultföretag som strävar efter att optimera "
-"samarbetspartnerskap och tillhandahålla noggrant utvalda program samtidigt "
-"anger resultatorienterad."
+"Vi är ett målinriktat outsourcingkonsultföretag som strävar efter att "
+"optimera samarbetspartnerskap och tillhandahålla noggrant utvalda program "
+"samtidigt anger resultatorienterad."
 
 #: mainapp/templates/mainapp/index.html:60
 msgid ""
@@ -1289,9 +1316,11 @@ msgid ""
 "believe in generating success collaboratively, delivering great results "
 "after every engagement, and building trust for the next big challenge."
 msgstr ""
-"Vårt team drivs av att göra det som är rätt och hjälpa dig att förverkliga din vision. Vi "
-"tror på att skapa framgång i samarbete och leverera fantastiska resultat "
-"efter varje engagemang och bygga förtroende inför nästa stora utmaning."
+"Vårt team drivs av att göra det som är rätt och hjälpa dig att förverkliga "
+"din vision. Vi tror på att skapa framgång i samarbete och leverera "
+"fantastiska resultat efter varje engagemang och bygga förtroende inför nästa "
+"stora utmaning."
+
 #: mainapp/templates/mainapp/index.html:67
 msgid "Focus Areas"
 msgstr "Fokusområden"
@@ -1315,12 +1344,12 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    OBC-volontärprogrammet skapades för att hedra "
-"Sen ingenjör Okore Booker Charles. Detta program har noggrant utarbetats "
-"till \n"
-"                    reflektera och inskärpa de värderingar som han levde efter "
-"under hela sitt liv i samhällstjänst och social påverkan.\n"
+"                    OBC-volontärprogrammet skapades för att hedra Sen "
+"ingenjör Okore Booker Charles. Detta program har noggrant utarbetats till \n"
+"                    reflektera och inskärpa de värderingar som han levde "
+"efter under hela sitt liv i samhällstjänst och social påverkan.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:84
 msgid ""
 "\n"
@@ -1332,12 +1361,12 @@ msgid ""
 "impact in the society."
 msgstr ""
 "\n"
-"                    OBC-volontärprogrammet hjälper dig att rendera "
-"hjälp till underprivilegierade och undertjänade samhällen där du vill "
-"erfarenhet \n"
-"                    traditionella kulturer och till och med få en chans att interagera "
-"med ett rikt djurliv samtidigt som man stödjer en god sak och skapar en positiv "
-"påverkan i samhället."
+"                    OBC-volontärprogrammet hjälper dig att rendera hjälp "
+"till underprivilegierade och undertjänade samhällen där du vill erfarenhet \n"
+"                    traditionella kulturer och till och med få en chans att "
+"interagera med ett rikt djurliv samtidigt som man stödjer en god sak och "
+"skapar en positiv påverkan i samhället."
+
 #: mainapp/templates/mainapp/index.html:91
 #: mainapp/templates/mainapp/index.html:121
 #: mainapp/templates/mainapp/index.html:152
@@ -1370,13 +1399,14 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Vi ger vägledning och råd till individer, grupper "
-"och institutioner om sina investeringar och hur man \n"
-"                    skydda sina intressen och uppnå positiva resultat. "
-"Vi följer vidare verksamheten i dessa investeringar \n"
-"                    för att säkerställa att det finns full ansvarighet och tydlighet "
-"om resursutnyttjande.\n"
+"                    Vi ger vägledning och råd till individer, grupper och "
+"institutioner om sina investeringar och hur man \n"
+"                    skydda sina intressen och uppnå positiva resultat. Vi "
+"följer vidare verksamheten i dessa investeringar \n"
+"                    för att säkerställa att det finns full ansvarighet och "
+"tydlighet om resursutnyttjande.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:109
 #: mainapp/templates/mainapp/index.html:259
 msgid ""
@@ -1392,11 +1422,13 @@ msgstr ""
 "\n"
 "                    Dessutom ger vi organisationer råd om nyckelstrategier "
 "problem genom att utnyttja vår branschkunskap och \n"
-"                    analytisk förmåga, för att göra det möjligt för dem att bli informerade "
-"beslut. Denna tjänst gör det möjligt för dem att uppnå sina \n"
-"                    affärsmål genom att utnyttja möjligheter och "
-"vara beredd att minska potentiella risker.\n"
+"                    analytisk förmåga, för att göra det möjligt för dem att "
+"bli informerade beslut. Denna tjänst gör det möjligt för dem att uppnå "
+"sina \n"
+"                    affärsmål genom att utnyttja möjligheter och vara beredd "
+"att minska potentiella risker.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:116
 #: mainapp/templates/mainapp/index.html:270
 msgid ""
@@ -1404,9 +1436,10 @@ msgid ""
 "CBOs, CSOs, FBOs, civil societies, government, academic institutions and "
 "individuals."
 msgstr ""
-"Små och medelstora företag, dagligvaruhandel, konsultföretag, INGOs, icke vinstdrivande organisationer inklusive "
-"CBO, CSO, FBO, civila samhällen, myndigheter, akademiska institutioner och "
-"individer."
+"Små och medelstora företag, dagligvaruhandel, konsultföretag, INGOs, icke "
+"vinstdrivande organisationer inklusive CBO, CSO, FBO, civila samhällen, "
+"myndigheter, akademiska institutioner och individer."
+
 #: mainapp/templates/mainapp/index.html:140
 #: mainapp/templates/mainapp/index.html:289
 #: mainapp/templates/mainapp/programs.html:139
@@ -1424,12 +1457,12 @@ msgid ""
 "work with reputable experts to execute your vision and deliver beyond the "
 "expected outcomes."
 msgstr ""
-"Vi är förstahandsvalet för dina projekt och resurser på "
-"jord. Vi hämtar kvalitets- och konkurrenskraftiga resursplaner, offerter, "
-"unique development \n"
-"                    planer och skräddarsydda mönster som är rimligt prissatta och "
-"arbeta med välrenommerade experter för att verkställa din vision och leverera bortom "
-"förväntade resultat."
+"Vi är förstahandsvalet för dina projekt och resurser på jord. Vi hämtar "
+"kvalitets- och konkurrenskraftiga resursplaner, offerter, unique "
+"development \n"
+"                    planer och skräddarsydda mönster som är rimligt "
+"prissatta och arbeta med välrenommerade experter för att verkställa din "
+"vision och leverera bortom förväntade resultat."
 
 #: mainapp/templates/mainapp/index.html:146
 msgid ""
@@ -1439,8 +1472,7 @@ msgid ""
 "                    budgeting exercises and project fundraising initiatives."
 msgstr ""
 "Våra fokusområden inkluderar: forskning, digitalisering, fastigheter & "
-"konstruktion, företagsevent (workshops och medarbetarutveckling "
-"program), \n"
+"konstruktion, företagsevent (workshops och medarbetarutveckling program), \n"
 "                    budgetövningar och projektinsamlingsinitiativ. "
 
 #: mainapp/templates/mainapp/index.html:161
@@ -1461,11 +1493,12 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Vi designar, rekryterar, underlättar, bedömer, skräddarsyr och "
-"rapportera om extra ordinarie workshops, teambuilding och utbildningsinsatser "
-"för \n"
+"                    Vi designar, rekryterar, underlättar, bedömer, "
+"skräddarsyr och rapportera om extra ordinarie workshops, teambuilding och "
+"utbildningsinsatser för \n"
 "                    team och organisationer. Vårt primära fokus ligger på:\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:169
 #: mainapp/templates/mainapp/index.html:326
 msgid ""
@@ -1482,10 +1515,11 @@ msgid ""
 "                    (financial & operational) and decision making analysis & "
 "design)"
 msgstr ""
-"Ledarskap dvs anpassningsbart ledarskap, progressiv organisationskultur, nästa "
-"nivå ledarskap, prestation \n"
+"Ledarskap dvs anpassningsbart ledarskap, progressiv organisationskultur, "
+"nästa nivå ledarskap, prestation \n"
 "                    (ekonomisk och operativ) och beslutsfattande analys & "
 "design)"
+
 #: mainapp/templates/mainapp/index.html:197
 #: mainapp/templates/mainapp/index.html:351
 #: mainapp/templates/mainapp/programs.html:239
@@ -1503,8 +1537,18 @@ msgstr ""
 "professionellt."
 
 #: mainapp/templates/mainapp/index.html:202
+#, fuzzy
+#| msgid ""
+#| "We help you develop skills that support your professional vision and ad-"
+#| "ons aimed at \n"
+#| "                    realizing your professional goals such as "
+#| "communication, ethics, personal presentation & profiling, \n"
+#| "                    international opportunities search criteria, "
+#| "preparation for the next level, value brnding per work outcome, \n"
+#| "                    knowing when to leave and winning negotiation skills "
+#| "for contracts."
 msgid ""
-"We help you develop skills that support your professional vision and ad-ons "
+"We help you develop skills that support your professional vision and add-ons "
 "aimed at \n"
 "                    realizing your professional goals such as communication, "
 "ethics, personal presentation & profiling, \n"
@@ -1513,14 +1557,15 @@ msgid ""
 "                    knowing when to leave and winning negotiation skills for "
 "contracts."
 msgstr ""
-"Vi hjälper dig att utveckla färdigheter som stödjer din professionella vision och tillägg "
-"riktad mot \n"
+"Vi hjälper dig att utveckla färdigheter som stödjer din professionella "
+"vision och tillägg riktad mot \n"
 "                    förverkliga dina professionella mål som kommunikation, "
 "etik, personlig presentation och profilering, \n"
 "                    internationella möjligheter sökkriterier, förberedelser "
 "för nästa nivå, värdeutveckling per arbetsresultat, \n"
-"                    att veta när man ska lämna och vinna förhandlingsförmåga för "
-"kontrakt."
+"                    att veta när man ska lämna och vinna förhandlingsförmåga "
+"för kontrakt."
+
 #: mainapp/templates/mainapp/index.html:229
 msgid ""
 "The OBC volunteer program was created in honor of the Late Engineer Okore "
@@ -1530,8 +1575,8 @@ msgid ""
 msgstr ""
 "OBC-volontärprogrammet skapades för att hedra den sene ingenjören Okore "
 "Booker Charles. Detta program har noggrant kurerats till \n"
-"                    reflektera och inskärpa de värderingar som han levde efter "
-"under hela sitt liv i samhällstjänst och social påverkan."
+"                    reflektera och inskärpa de värderingar som han levde "
+"efter under hela sitt liv i samhällstjänst och social påverkan."
 
 #: mainapp/templates/mainapp/index.html:233
 msgid ""
@@ -1541,11 +1586,12 @@ msgid ""
 "with rich wildlife all while supporting a good cause and creating a positive "
 "impact in the society."
 msgstr ""
-"OBC-volontärprogrammet hjälper dig att ge hjälp till underprivilegierade "
-"och undertjänade samhällen där du kommer att uppleva \n"
-"                    traditionella kulturer och till och med få en chans att interagera "
-"med ett rikt djurliv samtidigt som man stödjer en god sak och skapar en positiv "
-"påverkan i samhället."
+"OBC-volontärprogrammet hjälper dig att ge hjälp till underprivilegierade och "
+"undertjänade samhällen där du kommer att uppleva \n"
+"                    traditionella kulturer och till och med få en chans att "
+"interagera med ett rikt djurliv samtidigt som man stödjer en god sak och "
+"skapar en positiv påverkan i samhället."
+
 #: mainapp/templates/mainapp/index.html:254
 msgid ""
 "We provide guidance and advice to individuals, groups and institutions about "
@@ -1555,12 +1601,13 @@ msgid ""
 "                    to ensure that there's full accountability and clarity "
 "on the utilisation of resources."
 msgstr ""
-"Vi ger vägledning och råd till individer, grupper och institutioner om "
-"sina investeringar och hur \n"
-"                    skydda sina intressen och uppnå positiva resultat. "
-"Vi följer vidare verksamheten i dessa investeringar \n"
-"                    för att säkerställa att det finns full ansvarighet och tydlighet "
-"om resursutnyttjande."
+"Vi ger vägledning och råd till individer, grupper och institutioner om sina "
+"investeringar och hur \n"
+"                    skydda sina intressen och uppnå positiva resultat. Vi "
+"följer vidare verksamheten i dessa investeringar \n"
+"                    för att säkerställa att det finns full ansvarighet och "
+"tydlighet om resursutnyttjande."
+
 #: mainapp/templates/mainapp/index.html:266
 msgid ""
 "We help you to build action oriented strategic plans, communication, "
@@ -1569,11 +1616,12 @@ msgid ""
 "                    customer experience needs in the following industry "
 "categories and sectors:"
 msgstr ""
-"Vi hjälper dig att bygga handlingsinriktade strategiska planer, kommunikation, "
-"affärsutveckling, marknadsföring och partnerskapsstrategier, internt "
-"politik och \n"
-"                    kundupplevelsebehov inom följande bransch "
-"kategorier och sektorer:"
+"Vi hjälper dig att bygga handlingsinriktade strategiska planer, "
+"kommunikation, affärsutveckling, marknadsföring och partnerskapsstrategier, "
+"internt politik och \n"
+"                    kundupplevelsebehov inom följande bransch kategorier och "
+"sektorer:"
+
 #: mainapp/templates/mainapp/index.html:291
 msgid ""
 "We are the  first choice custodians of your projects and resources on "
@@ -1584,13 +1632,13 @@ msgid ""
 "expected outcomes.\n"
 "                    "
 msgstr ""
-"Vi är förstahandsvalet för dina projekt och resurser på "
-"jord. Vi hämtar kvalitets- och konkurrenskraftiga resursplaner, offerter, "
-"unik utveckling \n"
-"                    planer och skräddarsydda mönster som är rimligt prissatta och "
-"arbeta med välrenommerade experter för att verkställa din vision och leverera bortom "
-"förväntade resultat.\n"
+"Vi är förstahandsvalet för dina projekt och resurser på jord. Vi hämtar "
+"kvalitets- och konkurrenskraftiga resursplaner, offerter, unik utveckling \n"
+"                    planer och skräddarsydda mönster som är rimligt "
+"prissatta och arbeta med välrenommerade experter för att verkställa din "
+"vision och leverera bortom förväntade resultat.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:296
 msgid ""
 "\n"
@@ -1602,12 +1650,12 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Våra fokusområden inkluderar: forskning, digitalisering, real "
-"fastigheter & bygg, företagsevent (workshops och medarbetarutveckling "
+"                    Våra fokusområden inkluderar: forskning, digitalisering, "
+"real fastigheter & bygg, företagsevent (workshops och medarbetarutveckling "
 "program), \n"
-"                    budgetövningar och projektinsamling "
-"initiativ.\n"
+"                    budgetövningar och projektinsamling initiativ.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:329
 msgid ""
 "\n"
@@ -1623,12 +1671,24 @@ msgstr ""
 "                    (ekonomisk och operativ) och beslutsfattande analys & "
 "design)\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:356
-#: mainapp/templates/mainapp/services.html:210
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                    We help you develop skills that support your "
+#| "professional vision and ad-ons aimed at \n"
+#| "                    realizing your professional goals such as "
+#| "communication, ethics, personal presentation & profiling, \n"
+#| "                    international opportunities search criteria, "
+#| "preparation for the next level, value brnding per work outcome, \n"
+#| "                    knowing when to leave and winning negotiation skills "
+#| "for contracts.\n"
+#| "                    "
 msgid ""
 "\n"
 "                    We help you develop skills that support your "
-"professional vision and ad-ons aimed at \n"
+"professional vision and add-ons aimed at \n"
 "                    realizing your professional goals such as communication, "
 "ethics, personal presentation & profiling, \n"
 "                    international opportunities search criteria, preparation "
@@ -1644,9 +1704,10 @@ msgstr ""
 "etik, personlig presentation och profilering, \n"
 "                    internationella möjligheter sökkriterier, förberedelser "
 "för nästa nivå, värdeutveckling per arbetsresultat, \n"
-"                    att veta när man ska lämna och vinna förhandlingsförmåga för "
-"kontrakt.\n"
+"                    att veta när man ska lämna och vinna förhandlingsförmåga "
+"för kontrakt.\n"
 "                    "
+
 #: mainapp/templates/mainapp/index.html:383
 #: mainapp/templates/mainapp/index.html:400
 msgid "We are all about accountability and convenience. Curious?"
@@ -1669,19 +1730,23 @@ msgstr "Vilka vi är"
 msgid "About Us"
 msgstr "Om oss"
 
-#: mainapp/templates/mainapp/navbar.html:30
+#: mainapp/templates/mainapp/navbar.html:27
+msgid "Gallery"
+msgstr ""
+
+#: mainapp/templates/mainapp/navbar.html:31
 msgid "Services"
 msgstr "Tjänster"
 
-#: mainapp/templates/mainapp/navbar.html:33
+#: mainapp/templates/mainapp/navbar.html:34
 msgid "Programs"
 msgstr "Program"
 
-#: mainapp/templates/mainapp/navbar.html:36
+#: mainapp/templates/mainapp/navbar.html:37
 msgid "News"
 msgstr "Nyheter"
 
-#: mainapp/templates/mainapp/navbar.html:43
+#: mainapp/templates/mainapp/navbar.html:44
 msgid "Join Us"
 msgstr "Gå med oss"
 
@@ -1711,22 +1776,23 @@ msgstr ""
 "utövare och mål att placera\n"
 "                entusiastiska volontärer i rätt utrymmen för att göra en "
 "positiv inverkan på livet för\n"
-"                undertjänade människor inom lokala afrikanska gemenskaper. OBC "
-"volontärer får interagera med\n"
+"                undertjänade människor inom lokala afrikanska gemenskaper. "
+"OBC volontärer får interagera med\n"
 "                de lokala samhällena och fördjupa sig i rika afrikanska "
 "kultur. Inte bara de\n"
-"                uppleva uppfyllandet av att göra positiva förändringar "
-"dessa underprivilegierade samhällen,\n"
-"                de utvecklar också färdigheter genom en mångkulturell lins och en "
-"globalt spektrum.  \n"
+"                uppleva uppfyllandet av att göra positiva förändringar dessa "
+"underprivilegierade samhällen,\n"
+"                de utvecklar också färdigheter genom en mångkulturell lins "
+"och en globalt spektrum.  \n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:28
 msgid ""
 "The OBC Volunteer program is open to individuals across the board from "
 "different backgrounds such as"
 msgstr ""
-"OBC Volontärprogrammet är öppet för individer över hela linjen från "
-"olika bakgrunder som t.ex"
+"OBC Volontärprogrammet är öppet för individer över hela linjen från olika "
+"bakgrunder som t.ex"
 
 #: mainapp/templates/mainapp/programs.html:30
 msgid "General Health Care"
@@ -1783,12 +1849,13 @@ msgstr ""
 "\n"
 "            Vi ger våra volontärer en detaljerad översikt över ELAN Dome's "
 "volontäruppdrag och\n"
-"            förväntningar så att de kan vara trygga och kunniga "
-"om orsakerna de är\n"
+"            förväntningar så att de kan vara trygga och kunniga om orsakerna "
+"de är\n"
 "            företag och att odla motivationen och entusiasmen som "
 "uppmuntrade dem att ställa upp som volontär\n"
 "            för det första.  \n"
 "            "
+
 #: mainapp/templates/mainapp/programs.html:56
 msgid "Apply to be a volunteer"
 msgstr "Ansök om att bli volontär"
@@ -1809,16 +1876,18 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Vi stödjer lokala medborgare i diasporan ochVi stödjer lokala medborgare i diasporan och "
-"internationella utvecklingsorganisationer med alla sina investeringar\n"
-"                    behov. Med hjälp av vår kunskap om den lokala marknaden vi "
-"prioritera effektiv och sömlös verksamhet som skyddar \n"
+"Vi stödjer lokala medborgare i diasporan ochVi stödjer lokala medborgare i "
+"diasporan och internationella utvecklingsorganisationer med alla sina "
+"investeringar\n"
+"                    behov. Med hjälp av vår kunskap om den lokala marknaden "
+"vi prioritera effektiv och sömlös verksamhet som skyddar \n"
 "                    dem från negativa händelser. Genom vår investering "
 "tillsynstjänster erbjuder vi våra lokala och \n"
 "                    internationella investerares representationstjänst och "
 "övervakning av sina investeringsprojekt och därigenom förbättra \n"
 "                    ansvarighet.\n"
 "                    "
+
 #: mainapp/templates/mainapp/programs.html:82
 #: mainapp/templates/mainapp/programs.html:110
 msgid "These services range from"
@@ -1865,8 +1934,9 @@ msgid ""
 "We make our clients part of the journey even while they are away by "
 "completely involving them in every juncture of our processes."
 msgstr ""
-"Vi gör våra kunder till en del av resan även när de är borta "
-"involverar dem helt och hållet i varje skede av våra processer."
+"Vi gör våra kunder till en del av resan även när de är borta involverar dem "
+"helt och hållet i varje skede av våra processer."
+
 #: mainapp/templates/mainapp/programs.html:141
 msgid ""
 "\n"
@@ -1886,14 +1956,15 @@ msgstr ""
 "\n"
 "                Vi hanterar alla aspekter som rör planeringen och "
 "genomförande av projekt. Vi bevakar projekt\n"
-"                genom stadierna av projektinitiering, planering, "
-"utförande och stängning för att säkerställa att\n"
-"                målen för projektet uppfylls. Vi leder projekt "
-"effektivt så att de slutförs på\n"
-"                tid, enligt den fastställda specifikationen och inom det föreskrivna "
-"budgetar. Med vårt starka grepp om olika\n"
+"                genom stadierna av projektinitiering, planering, utförande "
+"och stängning för att säkerställa att\n"
+"                målen för projektet uppfylls. Vi leder projekt effektivt så "
+"att de slutförs på\n"
+"                tid, enligt den fastställda specifikationen och inom det "
+"föreskrivna budgetar. Med vårt starka grepp om olika\n"
 "                tillvägagångssätt för projekt.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:150
 msgid "Some of our project management services include"
 msgstr "Några av våra projektledningstjänster inkluderar"
@@ -1947,13 +2018,14 @@ msgstr ""
 "\n"
 "                    Workshops ger en möjlighet att utforska aktuella ämnen, "
 "praktisk träning och praktisk tillämpning.\n"
-"                    ELAN Dome Consultants erbjuder ett brett utbud av interaktiva "
-"och dynamiska workshops och träningspass som\n"
+"                    ELAN Dome Consultants erbjuder ett brett utbud av "
+"interaktiva och dynamiska workshops och träningspass som\n"
 "                    kan enkelt anpassas för att passa olika individer, "
 "grupper och organisationer. (Företags\n"
-"Organisationer, utbildningsinstitutioner, icke-statliga organisationer, CBO:er "
-"etc)\n"
+"Organisationer, utbildningsinstitutioner, icke-statliga organisationer, CBO:"
+"er etc)\n"
 "                    "
+
 #: mainapp/templates/mainapp/programs.html:183
 #: mainapp/templates/mainapp/programs.html:211
 msgid ""
@@ -1970,16 +2042,17 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Dessa workshops och utbildningar fokuserar på "
-"respektive områden enligt önskemål från våra kunder.\n"
+"                    Dessa workshops och utbildningar fokuserar på respektive "
+"områden enligt önskemål från våra kunder.\n"
 "                    De sträcker sig från personliga utvecklingsområden till "
 "professionella förbättringsområden som\n"
 "                    ledarskapsutbildning och förändringsledning. Dom är "
 "särskilt mycket fördelaktigt för\n"
-"                    organisationer som vill optimera sin arbetskraft "
-"och skapa unison inom olika\n"
+"                    organisationer som vill optimera sin arbetskraft och "
+"skapa unison inom olika\n"
 "                    avdelningar.\n"
 "                    "
+
 #: mainapp/templates/mainapp/programs.html:241
 msgid ""
 "\n"
@@ -1991,12 +2064,13 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Vi arbetar med individer för att hjälpa dem att identifiera vad som är mest "
-"viktigt för dem och vad de\n"
-"                vill ha av sin framtid och sedan stödja dem att uppnå "
-"dessa mål. Vår karriärrådgivning\n"
+"                Vi arbetar med individer för att hjälpa dem att identifiera "
+"vad som är mest viktigt för dem och vad de\n"
+"                vill ha av sin framtid och sedan stödja dem att uppnå dessa "
+"mål. Vår karriärrådgivning\n"
 "                programmet är fördelaktigt på många sätt.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:247
 msgid "We help you fully explore your interests"
 msgstr "Vi hjälper dig att utforska dina intressen fullt ut"
@@ -2013,13 +2087,14 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Genom karriärrådgivning kan våra deltagare sålla "
-"genom faktorer som faktiskt gör\n"
-"                de vill ha en viss karriär och vinkel plus gemensamma inflytelserika "
-"faktorer. Våra yrkesvägledare\n"
-"                också ifrågasätta och stödja val med alla faktorer "
-"anses vara.\n"
+"                Genom karriärrådgivning kan våra deltagare sålla genom "
+"faktorer som faktiskt gör\n"
+"                de vill ha en viss karriär och vinkel plus gemensamma "
+"inflytelserika faktorer. Våra yrkesvägledare\n"
+"                också ifrågasätta och stödja val med alla faktorer anses "
+"vara.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:259
 msgid "We clarify your professional objectives."
 msgstr "Vi klargör dina professionella mål."
@@ -2037,14 +2112,15 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                För att bryta barriärer och nå framgång inom ditt "
-"valt område är det ytterst viktigt att ha\n"
-"                sätt upp mål som styr din resa. Genom karriären vi "
-"hjälpa dig att skapa en färdplan genom att hjälpa till\n"
+"                För att bryta barriärer och nå framgång inom ditt valt "
+"område är det ytterst viktigt att ha\n"
+"                sätt upp mål som styr din resa. Genom karriären vi hjälpa "
+"dig att skapa en färdplan genom att hjälpa till\n"
 "                du sätter upp dessa mål och ger omfattande insikter om "
 "fördelarna och nackdelarna\n"
 "                av varje åtgärd.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:271
 msgid "We help you expand your horizons."
 msgstr "Vi hjälper dig att vidga dina vyer."
@@ -2060,12 +2136,14 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Genom vårt karriärrådgivningsprogram kommer du att få en bredare "
-"perspektiv på karriärmöjligheterna\n"
+"                Genom vårt karriärrådgivningsprogram kommer du att få en "
+"bredare perspektiv på karriärmöjligheterna\n"
 "                och val de har. Du kommer att kunna utforska mer "
 "karriärmöjligheter, se över möjligheterna\n"
-"                som presenterar sig och bestämmer sig för den bästa passformen.\n"
+"                som presenterar sig och bestämmer sig för den bästa "
+"passformen.\n"
 "                "
+
 #: mainapp/templates/mainapp/programs.html:285
 msgid "Still want to know more? Let's Talk"
 msgstr "Vill du fortfarande veta mer? Låt oss prata"
@@ -2094,17 +2172,18 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Vi prioriterar effektiv och smidig verksamhet som "
-"dämpa våra kunder från stressen \n"
+"                    Vi prioriterar effektiv och smidig verksamhet som dämpa "
+"våra kunder från stressen \n"
 "                    och myllret av internationella regulatoriska krav, "
 "kulturellt tryck och internationellt \n"
-"                    logistik. Vi överför dessa skyldigheter från dig "
-"till oss med tanke på vår djupa förståelse \n"
+"                    logistik. Vi överför dessa skyldigheter från dig till "
+"oss med tanke på vår djupa förståelse \n"
 "                    av de kulturella sammanhangen, lagkrav och lokala "
 "dynamik. Vi vill försäkra oss om allt \n"
 "                    är snabb, enkel, under kontroll, trevlig, upplevelserik, "
 "minnesvärd och effektfull.\n"
 "                    "
+
 #: mainapp/templates/mainapp/services.html:37
 msgid "What We Do"
 msgstr "Vad vi gör"
@@ -2131,11 +2210,12 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                        Interlink internationella studenter, individuella sociala/"
-"organisationsgrupper, universitet\n"
-"                        och internatskolor till blivande gemenskap "
-"program, initiativ, organisationer och projekt.\n"
+"                        Interlink internationella studenter, individuella "
+"sociala/organisationsgrupper, universitet\n"
+"                        och internatskolor till blivande gemenskap program, "
+"initiativ, organisationer och projekt.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:59
 msgid ""
 "\n"
@@ -2146,11 +2226,12 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                        Ge individer en upplevelsemässig och "
-"internationell inlärningsexponeringstjänst som ligger på andra plats\n"
-"                        till ingen när det gäller fördjupning i samhälleliga sammanhang "
-"som är unika och rika.\n"
+"                        Ge individer en upplevelsemässig och internationell "
+"inlärningsexponeringstjänst som ligger på andra plats\n"
+"                        till ingen när det gäller fördjupning i samhälleliga "
+"sammanhang som är unika och rika.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:72
 msgid ""
 "\n"
@@ -2164,6 +2245,7 @@ msgstr ""
 "(gemenskapsbaserade organisationer, företagsinriktade och\n"
 "                        händelseorienterad)\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:87
 msgid ""
 "\n"
@@ -2177,6 +2259,7 @@ msgstr ""
 "volontärer över hela Afrika - nätverkande, spänning, mat och\n"
 "                        kultur etc.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:100
 msgid ""
 "\n"
@@ -2186,8 +2269,8 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                        Tillhandahåll 360° placeringstjänster för att hjälpa intresserade "
-"individer i alla aspekter av att registrera sig\n"
+"                        Tillhandahåll 360° placeringstjänster för att hjälpa "
+"intresserade individer i alla aspekter av att registrera sig\n"
 "                        internationella praktik- och utbytesprogram.\n"
 "                        "
 
@@ -2204,6 +2287,7 @@ msgstr ""
 "skapa funktionella organisationsdesigner,\n"
 "                        genomförande, utvärdering och stöd\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:124
 msgid "Our Portfolio"
 msgstr "Vår portfölj"
@@ -2220,33 +2304,44 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    OBC-volontärprogrammet hjälper dig att rendera "
-"hjälp till underprivilegierade och undertjänade samhällen där du vill "
-"erfarenhet \n"
-"                    traditionella kulturer och till och med få en chans att interagera "
-"med ett rikt djurliv samtidigt som man stödjer en god sak och skapar en positiv "
-"påverkan i samhället.\n"
+"                    OBC-volontärprogrammet hjälper dig att rendera hjälp "
+"till underprivilegierade och undertjänade samhällen där du vill erfarenhet \n"
+"                    traditionella kulturer och till och med få en chans att "
+"interagera med ett rikt djurliv samtidigt som man stödjer en god sak och "
+"skapar en positiv påverkan i samhället.\n"
 "                    "
+
 #: mainapp/templates/mainapp/services.html:153
 #: mainapp/templates/mainapp/services.html:183
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                        We are the  first choice custodians of your "
+#| "projects and resources on ground. We source for quality and competitive "
+#| "resource plans, quotations, unique development \n"
+#| "                        plans and bespoke designs that are fairly priced "
+#| "and work with reputable experts to execute your vision and deliver beyond "
+#| "the expected outcomes.\n"
+#| "                        "
 msgid ""
 "\n"
 "                        We are the  first choice custodians of your projects "
 "and resources on ground. We source for quality and competitive resource "
 "plans, quotations, unique development \n"
 "                        plans and bespoke designs that are fairly priced and "
-"work with reputable experts to execute your vision and deliver beyond the "
+"work with reputable excerpts to execute your vision and deliver beyond the "
 "expected outcomes.\n"
 "                        "
 msgstr ""
 "\n"
-"                        Vi är förstahandsvalet för dina projekt "
-"och resurser på marken. Vi köper för kvalitet och konkurrenskraftiga resurser "
-"planer, offerter, unik utveckling \n"
-"                        planer och skräddarsydda mönster som är rimligt prissatta och "
-"arbeta med välrenommerade experter för att verkställa din vision och leverera bortom "
-"förväntade resultat.\n"
+"                        Vi är förstahandsvalet för dina projekt och resurser "
+"på marken. Vi köper för kvalitet och konkurrenskraftiga resurser planer, "
+"offerter, unik utveckling \n"
+"                        planer och skräddarsydda mönster som är rimligt "
+"prissatta och arbeta med välrenommerade experter för att verkställa din "
+"vision och leverera bortom förväntade resultat.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:159
 #: mainapp/templates/mainapp/services.html:189
 msgid ""
@@ -2259,12 +2354,12 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                        Våra fokusområden inkluderar: forskning, digitalisering, "
-"fastigheter & bygg, företagsevent (workshops och anställd "
+"                        Våra fokusområden inkluderar: forskning, "
+"digitalisering, fastigheter & bygg, företagsevent (workshops och anställd "
 "utvecklingsprogram), \n"
-"                        budgetövningar och projektinsamling "
-"initiativ.\n"
+"                        budgetövningar och projektinsamling initiativ.\n"
 "                        "
+
 #: mainapp/templates/mainapp/services.html:207
 msgid ""
 "We walk with you the journey to discovering what sets your soul on fire "
@@ -2272,1220 +2367,31 @@ msgid ""
 msgstr ""
 "Vi följer med dig på resan till att upptäcka vad som sätter din själ i brand "
 "professionellt."
+
+#: mainapp/templates/mainapp/services.html:210
+msgid ""
+"\n"
+"                    We help you develop skills that support your "
+"professional vision and ad-ons aimed at \n"
+"                    realizing your professional goals such as communication, "
+"ethics, personal presentation & profiling, \n"
+"                    international opportunities search criteria, preparation "
+"for the next level, value brnding per work outcome, \n"
+"                    knowing when to leave and winning negotiation skills for "
+"contracts.\n"
+"                    "
+msgstr ""
+"\n"
+"                    Vi hjälper dig att utveckla färdigheter som stödjer ditt "
+"professionell vision och ad-ons syftar till \n"
+"                    förverkliga dina professionella mål som kommunikation, "
+"etik, personlig presentation och profilering, \n"
+"                    internationella möjligheter sökkriterier, förberedelser "
+"för nästa nivå, värdeutveckling per arbetsresultat, \n"
+"                    att veta när man ska lämna och vinna förhandlingsförmåga "
+"för kontrakt.\n"
+"                    "
+
 #: mainapp/templates/mainapp/services.html:223
 msgid "Find Out More"
 msgstr "Få reda på mer"
-
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:130
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_form_helper.py:140
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:91
-msgid "This field is required."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout.py:392
-msgid "i18n text"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout.py:394
-msgid "i18n legend"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/crispy_forms/tests/test_layout_objects.py:143
-#: venv/lib/python3.10/site-packages/django/core/validators.py:22
-msgid "Enter a valid value."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/contrib/messages/apps.py:15
-msgid "Messages"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/contrib/sitemaps/apps.py:8
-msgid "Site Maps"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/contrib/staticfiles/apps.py:9
-msgid "Static Files"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/contrib/syndication/apps.py:7
-msgid "Syndication"
-msgstr ""
-
-#. Translators: String used to replace omitted page numbers in elided page
-#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-#: venv/lib/python3.10/site-packages/django/core/paginator.py:30
-msgid "…"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/paginator.py:50
-msgid "That page number is not an integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/paginator.py:52
-msgid "That page number is less than 1"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/paginator.py:57
-msgid "That page contains no results"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:104
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:751
-msgid "Enter a valid URL."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:164
-msgid "Enter a valid integer."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:175
-msgid "Enter a valid email address."
-msgstr ""
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-#: venv/lib/python3.10/site-packages/django/core/validators.py:256
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:264
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:276
-#: venv/lib/python3.10/site-packages/django/core/validators.py:284
-#: venv/lib/python3.10/site-packages/django/core/validators.py:313
-msgid "Enter a valid IPv4 address."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:293
-#: venv/lib/python3.10/site-packages/django/core/validators.py:314
-msgid "Enter a valid IPv6 address."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:305
-#: venv/lib/python3.10/site-packages/django/core/validators.py:312
-msgid "Enter a valid IPv4 or IPv6 address."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:348
-msgid "Enter only digits separated by commas."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:354
-#, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:389
-#, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:398
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:407
-#, python-format
-msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:417
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:435
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:458
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:347
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:386
-msgid "Enter a number."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:460
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:465
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:470
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:539
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/core/validators.py:600
-msgid "Null characters are not allowed."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/base.py:1401
-#: venv/lib/python3.10/site-packages/django/forms/models.py:899
-msgid "and"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/base.py:1403
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/constraints.py:17
-#, python-format
-msgid "Constraint “%(name)s” is violated."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:129
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:130
-msgid "This field cannot be null."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:131
-msgid "This field cannot be blank."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:132
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr ""
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or
-#. 'month'. Eg: "Title must be unique for pub_date year"
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:136
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:174
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1065
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1066
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1068
-msgid "Boolean (Either True or False)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1118
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1222
-msgid "Comma-separated integers"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1323
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1327
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1462
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1331
-msgid "Date (without time)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1458
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1466
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1471
-msgid "Date (with time)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1595
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1597
-msgid "Decimal number"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1754
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1758
-msgid "Duration"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1810
-msgid "Email address"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1835
-msgid "File path"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1913
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1915
-msgid "Floating point number"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1955
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:1957
-msgid "Integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2049
-msgid "Big (8 byte) integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2066
-msgid "Small integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2074
-msgid "IPv4 address"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2105
-msgid "IP address"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2198
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2199
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2201
-msgid "Boolean (Either True, False or None)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2252
-msgid "Positive big integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2267
-msgid "Positive integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2282
-msgid "Positive small integer"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2298
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2334
-msgid "Text"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2409
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2413
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2417
-msgid "Time"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2525
-msgid "URL"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2549
-msgid "Raw binary data"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2614
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/__init__.py:2616
-msgid "Universally unique identifier"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/files.py:232
-msgid "File"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/files.py:392
-msgid "Image"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/json.py:18
-msgid "A JSON object"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/json.py:20
-msgid "Value must be valid JSON."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:920
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:922
-msgid "Foreign Key (type determined by related field)"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1229
-msgid "One-to-one relationship"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1286
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1288
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/db/models/fields/related.py:1336
-msgid "Many-to-many relationship"
-msgstr ""
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the label
-#: venv/lib/python3.10/site-packages/django/forms/boundfield.py:176
-msgid ":?.!"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:298
-msgid "Enter a whole number."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:467
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1240
-msgid "Enter a valid date."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:490
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1241
-msgid "Enter a valid time."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:517
-msgid "Enter a valid date/time."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:551
-msgid "Enter a valid duration."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:552
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:618
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:619
-msgid "No file was submitted."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:620
-msgid "The submitted file is empty."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:622
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:627
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:693
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:856
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:948
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1572
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:950
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1069
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1570
-msgid "Enter a list of values."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1070
-msgid "Enter a complete value."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1309
-msgid "Enter a valid UUID."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/fields.py:1339
-msgid "Enter a valid JSON."
-msgstr ""
-
-#. Translators: This is the default suffix added to form field labels
-#: venv/lib/python3.10/site-packages/django/forms/forms.py:98
-msgid ":"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/forms.py:248
-#: venv/lib/python3.10/site-packages/django/forms/forms.py:332
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:63
-#, python-format
-msgid ""
-"ManagementForm data is missing or has been tampered with. Missing fields: "
-"%(field_names)s. You may need to file a bug report if the issue persists."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:67
-#, python-format
-msgid "Please submit at most %(num)d form."
-msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:72
-#, python-format
-msgid "Please submit at least %(num)d form."
-msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:483
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:490
-msgid "Order"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/formsets.py:496
-msgid "Delete"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:892
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:897
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:904
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:913
-msgid "Please correct the duplicate values below."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1344
-msgid "The inline value did not match the parent instance."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1435
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/models.py:1574
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/utils.py:226
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:439
-msgid "Clear"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:440
-msgid "Currently"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:441
-msgid "Change"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:770
-msgid "Unknown"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:771
-msgid "Yes"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/forms/widgets.py:772
-msgid "No"
-msgstr ""
-
-#. Translators: Please do not add spaces around commas.
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:853
-msgid "yes,no,maybe"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:883
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:900
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:902
-#, python-format
-msgid "%s KB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:904
-#, python-format
-msgid "%s MB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:906
-#, python-format
-msgid "%s GB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:908
-#, python-format
-msgid "%s TB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/template/defaultfilters.py:910
-#, python-format
-msgid "%s PB"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:77
-msgid "p.m."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:78
-msgid "a.m."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:83
-msgid "PM"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:84
-msgid "AM"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:155
-msgid "midnight"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dateformat.py:157
-msgid "noon"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:7
-msgid "Monday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:8
-msgid "Tuesday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:9
-msgid "Wednesday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:10
-msgid "Thursday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:11
-msgid "Friday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:12
-msgid "Saturday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:13
-msgid "Sunday"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:16
-msgid "Mon"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:17
-msgid "Tue"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:18
-msgid "Wed"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:19
-msgid "Thu"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:20
-msgid "Fri"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:21
-msgid "Sat"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:22
-msgid "Sun"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:25
-msgid "January"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:26
-msgid "February"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:27
-msgid "March"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:28
-msgid "April"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:29
-msgid "May"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:30
-msgid "June"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:31
-msgid "July"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:32
-msgid "August"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:33
-msgid "September"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:34
-msgid "October"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:35
-msgid "November"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:36
-msgid "December"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:39
-msgid "jan"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:40
-msgid "feb"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:41
-msgid "mar"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:42
-msgid "apr"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:43
-msgid "may"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:44
-msgid "jun"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:45
-msgid "jul"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:46
-msgid "aug"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:47
-msgid "sep"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:48
-msgid "oct"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:49
-msgid "nov"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:50
-msgid "dec"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:53
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:54
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:55
-msgctxt "abbrev. month"
-msgid "March"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:56
-msgctxt "abbrev. month"
-msgid "April"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:57
-msgctxt "abbrev. month"
-msgid "May"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:58
-msgctxt "abbrev. month"
-msgid "June"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:59
-msgctxt "abbrev. month"
-msgid "July"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:60
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:61
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:62
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:63
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:64
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:67
-msgctxt "alt. month"
-msgid "January"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:68
-msgctxt "alt. month"
-msgid "February"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:69
-msgctxt "alt. month"
-msgid "March"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:70
-msgctxt "alt. month"
-msgid "April"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:71
-msgctxt "alt. month"
-msgid "May"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:72
-msgctxt "alt. month"
-msgid "June"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:73
-msgctxt "alt. month"
-msgid "July"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:74
-msgctxt "alt. month"
-msgid "August"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:75
-msgctxt "alt. month"
-msgid "September"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:76
-msgctxt "alt. month"
-msgid "October"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:77
-msgctxt "alt. month"
-msgid "November"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/dates.py:78
-msgctxt "alt. month"
-msgid "December"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/ipv6.py:8
-msgid "This is not a valid IPv6 address."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/text.py:76
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/text.py:252
-msgid "or"
-msgstr ""
-
-#. Translators: This string is used as a separator between list elements
-#: venv/lib/python3.10/site-packages/django/utils/text.py:271
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:94
-msgid ", "
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:9
-#, python-format
-msgid "%(num)d year"
-msgid_plural "%(num)d years"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:10
-#, python-format
-msgid "%(num)d month"
-msgid_plural "%(num)d months"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:11
-#, python-format
-msgid "%(num)d week"
-msgid_plural "%(num)d weeks"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:12
-#, python-format
-msgid "%(num)d day"
-msgid_plural "%(num)d days"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:13
-#, python-format
-msgid "%(num)d hour"
-msgid_plural "%(num)d hours"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/utils/timesince.py:14
-#, python-format
-msgid "%(num)d minute"
-msgid_plural "%(num)d minutes"
-msgstr[0] ""
-msgstr[1] ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:111
-msgid "Forbidden"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:112
-msgid "CSRF verification failed. Request aborted."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:116
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:122
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:127
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a "
-"rel=\"noreferrer\" …> for links to third-party sites."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:136
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:142
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/csrf.py:148
-msgid "More information is available with DEBUG=True."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:44
-msgid "No year specified"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:64
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:115
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:214
-msgid "Date out of range"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:94
-msgid "No month specified"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:147
-msgid "No day specified"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:194
-msgid "No week specified"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:349
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:380
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:652
-#, python-format
-msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/dates.py:692
-#, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/detail.py:56
-#, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/list.py:70
-msgid "Page is not “last”, nor can it be converted to an int."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/list.py:77
-#, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/generic/list.py:169
-#, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/static.py:38
-msgid "Directory indexes are not allowed here."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/static.py:40
-#, python-format
-msgid "“%(path)s” does not exist"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/static.py:79
-#, python-format
-msgid "Index of %(directory)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:7
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:221
-msgid "The install worked successfully! Congratulations!"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:207
-#, python-format
-msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:222
-#, python-format
-msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
-"configured any URLs."
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:230
-msgid "Django Documentation"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:231
-msgid "Topics, references, &amp; how-to’s"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:239
-msgid "Tutorial: A Polling App"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:240
-msgid "Get started with Django"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:248
-msgid "Django Community"
-msgstr ""
-
-#: venv/lib/python3.10/site-packages/django/views/templates/default_urlconf.html:249
-msgid "Connect, get help, or contribute"
-msgstr ""
