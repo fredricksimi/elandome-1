@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-01 15:07+0300\n"
+"POT-Creation-Date: 2022-11-07 23:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -911,8 +911,8 @@ msgid "and we'll be happy to help."
 msgstr "och vi hjälper gärna till."
 
 #: mainapp/templates/mainapp/contact.html:269
-msgid "Ground Floor"
-msgstr "Bottenvåning"
+msgid "12th Floor"
+msgstr "12:e våningen"
 
 #: mainapp/templates/mainapp/contact.html:278
 msgid "Phone"
@@ -1409,11 +1409,21 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:109
 #: mainapp/templates/mainapp/index.html:259
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                    Additionally, we advise organisations on key "
+#| "strategic issues by leveraging on our industry knowledge and \n"
+#| "                    analytical prowess, to enable  them make informed "
+#| "decisions. This service enables them to achieve their \n"
+#| "                    business objectives by capitalising on opportunities "
+#| "and being prepared to mitigate potential risks.\n"
+#| "                    "
 msgid ""
 "\n"
 "                    Additionally, we advise organisations on key strategic "
 "issues by leveraging on our industry knowledge and \n"
-"                    analytical prowess, to enable  them make informed "
+"                    analytical prowess to enable  them make informed "
 "decisions. This service enables them to achieve their \n"
 "                    business objectives by capitalising on opportunities and "
 "being prepared to mitigate potential risks.\n"
@@ -1450,16 +1460,16 @@ msgstr "Projektledning"
 
 #: mainapp/templates/mainapp/index.html:142
 msgid ""
-"We are the  first choice custodians of your projects and resources on "
+"We are the  first choice custodians of your projects and resources on the "
 "ground. We source for quality and competitive resource plans, quotations, "
 "unique development \n"
 "                    plans and bespoke designs that are fairly priced and "
 "work with reputable experts to execute your vision and deliver beyond the "
 "expected outcomes."
 msgstr ""
-"Vi är förstahandsvalet för dina projekt och resurser på jord. Vi hämtar "
-"kvalitets- och konkurrenskraftiga resursplaner, offerter, unique "
-"development \n"
+"Vi är förstahandsvalet för dina projekt och resurser på "
+"jord. Vi hämtar kvalitets- och konkurrenskraftiga resursplaner, offerter, "
+"unik utveckling \n"
 "                    planer och skräddarsydda mönster som är rimligt "
 "prissatta och arbeta med välrenommerade experter för att verkställa din "
 "vision och leverera bortom förväntade resultat."
@@ -1537,23 +1547,13 @@ msgstr ""
 "professionellt."
 
 #: mainapp/templates/mainapp/index.html:202
-#, fuzzy
-#| msgid ""
-#| "We help you develop skills that support your professional vision and ad-"
-#| "ons aimed at \n"
-#| "                    realizing your professional goals such as "
-#| "communication, ethics, personal presentation & profiling, \n"
-#| "                    international opportunities search criteria, "
-#| "preparation for the next level, value brnding per work outcome, \n"
-#| "                    knowing when to leave and winning negotiation skills "
-#| "for contracts."
 msgid ""
 "We help you develop skills that support your professional vision and add-ons "
 "aimed at \n"
 "                    realizing your professional goals such as communication, "
 "ethics, personal presentation & profiling, \n"
 "                    international opportunities search criteria, preparation "
-"for the next level, value brnding per work outcome, \n"
+"for the next level, value branding per work outcome, \n"
 "                    knowing when to leave and winning negotiation skills for "
 "contracts."
 msgstr ""
@@ -1562,7 +1562,7 @@ msgstr ""
 "                    förverkliga dina professionella mål som kommunikation, "
 "etik, personlig presentation och profilering, \n"
 "                    internationella möjligheter sökkriterier, förberedelser "
-"för nästa nivå, värdeutveckling per arbetsresultat, \n"
+"för nästa nivå, värde varumärke per arbetsresultat, \n"
 "                    att veta när man ska lämna och vinna förhandlingsförmåga "
 "för kontrakt."
 
@@ -1623,8 +1623,17 @@ msgstr ""
 "sektorer:"
 
 #: mainapp/templates/mainapp/index.html:291
+#, fuzzy
+#| msgid ""
+#| "We are the  first choice custodians of your projects and resources on "
+#| "ground. We source for quality and competitive resource plans, quotations, "
+#| "unique development \n"
+#| "                    plans and bespoke designs that are fairly priced and "
+#| "work with reputable experts to execute your vision and deliver beyond the "
+#| "expected outcomes.\n"
+#| "                    "
 msgid ""
-"We are the  first choice custodians of your projects and resources on "
+"We are the  first choice custodians of your projects and resources on the "
 "ground. We source for quality and competitive resource plans, quotations, "
 "unique development \n"
 "                    plans and bespoke designs that are fairly priced and "
@@ -1692,7 +1701,7 @@ msgid ""
 "                    realizing your professional goals such as communication, "
 "ethics, personal presentation & profiling, \n"
 "                    international opportunities search criteria, preparation "
-"for the next level, value brnding per work outcome, \n"
+"for the next level, value branding per work outcome, \n"
 "                    knowing when to leave and winning negotiation skills for "
 "contracts.\n"
 "                    "
@@ -1895,8 +1904,8 @@ msgstr "Dessa tjänster sträcker sig från"
 
 #: mainapp/templates/mainapp/programs.html:84
 #: mainapp/templates/mainapp/programs.html:112
-msgid "Supporting managing the entire investment process."
-msgstr "Stödja hanteringen av hela investeringsprocessen."
+msgid "Supporting & managing the entire investment process."
+msgstr "Stödja och hantera hela investeringsprocessen."
 
 #: mainapp/templates/mainapp/programs.html:85
 #: mainapp/templates/mainapp/programs.html:113
@@ -1970,36 +1979,36 @@ msgid "Some of our project management services include"
 msgstr "Några av våra projektledningstjänster inkluderar"
 
 #: mainapp/templates/mainapp/programs.html:152
-msgid "Define program goals and project scope"
+msgid "Defining program goals and project scope"
 msgstr "Definiera programmål och projektomfattning"
 
 #: mainapp/templates/mainapp/programs.html:153
-msgid "Identify project delivery methods"
+msgid "Identifying project delivery methods"
 msgstr "Identifiera projektleveransmetoder"
 
 #: mainapp/templates/mainapp/programs.html:154
-msgid "Outline project schedules"
-msgstr "Beskriv projektscheman"
+msgid "Outlining project schedules"
+msgstr "Skissera projektscheman"
 
 #: mainapp/templates/mainapp/programs.html:155
 msgid "Cost management"
 msgstr "Kostnadshantering"
 
 #: mainapp/templates/mainapp/programs.html:156
-msgid "Develop and Evaluate proposals"
+msgid "Developing and Evaluating proposals"
 msgstr "Utveckla och utvärdera förslag"
 
 #: mainapp/templates/mainapp/programs.html:157
-msgid "Manage Consulting Services"
+msgid "Managing Consulting Services"
 msgstr "Hantera konsulttjänster"
 
 #: mainapp/templates/mainapp/programs.html:158
-msgid "Develop Contract Documentation"
+msgid "Developing Contract Documentation"
 msgstr "Utveckla kontraktsdokumentation"
 
 #: mainapp/templates/mainapp/programs.html:159
-msgid "Draft and generate project reports"
-msgstr "Utarbeta och generera projektrapporter"
+msgid "Drafting and generating project reports"
+msgstr "Utarbeta och ta fram projektrapporter"
 
 #: mainapp/templates/mainapp/programs.html:175
 #: mainapp/templates/mainapp/programs.html:203
@@ -2078,7 +2087,7 @@ msgstr "Vi hjälper dig att utforska dina intressen fullt ut"
 #: mainapp/templates/mainapp/programs.html:249
 msgid ""
 "\n"
-"                Through career counseling our participants are able to sift "
+"                Through career counselling our participants are able to sift "
 "through factors that actually make\n"
 "                them want a certain career and angle plus common influential "
 "factors. Our career counselors\n"
@@ -2104,8 +2113,8 @@ msgid ""
 "\n"
 "                In order to break barriers and achieve success within your "
 "chosen field it is paramount to have\n"
-"                set objectives that guide your journey. Through career we "
-"help you create a roadmap by helping\n"
+"                set objectives that guide your journey. Through career "
+"counselling we help you create a roadmap by helping\n"
 "                you set these objectives and providing extensive insight on "
 "the advantages and disadvantages\n"
 "                of each action.\n"
@@ -2128,20 +2137,19 @@ msgstr "Vi hjälper dig att vidga dina vyer."
 #: mainapp/templates/mainapp/programs.html:273
 msgid ""
 "\n"
-"                Through our career counseling program you will gain a wider "
+"                Through our career counselling program you will gain a wider "
 "perspective of the career options\n"
-"                and choices they have. You will be able to explore more "
+"                and choices you have. You will be able to explore more "
 "career options, review the opportunities\n"
 "                that present themselves and settle on the best fit.\n"
 "                "
 msgstr ""
 "\n"
-"                Genom vårt karriärrådgivningsprogram kommer du att få en "
-"bredare perspektiv på karriärmöjligheterna\n"
-"                och val de har. Du kommer att kunna utforska mer "
+"                Genom vårt karriärrådgivningsprogram kommer du att få en bredare "
+"perspektiv på karriärmöjligheterna\n"
+"                och val du har. Du kommer att kunna utforska mer "
 "karriärmöjligheter, se över möjligheterna\n"
-"                som presenterar sig och bestämmer sig för den bästa "
-"passformen.\n"
+"                som presenterar sig och bestämmer sig för den bästa passformen. "
 "                "
 
 #: mainapp/templates/mainapp/programs.html:285
@@ -2395,3 +2403,6 @@ msgstr ""
 #: mainapp/templates/mainapp/services.html:223
 msgid "Find Out More"
 msgstr "Få reda på mer"
+
+#~ msgid "Ground Floor"
+#~ msgstr "Bottenvåning"

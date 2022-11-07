@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-01 15:07+0300\n"
+"POT-Creation-Date: 2022-11-07 21:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -916,8 +916,8 @@ msgid "and we'll be happy to help."
 msgstr "e saremo felici di aiutarti."
 
 #: mainapp/templates/mainapp/contact.html:269
-msgid "Ground Floor"
-msgstr "Piano terra"
+msgid "12th Floor"
+msgstr "12° piano"
 
 #: mainapp/templates/mainapp/contact.html:278
 msgid "Phone"
@@ -1426,11 +1426,21 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:109
 #: mainapp/templates/mainapp/index.html:259
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                    Additionally, we advise organisations on key "
+#| "strategic issues by leveraging on our industry knowledge and \n"
+#| "                    analytical prowess, to enable  them make informed "
+#| "decisions. This service enables them to achieve their \n"
+#| "                    business objectives by capitalising on opportunities "
+#| "and being prepared to mitigate potential risks.\n"
+#| "                    "
 msgid ""
 "\n"
 "                    Additionally, we advise organisations on key strategic "
 "issues by leveraging on our industry knowledge and \n"
-"                    analytical prowess, to enable  them make informed "
+"                    analytical prowess to enable  them make informed "
 "decisions. This service enables them to achieve their \n"
 "                    business objectives by capitalising on opportunities and "
 "being prepared to mitigate potential risks.\n"
@@ -1467,17 +1477,17 @@ msgstr "Gestione di progetto"
 
 #: mainapp/templates/mainapp/index.html:142
 msgid ""
-"We are the  first choice custodians of your projects and resources on "
+"We are the  first choice custodians of your projects and resources on the "
 "ground. We source for quality and competitive resource plans, quotations, "
 "unique development \n"
 "                    plans and bespoke designs that are fairly priced and "
 "work with reputable experts to execute your vision and deliver beyond the "
 "expected outcomes."
 msgstr ""
-"Siamo i custodi di prima scelta dei tuoi progetti e delle tue risorse terra. "
-"Ci procuriamo piani, preventivi, risorse competitive e di qualità, sviluppo "
+"Siamo i custodi di prima scelta dei vostri progetti e risorse sul terra. Ci "
+"procuriamo piani, preventivi, risorse competitive e di qualità sviluppo "
 "unico \n"
-"                    piani e progetti su misura a prezzi ragionevoli e lavora "
+"                    piani e progetti su misura a prezzi ragionevoli e "
 "collaborare con esperti rispettabili per realizzare la tua visione e fornire "
 "oltre il risultati previsti."
 
@@ -1557,23 +1567,13 @@ msgstr ""
 "professionalmente."
 
 #: mainapp/templates/mainapp/index.html:202
-#, fuzzy
-#| msgid ""
-#| "We help you develop skills that support your professional vision and ad-"
-#| "ons aimed at \n"
-#| "                    realizing your professional goals such as "
-#| "communication, ethics, personal presentation & profiling, \n"
-#| "                    international opportunities search criteria, "
-#| "preparation for the next level, value brnding per work outcome, \n"
-#| "                    knowing when to leave and winning negotiation skills "
-#| "for contracts."
 msgid ""
 "We help you develop skills that support your professional vision and add-ons "
 "aimed at \n"
 "                    realizing your professional goals such as communication, "
 "ethics, personal presentation & profiling, \n"
 "                    international opportunities search criteria, preparation "
-"for the next level, value brnding per work outcome, \n"
+"for the next level, value branding per work outcome, \n"
 "                    knowing when to leave and winning negotiation skills for "
 "contracts."
 msgstr ""
@@ -1645,8 +1645,17 @@ msgstr ""
 "categorie e settori:"
 
 #: mainapp/templates/mainapp/index.html:291
+#, fuzzy
+#| msgid ""
+#| "We are the  first choice custodians of your projects and resources on "
+#| "ground. We source for quality and competitive resource plans, quotations, "
+#| "unique development \n"
+#| "                    plans and bespoke designs that are fairly priced and "
+#| "work with reputable experts to execute your vision and deliver beyond the "
+#| "expected outcomes.\n"
+#| "                    "
 msgid ""
-"We are the  first choice custodians of your projects and resources on "
+"We are the  first choice custodians of your projects and resources on the "
 "ground. We source for quality and competitive resource plans, quotations, "
 "unique development \n"
 "                    plans and bespoke designs that are fairly priced and "
@@ -1716,7 +1725,7 @@ msgid ""
 "                    realizing your professional goals such as communication, "
 "ethics, personal presentation & profiling, \n"
 "                    international opportunities search criteria, preparation "
-"for the next level, value brnding per work outcome, \n"
+"for the next level, value branding per work outcome, \n"
 "                    knowing when to leave and winning negotiation skills for "
 "contracts.\n"
 "                    "
@@ -1921,8 +1930,8 @@ msgstr "Questi servizi vanno da"
 
 #: mainapp/templates/mainapp/programs.html:84
 #: mainapp/templates/mainapp/programs.html:112
-msgid "Supporting managing the entire investment process."
-msgstr "Supporto alla gestione dell'intero processo di investimento."
+msgid "Supporting & managing the entire investment process."
+msgstr "Supporto e gestione dell'intero processo di investimento."
 
 #: mainapp/templates/mainapp/programs.html:85
 #: mainapp/templates/mainapp/programs.html:113
@@ -1999,36 +2008,36 @@ msgid "Some of our project management services include"
 msgstr "Alcuni dei nostri servizi di gestione dei progetti includono"
 
 #: mainapp/templates/mainapp/programs.html:152
-msgid "Define program goals and project scope"
-msgstr "Definire gli obiettivi del programma e l'ambito del progetto"
+msgid "Defining program goals and project scope"
+msgstr "Definizione degli obiettivi del programma e dell'ambito del progetto"
 
 #: mainapp/templates/mainapp/programs.html:153
-msgid "Identify project delivery methods"
-msgstr "Identificare i metodi di consegna del progetto"
+msgid "Identifying project delivery methods"
+msgstr "Identificazione delle modalità di consegna del progetto"
 
 #: mainapp/templates/mainapp/programs.html:154
-msgid "Outline project schedules"
-msgstr "Delineare le pianificazioni dei progetti"
+msgid "Outlining project schedules"
+msgstr "Delineare i programmi di progetto"
 
 #: mainapp/templates/mainapp/programs.html:155
 msgid "Cost management"
 msgstr "Gestione dei costi"
 
 #: mainapp/templates/mainapp/programs.html:156
-msgid "Develop and Evaluate proposals"
-msgstr "Sviluppare e valutare proposte"
+msgid "Developing and Evaluating proposals"
+msgstr "Elaborazione e valutazione di proposte"
 
 #: mainapp/templates/mainapp/programs.html:157
-msgid "Manage Consulting Services"
-msgstr "Gestisci i servizi di consulenza"
+msgid "Managing Consulting Services"
+msgstr "Gestione dei servizi di consulenza"
 
 #: mainapp/templates/mainapp/programs.html:158
-msgid "Develop Contract Documentation"
-msgstr "Sviluppa documentazione contrattuale"
+msgid "Developing Contract Documentation"
+msgstr "Sviluppo della documentazione contrattuale"
 
 #: mainapp/templates/mainapp/programs.html:159
-msgid "Draft and generate project reports"
-msgstr "Redigere e generare report di progetto"
+msgid "Drafting and generating project reports"
+msgstr "Redazione e generazione di report di progetto"
 
 #: mainapp/templates/mainapp/programs.html:175
 #: mainapp/templates/mainapp/programs.html:203
@@ -2107,7 +2116,7 @@ msgstr "Ti aiutiamo ad espandere i tuoi orizzonti."
 #: mainapp/templates/mainapp/programs.html:249
 msgid ""
 "\n"
-"                Through career counseling our participants are able to sift "
+"                Through career counselling our participants are able to sift "
 "through factors that actually make\n"
 "                them want a certain career and angle plus common influential "
 "factors. Our career counselors\n"
@@ -2130,12 +2139,23 @@ msgid "We clarify your professional objectives."
 msgstr "Chiariamo i tuoi obiettivi professionali."
 
 #: mainapp/templates/mainapp/programs.html:261
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                In order to break barriers and achieve success within "
+#| "your chosen field it is paramount to have\n"
+#| "                set objectives that guide your journey. Through career we "
+#| "help you create a roadmap by helping\n"
+#| "                you set these objectives and providing extensive insight "
+#| "on the advantages and disadvantages\n"
+#| "                of each action.\n"
+#| "                "
 msgid ""
 "\n"
 "                In order to break barriers and achieve success within your "
 "chosen field it is paramount to have\n"
-"                set objectives that guide your journey. Through career we "
-"help you create a roadmap by helping\n"
+"                set objectives that guide your journey. Through career "
+"counselling we help you create a roadmap by helping\n"
 "                you set these objectives and providing extensive insight on "
 "the advantages and disadvantages\n"
 "                of each action.\n"
@@ -2160,18 +2180,17 @@ msgid ""
 "\n"
 "                Through our career counseling program you will gain a wider "
 "perspective of the career options\n"
-"                and choices they have. You will be able to explore more "
+"                and choices you have. You will be able to explore more "
 "career options, review the opportunities\n"
 "                that present themselves and settle on the best fit.\n"
 "                "
 msgstr ""
 "\n"
-"                Attraverso il nostro programma di consulenza professionale "
-"guadagnerai una visione più ampia prospettiva delle opzioni di carriera\n"
-"                e le scelte che hanno. Sarai in grado di esplorare di più "
+"                Attraverso il nostro programma di consulenza professionale guadagnerai una visione più ampia "
+"prospettiva delle opzioni di carriera\n"
+"                e le scelte che hai. Sarai in grado di esplorare di più "
 "opzioni di carriera, rivedere le opportunità\n"
-"                che si presentano e si accontentano della soluzione "
-"migliore.\n"
+"                che si presentano e si accontentano della soluzione migliore. "
 "                "
 
 #: mainapp/templates/mainapp/programs.html:285
@@ -2427,6 +2446,9 @@ msgstr ""
 #: mainapp/templates/mainapp/services.html:223
 msgid "Find Out More"
 msgstr "Scopri di più"
+
+#~ msgid "Ground Floor"
+#~ msgstr "Piano terra"
 
 #~ msgid ""
 #~ "\n"
