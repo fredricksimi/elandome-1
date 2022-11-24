@@ -1,0 +1,16 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% load i18n %}
+{% block content %}
+<div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
+    <div class="container" style="max-width: 1380px;">
+        <h3 class="programs-page-title text-center pb-3" style="font-weight:bold;">Resources</h3>
+        <div class="row">
+            <img src="{% static 'images/resources1.jpg' %}" class="img-fluid">
+        </div>
+        <div class="row pt-4 pb-4">
+            <img src="{% static 'images/resources2.jpg' %}" class="img-fluid">
+        </div>
+    </div>
+</div>
+{% endblock content %}

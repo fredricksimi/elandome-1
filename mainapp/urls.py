@@ -14,5 +14,6 @@ urlpatterns = [
     path('apply', views.application_view, name='application-form'),
     path('news', views.news_view, name='news'),
     path('gallery', views.gallery_view, name='gallery'),
-    path('events', views.events_view, name='events')
+    path('events', views.events_view, name='events'),
+    path('resources', views.resources_view, name='resources')
 ]

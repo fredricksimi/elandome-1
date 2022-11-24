@@ -82,3 +82,6 @@ def gallery_view(request):
 
 def events_view(request):
     return render(request, 'mainapp/events.html')
+
+def resources_view(request):
+    return render(request, 'mainapp/resources.html')
