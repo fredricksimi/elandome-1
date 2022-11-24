@@ -8,23 +8,45 @@
 </style>
 <div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
   
-  <div class="container">
+  <div class="container" style="max-width: 1380px;">
     <h3 class="programs-page-title text-center" style="font-weight:bold;">Upcoming events</h3>
     <br>
     <div class="row pt-5">
-      <div class="col-md-8">
-        <p class="pb-3" style="font-size: 40px;line-height:48px;font-weight:bold">
-          BREAKING INTO THE INTERNATIONAL VOLUNTEER SPACE
-        </p>
-        <p style="font-weight: bold;letter-spacing: 4px;font-size:20px;line-height:34px;">
-          25th November, 2022
-        </p>
-        <p style="font-weight: bold;letter-spacing: 4px;font-size:20px;line-height:34px;">
-          14:00 - 16:00 EAT
-        </p>
+      <div class="col-md-5">
+        <img src="{% static 'images/newevents.jpg' %}" class="img-fluid">
+      </div>
+      <div class="col-md-1"></div>
+      <div class="col-md-6">
+        <div class="d-flex justify-content-end">
+          <div>
+            <p class="pb-2" style="font-size: 30px;line-height:36px;font-weight:bold">
+            BREAKING INTO THE INTERNATIONAL VOLUNTEER SPACE
+          </p>
+          <p>
+            A comprehensive overview of ELAN Dome Consultants and an immersion into the limitless opportunities of international volunteer engagement.
+          </p>
+          <p style="font-weight: bold;letter-spacing: 4px;font-size:20px;line-height:34px;">
+            25th November, 2022
+          </p>
+          <p style="font-weight: bold;letter-spacing: 4px;font-size:20px;line-height:34px;">
+            14:00 - 16:00 EAT
+          </p>
+          </div>
+        </div>
+        <div class="pb-2">
+          <img src="{% static 'images/googlemeet.png' %}" class="img-fluid" style="width:160px;height:auto">
+          <p class="pt-3"><span style="font-weight:bold">Link: </span><a href="https://meet.google.com/qse-hscs-ror" target="_blank">https://meet.google.com/qse-hscs-ror</a></p>
+        </div>
+        <div>
+          <p>
+            <span id="days" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Day &nbsp;&nbsp;</span>
+            <span id="hours" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Hours &nbsp;&nbsp;</span> 
+            <span id="minutes" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Minutes &nbsp;&nbsp;</span> 
+            <span id="seconds" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Seconds</span></p>
+      </div>
       </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
       <div class="d-flex justify-content-between">
         <div>
           <img src="{% static 'images/googlemeet.png' %}" class="img-fluid" style="width:160px;height:auto">
@@ -38,9 +60,9 @@
             <span id="seconds" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Seconds</span></p>
       </div>
     </div>
-  </div>
+  </div> -->
 </div>
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 </div>
 <script>
     // Set the date we're counting down to
