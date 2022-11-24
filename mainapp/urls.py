@@ -13,5 +13,6 @@ urlpatterns = [
     path('services', views.services_view, name='services'),
     path('apply', views.application_view, name='application-form'),
     path('news', views.news_view, name='news'),
-    path('gallery', views.gallery_view, name='gallery')
+    path('gallery', views.gallery_view, name='gallery'),
+    path('events', views.events_view, name='events')
 ]
