@@ -5,6 +5,10 @@
 <style>
   div.inline { float:left; }
 .clearBoth { clear:both; }
+@media (min-width: 280px) and (max-width: 480px) {
+  .days1{font-size:20 !important;}
+  .days11{font-size:15px !important;}
+}
 </style>
 <div style="background:url('../../static/images/sandra-back7.jpeg');background-repeat:repeat;">
   
@@ -39,10 +43,11 @@
         </div>
         <div>
           <p>
-            <span id="days" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Day &nbsp;&nbsp;</span>
-            <span id="hours" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Hours &nbsp;&nbsp;</span> 
-            <span id="minutes" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Minutes &nbsp;&nbsp;</span> 
-            <span id="seconds" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Seconds</span></p>
+            <span id="days" class="days1" style="font-weight: bold;font-size:40px;"></span> <span class="days11" style="font-size:20px;font-weight:bold">Day &nbsp;&nbsp;</span>
+            <span id="hours" class="hours" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Hours &nbsp;&nbsp;</span> 
+            <span id="minutes" class="minutes" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Minutes &nbsp;&nbsp;</span> 
+            <span id="seconds" class="seconds" style="font-weight: bold;font-size:40px;"></span> <span style="font-size:20px;font-weight:bold">Seconds</span>
+          </p>
       </div>
       </div>
     </div>
