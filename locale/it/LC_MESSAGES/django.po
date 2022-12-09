@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-07 21:55+0300\n"
+"POT-Creation-Date: 2022-12-09 16:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1309,7 +1309,7 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:25
 #: mainapp/templates/mainapp/index.html:38
-#: mainapp/templates/mainapp/navbar.html:53
+#: mainapp/templates/mainapp/navbar.html:61
 msgid "Get in touch - it's free"
 msgstr "Mettiti in contatto - è gratuito"
 
@@ -1777,11 +1777,23 @@ msgstr "Servizi"
 msgid "Programs"
 msgstr "Programmi"
 
-#: mainapp/templates/mainapp/navbar.html:37
+#: mainapp/templates/mainapp/navbar.html:39
+msgid "Latest"
+msgstr ""
+
+#: mainapp/templates/mainapp/navbar.html:42
 msgid "News"
 msgstr "Notizia"
 
+#: mainapp/templates/mainapp/navbar.html:43
+msgid "Events"
+msgstr ""
+
 #: mainapp/templates/mainapp/navbar.html:44
+msgid "Resources"
+msgstr "Risorse"
+
+#: mainapp/templates/mainapp/navbar.html:52
 msgid "Join Us"
 msgstr "Unisciti a noi"
 
@@ -2092,12 +2104,21 @@ msgstr ""
 "                    "
 
 #: mainapp/templates/mainapp/programs.html:241
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                We work with individuals to help them identify what's "
+#| "most important to them and what they\n"
+#| "                want from their future and then support them to achieve "
+#| "these goals. Our Career Counseling\n"
+#| "                program is beneficial in numerous ways.\n"
+#| "                "
 msgid ""
 "\n"
 "                We work with individuals to help them identify what's most "
 "important to them and what they\n"
 "                want from their future and then support them to achieve "
-"these goals. Our Career Counseling\n"
+"these goals. Our Career Counselling\n"
 "                program is beneficial in numerous ways.\n"
 "                "
 msgstr ""
@@ -2176,9 +2197,18 @@ msgid "We help you expand your horizons."
 msgstr "Ti aiutiamo ad espandere i tuoi orizzonti."
 
 #: mainapp/templates/mainapp/programs.html:273
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                Through our career counseling program you will gain a "
+#| "wider perspective of the career options\n"
+#| "                and choices you have. You will be able to explore more "
+#| "career options, review the opportunities\n"
+#| "                that present themselves and settle on the best fit.\n"
+#| "                "
 msgid ""
 "\n"
-"                Through our career counseling program you will gain a wider "
+"                Through our career counselling program you will gain a wider "
 "perspective of the career options\n"
 "                and choices you have. You will be able to explore more "
 "career options, review the opportunities\n"
@@ -2186,12 +2216,12 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Attraverso il nostro programma di consulenza professionale guadagnerai una visione più ampia "
-"prospettiva delle opzioni di carriera\n"
+"                Attraverso il nostro programma di consulenza professionale "
+"guadagnerai una visione più ampia prospettiva delle opzioni di carriera\n"
 "                e le scelte che hai. Sarai in grado di esplorare di più "
 "opzioni di carriera, rivedere le opportunità\n"
-"                che si presentano e si accontentano della soluzione migliore. "
-"                "
+"                che si presentano e si accontentano della soluzione "
+"migliore.                 "
 
 #: mainapp/templates/mainapp/programs.html:285
 msgid "Still want to know more? Let's Talk"
@@ -2363,15 +2393,6 @@ msgstr ""
 #: mainapp/templates/mainapp/services.html:153
 #: mainapp/templates/mainapp/services.html:183
 #, fuzzy
-#| msgid ""
-#| "\n"
-#| "                        We are the  first choice custodians of your "
-#| "projects and resources on ground. We source for quality and competitive "
-#| "resource plans, quotations, unique development \n"
-#| "                        plans and bespoke designs that are fairly priced "
-#| "and work with reputable experts to execute your vision and deliver beyond "
-#| "the expected outcomes.\n"
-#| "                        "
 msgid ""
 "\n"
 "                        We are the  first choice custodians of your projects "

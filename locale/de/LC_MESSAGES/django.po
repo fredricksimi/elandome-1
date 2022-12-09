@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-07 20:24+0300\n"
+"POT-Creation-Date: 2022-12-09 16:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1318,7 +1318,7 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:25
 #: mainapp/templates/mainapp/index.html:38
-#: mainapp/templates/mainapp/navbar.html:53
+#: mainapp/templates/mainapp/navbar.html:61
 msgid "Get in touch - it's free"
 msgstr "Kontaktieren Sie uns - es ist kostenlos"
 
@@ -1487,9 +1487,9 @@ msgid ""
 "work with reputable experts to execute your vision and deliver beyond the "
 "expected outcomes."
 msgstr ""
-"Wir sind die Hüter erster Wahl für Ihre Projekte und Ressourcen auf der "
-"Wir suchen nach qualitativ hochwertigen und wettbewerbsfähigen "
-"Ressourcenplänen, Angeboten, einzigartige Entwicklung \n"
+"Wir sind die Hüter erster Wahl für Ihre Projekte und Ressourcen auf der Wir "
+"suchen nach qualitativ hochwertigen und wettbewerbsfähigen Ressourcenplänen, "
+"Angeboten, einzigartige Entwicklung \n"
 "                    Pläne und maßgeschneiderte Designs zu fairen Preisen und "
 "Arbeiten Sie mit seriösen Auszügen, um Ihre Vision umzusetzen und darüber "
 "hinaus zu liefern Erwartete Ergebnisse."
@@ -1582,8 +1582,8 @@ msgstr ""
 "Add-Ons unterstützen gezielt auf \n"
 "                    Verwirklichung Ihrer beruflichen Ziele wie "
 "Kommunikation, Ethik, persönliche Präsentation & Profiling, \n"
-"                    Internationale Suchkriterien, Vorbereitung für das "
-"für das nächste Level Value Branding pro Arbeitsergebnis, \n"
+"                    Internationale Suchkriterien, Vorbereitung für das für "
+"das nächste Level Value Branding pro Arbeitsergebnis, \n"
 "                    zu wissen, wann man gehen muss, und Verhandlungsgeschick "
 "zu gewinnen Verträge."
 
@@ -1646,15 +1646,6 @@ msgstr ""
 "Branche Kategorien und Branchen:"
 
 #: mainapp/templates/mainapp/index.html:291
-#, fuzzy
-#| msgid ""
-#| "We are the  first choice custodians of your projects and resources on "
-#| "ground. We source for quality and competitive resource plans, quotations, "
-#| "unique development \n"
-#| "                    plans and bespoke designs that are fairly priced and "
-#| "work with reputable experts to execute your vision and deliver beyond the "
-#| "expected outcomes.\n"
-#| "                    "
 msgid ""
 "We are the  first choice custodians of your projects and resources on the "
 "ground. We source for quality and competitive resource plans, quotations, "
@@ -1724,8 +1715,8 @@ msgstr ""
 "unterstützen professionelle Vision und Add-Ons, die darauf abzielen \n"
 "                    Verwirklichung Ihrer beruflichen Ziele wie "
 "Kommunikation, Ethik, persönliche Präsentation & Profiling, \n"
-"                    Internationale Suchkriterien, Vorbereitung für das "
-"für das nächste Level Value Branding pro Arbeitsergebnis, \n"
+"                    Internationale Suchkriterien, Vorbereitung für das für "
+"das nächste Level Value Branding pro Arbeitsergebnis, \n"
 "                    zu wissen, wann man gehen muss, und Verhandlungsgeschick "
 "zu gewinnen Verträge.\n"
 "                    "
@@ -1764,11 +1755,23 @@ msgstr "Dienstleistungen"
 msgid "Programs"
 msgstr "Programme"
 
-#: mainapp/templates/mainapp/navbar.html:37
+#: mainapp/templates/mainapp/navbar.html:39
+msgid "Latest"
+msgstr ""
+
+#: mainapp/templates/mainapp/navbar.html:42
 msgid "News"
 msgstr "Nachrichten"
 
+#: mainapp/templates/mainapp/navbar.html:43
+msgid "Events"
+msgstr ""
+
 #: mainapp/templates/mainapp/navbar.html:44
+msgid "Resources"
+msgstr "Ressourcen"
+
+#: mainapp/templates/mainapp/navbar.html:52
 msgid "Join Us"
 msgstr "Begleiten Sie uns"
 
@@ -1923,7 +1926,9 @@ msgstr "Unterstützung bei der Verwaltung des gesamten Anlageprozesses."
 #: mainapp/templates/mainapp/programs.html:113
 msgid ""
 "Regularly inspecting investments sites in order to control the progress."
-msgstr "Regelmäßige Inspektion von Investitionsstandorten, um den Fortschritt zu kontrollieren."
+msgstr ""
+"Regelmäßige Inspektion von Investitionsstandorten, um den Fortschritt zu "
+"kontrollieren."
 
 #: mainapp/templates/mainapp/programs.html:86
 #: mainapp/templates/mainapp/programs.html:114
@@ -2072,12 +2077,21 @@ msgstr ""
 "                    "
 
 #: mainapp/templates/mainapp/programs.html:241
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                We work with individuals to help them identify what's "
+#| "most important to them and what they\n"
+#| "                want from their future and then support them to achieve "
+#| "these goals. Our Career Counseling\n"
+#| "                program is beneficial in numerous ways.\n"
+#| "                "
 msgid ""
 "\n"
 "                We work with individuals to help them identify what's most "
 "important to them and what they\n"
 "                want from their future and then support them to achieve "
-"these goals. Our Career Counseling\n"
+"these goals. Our Career Counselling\n"
 "                program is beneficial in numerous ways.\n"
 "                "
 msgstr ""
@@ -2156,9 +2170,18 @@ msgid "We help you expand your horizons."
 msgstr "Wir helfen Ihnen, Ihren Horizont zu erweitern."
 
 #: mainapp/templates/mainapp/programs.html:273
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                Through our career counseling program you will gain a "
+#| "wider perspective of the career options\n"
+#| "                and choices you have. You will be able to explore more "
+#| "career options, review the opportunities\n"
+#| "                that present themselves and settle on the best fit.\n"
+#| "                "
 msgid ""
 "\n"
-"                Through our career counseling program you will gain a wider "
+"                Through our career counselling program you will gain a wider "
 "perspective of the career options\n"
 "                and choices you have. You will be able to explore more "
 "career options, review the opportunities\n"
@@ -2166,12 +2189,14 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Durch unser Karriereberatungsprogramm gewinnen Sie einen breiteren "
-"Perspektive auf die Karrieremöglichkeiten\n"
-"                und Entscheidungen, die Sie haben. Sie werden in der Lage sein, mehr zu erkunden "
-"Karrieremöglichkeiten, überprüfen Sie die Möglichkeiten\n"
+"                Durch unser Karriereberatungsprogramm gewinnen Sie einen "
+"breiteren Perspektive auf die Karrieremöglichkeiten\n"
+"                und Entscheidungen, die Sie haben. Sie werden in der Lage "
+"sein, mehr zu erkunden Karrieremöglichkeiten, überprüfen Sie die "
 "Möglichkeiten\n"
-"                die sich präsentieren und sich für die beste Passform entscheiden.\n"
+"Möglichkeiten\n"
+"                die sich präsentieren und sich für die beste Passform "
+"entscheiden.\n"
 "                "
 
 #: mainapp/templates/mainapp/programs.html:285
@@ -2350,14 +2375,6 @@ msgstr ""
 #: mainapp/templates/mainapp/services.html:153
 #: mainapp/templates/mainapp/services.html:183
 #, fuzzy
-#| msgid ""
-#| "\n"
-#| "                        We are the  first choice custodians of your "
-#| "projects and resources on ground. We source for quality and competitive "
-#| "resource plans, quotations, unique development \n"
-#| "                        plans and bespoke designs that are fairly priced "
-#| "and work with reputable experts to execute your vision and deliver beyond "
-#| "the expected outcomes.\n"
 #| "                        "
 msgid ""
 "\n"

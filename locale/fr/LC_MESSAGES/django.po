@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-07 20:24+0300\n"
+"POT-Creation-Date: 2022-12-09 16:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1321,7 +1321,7 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:25
 #: mainapp/templates/mainapp/index.html:38
-#: mainapp/templates/mainapp/navbar.html:53
+#: mainapp/templates/mainapp/navbar.html:61
 msgid "Get in touch - it's free"
 msgstr "Contactez-nous - c'est gratuit"
 
@@ -1487,8 +1487,8 @@ msgid ""
 "work with reputable experts to execute your vision and deliver beyond the "
 "expected outcomes."
 msgstr ""
-"Nous sommes les gardiens de premier choix de vos projets et ressources sur le "
-"sur terrain. Nous recherchons des plans de ressources de qualité et "
+"Nous sommes les gardiens de premier choix de vos projets et ressources sur "
+"le sur terrain. Nous recherchons des plans de ressources de qualité et "
 "compétitifs, des devis, développement unique \n"
 "                    des plans et des conceptions sur mesure à un prix "
 "travaillez avec des experts réputés pour exécuter votre vision et livrer au-"
@@ -1580,14 +1580,14 @@ msgid ""
 "                    knowing when to leave and winning negotiation skills for "
 "contracts."
 msgstr ""
-"Nous vous aidons à développer des compétences qui soutiennent votre vision professionnelle et vos compléments "
-"visant à \n"
-"                    réaliser vos objectifs professionnels tels que la communication, "
-"éthique, présentation et profilage personnels, \n"
+"Nous vous aidons à développer des compétences qui soutiennent votre vision "
+"professionnelle et vos compléments visant à \n"
+"                    réaliser vos objectifs professionnels tels que la "
+"communication, éthique, présentation et profilage personnels, \n"
 "                    critères de recherche d'opportunités internationales, "
-"pour le niveau suivant, la valorisation de la marque par résultat de travail, "
-"                    savoir quand partir et acquérir des compétences de négociation pour "
-"contrats."
+"pour le niveau suivant, la valorisation de la marque par résultat de "
+"travail,                     savoir quand partir et acquérir des compétences "
+"de négociation pour contrats."
 
 #: mainapp/templates/mainapp/index.html:229
 msgid ""
@@ -1778,11 +1778,23 @@ msgstr "Prestations de service"
 msgid "Programs"
 msgstr "Programmes"
 
-#: mainapp/templates/mainapp/navbar.html:37
+#: mainapp/templates/mainapp/navbar.html:39
+msgid "Latest"
+msgstr ""
+
+#: mainapp/templates/mainapp/navbar.html:42
 msgid "News"
 msgstr "Nouvelles"
 
+#: mainapp/templates/mainapp/navbar.html:43
+msgid "Events"
+msgstr ""
+
 #: mainapp/templates/mainapp/navbar.html:44
+msgid "Resources"
+msgstr "Ressources"
+
+#: mainapp/templates/mainapp/navbar.html:52
 msgid "Join Us"
 msgstr "Rejoignez-nous"
 
@@ -2093,12 +2105,21 @@ msgstr ""
 "                    "
 
 #: mainapp/templates/mainapp/programs.html:241
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                We work with individuals to help them identify what's "
+#| "most important to them and what they\n"
+#| "                want from their future and then support them to achieve "
+#| "these goals. Our Career Counseling\n"
+#| "                program is beneficial in numerous ways.\n"
+#| "                "
 msgid ""
 "\n"
 "                We work with individuals to help them identify what's most "
 "important to them and what they\n"
 "                want from their future and then support them to achieve "
-"these goals. Our Career Counseling\n"
+"these goals. Our Career Counselling\n"
 "                program is beneficial in numerous ways.\n"
 "                "
 msgstr ""
@@ -2178,9 +2199,18 @@ msgid "We help you expand your horizons."
 msgstr "Nous vous aidons à élargir vos horizons."
 
 #: mainapp/templates/mainapp/programs.html:273
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                Through our career counseling program you will gain a "
+#| "wider perspective of the career options\n"
+#| "                and choices you have. You will be able to explore more "
+#| "career options, review the opportunities\n"
+#| "                that present themselves and settle on the best fit.\n"
+#| "                "
 msgid ""
 "\n"
-"                Through our career counseling program you will gain a wider "
+"                Through our career counselling program you will gain a wider "
 "perspective of the career options\n"
 "                and choices you have. You will be able to explore more "
 "career options, review the opportunities\n"
@@ -2188,8 +2218,8 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Grâce à notre programme d'orientation professionnelle, vous bénéficierez d'une plus grande "
-"perspective des options de carrière\n"
+"                Grâce à notre programme d'orientation professionnelle, vous "
+"bénéficierez d'une plus grande perspective des options de carrière\n"
 "                et les choix qu'ils ont. Vous pourrez explorer davantage "
 "options de carrière, examinez les opportunités\n"
 "                qui se présentent et choisissent le meilleur ajustement.\n"
@@ -2367,15 +2397,6 @@ msgstr ""
 #: mainapp/templates/mainapp/services.html:153
 #: mainapp/templates/mainapp/services.html:183
 #, fuzzy
-#| msgid ""
-#| "\n"
-#| "                        We are the  first choice custodians of your "
-#| "projects and resources on ground. We source for quality and competitive "
-#| "resource plans, quotations, unique development \n"
-#| "                        plans and bespoke designs that are fairly priced "
-#| "and work with reputable experts to execute your vision and deliver beyond "
-#| "the expected outcomes.\n"
-#| "                        "
 msgid ""
 "\n"
 "                        We are the  first choice custodians of your projects "

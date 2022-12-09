@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-07 20:24+0300\n"
+"POT-Creation-Date: 2022-12-09 16:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1295,7 +1295,7 @@ msgstr ""
 
 #: mainapp/templates/mainapp/index.html:25
 #: mainapp/templates/mainapp/index.html:38
-#: mainapp/templates/mainapp/navbar.html:53
+#: mainapp/templates/mainapp/navbar.html:61
 msgid "Get in touch - it's free"
 msgstr "Ota yhteyttä - se on ilmainen"
 
@@ -1461,8 +1461,8 @@ msgid ""
 "work with reputable experts to execute your vision and deliver beyond the "
 "expected outcomes."
 msgstr ""
-"Olemme projektiesi ja resurssien ensisijainen ylläpitäjä "
-"maahan. Hankimme laadukkaat ja kilpailukykyiset resurssisuunnitelmat, tarjoukset, "
+"Olemme projektiesi ja resurssien ensisijainen ylläpitäjä maahan. Hankimme "
+"laadukkaat ja kilpailukykyiset resurssisuunnitelmat, tarjoukset, "
 "ainutlaatuinen kehitys \n"
 "                    suunnitelmat ja mittatilaustyöt, jotka ovat "
 "kohtuuhintaisia ja työskentele hyvämaineisten asiantuntijoiden kanssa "
@@ -1739,11 +1739,23 @@ msgstr "Palvelut"
 msgid "Programs"
 msgstr "Ohjelmat"
 
-#: mainapp/templates/mainapp/navbar.html:37
+#: mainapp/templates/mainapp/navbar.html:39
+msgid "Latest"
+msgstr ""
+
+#: mainapp/templates/mainapp/navbar.html:42
 msgid "News"
 msgstr "Uutiset"
 
+#: mainapp/templates/mainapp/navbar.html:43
+msgid "Events"
+msgstr ""
+
 #: mainapp/templates/mainapp/navbar.html:44
+msgid "Resources"
+msgstr "Resurssit"
+
+#: mainapp/templates/mainapp/navbar.html:52
 msgid "Join Us"
 msgstr "Liity meihin"
 
@@ -2048,12 +2060,21 @@ msgstr ""
 "                    "
 
 #: mainapp/templates/mainapp/programs.html:241
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                We work with individuals to help them identify what's "
+#| "most important to them and what they\n"
+#| "                want from their future and then support them to achieve "
+#| "these goals. Our Career Counseling\n"
+#| "                program is beneficial in numerous ways.\n"
+#| "                "
 msgid ""
 "\n"
 "                We work with individuals to help them identify what's most "
 "important to them and what they\n"
 "                want from their future and then support them to achieve "
-"these goals. Our Career Counseling\n"
+"these goals. Our Career Counselling\n"
 "                program is beneficial in numerous ways.\n"
 "                "
 msgstr ""
@@ -2131,9 +2152,18 @@ msgid "We help you expand your horizons."
 msgstr "Autamme sinua laajentamaan näköalojasi."
 
 #: mainapp/templates/mainapp/programs.html:273
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                Through our career counseling program you will gain a "
+#| "wider perspective of the career options\n"
+#| "                and choices you have. You will be able to explore more "
+#| "career options, review the opportunities\n"
+#| "                that present themselves and settle on the best fit.\n"
+#| "                "
 msgid ""
 "\n"
-"                Through our career counseling program you will gain a wider "
+"                Through our career counselling program you will gain a wider "
 "perspective of the career options\n"
 "                and choices you have. You will be able to explore more "
 "career options, review the opportunities\n"
@@ -2141,10 +2171,10 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                Uraneuvontaohjelmamme kautta saat laajemman "
-"näkökulmasta uravaihtoehtoihin\n"
-"                ja valintoja sinulla on. Voit tutkia lisää "
-"uravaihtoehtoja, tarkista mahdollisuudet\n"
+"                Uraneuvontaohjelmamme kautta saat laajemman näkökulmasta "
+"uravaihtoehtoihin\n"
+"                ja valintoja sinulla on. Voit tutkia lisää uravaihtoehtoja, "
+"tarkista mahdollisuudet\n"
 "                jotka esittelevät itsensä ja sopivat parhaiten.\n"
 "                "
 
@@ -2320,15 +2350,6 @@ msgstr ""
 #: mainapp/templates/mainapp/services.html:153
 #: mainapp/templates/mainapp/services.html:183
 #, fuzzy
-#| msgid ""
-#| "\n"
-#| "                        We are the  first choice custodians of your "
-#| "projects and resources on ground. We source for quality and competitive "
-#| "resource plans, quotations, unique development \n"
-#| "                        plans and bespoke designs that are fairly priced "
-#| "and work with reputable experts to execute your vision and deliver beyond "
-#| "the expected outcomes.\n"
-#| "                        "
 msgid ""
 "\n"
 "                        We are the  first choice custodians of your projects "
