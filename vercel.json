@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "elandome/wsgi.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "elandome/wsgi.py"
+      }
+    ]
+}
