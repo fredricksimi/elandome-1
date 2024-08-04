@@ -22,10 +22,11 @@ def contact_view(request):
     if request.method == 'POST':
         form = ContactPageForm(request.POST or None)
         if form.is_valid():
-            form.save()
-            redirect('mainapp:contact')
-            messages.success(request, 'Your details were submitted successfully!')
-            form = ContactPageForm()
+            pass
+            # form.save()
+            # redirect('mainapp:contact')
+            # messages.success(request, 'Your details were submitted successfully!')
+            # form = ContactPageForm()
         else:
             messages.warning(request, 'Please correct the errors below.')
     else:
@@ -59,9 +60,10 @@ def application_view(request):
     if request.method == 'POST':
         form = VolunteerApplicationForm(request.POST or None)
         if form.is_valid():
-            form.save()
-            redirect('mainapp:application-form')
-            messages.success(request, 'Your details were submitted successfully!')
+            pass
+            # form.save()
+            # redirect('mainapp:application-form')
+            # messages.success(request, 'Your details were submitted successfully!')
             form=VolunteerApplicationForm()
         else:
             messages.warning(request, 'Please correct the errors below.')
